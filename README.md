@@ -1,8 +1,8 @@
 ---
-description: the first ever USD-Stable Blockchain
+description: первый
 ---
 
-# xDai
+# эксДай
 
 ## xDai and the xDai Stable Chain
 

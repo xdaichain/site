@@ -1,6 +1,6 @@
 # Table of contents
 
-* [xDai](README.md)
+* [эксДай](README.md)
 
 ## About xDai <a id="use-cases"></a>
 
