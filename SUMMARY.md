@@ -1,6 +1,12 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [xDai](README.md)
+
+## About xDai <a id="use-cases"></a>
+
+* [Use Cases](use-cases/use-cases/README.md)
+  * [Peer to Peer payments](use-cases/use-cases/peer-to-peer-payments.md)
+  * [Stable platform for Smart Contracts](use-cases/use-cases/stable-platform-for-smart-contracts.md)
 
 ## 2019
 
