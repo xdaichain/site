@@ -1,0 +1,2 @@
+# Burner Wallet
+
