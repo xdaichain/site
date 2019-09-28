@@ -34,3 +34,10 @@
 * [Node Deployment](https://docs.xdaichain.com/xdai-for-validators/node-deployment)
 * [For Bridge Validators](https://docs.xdaichain.com/xdai-for-validators/bridge-validators)
 
+## Social Media
+
+* [Twitter](https://twitter.com/xdaichain)
+* [Telegram](https://t.me/xdai_official)
+* [Discourse](https://forum.poa.network/)
+* [Contact us](social-media/contact-us.md)
+
