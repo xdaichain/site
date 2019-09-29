@@ -20,5 +20,5 @@ xDai is a stable currency used for transactions on the xDai Stable chain. xDai i
 * ✅ A growing ecosystem designed to support stable person-to-person transactions and micro transactions.
 * ✅ Smart contract compatibility with other EVM chains.
 
-The xDai chain currently runs with a group of designated validators who provide consensus for transactions. However, the xDai Stable Chain will be transitioning to a [delegated Proof of Stake model called POSDAO ]()where validators and their delegators \(delegators can be any interested user!\) will earn rewards in return for providing collateral to protect the chain. We will provide updated information on this exciting transition as the time approaches.
+The xDai chain currently runs with a group of designated validators who provide consensus for transactions. However, the xDai Stable Chain will be transitioning to a [delegated Proof of Stake model called POSDAO](https://docs.xdaichain.com/about-xdai/posdao-whitepaper) where validators and their delegators \(delegators can be any interested user!\) will earn rewards in return for providing collateral to protect the chain. We will provide updated information on this exciting transition as the time approaches.
 
