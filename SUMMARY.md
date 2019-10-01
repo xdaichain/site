@@ -4,10 +4,10 @@
 
 ## About xDai and STAKE <a id="use-cases"></a>
 
+* [xDai Features](use-cases/history.md)
 * [Use Cases](use-cases/use-cases/README.md)
-  * [Peer to Peer payments](use-cases/use-cases/peer-to-peer-payments.md)
-  * [Stable platform for Smart Contracts](use-cases/use-cases/stable-platform-for-smart-contracts.md)
-* [Features of xDai](use-cases/history.md)
+  * [Peer-to-Peer Payments](use-cases/use-cases/peer-to-peer-payments.md)
+  * [Stable Platform for Smart Contracts](use-cases/use-cases/stable-platform-for-smart-contracts.md)
 * [Wallets](use-cases/wallets/README.md)
   * [Poketto](use-cases/wallets/poketto.md)
   * [Burner Wallet](use-cases/wallets/burner-wallet.md)

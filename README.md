@@ -1,16 +1,16 @@
 ---
-description: the first ever USD-Stable Blockchain
+description: The first ever USD-Stable Blockchain
 ---
 
 # xDai
 
 ## xDai and the xDai Stable Chain
 
-The xDai Stable chain is an EVM-based sidechain. The chain is compatible with smart contracts developed on the Ethereum mainnet, testnets or other sidechains such as POA network.
+The xDai Stable chain is an EVM-based sidechain. The chain is fully compatible with smart contracts developed on the Ethereum mainnet, testnets, or other sidechains such as POA network.
 
 ![BlockScout blockchain explorer](.gitbook/assets/assets_-lprobmajcqj8gal7srx_-lpds5navreoe3ow8yau_-lpdsavgs0dkxho7gj0h_xdai_pic.png)
 
-xDai is a stable currency used for transactions on the xDai Stable chain. xDai is created  through the TokenBridge mechanism, where DAI is locked in a smart contract and the same amount of xDai is minted on the xDai chain. When a user bridges xDai back to DAI, the xDai is burned and the DAI is unlocked. For this reason, xDai’s value always corresponds 1:1 with DAI.
+xDai is the stable currency used for transactions on the xDai Stable chain. xDai is created  through the TokenBridge mechanism, where DAI is locked in a smart contract and the same amount of xDai is minted on the xDai chain. When a user bridges xDai back to DAI, the xDai is burned and the DAI is unlocked. For this reason, xDai’s value always corresponds 1:1 with DAI.
 
 #### **The primary advantages of the xDai Stable Chain include:**
 
