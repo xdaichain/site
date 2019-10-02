@@ -24,7 +24,7 @@
 
 ## For Investors
 
-* [Prospectus](https://xdai.gitbook.io/xdai-official/-LpgbJrLc6T16dhSfxg5/)
+* [Prospectus](http://prospectus.xdaichain.com)
 * [Rounds and Distribution](for-investors/rounds-distribution/README.md)
   * [Funding Token Release Schedule](for-investors/rounds-distribution/funding-token-release-schedule.md)
   * [Ecosystem Token Release Schedule](for-investors/rounds-distribution/ecosystem-token-release-schedule.md)
