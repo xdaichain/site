@@ -11,6 +11,7 @@
 * [Wallets](use-cases/wallets/README.md)
   * [Poketto](use-cases/wallets/poketto.md)
   * [Burner Wallet](use-cases/wallets/burner-wallet.md)
+  * [Burner Wallet 2](use-cases/wallets/burner-wallet-2.md)
   * [Alpha Wallet](use-cases/wallets/alpha-wallet.md)
   * [DEX Wallet](use-cases/wallets/dex-wallet.md)
 * [Double Token Model](use-cases/double-token-model.md)
