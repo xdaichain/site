@@ -99,5 +99,5 @@ In our next post, we will explore the xDai infrastructure starting with the wall
 | Twitter | [https://twitter.com/xdaichain](https://twitter.com/xdaichain) |
 | Telegram Announcements | [https://t.me/xdai\_official](https://t.me/xdai_official) |
 | Telegram Public Chat | [https://t.me/xdaistable](https://t.me/xdaistable) |
-| Discord | [https://discord.gg/HmffjbF](https://discord.gg/HmffjbF)Decentralizing Stable Chains |
+| Discord | [https://discord.gg/HmffjbF](https://discord.gg/HmffjbF) |
 
