@@ -18,10 +18,11 @@
 * [Reward Mechanics](use-cases/reward-mechanics.md)
 * [Roadmap](use-cases/roadmap.md)
 
-## News
+## News and Articles <a id="news"></a>
 
 * [2019](news/2019/README.md)
-  * [xDai: The birth of the stable chain](news/2019/xdai-the-birth-of-the-stable-chain.md)
+  * [xDai Validators](news/2019/xdai-validators.md)
+  * [xDai History](news/2019/xdai-the-birth-of-the-stable-chain.md)
 
 ## For Investors
 

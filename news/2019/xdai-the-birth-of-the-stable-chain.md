@@ -1,4 +1,8 @@
-# xDai: The birth of the stable chain
+---
+description: The birth of the stable chain
+---
+
+# xDai History
 
 
 
@@ -28,7 +32,7 @@ However, creating a new sidechain also meant that the network started out centra
 * [Ztake.org](http://ztake.org)
 * [Lab10](https://lab10.coop/)
 
-![](../../.gitbook/assets/a3ef25ecb561eeac91e55cb02e9b30fda191479b.jpeg)
+![](../../.gitbook/assets/a3ef25ecb561eeac91e55cb02e9b30fda191479b%20%281%29.jpeg)
 
 #### xDai Stable Chain’s Killer App
 
