@@ -4,6 +4,8 @@ description: Future Directions for the xDai Stable Chain
 
 # Roadmap
 
+![xDai roadmap for 2019 and 2020](../.gitbook/assets/xdai-roadmap.png)
+
 ## Consensus Upgrade
 
 **Target Date:** Q1 2020 
