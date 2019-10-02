@@ -24,7 +24,7 @@
 
 ## For Investors
 
-* [Prospectus](http://prospectus.xdaichain.com)
+* [Prospectus](https://prospectus.xdaichain.com)
 * [Rounds and Distribution](for-investors/rounds-distribution/README.md)
   * [Funding Token Release Schedule](for-investors/rounds-distribution/funding-token-release-schedule.md)
   * [Ecosystem Token Release Schedule](for-investors/rounds-distribution/ecosystem-token-release-schedule.md)
@@ -33,6 +33,7 @@
 
 * [Developers Resources](https://docs.xdaichain.com/xdai-for-developers/xdai-chain-resources)
 * [Install xDai Client](https://docs.xdaichain.com/xdai-for-developers/xdai-installation)
+* [Grants to build on xDai](for-developers/grants.md)
 
 ## For validators
 
