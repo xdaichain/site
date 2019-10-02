@@ -11,7 +11,10 @@
 * [Wallets](use-cases/wallets/README.md)
   * [Poketto](use-cases/wallets/poketto.md)
   * [Burner Wallet](use-cases/wallets/burner-wallet.md)
+  * [Alpha Wallet](use-cases/wallets/alpha-wallet.md)
+  * [DEX Wallet](use-cases/wallets/dex-wallet.md)
 * [Double Token Model](use-cases/double-token-model.md)
+* [Reward Mechanics](use-cases/reward-mechanics.md)
 * [Roadmap](use-cases/roadmap.md)
 
 ## News <a id="2019"></a>
@@ -21,7 +24,9 @@
 ## For Investors
 
 * [Prospectus](https://xdai.gitbook.io/xdai-official/-LpgbJrLc6T16dhSfxg5/)
-* [Rounds, Prices, Distribution](for-investors/rounds-prices-distribution.md)
+* [Rounds, Prices, Distribution](for-investors/rounds-prices-distribution/README.md)
+  * [Funding Token Release Schedule](for-investors/rounds-prices-distribution/funding-token-release-schedule.md)
+  * [Ecosystem Token Release Schedule](for-investors/rounds-prices-distribution/ecosystem-token-release-schedule.md)
 
 ## For developers
 

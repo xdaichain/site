@@ -1,5 +1,7 @@
 ---
-description: The following features make xDai a unique and secure sidechain solution
+description: >-
+  The following features make xDai a unique and secure sidechain solution. DPOS
+  features are coming soon.
 ---
 
 # xDai Features
@@ -10,7 +12,9 @@ A stable coin provides peace of mind. Predictable currencies allow buyers and se
 
 ## Multi-Chain Staking Token
 
-The STAKE token will be used by validators and delegators to secure the xDai chain. Once DPOS \(see below\) begins, users will have the opportunity to participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. Participants will place STAKE and receive rewards in STAKE tokens in exchange for providing consensus on transactions. Additional sidechains will also have the opportunity to use STAKE to secure their chains, making this the first multi-chain enabled staking token.
+The STAKE token will be used by validators and delegators to secure the xDai chain. Once DPOS \(see below\) begins, users will have the opportunity to participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. While participants will place STAKE to secure the chain, they will and receive rewards in xDai thanks to the [unique reward mechanics. ](reward-mechanics.md)
+
+Additional sidechains will also have the opportunity to use STAKE to secure their chains, making this the first multi-chain enabled staking token.
 
 ## DPOS Consensus
 
