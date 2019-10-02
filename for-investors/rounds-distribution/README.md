@@ -4,7 +4,7 @@ description: >-
   Prospectus site.
 ---
 
-# Rounds, Prices, Distribution
+# Rounds and Distribution
 
 ### STAKE Supply and Distribution
 

@@ -2,13 +2,13 @@
 
 
 
-![](../.gitbook/assets/6b3b98678d2aa6a9c4a632ef7b937ad0222fe133.png)
+![](../../.gitbook/assets/6b3b98678d2aa6a9c4a632ef7b937ad0222fe133.png)
 
 The time: September 5th, 2018. The place: ETHBerlin 2018. Over kebabs and currywurst, a small group of project founders and tech leads were engaged in a spirited discussion regarding stable coins, specifically [Tether](https://tether.to/), [Haven](https://www.havenprotocol.com/) and Dai. Stablecoins were gaining massive popularity, but volatile gas prices and high transaction costs were undercutting some of their usefulness. As the beers continued to flow, POA’s tech lead Igor Barinov was struck with a thought - had a stable coin attempted to bridge directly to a sidechain?
 
 Prior to this, POA Network had experience and success with using interoperability bridges, thanks to TokenBridge technology. So why not bridge a stable coin? Igor jotted down his idea on a napkin at the dinner table. Bridge an ERC20 stable coin to its own sidechain - the bridged version becomes the native coin of the new sidechain. This would create a stable native coin blockchain. And just like that, on the back of a napkin, the foundation of the xDai Stable Chain was born.
 
-![](../.gitbook/assets/c92705fd95bd754736f01808adf03c3d3c5c8d89.png)
+![](../../.gitbook/assets/c92705fd95bd754736f01808adf03c3d3c5c8d89.png)
 
 At POA Network, we are known for iterating and shipping fast. So with DevCon around the corner, a deadline was set to release v1 of the Stable Chain by the end of October 2018. After some deliberation, we chose Dai to be the stablecoin of choice for several reasons: Dai is algorithmically stable, there is an exciting roadmap with multi-collateral CDP \(Collateralized Debt Position\), and the Maker project has a friendly approach to new development. By the end of October 2018, the xDai Stable Chain was live and already integrated into [BlockScout](https://blockscout.com/poa/dai).
 
@@ -28,7 +28,7 @@ However, creating a new sidechain also meant that the network started out centra
 * [Ztake.org](http://ztake.org)
 * [Lab10](https://lab10.coop/)
 
-![](../.gitbook/assets/a3ef25ecb561eeac91e55cb02e9b30fda191479b.jpeg)
+![](../../.gitbook/assets/a3ef25ecb561eeac91e55cb02e9b30fda191479b.jpeg)
 
 #### xDai Stable Chain’s Killer App
 
@@ -48,11 +48,11 @@ To address these concerns, and continue to advance the protocol, we are working 
 
 This allows for newly qualified validators to attract delegators and meet the selection criteria. Minimum stake amounts are reasonable, giving anyone the opportunity to participate in and benefit from the consensus process. This low barrier to entry vastly increases the level of decentralization in the protocol.
 
-![](../.gitbook/assets/b078937ca6fe68ad34ed8de2a9c64c78e414d510.png)
+![](../../.gitbook/assets/b078937ca6fe68ad34ed8de2a9c64c78e414d510.png)
 
 Along with the upgrade to the xDai Stable Chain, we are also introducing a new token called $DPOS. The $DPOS token will create new economic incentives and play a major role in another new concept called multi-chain staking. This unique form of staking involves using the same token \($DPOS\) to provide stake across multiple chains. With the proliferation of stable coins, the xDai concept can be mirrored to new stable chains, all connected by bridges.
 
-![](../.gitbook/assets/5e4673b751e9ff15fce8ede616bd7dd559e1df0a.png)
+![](../../.gitbook/assets/5e4673b751e9ff15fce8ede616bd7dd559e1df0a.png)
 
 As the POA team launches more chains and networks, the same $DPOS token can be transferred through the TokenBridge to any new network and used for staking there. This gives the $DPOS token multiple opportunities for use across a host of potential networks and chains.
 

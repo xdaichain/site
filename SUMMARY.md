@@ -17,16 +17,17 @@
 * [Reward Mechanics](use-cases/reward-mechanics.md)
 * [Roadmap](use-cases/roadmap.md)
 
-## News <a id="2019"></a>
+## News
 
-* [xDai: The birth of the stable chain](2019/xdai-the-birth-of-the-stable-chain.md)
+* [2019](news/2019/README.md)
+  * [xDai: The birth of the stable chain](news/2019/xdai-the-birth-of-the-stable-chain.md)
 
 ## For Investors
 
 * [Prospectus](https://xdai.gitbook.io/xdai-official/-LpgbJrLc6T16dhSfxg5/)
-* [Rounds, Prices, Distribution](for-investors/rounds-prices-distribution/README.md)
-  * [Funding Token Release Schedule](for-investors/rounds-prices-distribution/funding-token-release-schedule.md)
-  * [Ecosystem Token Release Schedule](for-investors/rounds-prices-distribution/ecosystem-token-release-schedule.md)
+* [Rounds and Distribution](for-investors/rounds-distribution/README.md)
+  * [Funding Token Release Schedule](for-investors/rounds-distribution/funding-token-release-schedule.md)
+  * [Ecosystem Token Release Schedule](for-investors/rounds-distribution/ecosystem-token-release-schedule.md)
 
 ## For developers
 
