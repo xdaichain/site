@@ -10,7 +10,7 @@ description: Spending crypto wallet
 
 Burner Wallet is an excellent example of an Ethereum tool that provides an amazing user on-boarding experience. It can be setup in seconds by scanning a QR code, and transactions are fast,  inexpensive, and maintain their value on the xDai network.
 
-![](../../.gitbook/assets/burner_1.png)
+![BurnerWallet website hosted on https://xdai.io ](../../.gitbook/assets/xdai_1.png)
 
 **Use Cases**: The primary use case for the Burner Wallet is peer-to-peer payments and small merchant payments. While it was developed in November 2018, the wallet gained a lot of  exposure in early in 2019. It was a huge success in both [ETHDenver](https://forum.poa.network/t/poa-and-xdai-take-center-stage-at-ethdenver-2019/2016) and [Ethereal NYC](https://medium.com/@austin_48503/burner-wallet-ethereal-was-rad-bf56b68ac3bc). Burner Wallet showcased the speed and low transaction costs of the xDai Chain at ETHDenver when the transactions costs for all meals was **$0.20** while **processing $38,432.56 in DAI** to various food trucks and merchants.
 
