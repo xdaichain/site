@@ -14,6 +14,7 @@
   * [Burner Wallet 2](use-cases/wallets/burner-wallet-2.md)
   * [Alpha Wallet](use-cases/wallets/alpha-wallet.md)
   * [DEX Wallet](use-cases/wallets/dex-wallet.md)
+  * [Status Wallet](use-cases/wallets/status-wallet.md)
 * [Double Token Model](use-cases/double-token-model.md)
 * [Reward Mechanics](use-cases/reward-mechanics.md)
 * [Roadmap](use-cases/roadmap.md)
@@ -35,7 +36,7 @@
 
 * [Developers Resources](https://docs.xdaichain.com/xdai-for-developers/xdai-chain-resources)
 * [Install xDai Client](https://docs.xdaichain.com/xdai-for-developers/xdai-installation)
-* [Grants to build on xDai](for-developers/grants.md)
+* [Grants for building on xDai](for-developers/grants.md)
 
 ## For validators
 
