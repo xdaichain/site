@@ -10,7 +10,7 @@ When transaction fees and speeds are a known quantity, developers can plan and e
 
 The [Helena Network](https://media.consensys.net/prediction-markets-platform-becomes-first-dapp-on-xdai-sidechain-f26e6d691799) is a prediction market that runs on the xDai Chain. Daily transactions are conducted on the xDai chain to keep gas fees low, and data is synced with the Ethereum mainnet on a regular basis. 
 
-![Helena Network](../../.gitbook/assets/helena.png)
+![A list of open prediction markets on Helena Network application](../../.gitbook/assets/image-2019-10-03-at-2.11.21-pm.png)
 
 ### Success Factors
 
