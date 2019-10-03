@@ -10,11 +10,19 @@ With xDai, sending money to a friend, relative or vendor is fast, cheap and easy
 
 BurnerWallet was the simple UI and xDAi was the currency used to purchase food, merch, and much more during these large-scale events. Click on either to learn more. 
 
-|  ⛰ [**EthDenver**](https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833) **** |  🗽[**Ethereal NYC**](https://medium.com/@austin_48503/burner-wallet-ethereal-was-rad-bf56b68ac3bc)\*\*\*\* |
-| :---: | :---: |
+### EthDenver
 
+Denver, Colorado on February 2019  
+Read more: [https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833](https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833)
 
-![BurnerWallet UI](../../.gitbook/assets/xdai_1.png)
+![Custom BurnerWallet I for EthDenver loaded with tokens and one NFT reward](../../.gitbook/assets/image%20%281%29.png)
+
+### Ethereal NYC
+
+New York, New York on May 2019  
+Read more: [https://medium.com/@austin\_48503/burner-wallet-ethereal-was-rad-bf56b68ac3bc](https://medium.com/@austin_48503/burner-wallet-ethereal-was-rad-bf56b68ac3bc)
+
+![Custom Burner Wallet I for Ethereal NYC](../../.gitbook/assets/screenshot_20191003-130326.png)
 
 ### Success factors
 
