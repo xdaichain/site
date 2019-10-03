@@ -4,7 +4,15 @@ description: Future Directions for the xDai Stable Chain
 
 # Roadmap
 
-![xDai roadmap for 2019 and 2020](../.gitbook/assets/xdai-roadmap.png)
+![xDai Roadmap for 2019 and 2020](../.gitbook/assets/xdai-roadmap.png)
+
+## Fiat to xDai Onramp
+
+**Target Date:** Q4 2020 
+
+At the moment, to get xDai, most users have to get Dai first and relay it to xDai via xDai Bridge. The process is complicated and time-consuming due to congestions on the Ethereum networks and the probabilistic nature of Proof of Work consensus. Relayers of the xDai bridge are waiting for eight blocks on Ethereum before they relay Dai to xDai. 
+
+The xDai team is working with payment processing companies to enable Fiat to xDai onramp. To facilitate the integration of xDai fiat onramp into wallets, the team started "xDai Adoption Fund" [https://www.xdaichain.com/for-developers/grants\#xdai-adoption-fund](https://www.xdaichain.com/for-developers/grants#xdai-adoption-fund)
 
 ## Consensus Upgrade
 

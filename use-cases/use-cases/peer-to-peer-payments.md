@@ -14,7 +14,7 @@ BurnerWallet was the simple UI and xDAi was the currency used to purchase food, 
 | :---: | :---: |
 
 
-![Burner wallet web-based interface ](../../.gitbook/assets/burner_1.png)
+![BurnerWallet UI](../../.gitbook/assets/xdai_1.png)
 
 ### Success factors
 
