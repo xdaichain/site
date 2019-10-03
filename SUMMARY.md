@@ -9,7 +9,7 @@
   * [Peer-to-Peer Payments](use-cases/use-cases/peer-to-peer-payments.md)
   * [Stable Platform for Smart Contracts](use-cases/use-cases/stable-platform-for-smart-contracts.md)
 * [Wallets](use-cases/wallets/README.md)
-  * [Poketto](use-cases/wallets/poketto.md)
+  * [Poketto Cash](use-cases/wallets/poketto.md)
   * [Burner Wallet](use-cases/wallets/burner-wallet.md)
   * [Burner Wallet 2](use-cases/wallets/burner-wallet-2.md)
   * [Alpha Wallet](use-cases/wallets/alpha-wallet.md)

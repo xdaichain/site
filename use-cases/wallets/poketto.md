@@ -1,8 +1,8 @@
 ---
-description: xDai Mobile Wallet
+description: xDai-first Mobile Wallet for iOS and Android
 ---
 
-# Poketto
+# Poketto Cash
 
 **Wallet Type:** Mobile Wallet
 
