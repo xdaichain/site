@@ -6,7 +6,7 @@ description: The first ever USD-Stable Blockchain
 
 ## xDai and the xDai Stable Chain
 
-xDai Stable chain is a Layer 2 sidechain ecosystem with a unique stable-gas fee model. Users can transact value P2P in any stablecoin with ease and speed.
+> xDAI is a cryptocurrency that is pegged to the US Dollar, has super low transaction fees, and fast transaction times. These features make it an ideal cryptocurrency to use for every day transactions like retail stores or peer to peer transfers.
 
 ![BlockScout blockchain explorer](.gitbook/assets/assets_-lprobmajcqj8gal7srx_-lpds5navreoe3ow8yau_-lpdsavgs0dkxho7gj0h_xdai_pic.png)
 
