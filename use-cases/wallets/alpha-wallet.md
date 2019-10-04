@@ -14,7 +14,7 @@ description: Mobile Wallet with built-in DApp browser
 
 AlphaWallet also has TokenScript support for the xDAI bridge, which allows anyone to seamlessly swap their xDAI for DAI and vice versa, all within the token card.
 
-![xDai to Dai bridge as a token function in AlphaWallet](../../.gitbook/assets/alpha2.png)
+![xDai to Dai bridge as a token function in AlphaWallet](../../.gitbook/assets/alpha2%20%281%29.png)
 
 **What the team says:** _"The xDAI network is a unique sidechain with xDAI as the native coin. It enables you to do the same things you can on the mainnet with much lower costs and higher speeds. The xDAI network definitely has huge potential. "_ – **Victor Zhang - Founder of AlphaWallet.**
 
