@@ -25,13 +25,6 @@
   * [xDai Validators](news/2019/xdai-validators.md)
   * [xDai History](news/2019/xdai-the-birth-of-the-stable-chain.md)
 
-## For Investors
-
-* [Prospectus](https://prospectus.xdaichain.com)
-* [Rounds and Distribution](for-investors/rounds-distribution/README.md)
-  * [Funding Token Release Schedule](for-investors/rounds-distribution/funding-token-release-schedule.md)
-  * [Ecosystem Token Release Schedule](for-investors/rounds-distribution/ecosystem-token-release-schedule.md)
-
 ## For developers
 
 * [Developers Resources](https://docs.xdaichain.com/xdai-for-developers/xdai-chain-resources)
@@ -43,6 +36,13 @@
 * [New Validator Process Flow](https://docs.xdaichain.com/xdai-for-validators/new-validator-process-flow)
 * [Node Deployment](https://docs.xdaichain.com/xdai-for-validators/node-deployment)
 * [For Bridge Validators](https://docs.xdaichain.com/xdai-for-validators/bridge-validators)
+
+## For Investors
+
+* [Prospectus](https://prospectus.xdaichain.com)
+* [Rounds and Distribution](for-investors/rounds-distribution/README.md)
+  * [Funding Token Release Schedule](for-investors/rounds-distribution/funding-token-release-schedule.md)
+  * [Ecosystem Token Release Schedule](for-investors/rounds-distribution/ecosystem-token-release-schedule.md)
 
 ## Social Media
 
