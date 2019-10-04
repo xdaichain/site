@@ -2,11 +2,11 @@
 description: The first ever USD-Stable Blockchain
 ---
 
-# xDai
+# Stable chain with xDai token
 
 ## xDai and the xDai Stable Chain
 
-The xDai Stable chain is an EVM-based sidechain. The chain is fully compatible with smart contracts developed on the Ethereum mainnet, testnets, or other sidechains such as POA network.
+xDai Stable chain is a Layer 2 sidechain ecosystem with a unique stable-gas fee model. Users can transact value P2P in any stablecoin with ease and speed.
 
 ![BlockScout blockchain explorer](.gitbook/assets/assets_-lprobmajcqj8gal7srx_-lpds5navreoe3ow8yau_-lpdsavgs0dkxho7gj0h_xdai_pic.png)
 

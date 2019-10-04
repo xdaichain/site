@@ -1,6 +1,6 @@
 # Table of contents
 
-* [xDai](README.md)
+* [Stable chain with xDai token](README.md)
 
 ## About xDai and STAKE <a id="use-cases"></a>
 
