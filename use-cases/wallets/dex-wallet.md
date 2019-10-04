@@ -8,7 +8,7 @@ description: Mobile DeFi wallet
 
 **Description**: DexWallet is a secure, multi-chain, mobile wallet with an upcoming one-click exchange feature for mobile. Users are always in control of their assets, and added features make this wallet a very secure option: users keep their own private keys which are only stored locally and protected by encryption and biometric authentication technology.
 
-![DEX Wallet on Android 10](../../.gitbook/assets/screenshot_20191004-085620.png)
+![DEX Wallet on Android 10](../../.gitbook/assets/dex.png)
 
 **Use Cases**:  While DEX Wallet acts primarily as an Ethereum based wallet, it has also integrated various **DeFi protocols**. Using DEX Wallet, users can interact with decentralized finance protocols like **Compound Finance, Maker DAO, Uniswap, DyDx** and more directly within the interface. With the Compound integration, users can supply DAI, ZRX, BAT, WETH and earn interest immediately on the wallet.
 

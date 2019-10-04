@@ -8,7 +8,7 @@ description: Status Wallet supports private messaging as well as secure mobile t
 
 **Description**: Status is a mobile Ethereum OS that gives users the power to chat, transact, and access a world of DApps on the decentralized web. As a mobile wallet, Status has been supporting xDai Stable Chain since xDai’s launch on October 2018. Users can store their xDai on the wallet, and also transact and exchange with other users and friends through the messaging application built into Status.
 
-![Status Wallet on Android connected to xDai Chain](../../.gitbook/assets/screenshot_20191004-090158.png)
+![Status Wallet on Android connected to xDai Chain](../../.gitbook/assets/status.png)
 
 **Use Cases**: The Status wallet is designed to support secure and private communications, and provides a gateway to the decentralized web. Their chat application gives users the ability to send secure messages along with xDai transactions directly through the wallet interface. They also provide a curated DApp explorer which allows for easy search and discovery of useful applications.
 
