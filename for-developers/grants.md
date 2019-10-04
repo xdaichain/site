@@ -8,6 +8,8 @@ description: >-
 
 ## ZK \(Zero Knowledge\) Privacy Fund
 
+![](../.gitbook/assets/zero-knowledge-fund.png)
+
 A grant to fund ZK applications on xDai and other Layer 2 sidechains. ZK proofs offer the ability for users to make private transactions.
 
 Why implement on xDai? Since xDai is a stable token, a primary use of the chain is peer-to-peer payments. Just as with cash, privacy should be an option when exchanging money or paying vendors for services. ZK protocols allow users to use xDai freely and anonymously.
