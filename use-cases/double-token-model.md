@@ -12,5 +12,5 @@ The xDai token is a stable currency used for transactions on the xDai Stable cha
 
 ## STAKE Token
 
-STAKE is a new ERC20 token designed to secure the on-chain payment layer and provide a mechanism for stable POS incentives. Users \(validators and delegators\) provide STAKE as collateral when participating in the consensus process. In exchange for providing STAKE \(and supporting a node\), users [receive rewards in xDai](reward-mechanics.md), a stable token. The initial use case described below covers the xDai Stable chain, but other chains may use STAKE as well \(multichain staking\).More coming soon
+STAKE is a new ERC20 token designed to secure the on-chain payment layer and provide a mechanism for stable POS incentives. Users \(validators and delegators\) provide STAKE as collateral when participating in the consensus process. In exchange for providing STAKE \(and supporting a node\), users [receive rewards in xDai](reward-mechanics.md), a stable token. The initial use case described below covers the xDai Stable chain, but other chains may use STAKE as well \(multichain staking\).
 
