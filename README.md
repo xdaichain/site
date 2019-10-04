@@ -14,11 +14,11 @@ xDai is the stable currency used for transactions on the xDai Stable chain. xDai
 
 #### **The primary advantages of the xDai Stable Chain include:**
 
-* ✅ Fast transaction times \(5 seconds\)
-* ✅ Extremely low fees \(Transactions cost fractions of a cent\)
-* ✅ A single token for transactions & gas \(to conduct DAI transactions on the mainnet, you need ETH & DAI\)
-* ✅ A growing ecosystem designed to support stable person-to-person transactions and micro transactions.
-* ✅ Smart contract compatibility with other EVM chains.
+* ✅Fast transaction times \(5 seconds\)
+* ✅Extremely low fees \(Transactions cost fractions of a cent\)
+* ✅A single token for transactions & gas \(to conduct DAI transactions on the mainnet, you need ETH & DAI\)
+* ✅A growing ecosystem designed to support stable person-to-person transactions and micro transactions.
+* ✅Smart contract compatibility with other EVM chains.
 
 The xDai chain currently runs with a group of designated validators who provide consensus for transactions. However, the xDai Stable Chain will be transitioning to a [delegated Proof of Stake model called POSDAO](https://docs.xdaichain.com/about-xdai/posdao-whitepaper) where validators and their delegators \(delegators can be any interested user!\) will earn rewards in return for providing collateral to protect the chain. We will provide updated information on this exciting transition as the time approaches.
 
