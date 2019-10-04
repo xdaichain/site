@@ -16,8 +16,6 @@ The Burner Wallet 2 has already powered a number of great events, such as the [E
 
 **Github:** [https://github.com/dmihal/burner-wallet-2](https://github.com/dmihal/burner-wallet-2)
 
-![](../../.gitbook/assets/burner22.png)
-
 **Burner Factory:** The Burner Factory is a complimentary application to the Burner Wallet. Burner Factory allows anyone to build a custom "burner experience" without writing a single line of code. The current site allows customizing the set of tokens and exchange pairs included in a wallet, and quickly deploying that wallet to a server. However, features will be launching soon to power the creation of new tokens, generation of paper wallets, and more!
 
 [More about the launch of the Burner Factory](https://medium.com/@dmihal/your-own-burner-wallet-in-3-minutes-introducing-the-burner-factory-prototype-48452e1ff48)

@@ -8,11 +8,13 @@ description: Mobile Wallet with built-in DApp browser
 
 **Description**: [AlphaWallet](https://alphawallet.com/) is a mobile wallet available on iOS and Android. It supports [TokenScript](http://tokenscript.org/) which transforms existing tokens into "smart tokens." This gives issuers the ability to add rich features directly to a token card in real time. AlphaWallet also contains a DApp browser**;** Ethereum-based DApps function natively within the wallet.
 
-![AlphaWallet with Bridge TokenScript application](../../.gitbook/assets/alpha_3.png)
+![AlphaWallet on Android 10](../../.gitbook/assets/alpha1.png)
 
 **Use Cases**: AlphaWallet's primary use case is mobile crypto usage and direct interaction with DApps. AlphaWallet was one of the first mobile wallets to support the xDai Stable Chain, and leverages the speed and low costs of the network. Users can interact with prediction markets, exchanges, games, and any other smart contract applications directly from the wallet interface. This wide ranging ability makes AlphaWallet the "Swiss Army Knife" of xDai wallets - it can do a little bit of everything.
 
 AlphaWallet also has TokenScript support for the xDAI bridge, which allows anyone to seamlessly swap their xDAI for DAI and vice versa, all within the token card.
+
+![xDai to Dai bridge as a token function in AlphaWallet](../../.gitbook/assets/alpha2.png)
 
 **What the team says:** _"The xDAI network is a unique sidechain with xDAI as the native coin. It enables you to do the same things you can on the mainnet with much lower costs and higher speeds. The xDAI network definitely has huge potential. "_ – **Victor Zhang - Founder of AlphaWallet.**
 
