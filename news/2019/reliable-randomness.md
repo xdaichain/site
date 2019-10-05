@@ -182,7 +182,7 @@ Changing these values changes the selection probability. You can also add more v
 
 #### Execution Output:
 
-![](../../.gitbook/assets/ab7804a4eb13aef6953350ff0ede8f826086de65.png)
+![Execution output](../../.gitbook/assets/screen-shot-2019-10-05-at-6.46.45-pm.png)
 
 The first column \(W/sumW\) shows a standardized probability distribution with 1 acting validator. The second \(AlgoAsc\) shows the probability output from our weighted algorithm \(default is 2 validators, for comparison to W/sumW set `const uint validatorSetSize = 1)`. The third column shows the results in descending pool order, to ensure the output is not influenced by order.
 
