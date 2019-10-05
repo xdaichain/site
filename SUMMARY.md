@@ -22,6 +22,7 @@
 ## News and Articles <a id="news"></a>
 
 * [2019](news/2019/README.md)
+  * [Reliable randomness](news/2019/reliable-randomness.md)
   * [xDai Validators](news/2019/xdai-validators.md)
   * [xDai History](news/2019/xdai-the-birth-of-the-stable-chain.md)
 
