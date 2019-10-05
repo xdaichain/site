@@ -86,6 +86,88 @@ The POSDAO validator set weighting algorithm takes into account the total stake 
 
 ![](../../.gitbook/assets/untitled-2.png)
 
+{% code-tabs %}
+{% code-tabs-item title="sample.cpp" %}
+```cpp
+#include <iostream>
+
+#include <vector>
+#include <math.h>
+#include <numeric>
+#include <tuple>
+#include <algorithm>
+
+std::vector<uint> selectRandom(std::vector<uint> likelihoods, uint likelihoodSum, uint validatorSetSize) {
+	const uint poolsLength = likelihoods.size();
+
+	std::vector<uint> validators(validatorSetSize);
+	std::vector<bool> used(poolsLength);
+
+	for (uint j = 0; j < validatorSetSize; j++) {
+		uint value = rand() % likelihoodSum;
+
+		for (uint poolIndex = 0; poolIndex < poolsLength; poolIndex++) {
+			if (used[poolIndex]) {
+				continue;
+			}
+
+			if (value < likelihoods[poolIndex]) {
+				validators[j] = poolIndex;
+				likelihoodSum -= likelihoods[poolIndex];
+				used[poolIndex] = true;
+				break;
+			}
+
+			value -= likelihoods[poolIndex];
+		}
+	}
+
+	return validators;
+}
+
+int main() {
+	const uint validatorSetSize = 2;
+	const uint tries = 10; // number of experiments (staking epochs)
+	std::vector<uint> pools = { 15, 15, 50, 77, 106, 106, 123, 174, 242, 288, 463, 500, 700, 10000 }; // pool sizes
+	//std::vector<uint> pools = {100, 100, 800};
+	//std::vector<uint> pools = {10, 20, 30, 40, 50};
+	const uint poolsLength = pools.size();
+	uint likelihoodSum = std::accumulate(pools.begin(), pools.end(), 0);
+
+	std::vector<uint> probs(poolsLength);
+	for (uint i = 0; i < tries; i++) {
+		std::vector<uint> selected = selectRandom(pools, likelihoodSum, validatorSetSize);
+		for (uint j = 0; j < validatorSetSize; j++) {
+			uint poolIndex = selected[j];
+			probs[poolIndex]++;
+		}
+	}
+
+	std::vector<uint> probsr(poolsLength);
+	for (uint i = 0; i < tries; i++) {
+		std::vector<uint> selected = selectRandom(std::vector<uint>(pools.rbegin(), pools.rend()), likelihoodSum, validatorSetSize);
+		for (uint j = 0; j < validatorSetSize; j++) {
+			uint poolIndex = selected[j];
+			probsr[poolIndex]++;
+		}
+	}
+
+	std::cout << std::endl;
+	std::cout << "[ W/sumW ]   [ AlgoAsc ] [ AlgoDesc ]" << std::endl;
+	for (uint poolIndex = 0; poolIndex < poolsLength; poolIndex++) {
+		std::cout << std::fixed
+			<< " " << pools[poolIndex] * 1.0 / likelihoodSum
+			<< "  |  " << probs[poolIndex] * 1.0 / tries
+			<< "    " << probsr[poolsLength - 1 - poolIndex] * 1.0 / tries
+			<< std::endl;
+	}
+
+	return 0;
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 By default, this algorithm uses a validator set of 2, with 14 possible candidates. Each candidate pool contains varying amounts of stake \(15, 15, 50, 77, 106, 106, 123, 174, 242, 288, 463, 500, 700, 10000\). When you run the program, the probability of selection to the validator set is shown in the execution tab.
 
 The following fields can be modified to influence selection odds for each pool:
