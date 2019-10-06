@@ -12,7 +12,7 @@ A stable coin provides peace of mind. Predictable currencies allow buyers and se
 
 ## Multi-Chain Staking Token
 
-The STAKE token will be used by validators and delegators to secure the xDai chain. Once DPOS \(see below\) begins, users will have the opportunity to participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. While participants will place STAKE to secure the chain, they will and receive rewards in xDai thanks to the [unique reward mechanics. ](reward-mechanics.md)
+The STAKE token will be used by validators and delegators to secure the xDai chain. Once DPOS \(see below\) begins, users will have the opportunity to participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. While participants will place STAKE to secure the chain, they will and receive rewards in xDai thanks to the unique reward mechanics.
 
 Additional sidechains will also have the opportunity to use STAKE to secure their chains, making this the first multi-chain enabled staking token.
 

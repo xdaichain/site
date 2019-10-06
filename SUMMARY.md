@@ -15,8 +15,6 @@
   * [Alpha Wallet](use-cases/wallets/alpha-wallet.md)
   * [DEX Wallet](use-cases/wallets/dex-wallet.md)
   * [Status Wallet](use-cases/wallets/status-wallet.md)
-* [Double Token Model](use-cases/double-token-model.md)
-* [Reward Mechanics](use-cases/reward-mechanics.md)
 * [Roadmap](use-cases/roadmap.md)
 
 ## News and Articles <a id="news"></a>
@@ -41,9 +39,6 @@
 ## For Investors
 
 * [Prospectus](https://prospectus.xdaichain.com)
-* [Rounds and Distribution](for-investors/rounds-distribution/README.md)
-  * [Funding Token Release Schedule](for-investors/rounds-distribution/funding-token-release-schedule.md)
-  * [Ecosystem Token Release Schedule](for-investors/rounds-distribution/ecosystem-token-release-schedule.md)
 
 ## Social Media
 
