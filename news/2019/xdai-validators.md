@@ -6,7 +6,7 @@ description: Decentralizing Stable Chains
 
 
 
-![](../../.gitbook/assets/a3ef25ecb561eeac91e55cb02e9b30fda191479b.jpeg)
+![](../../.gitbook/assets/10.png)
 
 In our recent [history of xDai](https://forum.poa.network/t/xdai-the-birth-of-the-stable-chain/2812) post, we discussed the origins of the xDai Stable Chain. When it began, xDai was highly centralized - in fact POA Network was the one and only validator! This immediately shifted as several new validators were introduced, and POA Network’s on-chain governance model brought further decentralization to the protocol.
 
