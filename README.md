@@ -1,10 +1,10 @@
 ---
-description: The first ever USD-Stable Blockchain
+description: the first-ever USD stable blockchain
 ---
 
-# Stable chain with xDai token
+# Welcome to xDai
 
-## xDai and the xDai Stable Chain
+## About
 
 > xDAI is a cryptocurrency that is pegged to the US Dollar, has super low transaction fees, and fast transaction times. These features make it an ideal cryptocurrency to use for every day transactions like retail stores or peer to peer transfers.
 
