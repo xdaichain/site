@@ -3,7 +3,10 @@
 There are multiple ways to buy xDai via Carbon 
 
 * using Carbon widget at [https://buy.carbon.money](https://buy.carbon.money/)
+  * our instruction is [here](https://www.xdaichain.com/for-users/buying-xdai-with-carbon/buying-xdai-with-carbon-widget) 
 * using Portis wallet
+
+Parameters of Carbon integration
 
 <table>
   <thead>
