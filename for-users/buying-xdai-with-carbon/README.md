@@ -3,9 +3,9 @@
 There are multiple ways to buy xDai via Carbon.
 
 {% hint style="warning" %}
-Carbon currently cannot be accessed from certain geolocations based on IP address, including the United States. This is expected to change in the near future. 
+Carbon currently cannot be accessed from certain geolocations based on IP address, including the US. This is expected to change in the near future. 
 
-Carbon can be accessed and used with an IP from a non-blocked country &lt;see list below&gt;
+Carbon is available for use now using an IP from a non-restricted country &lt;see list of restricted countries below&gt;
 {% endhint %}
 
 * Using Carbon widget at [https://buy.carbon.money](https://buy.carbon.money/)

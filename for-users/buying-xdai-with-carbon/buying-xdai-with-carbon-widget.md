@@ -1,9 +1,9 @@
 # Buying xDai with Carbon Widget
 
 {% hint style="warning" %}
-Carbon currently cannot be accessed from certain geolocations based on IP address, including the United States. This is expected to change in the near future. Here is a full list of blocked countries: [https://docs.carbon.money/docs/blocked-countries](https://docs.carbon.money/docs/blocked-countries).
+Carbon's access is currently limited by certain geolocations based on IP address, including the US \(coming soon\). Here is a full list of restricted countries: [https://docs.carbon.money/docs/blocked-countries](https://docs.carbon.money/docs/blocked-countries).
 
-Carbon can be accessed and used with an IP from a non-blocked country.
+Carbon is available now using an IP from a non-blocked country.
 {% endhint %}
 
 1\) Open the "Carbon" widget in your favorite browser [https://buy.carbon.money](https://buy.carbon.money/). 
