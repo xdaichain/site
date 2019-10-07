@@ -29,6 +29,7 @@
 * [Getting xDai tokens](for-users/get-xdai-tokens.md)
 * [Buying xDai with Carbon](for-users/buying-xdai-with-carbon/README.md)
   * [Buying xDai with Carbon Widget](for-users/buying-xdai-with-carbon/buying-xdai-with-carbon-widget.md)
+* [MetaMask setup](for-users/metamask-setup.md)
 
 ## For developers
 

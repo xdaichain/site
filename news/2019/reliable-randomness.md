@@ -82,8 +82,6 @@ The POSDAO validator set weighting algorithm takes into account the total stake 
 
 #### Working Example:
 
-**The working example is available here**
-
 ![](../../.gitbook/assets/untitled-2.png)
 
 {% code-tabs %}
@@ -176,7 +174,7 @@ The following fields can be modified to influence selection odds for each pool:
 
 Increase the number 2 to increase the validator set size, impacting probabilities for selection to the overall set
 
-Line 39: The stake amounts in each pool: `std::vector<uint> pools = { 15, 15, 50, 77, 106, 106, 123, 174, 242, 288, 463, 500, 700, 10000 }; // pool sizes`
+**Line 39:** The stake amounts in each pool: `std::vector<uint> pools = { 15, 15, 50, 77, 106, 106, 123, 174, 242, 288, 463, 500, 700, 10000 }; // pool sizes`
 
 Changing these values changes the selection probability. You can also add more validator pools to the set to test different options.
 

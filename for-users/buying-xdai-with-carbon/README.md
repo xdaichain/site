@@ -1,10 +1,16 @@
 # Buying xDai with Carbon
 
-There are multiple ways to buy xDai via Carbon 
+There are multiple ways to buy xDai via Carbon.
 
-* using Carbon widget at [https://buy.carbon.money](https://buy.carbon.money/)
-  * our instruction is [here](https://www.xdaichain.com/for-users/buying-xdai-with-carbon/buying-xdai-with-carbon-widget) 
-* using Portis wallet
+{% hint style="warning" %}
+Carbon currently cannot be accessed from certain geolocations based on IP address, including the United States. This is expected to change in the near future. 
+
+Carbon can be accessed and used with an IP from a non-blocked country &lt;see list below&gt;
+{% endhint %}
+
+* Using Carbon widget at [https://buy.carbon.money](https://buy.carbon.money/)
+  * [instructions for use](https://www.xdaichain.com/for-users/buying-xdai-with-carbon/buying-xdai-with-carbon-widget)
+* Using Portis wallet
 
 Parameters of Carbon integration
 
