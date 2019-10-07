@@ -24,6 +24,12 @@
   * [xDai Validators](news/2019/xdai-validators.md)
   * [xDai History](news/2019/xdai-the-birth-of-the-stable-chain.md)
 
+## For users
+
+* [Getting xDai tokens](for-users/get-xdai-tokens.md)
+* [Buying xDai with Carbon](for-users/buying-xdai-with-carbon/README.md)
+  * [Buying xDai with Carbon Widget](for-users/buying-xdai-with-carbon/untitled.md)
+
 ## For developers
 
 * [Developers Resources](https://docs.xdaichain.com/xdai-for-developers/xdai-chain-resources)
