@@ -1,5 +1,5 @@
 ---
-description: the first-ever USD stable blockchain
+description: The first-ever USD stable blockchain
 ---
 
 # Welcome to xDai
@@ -8,9 +8,9 @@ description: the first-ever USD stable blockchain
 
 > xDAI is a cryptocurrency that is pegged to the US Dollar, has super low transaction fees, and fast transaction times. These features make it an ideal cryptocurrency to use for every day transactions like retail stores or peer to peer transfers.
 
-![BlockScout blockchain explorer](.gitbook/assets/assets_-lprobmajcqj8gal7srx_-lpds5navreoe3ow8yau_-lpdsavgs0dkxho7gj0h_xdai_pic.png)
+![BlockScout Blockchain Explorer](.gitbook/assets/screen-shot-2019-10-07-at-12.29.35-pm.png)
 
-xDai is the stable currency used for transactions on the xDai Stable chain. xDai is created  through the TokenBridge mechanism, where DAI is locked in a smart contract and the same amount of xDai is minted on the xDai chain. When a user bridges xDai back to DAI, the xDai is burned and the DAI is unlocked. For this reason, xDai’s value always corresponds 1:1 with DAI.
+xDai is the stable currency used for transactions on the xDai Stable chain. xDai is created through the TokenBridge mechanism, where DAI is locked in a smart contract and the same amount of xDai is minted on the xDai chain. When a user bridges xDai back to DAI, the xDai is burned and the DAI is unlocked. For this reason, xDai’s value always corresponds 1:1 with DAI.
 
 #### **The primary advantages of the xDai Stable Chain include:**
 
