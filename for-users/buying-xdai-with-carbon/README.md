@@ -38,5 +38,13 @@ Parameters of Carbon integration
         <p>which is more</p>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>List of restricted countries</p>
+        <p>(blocked by IP)</p>
+      </td>
+      <td style="text-align:left"><a href="https://docs.carbon.money/docs/blocked-countries">https://docs.carbon.money/docs/blocked-countries</a>
+      </td>
+    </tr>
   </tbody>
 </table>
