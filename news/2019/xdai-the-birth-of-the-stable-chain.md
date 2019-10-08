@@ -4,9 +4,9 @@ description: The birth of the stable chain
 
 # xDai History
 
+![xDai History started autumn of 2018](../../.gitbook/assets/xdai-history-1.png)
 
-
-![](../../.gitbook/assets/xdai-history.png)
+### How it started
 
 The time: September 5th, 2018. The place: ETHBerlin 2018. Over kebabs and currywurst, a small group of project founders and tech leads were engaged in a spirited discussion regarding stable coins, specifically [Tether](https://tether.to/), [Haven](https://www.havenprotocol.com/) and Dai. Stablecoins were gaining massive popularity, but volatile gas prices and high transaction costs were undercutting some of their usefulness. As the beers continued to flow, POA’s tech lead Igor Barinov was struck with a thought - had a stable coin attempted to bridge directly to a sidechain?
 
@@ -34,7 +34,7 @@ However, creating a new sidechain also meant that the network started out centra
 
 ![](../../.gitbook/assets/a3ef25ecb561eeac91e55cb02e9b30fda191479b%20%281%29.jpeg)
 
-#### xDai Stable Chain’s Killer App
+### xDai Stable Chain’s Killer App
 
 For any chain to experience success, it requires a killer application. Austin Griffth’s [Burner Wallet](https://xdai.io/), a peer-to-peer payment wallet deployed on top of xDai, was the DApp that introduced the xDai Stable Chain to the wider community. The Burner Wallet was battle-tested for the first time in ETHDenver, where it was used by almost 3000 attendees over the entire weekend to pay for food and drink. The insanely cheap transactions on xDai were on display when the total transaction costs for [38,432.56 dollars spent on meals was $.0.20](https://medium.com/gitcoin/burner-wallet-at-ethdenver-was-faa3851ea833)!
 
@@ -44,7 +44,7 @@ Merchants were certainly impressed by the minimal transactions costs, and develo
 
 xDai’s influence and momentum have continued to grow, and an endorsement by Ethereum co-founder and[ Consensys head Joseph Lubin](https://twitter.com/ethereumJoseph/status/1096580919312302081), cemented the chain as a difference maker within the ecosystem. In a short period of time, xDai has been adopted in all parts of the world, including a recent experiment by the Kenyan central bank.
 
-#### The Decentralization of xDai
+### The Decentralization of xDai
 
 While xDai is currently in production, with 10 validators representing 10 diverse entities, it is still seen as a semi-centralized POA \(Proof of Autonomy\) based network. Given the right \(but unlikely\) circumstances, compromised parties can collude together to corrupt the network. The same criticism is being leveled at Facebook’s Libra project, a blockchain with a number of similarities to the xDai Stable Chain.
 
@@ -67,13 +67,4 @@ As part of our peer-to-peer payment implementation roadmap, we have created a [$
 Multichain DPOS will usher in a new era for xDai, where P2P payments, private payments, subscription services, and blockchain banking are all within reach. While the POA Network Core will remain a go-to [blockchain network for gaming](https://forum.poa.network/t/the-poa-product-suite-moving-the-ethereum-protocol-forward/2766), the xDai Stable Chain ecosystem will be dedicated to P2P and vendor stable payments, the \#1 crypto use case today.
 
 Stay tuned for our next post where we will detail the upcoming xDai upgrade, let you know about staking and delegating, and provide information regarding the xDai Stable Chain crowdsale!
-
-## Connect with xDai Communities:
-
-| Community | Link |
-| :--- | :--- |
-| Twitter | [https://twitter.com/xdaichain](https://twitter.com/xdaichain) |
-| Telegram Announcements | [https://t.me/xdai\_official](https://t.me/xdai_official) |
-| Telegram Public Chat | [https://t.me/xdaistable](https://t.me/xdaistable) |
-| Discord | [https://discord.gg/HmffjbF](https://discord.gg/HmffjbF) |
 
