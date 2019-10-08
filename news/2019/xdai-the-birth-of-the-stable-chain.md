@@ -6,7 +6,7 @@ description: The birth of the stable chain
 
 
 
-![](../../.gitbook/assets/6b3b98678d2aa6a9c4a632ef7b937ad0222fe133.png)
+![](../../.gitbook/assets/xdai-history.png)
 
 The time: September 5th, 2018. The place: ETHBerlin 2018. Over kebabs and currywurst, a small group of project founders and tech leads were engaged in a spirited discussion regarding stable coins, specifically [Tether](https://tether.to/), [Haven](https://www.havenprotocol.com/) and Dai. Stablecoins were gaining massive popularity, but volatile gas prices and high transaction costs were undercutting some of their usefulness. As the beers continued to flow, POA’s tech lead Igor Barinov was struck with a thought - had a stable coin attempted to bridge directly to a sidechain?
 
