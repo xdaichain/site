@@ -4,7 +4,7 @@ description: The birth of the stable chain
 
 # xDai History
 
-![xDai History started autumn of 2018](../../.gitbook/assets/xdai-history-1.png)
+![The birth of the stable chain](../../.gitbook/assets/xdai-history-2.png)
 
 ### How it started
 

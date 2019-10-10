@@ -4,7 +4,7 @@ description: Mobile DeFi wallet
 
 # DEX Wallet
 
-**Wallet Type:** Mobile [iOs wallet](https://itunes.apple.com/us/app/dexwallet/id1434816150?ls=1&mt=8).
+**Wallet Type:** Mobile [iOS wallet](https://itunes.apple.com/us/app/dexwallet/id1434816150?ls=1&mt=8)
 
 **Description**: DexWallet is a secure, multi-chain, mobile wallet with an upcoming one-click exchange feature for mobile. Users are always in control of their assets, and added features make this wallet a very secure option: users keep their own private keys which are only stored locally and protected by encryption and biometric authentication technology.
 
