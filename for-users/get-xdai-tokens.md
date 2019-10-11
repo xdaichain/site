@@ -8,9 +8,8 @@ description: >-
 
 Main ways to acquire xDai tokens:
 
-* From another user on the xDai Chain \(P2P payment or funds transfer\)
-* Converting Dai to xDai using the [xDai Bridge](https://dai-bridge.poa.network/) 
-  * \(for more details on bridging Dai &lt;-&gt; xDai, see [https://docs.xdaichain.com/xdai-for-developers/get-xdai-tokens](https://docs.xdaichain.com/xdai-for-developers/get-xdai-tokens)
+* From another user on the xDai Chain
+* Converting Dai to xDai using the [xDai Bridge](https://www.xdaichain.com/for-users/converting-xdai-via-bridge) 
 * Buying xDai directly
   * using [Carbon Money](buying-xdai-with-carbon/)
   * using [Wyre](buying-xdai-with-wyre/)
