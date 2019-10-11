@@ -7,12 +7,13 @@ description: >-
 # Buying xDai with Portis via Wyre
 
 {% hint style="warning" %}
-If your billing address is located in the U.S., Wyre is used to purchase xDai via the Portis wallet. If outside the US, you will use [Carbon](buying-xdai-with-portis.md) to buy xDai in the Portis wallet. Carbon and Wyre have different requirements and limits per user and per day.
+If your billing address is located in the U.S., Wyre is used to purchase xDai via the Portis wallet. If outside the US, you will use [Carbon](buying-xdai-with-portis.md) to buy xDai in the Portis wallet. Carbon and Wyre have different requirements and limits per user and per day.  
+
+
+For the U.S. customers Portis wallet currently **only supports debit cards**, it does not support prepaid cards or credit cards at this time.  The xDai Purchase limit is $40 per day.
 {% endhint %}
 
-{% hint style="info" %}
-Portis wallet currently **only supports debit cards**, it does not support prepaid cards or credit cards at this time.  The xDai Purchase limit is $40 per day.
-{% endhint %}
+
 
 1\) Go to [portis.io](https://www.portis.io/) and click the **Get Started** button to create a new wallet \(or login to an existing wallet if you have one\).
 
