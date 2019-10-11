@@ -4,7 +4,7 @@ description: >-
   Carbon's API.
 ---
 
-# Buying xDai with Portis
+# Buying xDai with Portis via Wire
 
 {% hint style="info" %}
 Portis wallet currently **only supports debit cards**, it does not support prepaid cards or credit cards at this time.  The xDai Purchase limit is $40 per day.

@@ -30,8 +30,11 @@
 * [Getting xDai tokens](for-users/get-xdai-tokens.md)
 * [Buying xDai with Carbon](for-users/buying-xdai-with-carbon/README.md)
   * [Buying xDai with Carbon Widget](for-users/buying-xdai-with-carbon/buying-xdai-with-carbon-widget.md)
-  * [Buying xDai with Portis](for-users/buying-xdai-with-carbon/buying-xdai-with-portis.md)
-* [MetaMask setup](for-users/metamask-setup.md)
+  * [Buying xDai with Portis via Carbon](for-users/buying-xdai-with-carbon/buying-xdai-with-portis-via-wyre.md)
+* [Buying xDai with Wyre](for-users/buying-xdai-with-wyre/README.md)
+  * [Buying xDai with Portis via Wire](for-users/buying-xdai-with-wyre/buying-xdai-with-portis.md)
+* [Wallets Setup](for-users/wallets-setup/README.md)
+  * [MetaMask setup](for-users/wallets-setup/metamask-setup.md)
 
 ## For developers
 
