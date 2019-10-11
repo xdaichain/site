@@ -18,8 +18,8 @@ The bridge mechanism ensures that the amount of xDai can never exceed the amount
 | :--- | :--- | :--- |
 | Daily Transfer Limit | 100,000 Dai | 100,000 xDai |
 | Max Single Deposit | 100,000 Dai | 100,000 xDai |
-| Minimum Transfer | 1 Dai \([UI](moving-dai-to-xdai.md)\), .005 \([non-UI](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)\) | 1 xDai \([UI](moving-xdai-to-dai.md)\), .005 \([non-UI](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)\) |
-| Transaction Fees | Default 1 Gwei, paid in Eth | Default .000055, paid in xDai |
+| Minimum Transfer | 0.005 Dai | 0.005 xDai |
+| Transaction Fees | variable, paid in Eth | variable, paid in xDai |
 | Transfer Fees | 0%  | 0% |
 
 ## User Interface
