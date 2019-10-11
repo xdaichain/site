@@ -8,8 +8,8 @@ Carbon currently cannot be accessed from certain geolocations based on IP addres
 Carbon is available for use now using an IP from a non-restricted country &lt;see list of restricted countries below&gt;
 {% endhint %}
 
-* [Buying xDai with Carbon](https://www.xdaichain.com/for-users/buying-xdai-with-carbon)
-* [Buying xDai with Portis](https://www.xdaichain.com/for-users/buying-xdai-with-carbon/buying-xdai-with-portis)
+* [Buying xDai with Carbon Widget](https://www.xdaichain.com/for-users/buying-xdai-with-carbon/buying-xdai-with-carbon-widget)
+* [Buying xDai with Portis](buying-xdai-with-portis-via-wyre.md)
 
 Parameters of Carbon integration
 
