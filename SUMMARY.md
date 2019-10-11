@@ -33,6 +33,9 @@
   * [Buying xDai with Portis via Carbon](for-users/buying-xdai-with-carbon/buying-xdai-with-portis-via-wyre.md)
 * [Buying xDai with Wyre](for-users/buying-xdai-with-wyre/README.md)
   * [Buying xDai with Portis via Wire](for-users/buying-xdai-with-wyre/buying-xdai-with-portis.md)
+* [Converting xDai via Bridge](for-users/converting-xdai-via-bridge/README.md)
+  * [Moving Dai to xDai](for-users/converting-xdai-via-bridge/moving-dai-to-xdai.md)
+  * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)
 * [Wallets Setup](for-users/wallets-setup/README.md)
   * [MetaMask setup](for-users/wallets-setup/metamask-setup.md)
 
