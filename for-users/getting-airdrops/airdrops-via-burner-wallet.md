@@ -1,0 +1,2 @@
+# Airdrops via Burner Wallet
+

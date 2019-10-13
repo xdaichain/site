@@ -38,6 +38,10 @@
   * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)
 * [Wallets Setup](for-users/wallets-setup/README.md)
   * [MetaMask setup](for-users/wallets-setup/metamask-setup.md)
+* [Getting airdrops](for-users/getting-airdrops/README.md)
+  * [Getting airdrops via Linkdrop](for-users/getting-airdrops/getting-airdrops-via-linkdrop.md)
+  * [Airdrops via Burner Wallet](for-users/getting-airdrops/airdrops-via-burner-wallet.md)
+  * [Airdrops on Discord](for-users/getting-airdrops/airdrops-on-discord.md)
 
 ## For developers
 
