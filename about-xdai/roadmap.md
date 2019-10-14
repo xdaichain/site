@@ -36,7 +36,13 @@ We have invested in several [different approaches ](https://forum.poa.network/t/
 
 xDai currently uses known organizations in the ecosystem as chain validators. These organizations subsidize their own nodes, and this is unsustainable in the long term. To increase decentralization, and offer the broader community the chance to participate in consensus, we will upgrade to the POSDAO consensus model in the near future. 
 
-## \*\*\*\*
+## Synthetic Assets on xDai based on UMA protocol
+
+**Taget Date**: Q2 2020
+
+> UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
+
+xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets.
 
 ## \*\*\*\*
 
