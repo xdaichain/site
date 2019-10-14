@@ -44,5 +44,9 @@ xDai currently uses known organizations in the ecosystem as chain validators. Th
 
 xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets.
 
-## \*\*\*\*
+## L2 scalability for token transfers on xDai
+
+**Target Date**: Q3 2020
+
+A scalability solution based on zero-knowledge protocol \(Rollup\) will be deployed on xDai. This will enable scaling of transfers \(up to 1000x\) for native token and synthetic tokens on top of xDai.
 
