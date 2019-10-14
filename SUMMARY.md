@@ -24,6 +24,7 @@
   * [Reliable randomness](news/2019/reliable-randomness.md)
   * [xDai Validators](news/2019/xdai-validators.md)
   * [xDai History](news/2019/xdai-the-birth-of-the-stable-chain.md)
+* [POSDAO Whitepaper](news/posdao-whitepaper.md)
 
 ## For users
 
@@ -45,15 +46,27 @@
 
 ## For developers
 
-* [Developers Resources](https://docs.xdaichain.com/xdai-for-developers/xdai-chain-resources)
-* [Install xDai Client](https://docs.xdaichain.com/xdai-for-developers/xdai-installation)
+* [Developer Resources](for-developers/developer-resources.md)
 * [Grants for building on xDai](for-developers/grants.md)
+* [Install xDai Client](for-developers/install-xdai-client/README.md)
+  * [Parity](for-developers/install-xdai-client/parity.md)
+  * [Nethermind](for-developers/install-xdai-client/nethermind.md)
+* [Smart Contract Deployment](for-developers/smart-contract-deployment.md)
 
 ## For validators
 
-* [New Validator Process Flow](https://docs.xdaichain.com/xdai-for-validators/new-validator-process-flow)
-* [Node Deployment](https://docs.xdaichain.com/xdai-for-validators/node-deployment)
-* [For Bridge Validators](https://docs.xdaichain.com/xdai-for-validators/bridge-validators)
+* [About xDai Validators](for-validators/about-xdai-validators/README.md)
+  * [Validator Resources](for-validators/about-xdai-validators/validator-resources.md)
+* [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
+  * [Validator Candidate](for-validators/new-validator-process-flow/untitled.md)
+  * [Current xDai Validators: Ballot Process](for-validators/new-validator-process-flow/current-xdai-validators-ballot-process.md)
+  * [New xDai Validator: Node setup](for-validators/new-validator-process-flow/new-xdai-validator-node-setup.md)
+* [New Node Deployment](for-validators/node-deployment/README.md)
+  * [Manual \(Non-AWS\) Deployment](for-validators/node-deployment/manual-non-aws-deployment.md)
+  * [AWS Node Deployment using Playbooks](for-validators/node-deployment/aws-node-deployment-using-playbooks.md)
+* [For Bridge Validators](for-validators/for-bridge-validators/README.md)
+  * [New Validators: Bridge Node Setup](for-validators/for-bridge-validators/bridge-node-setup.md)
+  * [Current Validators: How to Add a New Bridge Validator](for-validators/for-bridge-validators/current-validators-how-to-add-a-new-bridge-validator.md)
 
 ## For Investors
 
