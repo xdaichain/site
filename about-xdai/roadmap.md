@@ -4,7 +4,7 @@ description: Future Directions for the xDai Stable Chain
 
 # Roadmap
 
-![xDai roadmap for 2019 and 2020](../.gitbook/assets/roadmap-slides-v1-powerpoint-template.jpg)
+![xDai roadmap for 2019 and 2020](../.gitbook/assets/roadmap-slides-v1-powerpoint-template%20%281%29.jpg)
 
 ## Fiat to xDai Onramp
 
