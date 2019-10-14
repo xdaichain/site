@@ -4,6 +4,8 @@ description: Bringing on-chain entropy to the xDai Stable Chain
 
 # Reliable randomness
 
+![Bringing on-chain entropy to the xDai Stable Chain](../../.gitbook/assets/copy-of-xdai-history-1.png)
+
 > Q: What do [**computer mouse**](https://www.researchgate.net/publication/222856978_A_true_random_number_generator_based_on_mouse_movement_and_chaotic_cryptography) [**movements**](https://www.researchgate.net/publication/222856978_A_true_random_number_generator_based_on_mouse_movement_and_chaotic_cryptography), [**lava lamp**s](https://blog.cloudflare.com/randomness-101-lavarand-in-production/), [**avalanches**](http://holdenc.altervista.org/avalanche/), and [**radioactive decay**](https://www.fourmilab.ch/hotbits/) have in common?
 >
 > A: They have all been used as sources of real-world randomness.
