@@ -29,6 +29,10 @@
 * [Converting xDai via Bridge](for-users/converting-xdai-via-bridge/README.md)
   * [Moving Dai to xDai](for-users/converting-xdai-via-bridge/moving-dai-to-xdai.md)
   * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)
+* [Getting airdrops](for-users/getting-airdrops/README.md)
+  * [Getting airdrops via Linkdrop](for-users/getting-airdrops/getting-airdrops-via-linkdrop.md)
+  * [Getting airdrops via Burner Wallet](for-users/getting-airdrops/airdrops-via-burner-wallet.md)
+  * [Getting airdrops via Discord](for-users/getting-airdrops/airdrops-on-discord.md)
 * [Wallets](for-users/wallets/README.md)
   * [Alpha Wallet](for-users/wallets/alpha-wallet.md)
   * [Burner Wallet](for-users/wallets/burner-wallet.md)
@@ -39,10 +43,6 @@
   * [Status Wallet](for-users/wallets/status-wallet.md)
   * [Metamask](for-users/wallets/metamask/README.md)
     * [Metamask Setup](for-users/wallets/metamask/metamask-setup.md)
-* [Getting airdrops](for-users/getting-airdrops/README.md)
-  * [Getting airdrops via Linkdrop](for-users/getting-airdrops/getting-airdrops-via-linkdrop.md)
-  * [Getting airdrops via Burner Wallet](for-users/getting-airdrops/airdrops-via-burner-wallet.md)
-  * [Airdrops on Discord](for-users/getting-airdrops/airdrops-on-discord.md)
 
 ## For developers
 
