@@ -47,11 +47,13 @@
 ## For developers
 
 * [Developer Resources](for-developers/developer-resources.md)
-* [Grants for building on xDai](for-developers/grants.md)
 * [Install xDai Client](for-developers/install-xdai-client/README.md)
   * [Parity](for-developers/install-xdai-client/parity.md)
   * [Nethermind](for-developers/install-xdai-client/nethermind.md)
 * [Smart Contract Deployment](for-developers/smart-contract-deployment.md)
+* [Grants for building on xDai](for-developers/grants.md)
+* [Creating airdrops](for-developers/creating-airdrops/README.md)
+  * [Creating airdrops via Linkdrop](for-developers/creating-airdrops/creating-airdrops-via-linkdrop.md)
 
 ## For validators
 
