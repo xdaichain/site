@@ -66,8 +66,6 @@ You can access the bridge via:
 * Interactions with Smart contracts[ ](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)
 * Bridge UI built-in into AlphaWallet, BurnerWallet, BurnerFactory
 
-![We are here to help. Please contact us on Discord or Telegram](../.gitbook/assets/help.png)
-
 ## **Additional resources**
 
 Tutorial on how to use GasRelay in your Dapp by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience.  

@@ -4,11 +4,7 @@ description: Decentralizing Stable Chains
 
 # xDai Validators
 
-
-
-![](../../.gitbook/assets/copy-of-xdai-history.png)
-
-In our recent [history of xDai](https://forum.poa.network/t/xdai-the-birth-of-the-stable-chain/2812) post, we discussed the origins of the xDai Stable Chain. When it began, xDai was highly centralized - in fact POA Network was the one and only validator! This immediately shifted as several new validators were introduced, and POA Network’s on-chain governance model brought further decentralization to the protocol.
+In our recent [history of xDai](xdai-the-birth-of-the-stable-chain.md) post, we discussed the origins of the xDai Stable Chain. When it began, xDai was highly centralized - in fact POA Network was the one and only validator! This immediately shifted as several new validators were introduced, and POA Network’s on-chain governance model brought further decentralization to the protocol.
 
 A set of [on-chain governance tools](https://voting.poa.network) allows current validators to propose and elect new validators as they see fit. Validator candidates introduce themselves and make their case for becoming a new validator, the current validators discuss their merits and ask questions, and if they decide to proceed, a vote is proposed to add the new validator to the protocol. Over the past year, 9 new validators have been added to the xDai Stable chain, bringing the total to 10 validators responsible for securing the chain.
 
