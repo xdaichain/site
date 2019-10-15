@@ -22,22 +22,8 @@ The addresses of the Multisignature Wallet:
 
 The particular action flow will vary for different management operations. 
 
-
-
-#### 
-
-#### 
-
-#### 
-
-### 
-
-## Connect with xDai Communities:
-
-| Community | Link |
-| :--- | :--- |
-| Twitter | [https://twitter.com/xdaichain](https://twitter.com/xdaichain) |
-| Telegram Announcements | [https://t.me/xdai\_official](https://t.me/xdai_official) |
-| Telegram Public Chat | [https://t.me/xdaistable](https://t.me/xdaistable) |
-| Discord | [https://discord.gg/HmffjbF](https://discord.gg/HmffjbF) |
+* [Upgrade Contracts](upgrade-contracts.md)
+* [Configuration](configuration.md)
+* [Admin Privileges Management](admin-privileges-management.md)
+* [ERC20 Tokens Release](erc20-tokens-release.md)
 
