@@ -34,7 +34,7 @@ The submitter will execute these methods: `addValidator` and \(optionally\) `set
 * 2. Select `address` for Argument, paste in the new bridge validator’s address
 * 3. Copy the example output. It should have a similar format to: `4d238c8e0000000000000000000000000d3726e5a9f37234d6b55216fc971d30f150a60f`
 
-![Add in parameters manually and copy ABI](../../.gitbook/assets/abi.png)
+![Add in parameters manually and copy ABI](../../../.gitbook/assets/abi.png)
 
 2\) Use Nifty Wallet \(or another tool that can build transactions based on contract source code/ABI\) to invoke the `submitTransaction` method of the multisig wallet contract. You will do this for the ETH Mainnet **and** the xDAI chain. The following example uses Nifty Wallet.
 
@@ -49,7 +49,7 @@ The submitter will execute these methods: `addValidator` and \(optionally\) `set
 * e. Data is the bytecode generated in 2d. Add 0x before the value. In our example it is `0x4d238……..`
 * f. Click **Next** 
 
-![Enter parameters in Nifty wallet](../../.gitbook/assets/nifty1.png)
+![Enter parameters in Nifty wallet](../../../.gitbook/assets/nifty1.png)
 
 * g. Choose the contract to execute this transaction. Select your **Bridge Validator** account and click Next. 
 * h. You should see a transaction confirmation popup to complete the process. Once the transaction is complete, identify the index of the transaction returned in the `Submission` event and make a note of it.
