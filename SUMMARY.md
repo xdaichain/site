@@ -63,6 +63,12 @@
 * [For Bridge Validators](for-validators/for-bridge-validators/README.md)
   * [New Validators: Bridge Node Setup](for-validators/for-bridge-validators/bridge-node-setup.md)
   * [Current Validators: How to Add a New Bridge Validator](for-validators/for-bridge-validators/current-validators-how-to-add-a-new-bridge-validator.md)
+* [xDai Bridge Contracts Management](for-validators/xdai-bridge-contracts-management/README.md)
+  * [Upgrade Contracts](for-validators/xdai-bridge-contracts-management/upgrade-contracts.md)
+  * [Configuration](for-validators/xdai-bridge-contracts-management/configuration.md)
+  * [Admin Privileges Management](for-validators/xdai-bridge-contracts-management/admin-privileges-management.md)
+  * [ERC20 Tokens Release](for-validators/xdai-bridge-contracts-management/erc20-tokens-release.md)
+  * [xDai Bridge Management API](for-validators/xdai-bridge-contracts-management/xdai-bridge-management-api.md)
 
 ## For Investors
 
