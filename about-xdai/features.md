@@ -4,7 +4,7 @@ description: >-
   features are coming soon.
 ---
 
-# xDai Features
+# Features
 
 ## Native Stable Coin
 

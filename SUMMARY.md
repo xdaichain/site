@@ -4,7 +4,7 @@
 
 ## About xDai
 
-* [xDai Features](about-xdai/history.md)
+* [Features](about-xdai/features.md)
 * [Use Cases](about-xdai/use-cases/README.md)
   * [Peer-to-Peer Payments](about-xdai/use-cases/peer-to-peer-payments.md)
   * [Stable Platform for Smart Contracts](about-xdai/use-cases/stable-platform-for-smart-contracts.md)
