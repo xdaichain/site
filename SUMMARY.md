@@ -10,14 +10,6 @@
   * [Stable Platform for Smart Contracts](about-xdai/use-cases/stable-platform-for-smart-contracts.md)
 * [Roadmap](about-xdai/roadmap.md)
 
-## News and Articles <a id="news"></a>
-
-* [2019](news/2019/README.md)
-  * [Reliable randomness](news/2019/reliable-randomness.md)
-  * [xDai Validators](news/2019/xdai-validators.md)
-  * [xDai History](news/2019/xdai-the-birth-of-the-stable-chain.md)
-* [POSDAO Whitepaper](news/posdao-whitepaper.md)
-
 ## For users
 
 * [Getting xDai tokens](for-users/get-xdai-tokens.md)
@@ -54,11 +46,13 @@
 * [Grants for building on xDai](for-developers/grants.md)
 * [Creating airdrops](for-developers/creating-airdrops/README.md)
   * [Creating airdrops via Linkdrop](for-developers/creating-airdrops/creating-airdrops-via-linkdrop.md)
+* [ERC20 Test Token Faucet](for-developers/erc20-test-token-faucet.md)
 
 ## For validators
 
 * [About xDai Validators](for-validators/about-xdai-validators/README.md)
   * [Validator Resources](for-validators/about-xdai-validators/validator-resources.md)
+* [POSDAO Whitepaper](for-validators/posdao-whitepaper.md)
 * [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
   * [Validator Candidate](for-validators/new-validator-process-flow/untitled.md)
   * [Current xDai Validators: Ballot Process](for-validators/new-validator-process-flow/current-xdai-validators-ballot-process.md)
