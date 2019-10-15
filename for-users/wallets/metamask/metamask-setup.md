@@ -2,7 +2,7 @@
 description: Setup your custom RPC to connect to Metamask
 ---
 
-# MetaMask setup
+# Metamask Setup
 
 1\) Open Metamask, and select "Custom RPC" from the Network Dropdown.
 

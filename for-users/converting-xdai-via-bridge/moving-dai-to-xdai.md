@@ -4,7 +4,7 @@ description: Transfer Dai to xDai through the simple UI
 
 # Moving Dai to xDai
 
-1\) Go to [https://dai-bridge.poa.network](https://dai-bridge.poa.network). [Connect your web3 wallet](../wallets-setup/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **Ethereum Mainnet**. Once connected, you will see your address populated in the header, and your DAI and xDai balance displayed on the page. 
+1\) Go to [https://dai-bridge.poa.network](https://dai-bridge.poa.network). [Connect your web3 wallet](../wallets/metamask/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **Ethereum Mainnet**. Once connected, you will see your address populated in the header, and your DAI and xDai balance displayed on the page. 
 
 {% hint style="info" %}
 You will need some Dai to transfer \(minimum of 1 Dai\) as well as a small amount of ETH for transaction fees.

@@ -4,7 +4,7 @@ description: Links are simple to generate in bulk via the Linkdrop interface
 
 # Creating airdrops via Linkdrop
 
-1\) Open the Linkdrop website  [https://dashboard.linkdrop.io/\#/](https://dashboard.linkdrop.io/#/) and connect your [Metamask to xDai](../../for-users/wallets-setup/metamask-setup.md).  To distribute xDai via an airdrop, select **ERC20 Campaign** and click **Create.**
+1\) Open the Linkdrop website  [https://dashboard.linkdrop.io/\#/](https://dashboard.linkdrop.io/#/) and connect your [Metamask to xDai](../../for-users/wallets/metamask/metamask-setup.md).  To distribute xDai via an airdrop, select **ERC20 Campaign** and click **Create.**
 
 ![Select ERC20 Campaign to create an xDai airdrop](../../.gitbook/assets/erc-20.png)
 
