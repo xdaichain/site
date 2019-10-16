@@ -1,10 +1,17 @@
 ---
 description: >-
   The following management interfaces are available for the validators of the
-  xDai bridge:
+  xDai bridge.
 ---
 
 # xDai Bridge Management API
+
+Methods are described for contracts on the Eth Mainnet and the xDai bridge. They include methods for the following upgrade and management functionality.
+
+* [Upgrade bridge contracts implementation](xdai-bridge-management-api.md#upgrade-the-bridge-contracts-implementation)
+* [Upgrade the validators contracts implementation](xdai-bridge-management-api.md#upgrade-the-validators-contracts-implementation)
+* [Management of the bridge validators list and the number of required signatures](xdai-bridge-management-api.md#management-of-the-bridge-validators-list-and-the-number-of-required-signatures)
+* [Management of the bridge parameters](xdai-bridge-management-api.md#management-of-the-bridge-parameters)
 
 ## Upgrade the bridge contracts implementation:
 
