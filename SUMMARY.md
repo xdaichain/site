@@ -43,10 +43,10 @@
   * [Parity](for-developers/install-xdai-client/parity.md)
   * [Nethermind](for-developers/install-xdai-client/nethermind.md)
 * [Smart Contract Deployment](for-developers/smart-contract-deployment.md)
-* [Grants for building on xDai](for-developers/grants.md)
+* [ERC20 Test Token Faucet](for-developers/erc20-test-token-faucet.md)
 * [Creating airdrops](for-developers/creating-airdrops/README.md)
   * [Creating airdrops via Linkdrop](for-developers/creating-airdrops/creating-airdrops-via-linkdrop.md)
-* [ERC20 Test Token Faucet](for-developers/erc20-test-token-faucet.md)
+* [Grants for building on xDai](for-developers/grants.md)
 
 ## For validators
 
