@@ -23,3 +23,7 @@ These steps can also be used on other parameters of this or another contract:
 7. Identify the index of the transaction returned in the `Submission` event as soon as the transaction from the previous step is included into a block and share it with the other multisig wallet owners.
 8. \(for the rest of owners\) Use NiftyWallet to invoke `confirmTransaction` of the multisig wallet contract \(`0xff1a8EDA5eAcdB6aAf729905492bdc6376DBe2dd`\). Set the gas limit two times bigger than the gas estimator suggests.
 
+{% hint style="success" %}
+This page was moved from: [https://forum.poa.network/t/xdai-bridge-contracts-management/1777](https://forum.poa.network/t/xdai-bridge-contracts-management/1777)
+{% endhint %}
+

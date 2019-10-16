@@ -120,5 +120,7 @@ description: >-
 | `transferOwnership` | Changes the management account whose operations are allowed to change parameters of the bridge contract. The method expects a new Ethereum address. |
 | `claimTokens` | Allows the user to transfer xDai coins or ERC20 tokens  sent to the bridge address by mistake. The method expects the Ethereum address of an ERC20 token contract and the Ethereum address of a  token recipient. If ether should be sent instead of tokens the token address account must be `0`. The method can only be called from the admin account able to upgrade bridge contracts. |
 
-
+{% hint style="success" %}
+This page was moved from: [https://forum.poa.network/t/xdai-bridge-contracts-management/1777](https://forum.poa.network/t/xdai-bridge-contracts-management/1777)
+{% endhint %}
 

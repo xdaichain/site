@@ -27,3 +27,7 @@ The particular action flow will vary for different management operations.
 * [Admin Privileges Management](admin-privileges-management.md)
 * [ERC20 Tokens Release](erc20-tokens-release.md)
 
+{% hint style="success" %}
+This page was moved from: [https://forum.poa.network/t/xdai-bridge-contracts-management/1777](https://forum.poa.network/t/xdai-bridge-contracts-management/1777)
+{% endhint %}
+

@@ -37,5 +37,9 @@ Any tool that can create transactions based on contract source code or the ABI m
    * `0x7301cfa0e1756b71869e93d4e4dca5c7d0eb0aa6` if the upgradability admin is being changed for _the bridge contract_ on _the xDai chain_.
    * `0xb289f0e6fbdff8eee340498a56e1787b303f1b6d` if the upgradability admin is being changed for _the validators contract_ on _the xDai chain_.
 3. Identify the index of the transaction returned in the `Submission` event as soon as the transaction from the previous step ia included into a block and share it with other multisig wallet owners.
-4. \(for the rest of owners\) Use NiftyWallet  to invoke `confirmTransaction` of the multisig wallet contract \(`0xff1a8EDA5eAcdB6aAf729905492bdc6376DBe2dd` on the Mainnet ETH, `0x0d3726e5a9f37234d6b55216fc971d30f150a60f` on the xDai chain\). Set the gas limit two times bigger than the gas estimator suggests.  
+4. \(for the rest of owners\) Use NiftyWallet  to invoke `confirmTransaction` of the multisig wallet contract \(`0xff1a8EDA5eAcdB6aAf729905492bdc6376DBe2dd` on the Mainnet ETH, `0x0d3726e5a9f37234d6b55216fc971d30f150a60f` on the xDai chain\). Set the gas limit two times bigger than the gas estimator suggests. 
+
+{% hint style="success" %}
+This page was moved from: [https://forum.poa.network/t/xdai-bridge-contracts-management/1777](https://forum.poa.network/t/xdai-bridge-contracts-management/1777)
+{% endhint %}
 
