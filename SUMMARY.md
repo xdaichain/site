@@ -33,9 +33,9 @@
   * [Poketto Cash](for-users/wallets/poketto.md)
   * [Portis Wallet](for-users/wallets/portis-wallet.md)
   * [Status Wallet](for-users/wallets/status-wallet.md)
+  * [Nifty Wallet](for-users/wallets/nifty-wallet.md)
   * [Metamask](for-users/wallets/metamask/README.md)
     * [Metamask Setup](for-users/wallets/metamask/metamask-setup.md)
-* [Nifty Wallet](for-users/nifty-wallet.md)
 
 ## For developers
 

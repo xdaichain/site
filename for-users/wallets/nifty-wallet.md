@@ -16,7 +16,7 @@ Nifty Wallet is our preferred web3 wallet and is used to support many of our xDa
 Nifty Wallet and MetaMask do not function properly when both are activated at the same time as chrome extensions. To use one or the other, **right click** on the extension icon, go to **Manage Extensions**, and **toggle off/on** the application you want to use. All data will be preserved in the wallet for future access.  
 {% endhint %}
 
-![Nifty Wallet connected to the xDai Chain](../.gitbook/assets/nifty-1.png)
+![Nifty Wallet connected to the xDai Chain](../../.gitbook/assets/nifty-1.png)
 
 **Key Features:** 
 
