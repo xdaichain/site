@@ -35,6 +35,7 @@
   * [Status Wallet](for-users/wallets/status-wallet.md)
   * [Metamask](for-users/wallets/metamask/README.md)
     * [Metamask Setup](for-users/wallets/metamask/metamask-setup.md)
+* [Nifty Wallet](for-users/nifty-wallet.md)
 
 ## For developers
 
