@@ -7,7 +7,7 @@ description: Convert xDai back to Dai in the UI
 1\) Go to [https://dai-bridge.poa.network](https://dai-bridge.poa.network). [Connect your web3 wallet](../wallets/metamask/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **xDai Chain**. Once connected, you will see your address populated in the header, and your xDai and Dai balance displayed on the page. 
 
 {% hint style="info" %}
-You will need a small additional amount of xDai to process the transaction \(less than .0001!\)
+You will need a small additional amount of xDai to process the transaction.
 {% endhint %}
 
 ![Dai to xDai bridge interface](../../.gitbook/assets/screen-shot-2019-10-11-at-1.53.02-pm.png)

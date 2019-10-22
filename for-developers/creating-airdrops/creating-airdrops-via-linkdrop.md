@@ -14,10 +14,6 @@ description: Links are simple to generate in bulk via the Linkdrop interface
 
 3\) The campaign summary will display. If correct, press **Send & Continue**. Otherwise, press the back button to change the parameters.
 
-{% hint style="success" %}
-Note the extremely low service fees to generate - all paid with xDai!
-{% endhint %}
-
 ![Campaign summary](../../.gitbook/assets/screen-shot-2019-10-15-at-12.04.06-am.png)
 
 4\) A MetaMask window will pop-up to confirm the transaction. Click **Submit** to proceed.

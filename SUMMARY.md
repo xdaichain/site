@@ -65,6 +65,19 @@
   * [New Validators: Bridge Node Setup](for-validators/for-bridge-validators/bridge-node-setup.md)
   * [Current Validators: How to Add a New Bridge Validator](for-validators/for-bridge-validators/current-validators-how-to-add-a-new-bridge-validator.md)
   * [xDai Bridge Contracts Management](https://docs.tokenbridge.net/xdai-bridge/xdai-bridge-contracts-management)
+* [Staking](for-validators/staking/README.md)
+  * [Terminology](for-validators/staking/terminology/README.md)
+    * [Protocol Related Terms](for-validators/staking/terminology/untitled.md)
+    * [Participant Related Terms](for-validators/staking/terminology/participant-related-terms.md)
+    * [Operational Terms](for-validators/staking/terminology/operational-terms.md)
+  * [Get STAKE tokens](for-validators/staking/get-stake-tokens.md)
+  * [Become a Candidate / Validator](for-validators/staking/become-a-candidate-validator.md)
+  * [Become a Delegator](for-validators/staking/become-a-delegator.md)
+  * [Staking Operations](for-validators/staking/staking-operations/README.md)
+    * [Add Stake](for-validators/staking/staking-operations/add-stake.md)
+    * [Claim Stake](for-validators/staking/staking-operations/claim-stake.md)
+    * [Withdraw Stake](for-validators/staking/staking-operations/withdraw-stake.md)
+    * [Move Stake](for-validators/staking/staking-operations/move-stake.md)
 
 ## For Investors
 

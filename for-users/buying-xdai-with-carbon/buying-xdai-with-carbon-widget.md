@@ -39,7 +39,7 @@ xDai uses the same key derivation as Ethereum main network, which means **you ca
 5\) Select **Credit/Debit Card** in "How would you like to pay?"  and press **Next**.
 
 {% hint style="info" %}
-Before you enter your credit card details, we recommend you to look into [privacy.com](https://privacy.com/home) service, which will obscure crypto transactions from your bank. Also, it will generate one-time use cards that can protect your main card from possible leaks. Here is the reference [link](https://privacy.com/join/ME94Y) . Using the link, you will get $5 to spend anywhere online \(and me too\)!
+Before you enter your credit card details, we recommend looking into [privacy.com](https://privacy.com/home), which allows for private crypto transactions.  Also, it will generate one-time use cards that can protect your main card from possible leaks. Here is the reference [link](https://privacy.com/join/ME94Y) . Using the link, you will get $5 to spend anywhere online \(and me too\)!
 {% endhint %}
 
 6\) Type your **card details** and **billing address details** and continue with the payment.
