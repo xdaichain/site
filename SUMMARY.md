@@ -15,7 +15,7 @@
 * [Getting xDai tokens](for-users/get-xdai-tokens.md)
 * [Buying xDai with Carbon](for-users/buying-xdai-with-carbon/README.md)
   * [Buying xDai with Carbon Widget](for-users/buying-xdai-with-carbon/buying-xdai-with-carbon-widget.md)
-  * [Buying xDai with Portis via Carbon](for-users/buying-xdai-with-carbon/buying-xdai-with-portis-via-wyre.md)
+  * [Buying xDai with Portis via Carbon](for-users/buying-xdai-with-carbon/buying-xdai-with-portis-via-carbon.md)
 * [Buying xDai with Wyre](for-users/buying-xdai-with-wyre/README.md)
   * [Buying xDai with Portis via Wyre \(US Residents only\)](for-users/buying-xdai-with-wyre/buying-xdai-with-portis.md)
 * [Converting xDai via Bridge](for-users/converting-xdai-via-bridge/README.md)

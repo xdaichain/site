@@ -9,7 +9,7 @@ Carbon is available for use now using an IP from a non-restricted country &lt;se
 {% endhint %}
 
 * [Buying xDai with Carbon Widget](https://www.xdaichain.com/for-users/buying-xdai-with-carbon/buying-xdai-with-carbon-widget)
-* [Buying xDai with Portis](buying-xdai-with-portis-via-wyre.md)
+* [Buying xDai with Portis](buying-xdai-with-portis-via-carbon.md)
 
 Parameters of Carbon integration
 
