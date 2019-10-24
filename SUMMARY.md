@@ -8,6 +8,7 @@
 * [Use Cases](about-xdai/use-cases/README.md)
   * [Peer-to-Peer Payments](about-xdai/use-cases/peer-to-peer-payments.md)
   * [Stable Platform for Smart Contracts](about-xdai/use-cases/stable-platform-for-smart-contracts.md)
+  * [Cryptocurrency for Events & Conferences](about-xdai/use-cases/cryptocurrency-for-events-and-conferences.md)
 * [Roadmap](about-xdai/roadmap.md)
 
 ## For users
