@@ -42,7 +42,7 @@ Before you enter your credit card details, we recommend looking into [privacy.co
 
 6\) Confirm details. You will see the exact amount of xDAi for purchase as well as the Carbon transaction fee. Click **Confirm** to complete.
 
-![Carbon xDai purchase + processing fees](../../.gitbook/assets/screen-shot-2019-10-19-at-10.21.03-pm.png)
+![Carbon xDai purchase + processing fees \(fees are $2 or 3% - whichever is higher\)](../../.gitbook/assets/screen-shot-2019-10-19-at-10.21.03-pm.png)
 
 6\) You will see the new amount reflected in your wallet. **Click on the xDai icon** to send xDai to another address or use for purchases.
 
