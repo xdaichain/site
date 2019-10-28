@@ -95,7 +95,4 @@
 * [Contact us](media/contact-us.md)
 * [Social Media](media/social-media.md)
 * [Media Kit](media/media-kit.md)
-* [Twitter](https://twitter.com/xdaichain)
-* [Telegram](https://t.me/xdai_official)
-* [Discourse](https://forum.poa.network/)
 
