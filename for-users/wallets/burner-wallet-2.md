@@ -12,6 +12,8 @@ description: >-
 
 The Burner Wallet 2 follows many of the original design patterns of the Burner Wallet, but rebuilds them as a set of libraries that are stable, modular and extendable. Our goal is to make this project as developer-friendly as possible, empowering developers to build custom wallets and extend functionality by building plugins.
 
+[https://www.youtube.com/watch?v=-V3ExfqqBOk](https://www.youtube.com/watch?v=-V3ExfqqBOk)
+
 The Burner Wallet 2 has already powered a number of great events, such as the [Escape Room at ETHBerlin](https://medium.com/@dmihal/bringing-the-burner-wallet-to-ethberlins-escape-room-5d2d01992962), and a [happy hour at ETHBoston](https://twitter.com/dmihal/status/1169999226237009920). And there's much more on the horizon for the wallet, with upcoming events at Devcon and ETHWaterloo, and a number of Burner Wallet plugins from companies like Helena, Ching and Sablier.
 
 **Github:** [https://github.com/dmihal/burner-wallet-2](https://github.com/dmihal/burner-wallet-2)

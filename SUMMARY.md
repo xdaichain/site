@@ -8,7 +8,13 @@
 * [Use Cases](about-xdai/use-cases/README.md)
   * [Peer-to-Peer Payments](about-xdai/use-cases/peer-to-peer-payments.md)
   * [Stable Platform for Smart Contracts](about-xdai/use-cases/stable-platform-for-smart-contracts.md)
-  * [Cryptocurrency for Events & Conferences](about-xdai/use-cases/cryptocurrency-for-events-and-conferences.md)
+  * [Cryptocurrency for Events & Conferences](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/README.md)
+    * [EthWaterloo](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethwaterloo.md)
+    * [Splunk Conference \(Non-Crypto Conference\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/splunk-conference-non-crypto-conference.md)
+    * [Devcon 5](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/devcon-5.md)
+    * [EthDenver](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethdenver.md)
+    * [Ethereal Summit NYC](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethereal-summit-nyc.md)
+    * [EthCC Afterparty](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethcc-afterparty.md)
 * [Roadmap](about-xdai/roadmap.md)
 
 ## For users
@@ -84,10 +90,12 @@
 
 * [Prospectus](https://prospectus.xdaichain.com)
 
-## Social Media
+## Media
 
+* [Contact us](media/contact-us.md)
+* [Social Media](media/social-media.md)
+* [Media Kit](media/media-kit.md)
 * [Twitter](https://twitter.com/xdaichain)
 * [Telegram](https://t.me/xdai_official)
 * [Discourse](https://forum.poa.network/)
-* [Contact us](social-media/contact-us.md)
 

@@ -1,0 +1,14 @@
+---
+description: Branding and Logos
+---
+
+# Media Kit
+
+## \#48A9A6 <a id="48a-9-a6"></a>
+
+![Regular logo](../.gitbook/assets/xdai_alternative.png)
+
+![Logo with +100px borders](../.gitbook/assets/100xdai_alternative.png)
+
+
+
