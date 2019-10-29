@@ -2,7 +2,7 @@
 description: Burner Wallet 2 comes to the EthWaterloo hackathon
 ---
 
-# EthWaterloo
+# EthWaterloo II
 
 **When:** November 8 - 10, 2019
 

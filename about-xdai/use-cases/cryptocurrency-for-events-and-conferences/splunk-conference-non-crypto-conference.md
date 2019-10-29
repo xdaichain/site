@@ -22,5 +22,13 @@ We are still gathering the data from this event and will share more soon. In the
 
 {% embed url="https://twitter.com/DataPhysicist/status/1187458987785998336" caption="This is what adoption looks like!!" %}
 
+## In media
+
+{% embed url="https://cointelegraph.com/news/18-b-data-firm-using-xdai-chain-sidechain-for-payments-at-conference" %}
+
+{% embed url="https://bitcoinexchangeguide.com/splunk-applies-ethereum-based-xdai-chain-at-las-vegas-splunkconf-2019/" %}
+
+
+
 
 

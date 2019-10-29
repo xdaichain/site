@@ -2,7 +2,7 @@
 description: Burner Wallet 2 made its debut in Osaka
 ---
 
-# Devcon 5
+# Devcon V
 
 **When:** October 8–11, 2019
 
