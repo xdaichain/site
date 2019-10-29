@@ -8,7 +8,7 @@ description: The first-ever USD stable blockchain
 
 {% tabs %}
 {% tab title="For users" %}
-XDAI is the ideal cryptocurrency for everyday payments and transactions. Fees are extremely low, payments are **finalized** in 5 seconds, and the value remains stable at ~ **$1 US Dollar per XDAI**. User friendly tools make XDAI easily adoptable for a broad audience \(crypto and non-crypto users alike!\)
+XDAI is the ideal cryptocurrency for everyday payments and transactions. Fees are extremely low, payments are **instant**, and the value remains stable at ~ **$1 US Dollar per XDAI**. User friendly tools make XDAI easily adoptable for a broad audience \(crypto and non-crypto users alike!\)
 {% endtab %}
 
 {% tab title="For developers" %}
