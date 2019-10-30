@@ -7,7 +7,7 @@ description: >-
 # Burner Wallet 2
 
 {% hint style="success" %}
-**UPDATE: Burner Wallet 2 is the latest recipient of the** [**xDAi Adoption Fund**](../../for-developers/grants.md#xdai-adoption-fund)**!** We've provided a $ 5,000 DAI grant to David Mihal to continue development on this tool, including a plugin that will make fiat -&gt; xDai conversion a simple process, and a second plugin to support sending and receiving xDai through LinkDrop.   
+**UPDATE: Burner Wallet 2 is the latest recipient of the** [**xDAi Adoption Fund**](../../for-developers/grants/#xdai-adoption-fund)**!** We've provided a $ 5,000 DAI grant to David Mihal to continue development on this tool, including a plugin that will make fiat -&gt; xDai conversion a simple process, and a second plugin to support sending and receiving xDai through LinkDrop.   
 {% endhint %}
 
 **Wallet Type**: [Web Wallet](https://xdai.io)
