@@ -77,9 +77,6 @@ WebSockets Endpoint \(can be useful to setup BlockScout for xDai\)
 Archive Fullnode Endpoint \(Useful for setting up BlockScout for xDai\)   
 [https://dai-trace-ws.blockscout.com](https://dai-trace-ws.blockscout.com)
 
-Alternative xDai explorer based on [Etherchain Light](https://github.com/gobitfly/etherchain-light):   
-[https://dai-explorer.poa.network/](https://dai-explorer.poa.network/)
-
 Chain [spec](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) files and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network  
 [https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
 

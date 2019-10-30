@@ -21,40 +21,42 @@ ERC20 Token Faucet can also be used with [Portis](https://www.portis.io/) or [Sq
 
 ### Steps
 
-1\) Go to [https://erc20faucet.com/](https://erc20faucet.com/) and click **Connect**.
+1\) Go to [https://erc20faucet.com/](https://erc20faucet.com/).  Check that your web3 wallet \(ie NiftyWallet\) is connected to the xDai network. If you change this after step 3, you will need to reconnect.
 
-![Click Connect to start the process](../.gitbook/assets/connect_1.png)
 
-2\) Check that your web3 wallet \(ie NiftyWallet\) is connected to the xDai network. If you change this after step 3, you will need to reconnect.
 
 ![Connect to the xDai Chain](../.gitbook/assets/xdai-connct.png)
+
+2\) Click **Connect**.
+
+![Click Connect to start the process](../.gitbook/assets/connect_1.png)
 
 3\) Select **Metamask**
 
 ![Connect with Metamask](../.gitbook/assets/metamask_connect.png)
 
-3\) Once selected, the web interface will populate with your Address, Network and Balance information.
+4\) Once selected, the web interface will populate with your Address, Network and Balance information.
 
 * 1\) Select the **Amount of tokens** you would like to create.
 * 2\) Click the **Mint Free Tokens** button.
 
 ![Enter Amount of tokens and click Mint Free Tokens to start the process](../.gitbook/assets/token_2.png)
 
-4\) Your web3 wallet interface should open. Check the transaction and click **Submit** to confirm. You will see a Success message if the transaction is successful.
+5\) Your web3 wallet interface should open. Check the transaction and click **Submit** to confirm. You will see a Success message if the transaction is successful.
 
 ![Click Submit to verify the transaction in Nifty Wallet](../.gitbook/assets/nifty-2.png)
 
-5\) The tokens have been minted on your address! To view them, you will need to add the Token Address to your wallet.
+6\) The tokens have been minted on your address! To view them, you will need to add the Token Address to your wallet.
 
-* 1\) Copy the Token Address, open your NiftyWallet, and click Add Token in the Tokens tab.
+* A\) Copy the Token Address, open your NiftyWallet, and click Add Token in the Tokens tab.
 
 ![Add token to your wallet](../.gitbook/assets/add-token.png)
 
-* 2\) Select the Custom tab, and paste in the Token Address from the website. The Token Symbol and Decimals should populate automatically. Click **Add**.
+* B\) Select the Custom tab, and paste in the Token Address from the website. The Token Symbol and Decimals should populate automatically. Click **Add**.
 
 ![Paste Token Address from erc20faucet into Nifty Token Address field](../.gitbook/assets/click_add.png)
 
-* 3\) You should see your new FAU balance in the wallet.
+* C\) You should see your new FAU balance in the wallet.
 
 ![Fau Token is displayed in the Tokens area](../.gitbook/assets/fau_end.png)
 
