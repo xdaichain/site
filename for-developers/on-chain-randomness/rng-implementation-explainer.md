@@ -112,7 +112,7 @@ function getCipher(uint256 _collectRound, address _miningAddress) public view re
 
 2\) The validator decrypts the cipher with their key and retrieves the `secret` 
 
-3\) The validator calls the `revealSecret`function to reveal their committed secret \(and XOR it with the previous secret to create a new random number\)
+3\) The validator calls the `revealSecret`function to reveal their committed secret \(and XORs it with the previous secret to create a new random number\)
 
 ```text
 /// @dev Called by the validator's node to XOR its secret with the current random seed.
