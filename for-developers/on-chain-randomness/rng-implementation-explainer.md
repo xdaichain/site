@@ -17,7 +17,7 @@ The following is designed to work with [Parity's AuRa](https://wiki.parity.io/Pr
 POSDAO uses a series of **collection rounds** for random number generation. Each collection round is **38 blocks in length** and split into two equal 19 block phases:
 
 * `commit phase` 
-*  `reveal phase`
+* `reveal phase`
 
 The length of each phase is  `19` blocks \( `38 / 2 = 19`\). When one collection round finishes, the next collection round starts, and so on. For example:
 
