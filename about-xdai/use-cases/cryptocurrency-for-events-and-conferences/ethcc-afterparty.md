@@ -14,8 +14,6 @@ description: Official after party fueled by xDai and the Burner Wallet.
 Event Recap: [https://medium.com/stakecapital/burner-wallet-paris-edition-47043f3cce18](https://medium.com/stakecapital/burner-wallet-paris-edition-47043f3cce18)
 {% endhint %}
 
-{% embed url="https://twitter.com/StakeCapital/status/1103676754097516551?s=19" %}
-
 
 
 

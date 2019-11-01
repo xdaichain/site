@@ -26,7 +26,11 @@ We are still gathering the data from this event and will share more soon. In the
 
 {% embed url="https://www.coindesk.com/crypto-burner-wallets-helped-an-it-conference-give-40000-to-charity" caption="Coindesk" %}
 
+{% embed url="https://www.splunk.com/blog/2019/11/01/splunk-unveils-buttercup-bucks-at-conf19.html" caption="Splunk\'s blog" %}
+
 {% embed url="https://cointelegraph.com/news/18-b-data-firm-using-xdai-chain-sidechain-for-payments-at-conference" caption="Cointelegraph.com" %}
+
+{% embed url="https://www.splunk.com/blog/2019/11/01/splunk-unveils-buttercup-bucks-at-conf19.html" caption="Splunk\'s blog" %}
 
 {% embed url="https://bitcoinexchangeguide.com/splunk-applies-ethereum-based-xdai-chain-at-las-vegas-splunkconf-2019/" caption="Bitcoinexchangeguide.com" %}
 
