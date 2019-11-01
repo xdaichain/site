@@ -98,7 +98,8 @@
 
 ## Media
 
-* [Contact us](media/contact-us.md)
+* [Crypto Influencers on xDai](media/crypto-influencers-on-xdai.md)
 * [Social Media](media/social-media.md)
+* [Contact us](media/contact-us.md)
 * [Media Kit](media/media-kit.md)
 

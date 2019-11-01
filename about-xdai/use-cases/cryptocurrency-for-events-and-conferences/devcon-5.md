@@ -13,9 +13,7 @@ description: Burner Wallet 2 made its debut in Osaka
 * **Devcon UI:** [http://devcon.burnerfactory.com/](http://devcon.burnerfactory.com/)\*\*\*\*
 * **Devcon BW2 Github Repo:** [https://github.com/dmihal/maker-devcon-burner-wallet](https://github.com/dmihal/maker-devcon-burner-wallet)
 
-{% hint style="info" %}
-Event recap coming soon...
-{% endhint %}
+{% embed url="https://medium.com/@MakingRimble/prototyping-a-new-burner-at-devcon-with-maker-rimble-64af185727eb" %}
 
-![](../../../.gitbook/assets/devcon_wallet.png)
+![Devcon BW2 Interface](../../../.gitbook/assets/devcon_wallet.png)
 
