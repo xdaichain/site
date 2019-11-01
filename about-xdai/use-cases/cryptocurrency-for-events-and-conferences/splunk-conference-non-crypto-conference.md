@@ -24,11 +24,15 @@ We are still gathering the data from this event and will share more soon. In the
 
 ## In media
 
+{% embed url="https://www.coindesk.com/crypto-burner-wallets-helped-an-it-conference-give-40000-to-charity" caption="Coindesk" %}
+
 {% embed url="https://cointelegraph.com/news/18-b-data-firm-using-xdai-chain-sidechain-for-payments-at-conference" caption="Cointelegraph.com" %}
 
 {% embed url="https://bitcoinexchangeguide.com/splunk-applies-ethereum-based-xdai-chain-at-las-vegas-splunkconf-2019/" caption="Bitcoinexchangeguide.com" %}
 
 {% embed url="https://medium.com/@huobiresearch/huobi-research-weekly-10-21-10-27-vol-85-afc407d270a3" caption="Huobi Research" %}
+
+
 
 
 
