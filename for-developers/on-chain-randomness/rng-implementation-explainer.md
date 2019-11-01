@@ -14,7 +14,7 @@ The following is designed to work with [Parity's AuRa](https://wiki.parity.io/Pr
 
 ### Collection Rounds
 
-POSDAO uses a series of **collection rounds** for random number generation. Each collection round is **38 blocks in length** and split into two equal 19 block phases:
+POSDAO uses a series of **collection rounds** for random number generation. The  collection round length is configurable - in this example we use 38 blocks for a round, ****split into two equal 19 block phases:
 
 * `commit phase` 
 * `reveal phase`
@@ -112,7 +112,7 @@ function getCipher(uint256 _collectRound, address _miningAddress) public view re
 
 2\) The validator decrypts the cipher with their key and retrieves the `secret` 
 
-3\) The validator calls the `revealSecret`function to reveal their committed secret \(and XORs it with the previous secret to create a new random number\)
+3\) The validator calls the `revealSecret`function to reveal their committed secret \(and XORs it with the previous secret to create a new random seed stored in the `currentSeed` state variable\)
 
 ```text
 /// @dev Called by the validator's node to XOR its secret with the current random seed.
@@ -121,4 +121,134 @@ function getCipher(uint256 _collectRound, address _miningAddress) public view re
 /// @param _secret The validator's secret.
 function revealSecret(uint256 _secret) external;
 ```
+
+## RandomAura Contract Code
+
+This is the full RandomAura contract code, located in the POSDAO contracts repo: [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts)
+
+```javascript
+pragma solidity 0.5.12;
+
+
+/// @dev Generates and stores random numbers in a RANDAO manner (and controls when they are revealed by AuRa
+/// validators) and accumulates a random seed.
+contract RandomAuRa {
+
+    mapping(uint256 => mapping(address => bytes)) internal _ciphers;
+    mapping(uint256 => mapping(address => bytes32)) internal _commits;
+    mapping(uint256 => mapping(address => bool)) internal _sentReveal;
+
+    /// @dev The length of the collection round (in blocks).
+    uint256 public collectRoundLength;
+
+    /// @dev The current random seed accumulated.
+    uint256 public currentSeed;
+
+    constructor(uint256 _collectRoundLength) public {
+        collectRoundLength = _collectRoundLength;
+    }
+
+    /// @dev Called by the validator's node to store a hash and a cipher of the validator's secret on each collection
+    /// round. The validator's node must use its mining address (engine_signer) to call this function.
+    /// This function can only be called once per collection round (during the `commit phase`).
+    /// @param _secretHash The Keccak-256 hash of the validator's secret.
+    /// @param _cipher The cipher of the validator's secret. Can be used by the node to restore the lost secret after
+    /// the node is restarted (see the `getCipher` getter).
+    function commitHash(bytes32 _secretHash, bytes calldata _cipher) external {
+        address miningAddress = msg.sender;
+
+        require(block.coinbase == miningAddress);
+        require(isCommitPhase()); // must only be called in `commit phase`
+        require(_secretHash != bytes32(0));
+        require(!isCommitted(currentCollectRound(), miningAddress)); // cannot commit more than once
+
+        uint256 collectRound = currentCollectRound();
+
+        _commits[collectRound][miningAddress] = _secretHash;
+        _ciphers[collectRound][miningAddress] = _cipher;
+    }
+
+    /// @dev Called by the validator's node to XOR its secret with the current random seed.
+    /// The validator's node must use its mining address (engine_signer) to call this function.
+    /// This function can only be called once per collection round (during the `reveal phase`).
+    /// @param _secret The validator's secret.
+    function revealSecret(uint256 _secret) external {
+        address miningAddress = msg.sender;
+
+        bytes32 secretHash = keccak256(abi.encodePacked(_secret));
+        uint256 collectRound = currentCollectRound();
+
+        require(block.coinbase == miningAddress);
+        require(isRevealPhase()); // must only be called in `reveal phase`
+        require(secretHash != bytes32(0));
+        require(secretHash == getCommit(collectRound, miningAddress)); // the hash must be commited
+        require(!_sentReveal[collectRound][miningAddress]); // cannot reveal more than once during the same collect round
+
+        currentSeed = currentSeed ^ _secret;
+        _sentReveal[collectRound][miningAddress] = true;
+    }
+
+    /// @dev Returns the serial number of the current collection round.
+    /// Needed when using `getCommit`, `isCommitted`, `sentReveal`, or `getCipher` getters (see below).
+    function currentCollectRound() public view returns(uint256) {
+        return (block.number - 1) / collectRoundLength;
+    }
+
+    /// @dev Returns the cipher of the validator's secret for the specified collection round and the specified validator
+    /// stored by the validator through the `commitHash` function.
+    /// @param _collectRound The serial number of the collection round for which the cipher should be retrieved.
+    /// Should be read with `currentCollectRound()` getter.
+    /// @param _miningAddress The mining address of validator (engine_signer).
+    function getCipher(uint256 _collectRound, address _miningAddress) public view returns(bytes memory) {
+        return _ciphers[_collectRound][_miningAddress];
+    }
+
+    /// @dev Returns the Keccak-256 hash of the validator's secret for the specified collection round and the specified
+    /// validator stored by the validator through the `commitHash` function.
+    /// @param _collectRound The serial number of the collection round for which the hash should be retrieved.
+    /// Should be read with `currentCollectRound()` getter.
+    /// @param _miningAddress The mining address of validator (engine_signer).
+    function getCommit(uint256 _collectRound, address _miningAddress) public view returns(bytes32) {
+        return _commits[_collectRound][_miningAddress];
+    }
+
+    /// @dev Returns a boolean flag indicating whether the specified validator has committed their secret's hash for the
+    /// specified collection round.
+    /// @param _collectRound The serial number of the collection round for which the checkup should be done.
+    /// Should be read with `currentCollectRound()` getter.
+    /// @param _miningAddress The mining address of the validator (engine_signer).
+    function isCommitted(uint256 _collectRound, address _miningAddress) public view returns(bool) {
+        return _commits[_collectRound][_miningAddress] != bytes32(0);
+    }
+
+    /// @dev Returns a boolean flag of whether the specified validator has revealed their secret for the
+    /// specified collection round.
+    /// @param _collectRound The serial number of the collection round for which the checkup should be done.
+    /// Should be read with `currentCollectRound()` getter.
+    /// @param _miningAddress The mining address of the validator (engine_signer).
+    function sentReveal(uint256 _collectRound, address _miningAddress) public view returns(bool) {
+        return _sentReveal[_collectRound][_miningAddress];
+    }
+
+    /// @dev Returns a boolean flag indicating whether the current phase of the current collection round
+    /// is a `commit phase`. Used by the validator's node to determine if it should commit the hash of
+    /// the secret during the current collection round.
+    function isCommitPhase() public view returns(bool) {
+        uint256 commitPhaseLength = collectRoundLength / 2;
+        return ((block.number - 1) % collectRoundLength) < commitPhaseLength;
+    }
+
+    /// @dev Returns a boolean flag indicating whether the current phase of the current collection round
+    /// is a `reveal phase`. Used by the validator's node to determine if it should reveal the secret during
+    /// the current collection round.
+    function isRevealPhase() public view returns(bool) {
+        return !isCommitPhase();
+    }
+
+}
+```
+
+ 
+
+
 
