@@ -92,10 +92,6 @@
     * [Withdraw Stake](for-validators/staking/staking-operations/withdraw-stake.md)
     * [Move Stake](for-validators/staking/staking-operations/move-stake.md)
 
-## For Investors
-
-* [Prospectus](https://prospectus.xdaichain.com)
-
 ## Media
 
 * [Crypto Influencers on xDai](media/crypto-influencers-on-xdai.md)
