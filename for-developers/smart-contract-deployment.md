@@ -17,7 +17,7 @@ You will also need a [small amount of xDai ](../for-users/get-xdai-tokens.md)to 
 
 1\) For xDai, edit the truffle.js file to the following:
 
-```javascript
+```
 require('dotenv').config();
 const HDWalletProvider = require('truffle-hdwallet-provider');
 
@@ -46,7 +46,7 @@ module.exports = {
 
 2\) Run the truffle deployment to the xDai chain.
 
-```text
+```
 truffle migrate --network xdai
 ```
 

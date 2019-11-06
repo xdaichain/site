@@ -50,3 +50,9 @@ xDai will leverage UMA protocol to create derivatives on fiat currencies and ena
 
 A scalability solution based on zero-knowledge protocol \(Rollup\) will be deployed on xDai. This will enable scaling of transfers \(up to 1000x\) for native token and synthetic tokens on top of xDai.
 
+## xDai NG \(New Generation\) POS Chain
+
+**Target Date**: Q3 2020
+
+A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE](../for-validators/staking/get-stake-tokens.md) tokens and HBBFT consensus. 
+

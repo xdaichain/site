@@ -24,13 +24,13 @@ If prompted to create new user during deployment - do so and skip the section ab
 Azure users will not have access to their root account by default, use your sudo user and skip to next section after connecting.
 {% endhint %}
 
-```text
+```
 ssh root@192.0.2.1
 ```
 
 2\) Logged in as  `root`  add user and grant sudo privileges. It is recommended to use default user  `ubuntu`.
 
-```text
+```
 adduser ubuntu
 ```
 
@@ -40,7 +40,7 @@ Enter a **STRONG** password to protect the user and you can leave the next 5 fie
 
 3\) Grant user `ubuntu` sudo privileges.
 
-```text
+```
 usermod -aG sudo ubuntu
 ```
 

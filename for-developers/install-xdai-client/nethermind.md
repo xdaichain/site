@@ -40,50 +40,50 @@ When you start the Launcher choose the following options to sync a node:
 
 1\) Install dependencies: 
 
-```text
+```
 sudo apt update && sudo apt install libsnappy-dev libc6-dev libc6 unzip
 ```
 
 2\) Create a new user
 
-```text
+```
 sudo useradd -m -s /bin/bash nethermind
 ```
 
 3\) Increase the max number of open files
 
-```text
+```
 sudo bash -c 'echo "nethermind soft nofile 1000000" > /etc/security/limits.d/nethermind.conf'
 sudo bash -c 'echo "nethermind hard nofile 1000000" >> /etc/security/limits.d/nethermind.conf'
 ```
 
 4\) Switch to the new user
 
-```text
+```
 sudo su - nethermind
 ```
 
 5\) Get Nethermind: download the latest Nethermind \(not NDM\) package \(list is here: [http://downloads.nethermind.io/](http://downloads.nethermind.io/)\) 
 
-```text
+```
 wget [LINUX_PACKAGE_URL]
 ```
 
 6\) Extract the files
 
-```text
+```
 unzip [LINUX_PACKAGE_FILENAME] -d nethermind
 ```
 
 7\) Switch directories
 
-```text
+```
 cd nethermind
 ```
 
 8\) Start the Nethermind Launcher 
 
-```text
+```
 ./Nethermind.Launcher
 ```
 

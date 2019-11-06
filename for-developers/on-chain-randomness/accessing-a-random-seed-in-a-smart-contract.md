@@ -12,7 +12,7 @@ The following is from the [POSDAO smart contracts repo](https://github.com/poane
 
 ## Example code to retrieve a random seed
 
-```javascript
+```
 pragma solidity 0.5.11;
 
 

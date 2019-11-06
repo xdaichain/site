@@ -91,6 +91,12 @@
     * [Claim Stake](for-validators/staking/staking-operations/claim-stake.md)
     * [Withdraw Stake](for-validators/staking/staking-operations/withdraw-stake.md)
     * [Move Stake](for-validators/staking/staking-operations/move-stake.md)
+* [Consensus](for-validators/consensus/README.md)
+  * [AuRa Consensus](for-validators/consensus/aura-consensus.md)
+  * [HoneyBadger BFT Consensus](for-validators/consensus/honeybadger-bft-consensus/README.md)
+    * [Building Honey Badger BFT: Part 1](for-validators/consensus/honeybadger-bft-consensus/building-honey-badger-bft-part-1.md)
+    * [How Honey Badger BFT Consensus Works: Part 2](for-validators/consensus/honeybadger-bft-consensus/how-honey-badger-bft-consensus-works-part-2.md)
+    * [Honey Badger BFT and Threshold Cryptography: Part 3](for-validators/consensus/honeybadger-bft-consensus/honey-badger-bft-and-threshold-cryptography-part-3.md)
 
 ## Media
 
