@@ -2,7 +2,7 @@
 
 ## Governance DApps
 
-To use governance DApps, switch to to the xDai Chain Network in your [Nifty Wallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en) or Metamask.
+To use governance DApps, switch to to the xDai Stable Chain in the network dropdown
 
 * Validators DApp: [https://validators.poa.network/](https://validators.poa.network/)
 
