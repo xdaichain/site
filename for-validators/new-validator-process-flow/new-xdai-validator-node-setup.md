@@ -20,7 +20,7 @@ If you experience any issues during installation, post your questions in the [ht
 
 ### I. Prerequisites of control machine
 
-```
+```text
 +---------------------+                  +-------------------------+
 |                     |                  |                         |
 |     local host      |     ansible      |       remote host       |   
@@ -41,7 +41,7 @@ If you know what ssh keys are, skip this section.
 
 1. Check if you already have a keypair:
 
-   ```
+   ```bash
    ls -la ~/.ssh
    ```
 
@@ -49,7 +49,7 @@ If you know what ssh keys are, skip this section.
 
 2. Generate new ssh key-pair
 
-   ```
+   ```bash
    ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
    ```
 
@@ -59,7 +59,7 @@ If you know what ssh keys are, skip this section.
 
 Check that you have python 2 version &gt;= 2.6.5 or python 3 version &gt;= 3.3 installed
 
-```
+```bash
 python --version
 ```
 
@@ -69,13 +69,13 @@ if not - install using appropriate binary from [here](https://www.python.org/dow
 
 1. Check that you have ansible version &gt;= 2.3 installed
 
-   ```
+   ```bash
    ansible --version
    ```
 
    if not - follow [this guide](http://docs.ansible.com/ansible/latest/intro_installation.html) to install ansible. For example, you can use `pip` to do it:
 
-   ```
+   ```bash
    sudo pip install ansible
    ```
 
@@ -83,7 +83,7 @@ if not - install using appropriate binary from [here](https://www.python.org/dow
 
 Check that you have git installed
 
-```
+```bash
 git --version
 ```
 
@@ -101,7 +101,7 @@ Node setup is at your discretion - criteria are included in the following instru
 1. clone repository with ansible playbooks and checkout branch corresponding to xDai:  
 
 
-   ```
+   ```bash
    git clone https://github.com/poanetwork/deployment-playbooks.git
    cd deployment-playbooks
    git checkout dai
@@ -110,7 +110,7 @@ Node setup is at your discretion - criteria are included in the following instru
 2. prepare files with ssh keys \(replace `id_rsa.pub` with your key name\)  
 
 
-   ```
+   ```bash
    cat ~/.ssh/id_rsa.pub > files/admins.pub
    cp files/admins.pub files/ssh_validator.pub
    ```
@@ -118,14 +118,14 @@ Node setup is at your discretion - criteria are included in the following instru
 3. create file with configuration settings:  
 
 
-   ```
+   ```bash
    cat group_vars/all.yml.network group_vars/validator.yml.example > group_vars/all.yml
    ```
 
 4. edit `group_vars/all.yml` file in your favorite text editor, e.g. `nano`:  
 
 
-   ```
+   ```bash
    nano group_vars/all.yml
    ```
 
@@ -137,13 +137,13 @@ Provide the following configuration parameters:
 * `NETSTATS_SECRET` - ask an existing validators \(e.g. POA\) to share the netstats secret code with you or look it up [in the private part of the forum](https://forum.poa.network/t/netstats-server-info/2781) if you already have access. **Do not share it with non-validators or people outside of xDai network**
 * `MINING_KEYFILE` - insert _content_ of your mining keystore file here, enclosed in single brackets \(content of json keystore file for your mining key\). The result should look similar to this:
 
-  ```
+  ```yaml
   MINING_KEYFILE: '{"address":"..."}'
   ```
 
 * `MINING_ADDRESS` - insert your mining key address, e.g.
 
-  ```
+  ```yaml
   MINING_ADDRESS: "0x..."
   ```
 
@@ -155,14 +155,14 @@ In `nano`, to save file and exit, use CTRL+X and then Y
 
 1\) create a file named `hosts`  from the hosts.example file \(again, using `nano` as an example\)
 
-```
+```bash
 cp hosts.example hosts
 nano hosts
 ```
 
 Add only the following content - other fields can be deleted / commented out.  **\(replace 192.0.2.1 with your node's actual ip address\)**:
 
-```
+```text
 [validator]
 192.0.2.1
 
@@ -172,7 +172,7 @@ Add only the following content - other fields can be deleted / commented out.  *
 
 2\)  run ansible playbook, replace path of `--key-file` argument with your desired SSH key
 
-```
+```text
 ansible-playbook -i hosts validator.yml -K --key-file "~/.ssh/id_rsa"
 ```
 

@@ -6,7 +6,7 @@ This method is for Ubuntu/Debian based OS and MacOS machines with Homebrew insta
 
 Open a bash Terminal and enter the command below, if the client needs an update just simply run the command a second time.  
 
-```
+```bash
 bash <(curl https://get.parity.io -kL)
 ```
 
@@ -14,7 +14,7 @@ This will install and configure the Parity client for you. On Ubuntu, this scrip
 
 ### **Install using Linux distro Snap Service**
 
-```
+```text
 sudo snap install parity --edge
 ```
 
@@ -28,7 +28,7 @@ More information related to Parity setup and configuration is available on the P
 
 ### Once Parity is Installed,  Connect and Sync with xDai
 
-```
+```text
 parity --chain xdai --no-warp
 ```
 
@@ -36,13 +36,13 @@ parity --chain xdai --no-warp
 
 _If you would like to limit or choose specific bootnodes, you can obtain the bootnodes.txt file from POA github:_
 
-```
+```bash
 git clone -b dai https://github.com/poanetwork/poa-chain-spec.git
 ```
 
 enter all supplied enodes for the desired network separated by a comma, no space
 
-```
+```text
 parity --chain xdai --bootnodes enode://ENODE@IP:PORT,enode://ENODE@IP:PORT
 ```
 

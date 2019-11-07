@@ -12,25 +12,25 @@ If you experience any issues during installation, please post your questions in 
 
 1. check if you have aws cli installed
 
-   ```
+   ```bash
    aws --version
    ```
 
    if not - install it following [these instructions](http://docs.aws.amazon.com/cli/latest/userguide/installing.html). The simplest way is to use `pip`:
 
-   ```
+   ```bash
    pip install awscli --upgrade --user
    ```
 
    Mac systems with homebrew installed:
 
-   ```
+   ```bash
    brew install awscli
    ```
 
 2. Also, use `pip` to install the following python packages required by ansible:
 
-   ```
+   ```bash
    sudo pip install boto
    sudo pip install boto3
    ```
@@ -53,7 +53,7 @@ If you experience any issues during installation, please post your questions in 
 
 6\) Configure aws cli:
 
-```
+```bash
 aws configure
 ```
 
@@ -61,7 +61,7 @@ provide your credentials \(**Access Key ID** and **Secret Access Key**\) from ea
 
 7\) Check that the keypair was correctly imported:
 
-```
+```bash
 aws ec2 describe-key-pairs
 ```
 
@@ -69,7 +69,7 @@ you should see your keypair name in the list.
 
 8\) Choose available aws VPC and Subnet. Run this command to list subnets
 
-```
+```text
 aws ec2 describe-subnets
 ```
 
@@ -77,7 +77,7 @@ select any subnet with `"State": "available"` and non-zero `AvailableIpAddressCo
 
 9\) Clone the repository with ansible playbooks and checkout branch corresponding to xDai:
 
-```
+```bash
 git clone https://github.com/poanetwork/deployment-playbooks.git
 cd deployment-playbooks
 git checkout dai
@@ -85,25 +85,25 @@ git checkout dai
 
 10\) Go to the `aws` folder
 
-```
+```bash
 cd aws
 ```
 
 11\) Create configuration file
 
-```
+```bash
 cp group_vars/all.yml.example group_vars/all.yml
 ```
 
 12\) Edit this file in your favourite text editor \(e.g. `nano`\)
 
-```
+```bash
 nano group_vars/all.yml
 ```
 
 and provide the following configuration parameters:
 
-```
+```yaml
 access_key: "your aws access key"
 secret_key: "your aws secret key"
 
@@ -115,7 +115,7 @@ vpc_subnet_id: "your SubnetId"
 
 13\) run the playbook \(**run from the aws folder**\)
 
-```
+```bash
 ansible-playbook validator.yml --private-key ~/.ssh/id_rsa
 ```
 

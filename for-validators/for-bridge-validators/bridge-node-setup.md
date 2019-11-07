@@ -23,20 +23,20 @@ While it is possible to use a common node as a validator node and a bridge node,
 
 1\) Clone the bridge repository and cd to the `bridge-nodejs` folder
 
-```
+```text
 git clone https://github.com/poanetwork/deployment-bridge.git
 cd deployment-bridge/bridge-nodejs
 ```
 
 2\) Create the file `hosts.yml` from `hosts.yml.example`
 
-```
+```text
 cp hosts.yml.example hosts.yml
 ```
 
 `hosts.yml` should look like the following:
 
-```
+```yaml
 sokol-kovan:
     hosts:
         127.0.0.1:
@@ -57,7 +57,7 @@ sokol-kovan:
 
 4\) `hosts.yml` should now include your values:
 
-```
+```yaml
 dai:
     hosts:
   <your_host_ip>
@@ -72,7 +72,7 @@ The playbook can be executed once [Ansible](https://docs.ansible.com/ansible/lat
 
 It will automatically install `Docker`, `docker-compose`, `Python`, `Git` and its dependencies \(such as `curl`, `ca-certificates`, `apt-transport-https`, etc.\) to the node. This playbook also creates an additional non-sudo docker user.
 
-```
+```yaml
 ansible-playbook -i hosts.yml site.yml
 ```
 
@@ -80,7 +80,9 @@ ansible-playbook -i hosts.yml site.yml
 
 To be used with the ansible-playbook command, for example:
 
-     `ansible-playbook -i hosts.yml site.yml --ask-become-pass`
+```yaml
+ `ansible-playbook -i hosts.yml site.yml --ask-become-pass`
+```
 
 * `--ask-pass` - ask for the password used to connect to the bridge VM.
 * `--ask-become-pass` - ask for the `become` password used to execute some commands \(such as Docker installation\) with root privileges.
@@ -94,7 +96,7 @@ The Bridge service is named `poabridge`. Use the default `SysVinit` commands to 
 
 Commands format:
 
-```
+```bash
 sudo service poabridge [start|stop|restart|status|rebuild]
 ```
 
@@ -104,7 +106,7 @@ If the `syslog_server_port` option in the hosts.yml file is not set, all logs wi
 
 If the `syslog_server_port` is set, logs will be redirected to the specified server and cannot be accessed on the bridge machine.
 
-```
+```bash
 syslog_server_port: "<protocol>://<ip>:<port>" # When this parameter is set all bridge logs will be redirected to the <ip>:<port> address.
 ```
 
