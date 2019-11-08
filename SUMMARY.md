@@ -38,12 +38,13 @@
   * [Burner Wallet](for-users/wallets/burner-wallet.md)
   * [Burner Wallet 2](for-users/wallets/burner-wallet-2.md)
   * [DEX Wallet](for-users/wallets/dex-wallet.md)
-  * [Poketto Cash](for-users/wallets/poketto.md)
-  * [Portis Wallet](for-users/wallets/portis-wallet.md)
-  * [Status Wallet](for-users/wallets/status-wallet.md)
-  * [Nifty Wallet](for-users/wallets/nifty-wallet.md)
   * [Metamask](for-users/wallets/metamask/README.md)
     * [Metamask Setup](for-users/wallets/metamask/metamask-setup.md)
+  * [Nifty Wallet](for-users/wallets/nifty-wallet.md)
+  * [Poketto Cash](for-users/wallets/poketto.md)
+  * [Portis Wallet](for-users/wallets/portis-wallet.md)
+  * [Saturn Wallet](for-users/wallets/saturn-wallet.md)
+  * [Status Wallet](for-users/wallets/status-wallet.md)
 
 ## For developers
 
