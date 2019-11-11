@@ -1,7 +1,7 @@
 ---
 description: >-
-  MultiSender is a great tool for airdrops, populating burner wallets, and other
-  occasions for sending xDai or ERC20 tokens to a group of addresses.
+  The perfect app for airdrops, populating burner wallets, or other occasions
+  for sending xDai / ERC20 tokens to a group of addresses.
 ---
 
 # Creating Airdrops with Token MultiSender
