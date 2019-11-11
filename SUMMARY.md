@@ -59,6 +59,7 @@
   * [RNG Implementation Explainer](for-developers/on-chain-randomness/rng-implementation-explainer.md)
 * [Creating airdrops](for-developers/creating-airdrops/README.md)
   * [Creating airdrops via Linkdrop](for-developers/creating-airdrops/creating-airdrops-via-linkdrop.md)
+  * [Creating Airdrops with Token MultiSender](for-developers/creating-airdrops/creating-airdrops-with-token-multisender.md)
 * [Grants for building on xDai](for-developers/grants/README.md)
   * [xDai Adoption Fund](for-developers/grants/xdai-adoption-fund.md)
   * [ZK \(Zero Knowledge\) Privacy Fund](for-developers/grants/zk-zero-knowledge-privacy-fund.md)
