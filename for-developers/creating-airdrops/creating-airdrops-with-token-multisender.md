@@ -30,8 +30,6 @@ If using MetaMask, you will need to [add xDai to the custom RPC list](../../for-
 
 2\) **Select the token to airdrop**. You can choose to send any token you have in your wallet - the list of your tokens will appear in the dropdown.  We will choose to send **xDai - xDai Native Currency**.  Decimals will populate automatically \(18\) and Deflationary will be locked to no \(this is only used for specially designated tokens where a % of the supply is burned on every transaction\)
 
-
-
 ![Select a token to airdrop](../../.gitbook/assets/xdai1.png)
 
 3\) **Enter in the list of Addresses and Amounts** amounts will be sent to - one `address,amount` per line. For example:
