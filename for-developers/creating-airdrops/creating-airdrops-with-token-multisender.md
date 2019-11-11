@@ -18,25 +18,13 @@ For an example which sends ERC20 tokens to 1500 addresses and includes additiona
 
 1\) Go to [https://multisender.app/](https://multisender.app/). You will be prompted to connect with your web3 enabled Ethereum wallet. Click **Connect**.
 
-1\) Go to [https://multisender.app/](https://multisender.app/). You will be prompted to connect with your web3 enabled Ethereum wallet. Click **Connect**.
-
-![](../../.gitbook/assets/connect1%20%281%29.png)
-
 ![](../../.gitbook/assets/connect1%20%281%29.png)
 
 Connection options include include MetaMask, Portis or Squarelink. In this tutorial, we use [Nifty Wallet](../../for-users/wallets/nifty-wallet.md), which functions in a similar way to Metamask. Make sure your Nifty wallet is open and connected to the right account, then **select MetaMask** from the icons list.
 
-Connection options include include MetaMask, Portis or Squarelink. In this tutorial, we use [Nifty Wallet](../../for-users/wallets/nifty-wallet.md), which functions in a similar way to Metamask, so select MetaMask to connect.
-
 {% hint style="warning" %}
 If using MetaMask, you will need to [add xDai to the custom RPC list](../../for-users/wallets/metamask/metamask-setup.md). 
 {% endhint %}
-
-{% hint style="warning" %}
-If using MetaMask, you will need to [add xDai to the custom RPC list](../../for-users/wallets/metamask/metamask-setup.md). 
-{% endhint %}
-
-![Select your web3 wallet connection](../../.gitbook/assets/metamask1.png)
 
 ![Select your web3 wallet connection](../../.gitbook/assets/metamask1.png)
 
