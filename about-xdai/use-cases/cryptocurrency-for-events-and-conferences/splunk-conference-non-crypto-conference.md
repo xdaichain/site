@@ -24,6 +24,10 @@ description: >-
 
 {% embed url="https://medium.com/@huobiresearch/huobi-research-weekly-10-21-10-27-vol-85-afc407d270a3" caption="Huobi Research" %}
 
+{% embed url="https://blog.infura.io/infura-brings-scale-to-splunk-xdai-pop-up-cryptocurrency-ab53eda62320" caption="Infura Blog" %}
+
+
+
 ## Conference Tweets
 
 ![2000x Cost Savings](../../../.gitbook/assets/splunk1.png)
