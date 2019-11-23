@@ -84,5 +84,7 @@ Netstats, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http:
 
 DApps Deployed to xDai:  Partial list of deployed DApps along with statistics and links: [https://www.stateofthedapps.com/rankings/platform/xdai](https://www.stateofthedapps.com/rankings/platform/xdai)
 
+xDai is available in the Anyblock Index \(aka [http://eth.events](http://eth.events)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)
+
 ## 
 
