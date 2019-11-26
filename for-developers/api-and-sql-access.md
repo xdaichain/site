@@ -15,7 +15,7 @@ description: >-
 ## ElasticSearch
 
 * Your API key is used to replace `$mytoken` in standard queries. 
-* Queries to the xDai chain use the xdai  eth.events endpoint:   [https://api.eth.events/ethereum/poa/xdai/es/](https://api.eth.events/ethereum/poa/xdai/es/block/search/%20)
+* Queries to the xDai chain use the xdai eth.events endpoint:   [https://api.eth.events/ethereum/poa/xdai/es/](https://api.eth.events/ethereum/poa/xdai/es/block/search/%20)
 * Example Queries are located here: [https://docs.anyblockanalytics.com/en/latest/elastic/example-queries/index.html](https://docs.anyblockanalytics.com/en/latest/elastic/example-queries/index.html)
 * Documentation regarding ElasticSearch API calls is available here: [https://docs.anyblockanalytics.com/en/latest/elastic/index.html](https://docs.anyblockanalytics.com/en/latest/elastic/index.html) 
 
@@ -36,7 +36,7 @@ https://api.eth.events/ethereum/poa/xdai/es/block/search/ \
 
 ## SQL Access
 
-1\) Download a SQL client Anyblock Analytics favors [PGAdmin4](https://www.pgadmin.org/download/) - we will show setup instructions here.
+1\) Download a SQL client Anyblock Analytics favors [PGAdmin4](https://www.pgadmin.org/download/) 
 
 2\) Click on Server -&gt; Create -&gt; Server 
 
