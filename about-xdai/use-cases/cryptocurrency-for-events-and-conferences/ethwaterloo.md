@@ -1,5 +1,5 @@
 ---
-description: Burner Wallet 2 comes to the EthWaterloo hackathon
+description: Burner Wallet 2 at the EthWaterloo hackathon
 ---
 
 # EthWaterloo II
@@ -8,7 +8,9 @@ description: Burner Wallet 2 comes to the EthWaterloo hackathon
 
 **Where:** Waterloo, Canada
 
-**What:** The [Burner Wallet 2](../../../for-users/wallets/burner-wallet-2.md) will be powering the upcoming ETHWaterloo II Hackathon, where it will enable the purchase of food, drinks and other prizes.
+**What:**  [Burner Wallet 2](../../../for-users/wallets/burner-wallet-2.md) powered the upcoming ETHWaterloo II Hackathon, where participants could purchase food, drinks and prizes.
 
-![The Burner Wallet 2 running on the  xDai chain will be used to power vendor sales at EthWaterloo](../../../.gitbook/assets/eth_waterloo.png)
+**Wallet**: [https://waterloo.burnerfactory.com](https://waterloo.burnerfactory.com). The wallet included plugins to purchase crypto with fiat using Carbon, and to claim xDai using Linkdrop. 
+
+![The Burner Wallet 2 running on the  xDai chain was used to power vendor sales at EthWaterloo](../../../.gitbook/assets/eth_waterloo.png)
 
