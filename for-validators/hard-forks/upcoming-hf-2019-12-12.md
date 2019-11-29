@@ -1,12 +1,12 @@
 ---
-description: Istanbul Upgrade
+description: 'Istanbul Upgrade planned for block 7300900 on December 12, 2019 at ~11:00 UTC'
 ---
 
-# Upcoming HF 2019-12-12
+# Upcoming HF 2019-12-12 \| \#7300900
 
 * **Network:** xDai
 * **Date:** 2019-12-12
-* **Block Number:** TBD
+* **Block Number:** `7300900`
 
 ## Description: Istanbul Upgrade
 
