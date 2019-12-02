@@ -2,7 +2,7 @@
 
 ## Governance DApps
 
-To use governance DApps, switch to to the xDai Stable Chain in the network dropdown
+To use governance DApps, visit the url below and switch to to the xDai Stable Chain in the network dropdown.
 
 * Validators DApp: [https://validators.poa.network/](https://validators.poa.network/)
 
@@ -14,8 +14,9 @@ To use governance DApps, switch to to the xDai Stable Chain in the network dropd
 
 ## Hard Forks
 
-If a hard fork occurs, information will be posted in the [POA wiki](https://github.com/poanetwork/wiki). Previous fork information is available below:
+If a hard fork occurs, information will be posted in the [Hard Forks](../hard-forks/) section. Previous fork information:
 
-* [Constantinople fork at block `1604400`](https://github.com/poanetwork/wiki/wiki/HFs-xDai-2019-01-11)\`\`
-* [Disable EIP-1283 at block `2508800`](https://github.com/poanetwork/wiki/wiki/HFs-xDai-2019-03-06)\`\`
+* [Constantinople fork at block `1604400`](../hard-forks/2019-01-11-or-1604400.md)\`\`
+* [Disable EIP-1283 at block `2508800`](../hard-forks/2019-03-06-or-2508800.md)\`\`
+* [Istanbul fork \(scheduled for Dec 12, 2019\) at block `7300900`](../hard-forks/upcoming-hf-2019-12-12.md)\`\`
 
