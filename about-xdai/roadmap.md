@@ -4,8 +4,6 @@ description: Future Directions for the xDai Stable Chain
 
 # Roadmap
 
-![xDai Roadmap ](../.gitbook/assets/roadmap-slides-v1-powerpoint-template%20%281%29.png)
-
 ## Fiat to xDai Onramp
 
 **Target Date:** Q4 2019
