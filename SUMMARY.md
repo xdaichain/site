@@ -66,6 +66,8 @@
 * [Stable Chain Network Deployment](for-developers/stable-chain-network-deployment/README.md)
   * [Local Tooling Setup](for-developers/stable-chain-network-deployment/local-tooling-setup.md)
   * [AWS Initial Setup](for-developers/stable-chain-network-deployment/aws-initial-setup.md)
+* [Burner Wallet Factory](for-developers/burner-wallet-factory/README.md)
+  * [Creating a Quick Burner Wallet](for-developers/burner-wallet-factory/creating-a-quick-burner-wallet.md)
 * [API & SQL Access](for-developers/api-and-sql-access.md)
 * [Grants for building on xDai](for-developers/grants/README.md)
   * [xDai Adoption Fund](for-developers/grants/xdai-adoption-fund.md)
