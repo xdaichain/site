@@ -18,5 +18,5 @@ If a hard fork occurs, information will be posted in the [Hard Forks](../hard-fo
 
 * [Constantinople fork at block `1604400`](../hard-forks/2019-01-11-or-1604400.md)\`\`
 * [Disable EIP-1283 at block `2508800`](../hard-forks/2019-03-06-or-2508800.md)\`\`
-* [Istanbul fork \(scheduled for Dec 12, 2019\) at block `7300900`](../hard-forks/upcoming-hf-2019-12-12.md)\`\`
+* [Istanbul fork \(scheduled for Dec 12, 2019\) at block `7300900`]()\`\`
 

@@ -109,7 +109,7 @@
     * [How Honey Badger BFT Consensus Works: Part 2](for-validators/consensus/honeybadger-bft-consensus/how-honey-badger-bft-consensus-works-part-2.md)
     * [Honey Badger BFT and Threshold Cryptography: Part 3](for-validators/consensus/honeybadger-bft-consensus/honey-badger-bft-and-threshold-cryptography-part-3.md)
 * [Hard Forks](for-validators/hard-forks/README.md)
-  * [Upcoming HF 2019-12-12 \| \#7300900](for-validators/hard-forks/upcoming-hf-2019-12-12.md)
+  * [Upcoming HF 2019-12-12 \| \#7298030](for-validators/hard-forks/upcoming-hf-2019-12-12-or-7298030.md)
   * [2019-03-06 \| \#2508800](for-validators/hard-forks/2019-03-06-or-2508800.md)
   * [2019-01-11 \| \#1604400](for-validators/hard-forks/2019-01-11-or-1604400.md)
   * [Spec.json update](for-validators/hard-forks/spec.json-update.md)
