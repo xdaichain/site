@@ -4,6 +4,10 @@ The Pony Purse is a conference wallet created by the [Splunk](https://www.splunk
 
 Here is a quick walkthrough of the Pony Purse, which uses Buttercup Bucks \(BCB - an ERC20 token created on the xDai chain\) as its cryptocurrency for transactions, and is driven by QR code interaction.
 
+{% hint style="info" %}
+At the conference, attendees were onboarded via the conference registration app. This ensured only attendees would get BCB, wallet addresses were known, and key pairs could be recovered easily for each registrant. The example below uses a public url, and keys can be lost easily by logging out of the wallet or using privacy features in your browser!
+{% endhint %}
+
 ## Creating a Wallet
 
 1\) Visit  [pony.cash](https://pony.cash) to create a new wallet. You can use a web browser on any device, but the wallet and experience is optimized for mobile. 
@@ -18,7 +22,7 @@ If you previously created a wallet, the same wallet should repopulate when you v
 
 ![A fresh Pony Purse, with no transactions.](../../../.gitbook/assets/bcb2.png)
 
-3\) A Starter QR code containing an amount of ButterCup Bucks \(and a small amount of xDai to cover transaction costs\) is distributed to each user. To add BCBs, a user scans the code by pressing the scan button, allowing the device to access the camera, and scanning the code. 
+3\) A Starter QR code containing an amount of ButterCup Bucks is given to each user. To add BCBs, a user scans the code by pressing the scan button, allowing the device to access the camera, and scanning the code. 
 
 The amount of BCB contained in the code is transferred almost instantly to the wallet address. 
 
@@ -30,7 +34,11 @@ The amount of BCB contained in the code is transferred almost instantly to the w
 
 ## Sending, Spending and Receiving
 
-Sending and Receiving requires two participants, some BCB to transfer, and a small amount of xDai to pay for transaction costs. Users who scan the initial Starter QR code are provided with enough xDai to complete hundreds of transactions.
+Sending and Receiving requires two participants, some BCB to transfer, and a small amount of xDai to pay for transaction costs. Conference users who scan the initial Starter QR code are provided with enough xDai to complete hundreds of transactions.
+
+{% hint style="info" %}
+Since this is an out-of-conference wallet, you may need to transfer a small amount of xDai to your wallet to complete multiple transactions \(gas balance can be viewed in the Advanced screen in the wallet menu\)
+{% endhint %}
 
 1\) The receiver starts by pressing the **Receive** button. This displays the QR code of their wallet.
 
