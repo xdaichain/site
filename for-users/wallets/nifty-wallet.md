@@ -8,7 +8,7 @@ description: >-
 
 **Wallet Type**: Web3 wallet: [Chrome extension](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en)
 
-**Description**:  Nifty Wallet is an open-source wallet tha provides a seamless web3 wallet experience. Sites designed to work with MetaMask will also work with Nifty, and Nifty provides additional features such as out-of-the-box support for xDai and other chains, as well as the ability to interact with contract methods directly from the wallet interface.
+**Description**:  Nifty Wallet is an open-source wallet that provides a seamless web3 wallet experience. Sites designed to work with MetaMask will also work with Nifty, and Nifty provides additional features such as out-of-the-box support for xDai and other chains, as well as the ability to interact with contract methods directly from the wallet interface.
 
 Nifty Wallet is our preferred web3 wallet and is used to support many of our xDai tutorials. 
 

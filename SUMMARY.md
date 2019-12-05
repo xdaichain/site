@@ -16,6 +16,7 @@
     * [Ethereal Summit NYC](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethereal-summit-nyc.md)
     * [EthDenver](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethdenver.md)
     * [EthCC Afterparty](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethcc-afterparty.md)
+    * [Pony Purse \(Conference & Event Wallet\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet.md)
 * [Roadmap](about-xdai/roadmap.md)
 
 ## For users
