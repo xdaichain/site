@@ -5,7 +5,7 @@ The Pony Purse is a conference wallet created by the [Splunk](https://www.splunk
 Here is a quick walkthrough of the Pony Purse, which uses Buttercup Bucks \(BCB - an ERC20 token created on the xDai chain\) as its cryptocurrency for transactions, and is driven by QR code interaction.
 
 {% hint style="info" %}
-At the conference, attendees were onboarded via the conference registration app. This ensured only attendees would get BCB, wallet addresses were known, and key pairs could be recovered easily for each registrant. The example below uses a public url, and keys can be lost easily by logging out of the wallet or using privacy features in your browser!
+At the conference, attendees were onboarded via the conference registration app. This ensured only attendees would get BCB, wallet addresses were known, and key pairs could be recovered easily for each registrant. The example below uses a public url, and keys can be lost easily by logging out of the wallet or using privacy features and closing your browser!
 {% endhint %}
 
 ## Creating a Wallet
@@ -17,7 +17,7 @@ At the conference, attendees were onboarded via the conference registration app.
 2\) A new wallet generates with an initial balance of 0.00 Buttercup Bucks.
 
 {% hint style="info" %}
-If you previously created a wallet, the same wallet should repopulate when you visit pony.cash \(as long as you are not in stealth mode or cleared your local storage\). Keys are kept in local storage,  which allows for easy installation & interaction, but less security.
+If you previously created a wallet, the same wallet should repopulate when you visit pony.cash \(as long as you are not in stealth mode or cleared your local storage\). Keys are kept in local storage, which allows for easy installation & interaction, but less security.
 {% endhint %}
 
 ![A fresh Pony Purse, with no transactions.](../../../.gitbook/assets/bcb2.png)
