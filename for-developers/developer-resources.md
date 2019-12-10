@@ -58,13 +58,18 @@ There are endpoints provided by POA and Nodesmith. They are used to connect to t
   </tbody>
 </table>## Bridge Dai &lt;&gt; xDai
 
-Bridge is required to move locked Dai from Ethereum and mint xDai on xDai Chain
+A bridge is required to move locked Dai from Ethereum and mint xDai on xDai Chain
 
 You can access the bridge via: 
 
 * TokenBridge UI at [https://dai-bridge.poa.network](https://dai-bridge.poa.network)
 * Interactions with Smart contracts[ ](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)
 * Bridge UI built-in into AlphaWallet, BurnerWallet, BurnerFactory
+
+## DApp Management & Developer Tools
+
+* [Terminal ](https://terminal.co)provides management, monitoring and analytics tools for DApp developers. 
+* [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
 
 ## **Additional resources**
 
