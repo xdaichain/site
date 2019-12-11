@@ -1,20 +1,24 @@
+---
+description: Conference wallet walkthrough and features
+---
+
 # Pony Purse \(Conference & Event Wallet\)
 
-The Pony Purse is a conference wallet created by the [Splunk](https://www.splunk.com/) Blockchain team. Attendees of the [Splunk conf.19](splunk-conference-non-crypto-conference.md) \(over 10,000 of them!\) used the Pony Purse to purchase items, donate to charity, and interact with games and vendors. The wallet runs on the xDai Chain, leveraging an [Infura endpoint](https://blog.infura.io/infura-brings-scale-to-splunk-xdai-pop-up-cryptocurrency-ab53eda62320) and [Burner Wallet](../../../for-users/wallets/burner-wallet.md) scaffolding and design patterns to create a seamless user experience. 
+The Pony Purse is a conference wallet created by the [Splunk](https://www.splunk.com/) Blockchain team. Attendees of the [Splunk conf.19](splunk-conference-non-crypto-conference.md) \(over 10,000 of them!\) used the Pony Purse to purchase items, donate to charity, and interact with games and vendors. The wallet runs on the xDai Chain, leveraging an [Infura endpoint](https://blog.infura.io/infura-brings-scale-to-splunk-xdai-pop-up-cryptocurrency-ab53eda62320) and [Burner Wallet](../../../for-users/wallets/burner-wallet.md) scaffolding to create a seamless user experience. 
 
 Here is a quick walkthrough of the Pony Purse, which uses Buttercup Bucks \(BCB - an ERC20 token created on the xDai chain\) as its cryptocurrency for transactions, and is driven by QR code interaction.
 
 {% hint style="info" %}
-At the conference, attendees were onboarded via the conference registration app. This ensured only attendees would get BCB, wallet addresses were known, and key pairs could be recovered easily for each registrant. The example below uses a public url, and keys can be lost easily by logging out of the wallet or using privacy features and closing your browser!
+At the conference, attendees were onboarded via the conference registration app. This ensured only attendees would get BCB, wallet addresses were known, and key pairs could be recovered easily for each registrant. The example below uses a public url, and keys can be lost easily by logging out of the wallet or using privacy features and closing the browser!
 {% endhint %}
 
 ## Creating a Wallet
 
-1\) Visit  [pony.cash](https://pony.cash) to create a new wallet. You can use a web browser on any device, but the wallet and experience is optimized for mobile. 
+1\) Visit  [pony.cash](https://pony.cash) to create a new wallet.  A web browser on any device will work, but the wallet and experience is optimized for mobile. 
 
 ![Click Generate new Pony Purse to start.](../../../.gitbook/assets/bb1.png)
 
-2\) A new wallet generates with an initial balance of 0.00 Buttercup Bucks.
+2\) A new wallet will generate with an initial balance of 0.00 Buttercup Bucks.
 
 {% hint style="info" %}
 If you previously created a wallet, the same wallet should repopulate when you visit pony.cash \(as long as you are not in stealth mode or cleared your local storage\). Keys are kept in local storage, which allows for easy installation & interaction, but less security.
@@ -22,33 +26,33 @@ If you previously created a wallet, the same wallet should repopulate when you v
 
 ![A fresh Pony Purse, with no transactions.](../../../.gitbook/assets/bcb2.png)
 
-3\) A Starter QR code containing an amount of ButterCup Bucks is given to each user. To add BCBs, a user scans the code by pressing the scan button, allowing the device to access the camera, and scanning the code. 
+3\) Wallets can be populated by scanning a QR code.  A one-time use code may contain an amount of Buttercup Bucks \(BCBs\), a small amount of xDai to pay for transactions, or Non-Fungible Tokens \(badges\) earned for participating in activities. 
 
-The amount of BCB contained in the code is transferred almost instantly to the wallet address. 
+A\) Scan a QR code by pressing the **scan** button on the application home screen. Depending on the browser or device, you may need to enable the camera setting. Scan the QR Code on the back of the buck and the value will quickly populate in the Pony Purse.
 
-![A scanner comes up when the user presses Scan](../../../.gitbook/assets/qr.png)
+![BCB physical tokens](../../../.gitbook/assets/bcb1.png)
 
-4\)  ButterCup Bucks are received. In the example below, BCBs are received via a transfer from one user to another rather than from a BCB Starter token \(sent from address 983a2 -&gt; D20Ea, this is also an acceptable way to fund a wallet\). 
+4\)  ButterCup Bucks are received. In the example below, BCBs are received via a transfer from one user to another rather than from a BCB physical token \(sent from address 983a2 -&gt; D20Ea, instructions below\). 
 
 ![A wallet address receives 2.50 BCB along with a note from the sender.](../../../.gitbook/assets/bcb-3.png)
 
 ## Sending, Spending and Receiving
 
-Sending and Receiving requires two participants, some BCB to transfer, and a small amount of xDai to pay for transaction costs. Conference users who scan the initial Starter QR code are provided with enough xDai to complete hundreds of transactions.
+Sending and Receiving requires two participants, some BCB to transfer, and a small amount of xDai to pay for transaction costs. Conference users who scan the initial Starter QR code are provided with enough xDai to complete many transactions, and additional xDai can be airdropped to wallet addresses if needed.
 
 {% hint style="info" %}
 Since this is an out-of-conference wallet, you may need to transfer a small amount of xDai to your wallet to complete multiple transactions \(gas balance can be viewed in the Advanced screen in the wallet menu\)
 {% endhint %}
 
-1\) The receiver starts by pressing the **Receive** button. This displays the QR code of their wallet.
+1\) The Receiver starts by pressing the **Receive** button. This displays the QR code of their wallet.
 
 ![Receivers Wallet](../../../.gitbook/assets/bcb4.png)
 
-2\) The sender then clicks the **Scan** button on their wallet, and scans the receiver's QR code. 
+2\) The Sender then clicks the **Scan** button on their wallet, and scans the Receiver's QR code. 
 
-![Senders Wallet](../../../.gitbook/assets/qr.png)
+![Scanning the receiver&apos;s code](../../../.gitbook/assets/scanning-qr-code.png)
 
-3\) Once scanned, information is filled in, including the Amount to send and an optional message to accompany the amount. The sender clicks **Submit Transaction.**
+3\) Once scanned, the Sender fills in the Amount to send and an optional message to accompany the amount. The Sender clicks **Submit Transaction.**
 
 ![Amount and Details entered, click Submit Transaction](../../../.gitbook/assets/send-1.png)
 
@@ -56,35 +60,41 @@ Since this is an out-of-conference wallet, you may need to transfer a small amou
 
 ![Transaction in transit](../../../.gitbook/assets/processing.png)
 
-5\) New Balance and transaction details are reflected in the wallet \(**senders** wallet shown here\).
+5\) New Balance and transaction details are reflected in the wallet \(**Senders** wallet shown here\).
 
 ![](../../../.gitbook/assets/check_wallet.png)
 
 ### Spending
 
-{% hint style="success" %}
-Purchasing items is just as simple. Items for sale are assigned unique QR codes which specify the amount the item costs \(or is open ended if the user determines the cost\) and the address where funds are transferred. The user simply scans the QR code, information populates about the item, and the transaction is submitted, just as in a Peer to Peer transfer. 
-{% endhint %}
+Purchasing items is just as simple. Items for sale can be assigned unique QR codes which specify cost \(or is open ended if the user determines the cost\) and other data points. The user simply scans the QR code, information populates about the item, and the transaction is submitted.
+
+Multiple items can also be combined into a single QR code. Splunk built a PoS iPad-based terminal that displayed items for sale during the conference. Users could select multiple items and a QR code would generate dynamically to include the total purchase amount along with a record of all items purchased.
 
 ### Receiving more BCBs
 
 {% hint style="success" %}
-Participants can complete tasks to earn additional BCBs. Tasks can be listed on the main page of the app during an event. Users receive QR codes for completing tasks and scan to redeem for additional BCBs.
+In addition to sending BCBs to each other, participants earned BCBs by completed tasks listed on the main page of the app during the event. Users received QR codes for these tasks and scanned them to receive additional BCBs. 
 {% endhint %}
 
 ## Additional Features
 
-The Burner Wallet ecosystem is rapidly evolving, and new wallets can include additional plugins, the ability to purchase xDai from fiat, play games, collect NFTs and other features. \(See [Burner Wallet Factory](../../../for-developers/burner-wallet-factory/) for up-and-coming features\) 
+The Burner Wallet ecosystem is rapidly evolving, and new wallets include plugins which enable  xDai purchase using fiat, interactive games, airdrops, and other features. \(See [Burner Wallet Factory](../../../for-developers/burner-wallet-factory/) for up-and-coming plugins\). 
 
-For the Splunk conference, Pony Purse did not feature many bells and whistles. Most users were new to cryptocurrency, and the wallet designers kept things simple and intuitive.  
+At the Splunk conference, a list of conference-based tasks were available where users could earn NFT tokens \(badges\) and additional BCBs. In addition, some tasks were "hidden", and badges were earned when tasks were unknowingly accomplished by the user \(such as talking to a Splunk executive\). This feature brought interactivity and gamification to the conference.
+
+![NFT badges displayed in the Pony Purse](../../../.gitbook/assets/exec.png)
+
+## Pony Purse Interface
+
+Since many conference attendees were new to cryptocurrency, the wallet designers kept the menu interface simple and intuitive. 
 
 ![Pony Purse features a straightforward user menu](../../../.gitbook/assets/simple-menu.png)
 
-The **Advanced screen** provides details on the smart contracts as well as updated xDai block counts and links to [BlockScout Explorer](https://blockscout.com/poa/xdai/). Information is available for users looking to pull back the curtain and find out more, but not part of the standard user experience.
+Users looking to learn more about the wallet could visit the **Advanced screen,** which provides details on smart contracts as well as updated xDai block counts, gas \(xDai\) balance, and links to [BlockScout Explorer](https://blockscout.com/poa/xdai/). 
 
 ![](../../../.gitbook/assets/advanced-menu.png)
 
-The **Help and About Screen** is a key component to provide users with needed information and general instructions. 
+The **Help and About Screen** was also a key component, providing users with needed information and general instructions they could access at any time.
 
 ![](../../../.gitbook/assets/help-and-about.png)
 
