@@ -6,7 +6,7 @@ description: Conference wallet walkthrough and features
 
 The Pony Purse is a conference wallet created by the [Splunk](https://www.splunk.com/) Blockchain team. Attendees of the [Splunk conf.19](splunk-conference-non-crypto-conference.md) \(over 10,000 of them!\) used the Pony Purse to purchase items, donate to charity, and interact with games and vendors. The wallet runs on the xDai Chain, leveraging an [Infura endpoint](https://blog.infura.io/infura-brings-scale-to-splunk-xdai-pop-up-cryptocurrency-ab53eda62320) and [Burner Wallet](../../../for-users/wallets/burner-wallet.md) scaffolding to create a seamless user experience. 
 
-Here is a quick walkthrough of the Pony Purse, which uses Buttercup Bucks \(BCB - an ERC20 token created on the xDai chain\) as its cryptocurrency for transactions, and is driven by QR code interaction.
+Here is a quick walkthrough of the Pony Purse, which uses Buttercup Bucks \(BCB - an ERC20 token created on the xDai chain\) as its cryptocurrency for transactions. User interaction is facilitated through QR codes.
 
 {% hint style="info" %}
 At the conference, attendees were onboarded via the conference registration app. This ensured only attendees would get BCB, wallet addresses were known, and key pairs could be recovered easily for each registrant. The example below uses a public url, and keys can be lost easily by logging out of the wallet or using privacy features and closing the browser!
@@ -68,7 +68,9 @@ Since this is an out-of-conference wallet, you may need to transfer a small amou
 
 Purchasing items is just as simple. Items for sale can be assigned unique QR codes which specify cost \(or is open ended if the user determines the cost\) and other data points. The user simply scans the QR code, information populates about the item, and the transaction is submitted.
 
-Multiple items can also be combined into a single QR code. Splunk built a PoS iPad-based terminal that displayed items for sale during the conference. Users could select multiple items and a QR code would generate dynamically to include the total purchase amount along with a record of all items purchased.
+Multiple items can also be combined into a single QR code. Splunk built a PoS iPad-based terminal that displayed items for sale during the conference. Users could select multiple items and a QR code would generate dynamically to include the total purchase amount along with a record of all items purchased. When the code is scanned, the wallet shows all items for purchase.
+
+![Multiple items to purchase in a single transaction](../../../.gitbook/assets/pnoy.png)
 
 ### Receiving more BCBs
 
@@ -82,7 +84,7 @@ The Burner Wallet ecosystem is rapidly evolving, and new wallets include plugins
 
 At the Splunk conference, a list of conference-based tasks were available where users could earn NFT tokens \(badges\) and additional BCBs. In addition, some tasks were "hidden", and badges were earned when tasks were unknowingly accomplished by the user \(such as talking to a Splunk executive\). This feature brought interactivity and gamification to the conference.
 
-![NFT badges displayed in the Pony Purse](../../../.gitbook/assets/exec.png)
+![NFT badges displayed in the Pony Purse](../../../.gitbook/assets/bscb%20%281%29.png)
 
 ## Pony Purse Interface
 
