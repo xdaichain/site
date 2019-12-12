@@ -1,5 +1,5 @@
 ---
-description: General Information and links
+description: General Information and Links
 ---
 
 # Developer Resources
@@ -12,18 +12,17 @@ description: General Information and links
 
 ## Blockchain Explorer
 
-BlockScout is the official blockchain explorer for the xDai Chain  
-[https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai)
+1\) **BlockScout** is the official blockchain explorer for the xDai Chain. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
 
-With BlockScout you can
+👉 [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai)
 
-* view blocks, transactions, accounts, balances, token transfers
-* access blockchaindata via API
-* read and verify smart contracts
+2\) **AnyBlock Analytics Explorer** is convenient for exploring recent transactions and blocks and locating common information quickly**.**
+
+👉 [https://explorer.anyblock.tools/ethereum/poa/xdai/](https://explorer.anyblock.tools/ethereum/poa/xdai/)
 
 ## JSON RPC endpoints
 
-There are endpoints provided by POA and Nodesmith. They are used to connect to the network. 
+There are endpoints provided by POA and Nodesmith. They are used to connect to the network.
 
 ### POA RPC
 
@@ -34,33 +33,30 @@ There are endpoints provided by POA and Nodesmith. They are used to connect to t
 
 ### **Nodesmith RPC**
 
+|  |  |
+| :--- | :--- |
+
+
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><b>URL</b>
-      </td>
-      <td style="text-align:left">
+      <th style="text-align:left"><b>URL</b>
+      </th>
+      <th style="text-align:left">
         <p><a href="https://poa.api.nodesmith.io/v1/dai/jsonrpc?apiKey=YOUR_API_KEY">https://poa.api.nodesmith.io/v1/dai/jsonrpc?apiKey=</a>
         </p>
         <p>(requires <a href="https://nodesmith.io/docs/#/overview/httpsQuickstart">free Nodesmith account for your API key</a>):</p>
-      </td>
+      </th>
     </tr>
-    <tr>
-      <td style="text-align:left">Network ID</td>
-      <td style="text-align:left">100</td>
-    </tr>
-  </tbody>
-</table>## Bridge Dai &lt;&gt; xDai
+  </thead>
+  <tbody></tbody>
+</table>| Network ID | 100 |
+| :--- | :--- |
+
 
 A bridge is required to move locked Dai from Ethereum and mint xDai on xDai Chain
 
-You can access the bridge via: 
+You can access the bridge via:
 
 * TokenBridge UI at [https://dai-bridge.poa.network](https://dai-bridge.poa.network)
 * Interactions with Smart contracts[ ](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)
@@ -76,10 +72,10 @@ You can access the bridge via:
 Tutorial on how to use GasRelay in your Dapp by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience.  
 [https://docs.portis.io/\#/gas-relay](https://docs.portis.io/#/gas-relay)
 
-WebSockets Endpoint \(can be useful to setup BlockScout for xDai\)   
+WebSockets Endpoint \(can be useful to setup BlockScout for xDai\)  
 [wss://dai-trace-ws.blockscout.com/ws](wss://dai-trace-ws.blockscout.com/ws)
 
-Archive Fullnode Endpoint \(Useful for setting up BlockScout for xDai\)   
+Archive Fullnode Endpoint \(Useful for setting up BlockScout for xDai\)  
 [https://dai-trace-ws.blockscout.com](https://dai-trace-ws.blockscout.com)
 
 Chain [spec](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) files and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network  
@@ -87,9 +83,7 @@ Chain [spec](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) fi
 
 Netstats, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network/)
 
-DApps Deployed to xDai:  Partial list of deployed DApps along with statistics and links: [https://www.stateofthedapps.com/rankings/platform/xdai](https://www.stateofthedapps.com/rankings/platform/xdai)
+DApps Deployed to xDai: Partial list of deployed DApps along with statistics and links: [https://www.stateofthedapps.com/rankings/platform/xdai](https://www.stateofthedapps.com/rankings/platform/xdai)
 
 xDai is available in the Anyblock Index \(aka [http://eth.events](http://eth.events)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)
-
-## 
 
