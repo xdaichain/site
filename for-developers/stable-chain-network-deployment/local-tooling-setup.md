@@ -1,4 +1,4 @@
-# Local Tooling Setup
+# 1\) Local Tooling Setup
 
 ### 1. git
 
@@ -85,5 +85,7 @@ Mac systems with homebrew installed:
 brew install awscli
 ```
 
+{% hint style="success" %}
 Next: [AWS Initial Setup](aws-initial-setup.md)
+{% endhint %}
 

@@ -2,7 +2,7 @@
 description: Prepare AWS for Node Deployment
 ---
 
-# AWS Initial Setup
+# 2\) AWS Initial Setup
 
 1\) Register \(if you haven't already\) and login to the AWS management console: [https://aws.amazon.com/console/](https://aws.amazon.com/console/)  
 
@@ -68,6 +68,10 @@ aws ec2 describe-key-pairs
 ```
 
 you should see your keypair name in the list in JSON format.
+
+{% hint style="success" %}
+Next: [Download and Launch Playbooks](3-download-and-configure-playbook.md)
+{% endhint %}
 
 
 
