@@ -30,9 +30,9 @@ We have invested in several [different approaches ](https://forum.poa.network/t/
 
 ## Consensus Upgrade
 
-**Target Date:** Q1 2020 
+**Target Date:** Q3 2020 
 
-xDai currently uses known organizations in the ecosystem as chain validators. These organizations subsidize their own nodes, and this is unsustainable in the long term. To increase decentralization, and offer the broader community the chance to participate in consensus, we will upgrade to the POSDAO consensus model in the near future. 
+xDai currently uses known organizations in the ecosystem as chain validators. These organizations subsidize their own nodes, and this is unsustainable in the long term. To increase decentralization, and offer the broader community the chance to participate in consensus, we will upgrade to the POSDAO consensus model. 
 
 ## Synthetic Assets on xDai based on UMA protocol
 
