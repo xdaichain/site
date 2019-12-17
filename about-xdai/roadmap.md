@@ -6,7 +6,12 @@ description: Future Directions for the xDai Stable Chain
 
 ## Fiat to xDai Onramp
 
-**Target Date:** Q4 2019
+**Target Date:** Q4 2019  
+**Status:** Carbon implementation complete, additional implementations ongoing.
+
+{% hint style="success" %}
+The [Carbon on-ramp](../for-users/buying-xdai-with-carbon/) for xDai is now functional \(functionality is dependent on geo-location\).
+{% endhint %}
 
 At the moment, to get xDai, most users have to get Dai first and relay it to xDai via xDai Bridge. The process is complicated and time-consuming due to congestions on the Ethereum networks and the probabilistic nature of Proof of Work consensus. Relayers of the xDai bridge are waiting for eight blocks on Ethereum before they relay Dai to xDai. 
 
@@ -14,7 +19,7 @@ The xDai team is working with payment processing companies to enable Fiat to xDa
 
 ## **Multi-Collateral Dai &lt;-&gt; xDai Bridge**
 
-**Target Date:** Q4 2019 \(based on MakerDAO progress\)
+**Target Date:** Q4 2019 
 
 Once the Dai protocol implementation is upgraded to MCD \(Multi-Collateral Dai\), the xDai bridge will also be upgraded to use MCD Dai.
 

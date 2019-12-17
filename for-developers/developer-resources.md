@@ -33,6 +33,10 @@ There are endpoints provided by POA and Nodesmith. They are used to connect to t
 
 ### **Nodesmith RPC**
 
+{% hint style="warning" %}
+Nodesmith RPC will be shut down by the end of December 2019.
+{% endhint %}
+
 |  |  |
 | :--- | :--- |
 
@@ -53,6 +57,8 @@ There are endpoints provided by POA and Nodesmith. They are used to connect to t
 </table>| Network ID | 100 |
 | :--- | :--- |
 
+
+## TokenBridge
 
 A bridge is required to move locked Dai from Ethereum and mint xDai on xDai Chain
 
