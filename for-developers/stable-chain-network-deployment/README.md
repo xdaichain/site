@@ -8,9 +8,12 @@ description: Instructions for deploying an xDai-like network on AWS
 **Instructions in Process**
 
 These advanced instructions are for developers interested in deploying their own xDai-like \(or other ERC20 Stable Token\) Network. They are not required to run or interact with the xDai Stable Chain.
+
+Current working instructions are available here:  
+[https://github.com/poanetwork/wiki/wiki/How-to-launch-POA-Network-bridged-to-stable-ERC20-coin](https://github.com/poanetwork/wiki/wiki/How-to-launch-POA-Network-bridged-to-stable-ERC20-coin)
 {% endhint %}
 
-The following topics will covered for an AWS deployment:
+The following topics cover an AWS deployment:
 
 1. [Local Tooling Setup](local-tooling-setup.md)
 2. [AWS Initial Setup](aws-initial-setup.md)
