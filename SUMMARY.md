@@ -83,7 +83,7 @@
   * [Validator Resources](for-validators/about-xdai-validators/validator-resources.md)
 * [POSDAO Whitepaper](for-validators/posdao-whitepaper.md)
 * [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
-  * [Validator Candidate](for-validators/new-validator-process-flow/untitled.md)
+  * [Validator Candidate](for-validators/new-validator-process-flow/candidate.md)
   * [Current xDai Validators: Ballot Process](for-validators/new-validator-process-flow/current-xdai-validators-ballot-process.md)
   * [New xDai Validator: Node setup](for-validators/new-validator-process-flow/new-xdai-validator-node-setup.md)
 * [New Node Deployment](for-validators/node-deployment/README.md)
