@@ -14,15 +14,14 @@ The following topics will covered for an AWS deployment:
 
 1. [Local Tooling Setup](local-tooling-setup.md)
 2. [AWS Initial Setup](aws-initial-setup.md)
-3. Download & Configure Playbook
-4. Deploy Network Infrastructure
-5. Deploy & Configure Registrar & Certifier Contracts
+3. [Download & Launch Playbooks](3-download-and-configure-playbook.md)
+4. [Initial Instance Configuration](4-configure-instances.md)
+5. [Reconfigure Instances](5-reconfigure-instances.md) \(update spec.json files, launch Registrar & Certifier Contracts\)
 6. Deploy Bridge Contracts
 7. Deploy Consensus Contracts
 8. Configure Master of Ceremony and Validator nodes
-9. Configure BlockScout Explorer
-10. Launch the Bridge UI
-11. Configure Governance DApps
+9. Launch the Bridge UI
+10. Configure Governance DApps
 
 
 

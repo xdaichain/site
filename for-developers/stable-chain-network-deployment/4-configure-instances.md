@@ -1,4 +1,4 @@
-# 4\) Configure Instances
+# 4\) Initial Instance Configurations
 
 {% hint style="success" %}
 Configure instances after [launching playbooks](3-download-and-configure-playbook.md).
@@ -235,7 +235,7 @@ sudo systemctl stop poa-chain-explorer
 2\) Erase parity data folder
 
 ```text
-sudo rm -rf /home/ROLE/parity_date/{network,cache}
+sudo rm -rf /home/ROLE/parity_data/{network,cache}
 ```
 
 replacing ROLE with `moc`/`bootnode`/`explorer`/`validator` respectively
