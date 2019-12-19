@@ -36,7 +36,7 @@ A\) Scan a QR code by pressing the **scan** button on the application home scree
 
 ![A wallet address receives 2.50 BCB along with a note from the sender.](../../../.gitbook/assets/bcb-3.png)
 
-## Sending, Spending and Receiving
+## Sending and Receiving
 
 Sending and Receiving requires two participants, some BCB to transfer, and a small amount of xDai to pay for transaction costs. Conference users who scan the initial Starter QR code are provided with enough xDai to complete many transactions, and additional xDai can be airdropped to wallet addresses if needed.
 
@@ -64,11 +64,15 @@ Since this is an out-of-conference wallet, you may need to transfer a small amou
 
 ![](../../../.gitbook/assets/check_wallet.png)
 
-### Spending
+## Spending
 
-Purchasing items is just as simple. Items for sale can be assigned unique QR codes which specify cost \(or is open ended if the user determines the cost\) and other data points. The user simply scans the QR code, information populates about the item, and the transaction is submitted.
+Purchasing items is just as simple. Individual items for sale can be assigned unique QR codes which specify cost \(or is open ended if the user determines the cost\) and other data points. The user simply scans the QR code, information populates about the item, and the transaction is submitted.
 
-Multiple items can also be combined into a single QR code. Splunk built a PoS iPad-based terminal that displayed items for sale during the conference. Users could select multiple items and a QR code would generate dynamically to include the total purchase amount along with a record of all items purchased. When the code is scanned, the wallet shows all items for purchase.
+### Point of Sale System
+
+Multiple items can also be combined into a single QR code, creating an online shopping cart experience for users. Splunk set up a Point of Sale system using iPad-based terminals which displayed items for sale during the conference. Users could select multiple items/item quantities and add them to their cart. When finished selecting items, the "checkout" button would dynamically generate a single QR code containing details about the order. 
+
+When the user scans the QR code, they see all items and the total cost. The order can then be submitted with a single transaction.
 
 ![Multiple items to purchase in a single transaction](../../../.gitbook/assets/pnoy.png)
 
