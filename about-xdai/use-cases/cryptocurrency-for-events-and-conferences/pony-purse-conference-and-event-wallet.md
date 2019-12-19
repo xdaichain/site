@@ -70,9 +70,9 @@ Purchasing items is just as simple. Individual items for sale can be assigned un
 
 ### Point of Sale System
 
-Multiple items can also be combined into a single QR code, creating an online shopping cart experience for users. Splunk set up a Point of Sale system using iPad-based terminals. These terminals were located throughout the conference and displayed various items available to purchase. Users could select multiple items/item quantities and add them to their cart. When finished selecting items, pressing the "checkout" button dynamically generated a single QR code containing details about the order. 
+Multiple items can also be combined into a single QR code, creating an online shopping cart experience for users. For .conf19, Splunk set up a Point of Sale system using iPad-based terminals. These terminals were located throughout the conference and displayed various items for sale. Attendees could select multiple items/item quantities and add them to their cart. Once finished, they would press the "checkout" button to dynamically generate a single QR code containing details about the order. 
 
-Users could then scan the QR code with their wallet to see all items and the total cost, then submit the order with a single transaction.
+Scanning this code with their Pony Purse allowed users to see all items along with the total cost of the order, and submit the entire purchase with a single transaction.
 
 ![Multiple items to purchase in a single transaction](../../../.gitbook/assets/pnoy.png)
 
