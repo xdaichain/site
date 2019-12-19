@@ -6,7 +6,7 @@ description: Future Directions for the xDai Stable Chain
 
 ## Fiat to xDai Onramp
 
-**Target Date:** Q4 2019  
+**Target:** Q4 2019  
 **Status:** Carbon implementation complete, additional implementations ongoing.
 
 {% hint style="success" %}
@@ -19,7 +19,8 @@ The xDai team is working with payment processing companies to enable Fiat to xDa
 
 ## **Multi-Collateral Dai &lt;-&gt; xDai Bridge**
 
-**Target Date:** Q4 2019 
+**Target Date:** Q4 2019  
+**Status**: Nearing completion - progress updates here: [https://forum.poa.network/t/xdai-bridge-migration-from-sai-to-dai/3196](https://forum.poa.network/t/xdai-bridge-migration-from-sai-to-dai/3196)
 
 Once the Dai protocol implementation is upgraded to MCD \(Multi-Collateral Dai\), the xDai bridge will also be upgraded to use MCD Dai.
 
