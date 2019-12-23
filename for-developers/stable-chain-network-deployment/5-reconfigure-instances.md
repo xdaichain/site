@@ -46,11 +46,9 @@ sudo nano node.toml
 sudo systemctl restart poa-parity
 ```
 
-## Register & Certifier Contracts
+## Prepare `Register` & `Certifier` Contracts
 
-5\) Prepare `Registrar` and `Certifier` contracts.
-
-* Clone [https://github.com/parity-contracts/name-registry](https://github.com/parity-contracts/name-registry) repository
+1\) Clone [https://github.com/parity-contracts/name-registry](https://github.com/parity-contracts/name-registry) repository
 
 ```text
 git clone https://github.com/parity-contracts/name-registry
@@ -83,7 +81,7 @@ cd name-registry
   * Uncomment \#`unlock=[...]`
   * Restart Parity: `sudo systemctl restart poa-parity`
 
-6\) Deploy Contracts
+2\) Deploy Contracts
 
 ```text
 cd name-registry
@@ -95,7 +93,7 @@ sudo node_modules/.bin/truffle migrate --reset --network development
 Deployment artifacts will be stored in the `build` subfolder.
 {% endhint %}
 
-7\) Copy these items:
+3\) Copy these items:
 
 * `spec.json` file - you will replace the Bootnode instance with this file
 * Addresses of the newly deployed `Certifier` and `Registry` contracts. Go to the name-registry subdirectory and execute:
@@ -110,20 +108,22 @@ grep -Rn \"address\": build/contracts/{SimpleCertifier.json,SimpleRegistry.json}
 
 2\) Restart Parity: `sudo systemctl restart poa-parity`
 
-3\) Set a temporary zero fee in the `Registry` contract for registering addresses at the bootnode rpc.
+## Call Contract Methods using MyCrypto
+
+1\) Set a temporary zero fee in the `Registry` contract for registering addresses at the bootnode rpc.
 
  a\) Check the bootnode ip is accessible in a browser.   
 Visit [https://1.2.3.4 ](https://1.2.3.4%20) \(using the bootnode's ip address\). You may see a warning that the certificate is invalid. Click **Advanced** and proceed and unlock the browser. You should now see a message like "**Used HTTP Method is not allowed. POST or OPTIONS is required**". This means the bootnode is ready for the next step.
 
 ![Click to Proceed and unlock the url](../../.gitbook/assets/unsafe-1.png)
 
-b\) Go to [https://legacy.mycrypto.com/](https://legacy.mycrypto.com/#contracts) in Google Chrome
+2\) Go to [https://legacy.mycrypto.com/](https://legacy.mycrypto.com/#contracts) in Google Chrome
 
-c\) Click on the network in the top right and select Add Custom Network/Node
+3\) Click on the network in the top right and select Add Custom Network/Node
 
 ![](../../.gitbook/assets/add-custom.png)
 
-d\) Fill in information about your node. 
+4\) Fill in information about your node. 
 
 1. Node name can be your choice 
 2. url is https://1.2.3.4 \(using your bootnode ip\)
@@ -136,7 +136,7 @@ If you are experiencing issues connecting, set your web3 wallet \(metamask\) to 
 
 ![](../../.gitbook/assets/custom-2.png)
 
-e\) Set gas price to 0. 
+5\) Set gas price to 0. 
 
 * Open context menu \(right click\) for the `Gas Price` slider and choose `Inspect`
 * Change the value of `min` attribute of `input` html tag to `0` :
@@ -144,21 +144,21 @@ e\) Set gas price to 0.
 
 ![](../../.gitbook/assets/0gas.gif)
 
-f\) Go to the Contracts Tab. Enter in the **Registry Contract Address** and the **ABI for the Registrar Contract**. 
+6\) Go to the Contracts Tab. Enter in the **Registry Contract Address** and the **ABI for the Registrar Contract**. 
 
 ABI is located here: [https://raw.githubusercontent.com/parity-contracts/name-registry/master/abis/SimpleRegistry.json](https://raw.githubusercontent.com/parity-contracts/name-registry/master/abis/SimpleRegistry.json)
 
 ![](../../.gitbook/assets/access1.png)
 
-g\) Select the `setFee` method using the MoC key. Under How to Access, use the json/Keystore file option to connect to your MOC keystore. Set the value to 0.
+7\) Select the `setFee` method using the MoC key. Under How to Access, use the json/Keystore file option to connect to your MOC keystore. Set the `_amount` to 0.
 
 ![](../../.gitbook/assets/contract-2.png)
 
-h\) Submit the transaction. Fill in the default value for Gas, it may be adjusted \(here the default was 30000 adjusted to 21400.
+8\) Submit the transaction. Fill in the default value for Gas, it may be adjusted \(here the default was 30000 adjusted to 21400.
 
 ![](../../.gitbook/assets/submit-trans.png)
 
-i\) Repeat the process above  to call the `reserve`  & `setAddress` methods
+9\) Repeat the process above  to call the `reserve`  & `setAddress` methods
 
 * `Master of Ceremony` should first call `reserve` method with `_name = 0x6d3815e6a4f3c7fcec92b83d73dda2754a69c601f07723ec5a2274bd6e81e155` \( enter verbatim, this is the keccak hash of  `"service_transaction_checker"`.
 * Then call `setAddress` method with:
@@ -166,7 +166,17 @@ i\) Repeat the process above  to call the `reserve`  & `setAddress` methods
   * \_key = `A` 
   * \_value = `0xCERTIFIER_CONTRACT_ADDRESS`
 
-4\) Update `spec.json` on both **MoC node** and **rpc bootnode.**
+{% hint style="info" %}
+ABI Resources:
+
+ABI of `Registrar` contract: [https://raw.githubusercontent.com/parity-contracts/name-registry/master/abis/SimpleRegistry.json](https://raw.githubusercontent.com/parity-contracts/name-registry/master/abis/SimpleRegistry.json)
+
+ABI of `Certifier` contract: [https://raw.githubusercontent.com/parity-contracts/name-registry/master/abis/SimpleCertifier.json](https://raw.githubusercontent.com/parity-contracts/name-registry/master/abis/SimpleCertifier.json)
+{% endhint %}
+
+## Update Spec.json file
+
+1\) Update `spec.json` on both **MoC node** and **rpc bootnode.**
 
 * Stop Parity
 
@@ -190,7 +200,7 @@ sudo systemctl stop poa-parity
     ...
   ```
 
-5\) Restart Parity on both nodes.
+2\) Restart Parity on both nodes.
 
 ```text
 sudo systemctl restart poa-parity

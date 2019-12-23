@@ -1,0 +1,31 @@
+# Appendix B: Launching Bridge UI
+
+Use the repo [https://github.com/poanetwork/tokenbridge](https://github.com/poanetwork/tokenbridge) to get `Bridge UI` up and running.
+
+Example `.env` file:
+
+```text
+REACT_APP_HOME_BRIDGE_ADDRESS=0x7301CFA0e1756B71869E93d4e4Dca5c7d0eb0AA6
+REACT_APP_HOME_HTTP_PARITY_URL=https://dai.poa.network
+REACT_APP_HOME_NETWORK_NAME='POA DAI Chain'
+REACT_APP_HOME_NATIVE_NAME=DAI
+
+REACT_APP_FOREIGN_BRIDGE_ADDRESS=0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016
+REACT_APP_FOREIGN_HTTP_PARITY_URL=https://mainnet.infura.io/metamask
+REACT_APP_FOREIGN_NETWORK_NAME='ETH Mainnet'
+
+REACT_APP_HOME_EXPLORER_TX_TEMPLATE=https://blockscout.com/poa/dai/tx/%s
+REACT_APP_HOME_EXPLORER_ADDRESS_TEMPLATE=https://blockscout.com/poa/dai/address/%s
+
+REACT_APP_FOREIGN_EXPLORER_TX_TEMPLATE=https://blockscout.com/eth/mainnet/tx/%s
+REACT_APP_FOREIGN_EXPLORER_ADDRESS_TEMPLATE=https://blockscout.com/eth/mainnet/address/%s
+
+REACT_APP_HOME_GAS_PRICE_FALLBACK=1000000000
+REACT_APP_HOME_GAS_PRICE_UPDATE_INTERVAL=900000
+
+REACT_APP_FOREIGN_GAS_PRICE_ORACLE_URL=https://gasprice.poa.network/
+REACT_APP_FOREIGN_GAS_PRICE_SPEED_TYPE=standard
+REACT_APP_FOREIGN_GAS_PRICE_FALLBACK=18000000000
+REACT_APP_FOREIGN_GAS_PRICE_UPDATE_INTERVAL=900000
+```
+
