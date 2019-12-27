@@ -16,7 +16,7 @@ description: Prepare AWS for Node Deployment
 ![](../../.gitbook/assets/user_2.png)
 
 {% hint style="info" %}
-For clarity we recommend using identical usernames on your Ansible Control Station and your remote node. For example,  create a user named "ubuntu" on both your Ansible Control Station and your remote note.
+For clarity we recommend using identical usernames on your Ansible Control Station and your remote node. For example, create a user named "ubuntu" on both your Ansible Control Station and your remote node.
 {% endhint %}
 
 4\) Choose any of the available options - **Attach existing policies directly** is the simplest one. In the list of policy types, search for and select **AmazonEC2FullAccess**.  Click the **Next:Tags** button.
@@ -61,7 +61,7 @@ aws configure
 
 Provide your credentials \(Access Key ID and Secret Access Key\) from earlier. Choose a region for your account \(e.g. `us-east-2`\) and output format \(`json` is recommended\).
 
-10\) Check  the keypair was imported correctly:
+10\) Check the keypair was imported correctly:
 
 ```text
 aws ec2 describe-key-pairs

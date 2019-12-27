@@ -34,7 +34,7 @@ python get-pip.py
 
 ### 3. ansible
 
-1\)follow [this guide](http://docs.ansible.com/ansible/latest/intro_installation.html) to install ansible. For example, you can use `pip` to do it:
+1\) follow [this guide](http://docs.ansible.com/ansible/latest/intro_installation.html) to install ansible. For example, you can use `pip` to do it:
 
 ```text
 sudo pip install ansible

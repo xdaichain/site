@@ -7,7 +7,7 @@ git clone https://github.com/poanetwork/poa-scripts-moc.git
 cd poa-scripts-moc
 ```
 
-2\) Modify `KEYS_MANAGER_ADDRESS` in poa-network-consensus-contracts/contracts.json and the abi \[\] section \(poa-network-consensus-contracts/build/contracts/KeysManager.json\) of the `KeysManager` contract inside the root `config.json` file.
+2\) Modify `KEYS_MANAGER_ADDRESS` in `poa-network-consensus-contracts/contracts.json` and the abi \[\] section \(`poa-network-consensus-contracts/build/contracts/KeysManager.json`\) of the `KeysManager` contract inside the root `config.json` file.
 
 * Set `gasPrice` to `0` in `generateInitialKey/utils/addInitialKey.js`
 

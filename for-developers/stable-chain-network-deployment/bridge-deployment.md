@@ -36,8 +36,8 @@ Certifier ABI: [https://raw.githubusercontent.com/parity-contracts/name-registry
 1\) Clone the Repo
 
 ```text
-git clone -b develop https://github.com/poanetwork/poa-bridge-contracts.git
-cd poa-bridge-contracts
+git clone -b develop https://github.com/poanetwork/tokenbridge-contracts.git
+cd tokenbridge-contracts
 ```
 
 2\) Copy the following example to create the `deploy/.env` file. The example uses the DAI Stablecoin for the ERC20\_Token\_Address.  [Mainnet](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) \| [Kovan](https://kovan.etherscan.io/address/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)

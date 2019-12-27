@@ -35,7 +35,7 @@ sudo nano node.toml
 ```
 
 * `parity.chain` must be a path to spec.json
-* `account.unlock` must contain the `Master of Ceremony` address. You can either generate it or use MoC of the network deployed by `deployment-terraform` scripts.
+* `account.unlock` must contain the `Master of Ceremony` address
 * `mining.min_gas_price` is a min gas price in Wei
 * `mining.engine_signer` must contain the `Master of Ceremony` address
 * `mining.gas_floor_target` is a max block size in gas

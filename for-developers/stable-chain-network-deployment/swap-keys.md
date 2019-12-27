@@ -90,9 +90,9 @@ For testing purposes the script from [https://github.com/poanetwork/deployment-t
        });
   ```
 
-* Replace KeysManager.abi.json with abi\[\] part from poa-network-consensus-contracts/build/contracts/KeysManager.json [example](https://github.com/poanetwork/deployment-terraform/blob/master/helper-scripts/gen-prod-keys/KeysManager.abi.json)
+* Replace `KeysManager.abi.json` with abi\[\] part from `poa-network-consensus-contracts/build/contracts/KeysManager.json` \([example](https://github.com/poanetwork/deployment-terraform/blob/master/helper-scripts/gen-prod-keys/KeysManager.abi.json)\).
 * Put initial keys into `keystore` subdirectory.
-* Call the script for each key once per block
+* Call the script for each key once per block:
 
 {% hint style="info" %}
 Replace `https://<rpc.endpoint>` with address of your bootnode with externally enabled RPC \(When running from `MoC` node you can skip entering `RPC_ENDPOINT` variable\) and `0xKEYS_MANAGER_ADDRESS` with keys manager address \(find it at `poa-network-consensus-contracts`**/**`contracts.json`\) 
@@ -124,7 +124,7 @@ production-keys/
 ```
 
 {% hint style="warning" %}
-It is important that you don't just convert all initial keys without launching validator nodes \(see next step\). It's best to convert one key, then launch corresponding validator node and make sure it's mining, then return to this step and convert the next key, launch second validator node, and so on. Otherwise, you may encounter strange bugs.
+It is important that you don't just convert all initial keys without launching validator nodes \(see next step\). It's best to convert one key, then launch corresponding validator node and make sure it's mining, then return to this step and convert the next key, launch second validator node, and so on. Otherwise, you may encounter bugs.
 {% endhint %}
 
 ## Configure Validator Nodes
@@ -156,7 +156,11 @@ Repeat this process for each validator node
   var gasPrice = web3.utils.toWei(big('0'), 'gwei');
   ```
 
-3\) Change validators `INSTANCE_NAME` in /home/validator/eth-net-intelligence-api/app.json if necessary. 
+3\) Change validators `INSTANCE_NAME` in `/home/validator/eth-net-intelligence-api/app.json` if necessary. 
 
-4\) Start network validators' node.
+4\) Start validator's node
+
+```text
+sudo systemctl restart poa-parity
+```
 
