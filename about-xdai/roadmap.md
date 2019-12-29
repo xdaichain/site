@@ -13,7 +13,7 @@ description: Future Directions for the xDai Stable Chain
 The [Carbon on-ramp](../for-users/buying-xdai-with-carbon/) for xDai is now functional \(functionality is dependent on geo-location\).
 {% endhint %}
 
-At the moment, to get xDai, most users have to get Dai first and relay it to xDai via xDai Bridge. The process is complicated and time-consuming due to congestions on the Ethereum networks and the probabilistic nature of Proof of Work consensus. Relayers of the xDai bridge are waiting for eight blocks on Ethereum before they relay Dai to xDai. 
+At the moment, to get xDai, most users have to get Dai first and relay it to xDai via xDai Bridge. The process is complicated and time-consuming due to congestions on the Ethereum networks and the probabilistic nature of Proof of Work consensus. Relayers of the xDai bridge are waiting for eight blocks on Ethereum before they relay Dai to xDai.
 
 The xDai team is working with payment processing companies to enable Fiat to xDai onramp. To facilitate the integration of xDai fiat onramp into wallets, the team started "xDai Adoption Fund" [https://www.xdaichain.com/for-developers/grants\#xdai-adoption-fund](https://www.xdaichain.com/for-developers/grants#xdai-adoption-fund)
 
@@ -22,13 +22,19 @@ The xDai team is working with payment processing companies to enable Fiat to xDa
 **Target Date:** Q4 2019  
 **Status**: Done. Summary: [https://forum.poa.network/t/migration-of-the-xdai-tokenbridge-completed/3212](https://forum.poa.network/t/migration-of-the-xdai-tokenbridge-completed/3212)
 
+{% hint style="success" %}
+xDai bridge is upgraded to support both Dai and Sai.
+
+Bridge balance migrated from Sai to Dai. Both Dai and Sai can be deposited on the Ethereum side. Sai to Dai converted automatically.
+{% endhint %}
+
 Once the Dai protocol implementation is upgraded to MCD \(Multi-Collateral Dai\), the xDai bridge will also be upgraded to use MCD Dai.
 
 ## **Privacy Preserving Transactions**
 
 **Target Date:** Q1 2020
 
-Implementation of additional zero-knowledge protocols and private transactions into xDai. 
+Implementation of additional zero-knowledge protocols and private transactions into xDai.
 
 Since xDai is a stable token, the primary use of the chain is peer-to-peer payments. Just as with cash, privacy should be an option when exchanging money or paying vendors for services. It doesn’t matter if you are sending money to a relative or your local butcher. You should have the freedom to choose that any transaction remain anonymous.
 
@@ -36,9 +42,9 @@ We have invested in several [different approaches ](https://forum.poa.network/t/
 
 ## Consensus Upgrade
 
-**Target Date:** Q3 2020 
+**Target Date:** Q3 2020
 
-xDai currently uses known organizations in the ecosystem as chain validators. These organizations subsidize their own nodes, and this is unsustainable in the long term. To increase decentralization, and offer the broader community the chance to participate in consensus, we will upgrade to the POSDAO consensus model. 
+xDai currently uses known organizations in the ecosystem as chain validators. These organizations subsidize their own nodes, and this is unsustainable in the long term. To increase decentralization, and offer the broader community the chance to participate in consensus, we will upgrade to the POSDAO consensus model.
 
 ## Synthetic Assets on xDai based on UMA protocol
 
@@ -58,5 +64,5 @@ A scalability solution based on zero-knowledge protocol \(Rollup\) will be deplo
 
 **Target Date**: Q3 2020
 
-A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE](../for-validators/staking/get-stake-tokens.md) tokens and HBBFT consensus. 
+A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE](../for-validators/staking/get-stake-tokens.md) tokens and HBBFT consensus.
 
