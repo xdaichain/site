@@ -1,5 +1,9 @@
 # 6\) Bridge Deployment
 
+{% hint style="success" %}
+Deploy the bridge after you have [reconfigured your instance](5-reconfigure-instances.md).
+{% endhint %}
+
 ## Create additional accounts for deployment
 
 1\) Generate private keys for the following using MetaMask or MyEtherWallet. Save as **json keystore file + password**. Note the json location,  wallet address, and password for each account.
@@ -109,4 +113,8 @@ cd deploy
 npm i
 node deploy.js
 ```
+
+{% hint style="success" %}
+Next: [Deploy Consensus Contracts](7-deploy-consensus-contracts-on-moc-node.md)
+{% endhint %}
 

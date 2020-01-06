@@ -6,7 +6,7 @@ Complete [1\) Local Tooling Setup](local-tooling-setup.md) and [2\) AWS Initial 
 
 ## Prerequisites
 
-1. Generate 2 private keys for the Master of Ceremony \(MoC\) and Validators account \(we can use 1 address for all 3 validators in this scenario\). Use MetaMask or myetherwallet to generate private keys and save as **json keystore file + password**. Note the json location,  wallet address, and password for each file.
+1. Generate private keys for the Master of Ceremony \(MoC\) and 3 Validator accounts \(4 accounts total\). Use MetaMask or myetherwallet to generate private keys and save as **json keystore file + password**. Note the json location,  wallet address, and password for each file.
 2. Choose and write down a name for the future Network \(Genesis Network Name\).
 3. Choose and write down a secret password for the Netstat Server.
 
@@ -15,8 +15,8 @@ Record and keep this information handy for installation:
 
 * MoC wallet address 
 * MoC wallet password
-* Validator wallet address
-* Validator wallet password
+* Validator wallet addresses
+* Validator wallet passwords
 * Genesis Network Name
 * Netstat Password
 
@@ -28,21 +28,21 @@ Record and keep this information handy for installation:
 * AWS keypair\_name
 {% endhint %}
 
-## Download & Launch
+## Download & Launch \(to create AWS instances\)
 
-1\) Clone repositories with playbooks [https://github.com/poanetwork/deployment-playbooks](https://github.com/poanetwork/deployment-playbooks)
+1\) Clone repositories with playbooks. [https://github.com/poanetwork/deployment-playbooks](https://github.com/poanetwork/deployment-playbooks)
 
 ```text
 git clone https://github.com/poanetwork/deployment-playbooks.git
 ```
 
-2\) Create instances on AWS
+2\) Switch to aws directory.
 
 ```text
 cd deployment-playbooks/aws
 ```
 
-3\) Create configuration file. We will start with the Netstat server
+3\) Create configuration file. Start with the Netstat server
 
 ```text
 cp group_vars/all.yml.example group_vars/all.yml
@@ -99,7 +99,7 @@ ansible-playbook validator.yml -e "validator_instance_name=validator-3"
 ```
 
 {% hint style="success" %}
-You should now have 6 nodes running on AWS: 1x for future MoC, 1x netstat, 1x explorer \(etherscan light\), 1x bootnode, 3x validators.  
+You should now have 7 nodes running on AWS: 1x for future MoC, 1x netstat, 1x explorer \(etherchain light\), 1x bootnode, 3x validators.  
   
  Next: [Configure Instances](4-configure-instances.md).
 {% endhint %}

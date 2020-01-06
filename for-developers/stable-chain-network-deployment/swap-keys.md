@@ -1,7 +1,7 @@
 # 9\) Swap & Distribute Keys
 
 {% hint style="info" %}
-This can also be performed by launching the`Ceremony DApp` with or without forking the `poanetwork/poa-chain-spec` repo. See How to use DApps for governance in your PoA network.
+This process can also be performed by launching the`Ceremony DApp` with or without forking the `poanetwork/poa-chain-spec` repo. See [Appendix C: Governance DApps ](appendix-c-governance-dapps.md)for more info.
 {% endhint %}
 
 ## Swap keys without forking
@@ -163,4 +163,8 @@ Repeat this process for each validator node
 ```text
 sudo systemctl restart poa-parity
 ```
+
+{% hint style="success" %}
+Next: [Finalize Deployment](10-finalize-deployment.md)!
+{% endhint %}
 

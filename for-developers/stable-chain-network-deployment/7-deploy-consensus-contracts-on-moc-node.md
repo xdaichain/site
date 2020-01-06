@@ -1,5 +1,9 @@
 # 7\) Deploy Consensus Contracts \(on MoC node\)
 
+{% hint style="success" %}
+Deploy consensus contracts after [Bridge Deployment](bridge-deployment.md)
+{% endhint %}
+
 1\) Clone the repo into the moc folder \(`:/home/moc`\)
 
 ```text
@@ -101,6 +105,10 @@ sudo systemctl restart poa-parity
 and wait until the hard fork's block number is reached and `RewardByBlock` is activated.
 
 3\) Replace the updated `spec.json` on all the other network nodes \(bootnode, explorer, validators\) and reboot them. Also update the `spec.json` on the rpc bootnode launched earlier and reboot.
+
+{% hint style="success" %}
+Next: [Generate Keys](generate-keys.md)
+{% endhint %}
 
 
 

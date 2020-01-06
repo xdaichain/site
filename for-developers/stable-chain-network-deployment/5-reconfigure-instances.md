@@ -4,6 +4,10 @@ description: Update json.spec files and launch Register & Certifier contracts
 
 # 5\) Reconfigure Instances
 
+{% hint style="success" %}
+Start here after [initial instance configuration](4-configure-instances.md).
+{% endhint %}
+
 ## Master of Ceremonies \(MoC\) Instance Initial Steps
 
 1\) Login to MoC instance and go to the moc directory
@@ -207,7 +211,7 @@ sudo systemctl restart poa-parity
 ```
 
 {% hint style="success" %}
-Next: Launching a Bridge Instance
+Next: [Bridge Deployment](bridge-deployment.md)
 {% endhint %}
 
 
