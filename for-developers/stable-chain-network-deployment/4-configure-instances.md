@@ -36,7 +36,7 @@ select any subnet with "State": "available" and non-zero "AvailableIpAddressCoun
 ## **Instance Creation**
 
 {% hint style="info" %}
-The following instances will be configured one-by-one. For each instance you will:
+The following instances will be configured one-by-one. For each instance you will
 
 1. Create the ansible configuration file using an example file. It will be copied to group\_vars/all.yml
 2. Edit the newly created all.yml file with necessary parameters
@@ -164,18 +164,24 @@ cat group_vars/all.yml.network group_vars/validator.yml.example > group_vars/all
 ```text
 [validator]
 1.2.3.4
+5.6.7.8
+9.10.11.12
 
 [ubuntu]
 1.2.3.4
+5.6.7.8
+9.10.11.12
 ```
+
+{% hint style="warning" %}
+You can launch individually as well, if using different addresses for different validators. This is not required for this bootstrapped configuration.
+{% endhint %}
 
 4\) Launch the playbook, it should complete without errors.
 
 ```text
 ansible-playbook -i hosts site.yml
 ```
-
-5\) Repeat the process for each validator node - editing the all.yml and hosts file with updated info.
 
 ### Explorer Nodes
 
@@ -239,8 +245,6 @@ To ensure services are properly shut down, you can check service status with `su
 {% endhint %}
 
 {% hint style="success" %}
-You should now have bootstrapped configuration files.  
-  
-Next: [Reconfigure Instances](5-reconfigure-instances.md)
+You should now have bootstrapped configuration files and can proceed to the next instruction.
 {% endhint %}
 

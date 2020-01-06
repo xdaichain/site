@@ -66,7 +66,3 @@ The generated keys \(json keystores and their passwords\) will be saved into the
 
 Call the `certify` method with `_who = 0xINITIAL_KEY_ADDRESS` for each initial key [using the MyCrypto method.](5-reconfigure-instances.md#call-contract-methods-using-mycrypto)
 
-{% hint style="success" %}
-Next: [Swap & Distribute Keys](swap-keys.md)
-{% endhint %}
-

@@ -8,6 +8,10 @@ description: Update json.spec files and launch Register & Certifier contracts
 Start here after [initial instance configuration](4-configure-instances.md).
 {% endhint %}
 
+{% hint style="warning" %}
+**Note:** Instructions are current for Parity v2.6.2. Updates for v2.6.5+ are in process.
+{% endhint %}
+
 ## Master of Ceremonies \(MoC\) Instance Initial Steps
 
 1\) Login to MoC instance and go to the moc directory
