@@ -1,7 +1,7 @@
 # 9\) Swap & Distribute Keys
 
 {% hint style="info" %}
-This can also be performed by launching the`Ceremony DApp` with or without forking the `poanetwork/poa-chain-spec` repo. See How to use DApps for governance in your PoA network.
+This process can also be performed by launching the`Ceremony DApp` with or without forking the `poanetwork/poa-chain-spec` repo. See [Appendix C: Governance DApps ](appendix-c-governance-dapps.md)for more info.
 {% endhint %}
 
 ## Swap keys without forking
@@ -136,7 +136,7 @@ Repeat this process for each validator node
 1\) Distribute generated mining keys to validator nodes.
 
 * Place `0x<address>.json` file into `parity_data/keys/$NetworkName/`
-* Change the key in `node.pwd` \(use mining key `0x<address>.key` file\)
+* Change the password in `node.pwd` \(take it from the corresponding `*.key` or `*.txt` generated file\)
 * Change the address in `node.toml` \(replace `unlock = […]` and `engine_signer = "..."` lines with mining key address\).
 
 2\) Configure `poa-scripts-validator` directory on each validator node:
@@ -163,4 +163,8 @@ Repeat this process for each validator node
 ```text
 sudo systemctl restart poa-parity
 ```
+
+{% hint style="success" %}
+Next: [Finalize Deployment](10-finalize-deployment.md)!
+{% endhint %}
 
