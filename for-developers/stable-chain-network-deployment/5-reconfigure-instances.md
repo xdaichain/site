@@ -61,7 +61,7 @@ cd name-registry
 
 * Set `gasPrice` to `0` in `truffle-config.js`. Replace port 7545 with Port 8545.
 
-```text
+```diff
     diff --git a/truffle-config.js b/truffle-config.js
     index ee5a576..62681ac 100644
     --- a/truffle-config.js
