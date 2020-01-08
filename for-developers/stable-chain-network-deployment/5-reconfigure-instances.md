@@ -8,13 +8,9 @@ description: Update json.spec files and launch Register & Certifier contracts
 Start here after [initial instance configuration](4-configure-instances.md).
 {% endhint %}
 
-{% hint style="warning" %}
-**Note:** Instructions are current for Parity v2.6.2. Updates for v2.6.5+ are in process.
-{% endhint %}
-
 ## Master of Ceremonies \(MoC\) Instance Initial Steps
 
-1\) Login to MoC instance and go to the moc directory
+1\) Login to MoC instance and go to the `moc` directory
 
 ```text
 ssh -i ubuntu@moc-ec2-user.DNS/Address
@@ -24,10 +20,10 @@ ssh -i ubuntu@moc-ec2-user.DNS/Address
 ubuntu@ip-moc-ec2-user:~ cd ../moc
 ```
 
-2\) Replace the existing json.spec file, changing parameters as required:
+2\) Replace the existing `spec.json` file, changing parameters as required:
 
-1. Copy: [https://raw.githubusercontent.com/poanetwork/wiki/master/assets/configs/spec.json](https://raw.githubusercontent.com/poanetwork/wiki/master/assets/configs/spec.json).
-2. `sudo nano json.spec` paste and make changes as needed:
+1. Copy [https://raw.githubusercontent.com/poanetwork/poa-chain-spec/dai-deployment/spec.json](https://raw.githubusercontent.com/poanetwork/poa-chain-spec/dai-deployment/spec.json)
+2. `sudo nano spec.json` paste and make changes as needed:
 
 * `name` must be `{{ network_name }}`
 * `engine.authorityRound.params.blockReward` must be `0x0`
@@ -42,7 +38,7 @@ _\(we use nano in this demonstration, feel free to use vim or another editor of 
 sudo nano node.toml
 ```
 
-* `parity.chain` must be a path to spec.json
+* `parity.chain` must be a path to `spec.json`
 * `account.unlock` must contain the `Master of Ceremony` address
 * `mining.min_gas_price` is a min gas price in Wei
 * `mining.engine_signer` must contain the `Master of Ceremony` address
@@ -83,7 +79,7 @@ cd name-registry
      };
 ```
 
-* Unlock Master of Ceremony in node.toml. 
+* Unlock Master of Ceremony in `node.toml`. 
   * `cd..` to moc directory
   * `sudo nano node.toml`
   * Uncomment \#`unlock=[...]`
@@ -103,8 +99,8 @@ Deployment artifacts will be stored in the `build` subfolder.
 
 3\) Copy these items:
 
-* `spec.json` file - you will replace the Bootnode instance with this file
-* Addresses of the newly deployed `Certifier` and `Registry` contracts. Go to the name-registry subdirectory and execute:
+* `spec.json` file - you will replace the Bootnode instance with this file.
+* Addresses of the newly deployed `Certifier` and `Registry` contracts. Go to the `name-registry` subdirectory and execute:
 
 ```text
 grep -Rn \"address\": build/contracts/{SimpleCertifier.json,SimpleRegistry.json} 
@@ -134,7 +130,7 @@ Visit [https://1.2.3.4 ](https://1.2.3.4%20) \(using the bootnode's ip address\)
 4\) Fill in information about your node. 
 
 1. Node name can be your choice 
-2. url is https://1.2.3.4 \(using your bootnode ip\)
+2. URL is https://1.2.3.4 \(using your bootnode ip\)
 3. Keep currency as ETH
 4. Save and Use Custom Node
 
@@ -182,7 +178,7 @@ ABI of `Registrar` contract: [https://raw.githubusercontent.com/parity-contracts
 ABI of `Certifier` contract: [https://raw.githubusercontent.com/parity-contracts/name-registry/master/abis/SimpleCertifier.json](https://raw.githubusercontent.com/parity-contracts/name-registry/master/abis/SimpleCertifier.json)
 {% endhint %}
 
-## Update Spec.json file
+## Update spec.json file
 
 1\) Update `spec.json` on both **MoC node** and **rpc bootnode.**
 
@@ -192,7 +188,7 @@ ABI of `Certifier` contract: [https://raw.githubusercontent.com/parity-contracts
 sudo systemctl stop poa-parity
 ```
 
-* Add `Registrar` contract address into `params` section of `spec.json.` Make sure it is the appropriate params section.
+* Add `Registrar` contract address into `params` section of `spec.json`. Make sure it is the appropriate params section.
 
   ```text
     "name": "...",
