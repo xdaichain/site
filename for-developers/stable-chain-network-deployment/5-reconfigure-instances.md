@@ -39,7 +39,7 @@ sudo nano node.toml
 ```
 
 * `parity.chain` must be a path to `spec.json`
-* `account.unlock` must contain the `Master of Ceremony` address
+* `account.unlock` must contain the `Master of Ceremony` address. \(do not uncomment yet\)
 * `mining.min_gas_price` is a min gas price in Wei
 * `mining.engine_signer` must contain the `Master of Ceremony` address
 * `mining.gas_floor_target` is a max block size in gas
@@ -97,9 +97,18 @@ sudo node_modules/.bin/truffle migrate --reset --network development
 Deployment artifacts will be stored in the `build` subfolder.
 {% endhint %}
 
+{% hint style="info" %}
+If you experience issues with npm install, you can use yarn. Instructions here: [https://yarnpkg.com/lang/en/docs/install/\#debian-stable](https://yarnpkg.com/lang/en/docs/install/#debian-stable)
+{% endhint %}
+
 3\) Copy these items:
 
-* `spec.json` file - you will replace the Bootnode instance with this file.
+* `spec.json` file - you will replace the Bootnode instance with this file. Example:
+
+```text
+scp -i ~/.ssh/your-private-key ubuntu@moc-ec2-user.DNS/Address:/home/moc/spec.json your-local-folder/
+```
+
 * Addresses of the newly deployed `Certifier` and `Registry` contracts. Go to the `name-registry` subdirectory and execute:
 
 ```text
