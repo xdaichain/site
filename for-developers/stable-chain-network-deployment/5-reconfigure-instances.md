@@ -206,7 +206,7 @@ sudo systemctl stop poa-parity
     },
     "params": {
       ...,
-      "NetworkID": "xxx";
+      "NetworkID": "xxx",
       ...,
       "registrar": "0xREGISTRAR_ADDRESS"
     },
