@@ -18,7 +18,7 @@ Public node URL: enode://c7dfb42206db1893d1ab0cbbfcb801ffe7e45b88d05f19abe3c6169
 
 6\) **Log back into MoC node** and replace the `/home/moc/bootnodes.txt` file with the `bootnodes.txt` file from the Bootnode. It should contain both enode entries. Save the file and restart MoC node with `sudo systemctl restart poa-parity`.
 
-7\) Go to netstat dashboard and make sure MoC node and bootnode are show there and display the same hashes for each block.
+7\) Go to the Netstat dashboard and make sure MoC node and Bootnode  are shown and display the same hashes for each block.
 
 {% hint style="success" %}
 [Next: Call Contract Methods](7-call-contract-methods-using-mycrypto.md) 
