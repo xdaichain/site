@@ -16,12 +16,15 @@ These advanced instructions are for developers interested in deploying their own
 2. [AWS Initial Setup](aws-initial-setup.md)
 3. [Download & Launch Playbooks](3-download-and-configure-playbook.md)
 4. [Initial Instance Configuration](4-configure-instances.md)
-5. [Reconfigure Instances](5-reconfigure-instances.md) \(update spec.json files, launch Registrar & Certifier Contracts\)
-6. [Bridge Deployment](bridge-deployment.md)
-7. [Deploy Consensus Contracts](7-deploy-consensus-contracts-on-moc-node.md)
-8. [Generate Keys](generate-keys.md)
-9. [Swap & Distribute Keys](swap-keys.md)
-10. [Finalize Deployment](10-finalize-deployment.md)
+5. [Reconfigure Moc Instance](5-reconfigure-instances.md)
+6. [Configure Bootnode Instance](6-configure-bootnode-instance.md)
+7. [Call Contract Methods](7-call-contract-methods-using-mycrypto.md)
+8. [Update spec.json](8-update-spec.json-file.md)
+9. [Bridge Deployment](bridge-deployment.md)
+10. [Deploy Consensus Contracts](7-deploy-consensus-contracts-on-moc-node.md)
+11. [Generate Keys](generate-keys.md)
+12. [Swap & Distribute Keys](swap-keys.md)
+13. [Finalize Deployment](10-finalize-deployment.md)
 
 #### **Additional Appendices:**
 

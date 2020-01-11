@@ -1,4 +1,12 @@
-# 10\) Finalize Deployment
+# 13\) Finalize Deployment
+
+{% hint style="success" %}
+Congratulations - you are ready to complete the deployment! Follow the steps below to finalize your deployment. For additional info and features, see the Appendices:
+
+* [Appendix A: BlockScout Explorer](appendix-a-blockscout-explorer.md)
+* [Appendix B: Bridge UI](appendix-b-launching-bridge-ui.md)
+* [Appendix C: Governance DApps](appendix-c-governance-dapps.md)
+{% endhint %}
 
 1\) Remove initial keys, deployment account's address, and HomeOwner's address from `Certifier` contract calling its `revoke` method. [How to call contract's method with MyCrypto.](5-reconfigure-instances.md#call-contract-methods-using-mycrypto)
 

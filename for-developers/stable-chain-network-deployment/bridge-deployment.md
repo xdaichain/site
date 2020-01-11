@@ -1,4 +1,8 @@
-# 6\) Bridge Deployment
+# 9\) Bridge Deployment
+
+{% hint style="success" %}
+Deploy the bridge after you have [reconfigured your instance](5-reconfigure-instances.md).
+{% endhint %}
 
 ## Create additional accounts for deployment
 
@@ -109,4 +113,8 @@ cd deploy
 npm i
 node deploy.js
 ```
+
+{% hint style="success" %}
+Next: [Deploy Consensus Contracts](7-deploy-consensus-contracts-on-moc-node.md)
+{% endhint %}
 

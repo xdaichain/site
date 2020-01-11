@@ -1,4 +1,4 @@
-# 9\) Swap & Distribute Keys
+# 12\) Swap & Distribute Keys
 
 {% hint style="info" %}
 This process can also be performed by launching the`Ceremony DApp` with or without forking the `poanetwork/poa-chain-spec` repo. See [Appendix C: Governance DApps ](appendix-c-governance-dapps.md)for more info.
@@ -158,11 +158,19 @@ Repeat this process for each validator node
 
 3\) Change validators `INSTANCE_NAME` in `/home/validator/eth-net-intelligence-api/app.json` if necessary. 
 
-4\) Start validator's node
+4\) Update `bootnodes.txt` with the `bootnodes.txt` file from the Bootnode instance. It will contain 2 lines, one enode for the MoC node and the second for the Bootnode.
+
+4\) Start validator's node.
 
 ```text
 sudo systemctl restart poa-parity
 ```
+
+5\) Check that the node is synchronized with the MoC and Bootnode nodes
+
+Open [http://1.2.3.4:3000](http://1.2.3.4:3000/) \(using your Netstats url instance\) to check your nodes.
+
+6\) Repeat process for remaining Validator nodes.
 
 {% hint style="success" %}
 Next: [Finalize Deployment](10-finalize-deployment.md)!

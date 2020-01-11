@@ -1,4 +1,4 @@
-# 7\) Deploy Consensus Contracts \(on MoC node\)
+# 10\) Deploy Consensus Contracts \(on MoC node\)
 
 {% hint style="success" %}
 Deploy consensus contracts after [Bridge Deployment](bridge-deployment.md)

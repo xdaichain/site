@@ -196,7 +196,7 @@ sudo systemctl stop poa-parity
 2\) Erase parity data folder
 
 ```text
-sudo rm -rf /home/ROLE/parity_data/{network,cache}
+sudo rm -rf /home/ROLE/parity_data/{network,cache,chains} /home/ROLE/logs/parity.log
 ```
 
 replacing ROLE with `moc`/`bootnode`/`validator` respectively

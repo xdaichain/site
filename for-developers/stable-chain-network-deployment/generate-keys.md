@@ -1,4 +1,4 @@
-# 8\) Generate Keys
+# 11\) Generate Keys
 
 1\) Create 3 initial keys on the  `Master of Ceremony` node using the scripts from [https://github.com/poanetwork/poa-scripts-moc/tree/core](https://github.com/poanetwork/poa-scripts-moc/tree/core):
 
@@ -65,4 +65,8 @@ The generated keys \(json keystores and their passwords\) will be saved into the
 3\) The `Master of Ceremony` adds initial keys into the `Certifier` contract so that each validator can complete a transaction registering the primary keys \(mining + voting + payout\).
 
 Call the `certify` method with `_who = 0xINITIAL_KEY_ADDRESS` for each initial key [using the MyCrypto method.](5-reconfigure-instances.md#call-contract-methods-using-mycrypto)
+
+{% hint style="success" %}
+Next: [Swap & Distribute Keys](swap-keys.md)
+{% endhint %}
 
