@@ -4,6 +4,10 @@ description: Receive funding to build the next great DApp on xDai
 
 # xDai Adoption Fund
 
+{% hint style="warning" %}
+**The grants program is not processing new applications at the moment as we are looking for grantors. The program will re-open in Q2 2020.**
+{% endhint %}
+
 The xDai ecosystem is growing, and we are looking to fund DApps that bring new features, functionality and use-cases to the xDAi chain, as well as projects that provide enhancements to the current infrastructure. New features and applications are vital to increase adoption, and we provide financial support to interesting projects. 
 
 Applications are available from the form below, please provide a thorough description of your project, how it will contribute to xDai's growth, and your projected funding requirements.

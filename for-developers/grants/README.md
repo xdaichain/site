@@ -1,7 +1,5 @@
 ---
-description: >-
-  There are currently two active grants for building features/applications on
-  xDai
+description: There are currently two tracks for building features/applications on xDai
 ---
 
 # Grants for building on xDai
