@@ -25,14 +25,6 @@ cp files/admins.pub files/ssh_moc.pub
 * replace value of `MOC_ADDRESS` with address of MoC that you generated
 * \(optionally\) replace value of `BLK_GAS_LIMIT` to increase/decrease default block gas limit
 
-4\) Choose an available subnet in AWS
-
-```text
-aws ec2 describe-subnets
-```
-
-select any subnet with "State": "available" and non-zero "AvailableIpAddressCount". **Copy/save "SubnetId" of this subnet for later use.**
-
 ## **Instance Creation**
 
 {% hint style="info" %}
@@ -57,7 +49,7 @@ cat group_vars/all.yml.network group_vars/netstat.yml.example > group_vars/all.y
 
 * Replace value of `NETSTATS_SECRET` with the secret password for netstat server
 
-3\) Create a `hosts` file with the following content,  replacing 1.2.3.4 with IP address previously generated for the netstat server.
+3\) In the base directory , create a `hosts` file with the following content,  replacing 1.2.3.4 with IP address previously generated for the netstat server.
 
 ```text
 [netstat]
