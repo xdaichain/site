@@ -99,12 +99,12 @@ Change `1234` to the number of a future block.
 2\) Restart Parity on Moc Node
 
 ```text
-sudo systemctl restart poa-parity
+sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
 ```
 
 and wait until the hard fork's block number is reached and `RewardByBlock` is activated.
 
-3\) Replace the updated `spec.json` on all the other network nodes \(bootnode, explorer, validators\). Also, restart Parity on the `bootnode` launched earlier.
+3\) Replace the updated `spec.json` on all the other network nodes \(bootnode, explorer, validators\). Also, restart Parity on the `bootnode` launched earlier: `sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats`
 
 {% hint style="success" %}
 Next: [Generate Keys](generate-keys.md)

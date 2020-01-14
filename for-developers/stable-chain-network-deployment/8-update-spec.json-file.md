@@ -27,7 +27,7 @@ sudo systemctl stop poa-parity
 2\) Restart Parity on both nodes.
 
 ```text
-sudo systemctl restart poa-parity
+sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
 ```
 
 3\) Check Netstat to ensure your nodes are communicating. They should display the same block hash for each block.

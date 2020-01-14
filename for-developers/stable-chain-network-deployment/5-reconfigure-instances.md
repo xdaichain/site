@@ -47,7 +47,7 @@ sudo nano node.toml
 4\) Launch the `Master of Ceremony` node
 
 ```text
-sudo systemctl restart poa-parity
+sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
 ```
 
 ## Prepare `Register` & `Certifier` Contracts
@@ -83,7 +83,7 @@ cd name-registry
   * `cd..` to moc directory
   * `sudo nano node.toml`
   * Uncomment \#`unlock=[...]`
-  * Restart Parity: `sudo systemctl restart poa-parity`
+  * Restart Parity: `sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats`
 
 2\) Deploy Contracts
 

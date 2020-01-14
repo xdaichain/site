@@ -163,10 +163,10 @@ Repeat this process for each validator node
 4\) Start validator's node.
 
 ```text
-sudo systemctl restart poa-parity
+sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
 ```
 
-5\) Check that the node is synchronized with the MoC and Bootnode nodes
+5\) Check that the node is synchronized with the MoC and Bootnode nodes.
 
 Open [http://1.2.3.4:3000](http://1.2.3.4:3000/) \(using your Netstats url instance\) to check your nodes.
 
