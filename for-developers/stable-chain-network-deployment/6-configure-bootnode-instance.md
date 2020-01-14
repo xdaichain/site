@@ -8,7 +8,11 @@
 
 3\) Open `/home/bootnode/node.toml` in your favorite editor and add `"parity"` to the `apis` option in `[rpc]` section so that it would look like `apis = ["web3","eth","net","parity"]`
 
-4\) Restart Parity: `sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats`
+4\) Restart Parity: 
+
+```text
+sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
+```
 
 5\) Retrieve bootnode's enode with this command:
 
@@ -20,9 +24,17 @@ curl --data '{"method":"parity_enode","params":[],"id":1,"jsonrpc":"2.0"}' -H "C
 
 7\) Open `/home/bootnode/node.toml` in your favorite editor and remove `"parity"` from the `apis` option in `[rpc]` section.
 
-8\) Restart Parity: `sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats`
+8\) Restart Parity & Netstats: 
 
-9\) **Log back into MoC node** and replace the `/home/moc/bootnodes.txt` file with the `bootnodes.txt` file from the Bootnode. It should contain both enode entries. Save the file and restart MoC node with `sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats`
+```text
+sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
+```
+
+9\) **Log back into MoC node** and replace the `/home/moc/bootnodes.txt` file with the `bootnodes.txt` file from the Bootnode. It should contain both enode entries. Save the file and restart MoC node / Netstats with:
+
+```text
+sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats
+```
 
 10\) Go to the Netstat dashboard and make sure MoC node and Bootnode are shown and display the same hashes for each block.
 

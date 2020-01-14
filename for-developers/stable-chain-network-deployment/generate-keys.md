@@ -34,7 +34,7 @@ index 87ba634..1cb4392 100644
 --- a/generateInitialKey/utils/sendEtherToInitialKeyTX.js
 +++ b/generateInitialKey/utils/sendEtherToInitialKeyTX.js
 @@ -1,6 +1,8 @@
- //sends tx to transafer 0.1 eth from master of ceremony to initial key
+ //sends tx to transfer 0.1 eth from master of ceremony to initial key
  function sendEtherToInitialKeyTX(web3, initialKey, MoC) {
         return new Promise((resolve, reject) => {
 +                resolve();

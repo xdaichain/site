@@ -7,7 +7,7 @@ Deploy consensus contracts after [Bridge Deployment](bridge-deployment.md)
 1\) Clone the repo into the moc folder \(`:/home/moc`\)
 
 ```text
-git clone https://github.com/poanetwork/poa-network-consensus-contracts
+sudo git clone https://github.com/poanetwork/poa-network-consensus-contracts
 cd poa-network-consensus-contracts
 npm i
 ```
@@ -34,7 +34,7 @@ index d76a15e..8edbdaf 100644
 * set `blockRewardAmount` to `0`
 * set `emissionFundsAmount` to `0`
 * set `bridgesAllowedLength` to `1`
-* set the address of bridge contract in `bridgesAllowed()` function  use the  `homeBridge` address from previous step, it is located in poa-bridge-contracts/bridgeDeploymentResults.json
+* set the address of bridge contract in `bridgesAllowed()` function : use the  `homeBridge` address from previous step, it is located in `poa-bridge-contracts/bridgeDeploymentResults.json`
 
 **Example:**
 
@@ -71,7 +71,7 @@ HOME_BRIDGE_ADDRESS=0xHOME_BRIDGE_CONTRACT_ADDRESS BLOCK_REWARD_ADDRESS=0xBLOCK_
 
 ## Update `spec.json` to create a Hard Fork
 
-1\) Add the addresses of `PoaNetworkConsensus` and `RewardByBlock` contracts \(making hard fork\).
+1\) Add the addresses of `PoaNetworkConsensus` and `RewardByBlock` contracts \(making a hard fork\).
 
 * Add a number of hard fork's transition block and the address of `PoaNetworkConsensus` contract to `engine.authorityRound.params.validators.multi` section, add `blockRewardContractAddress` and `blockRewardContractTransition` params to `engine.authorityRound.params` section:
 
@@ -104,7 +104,11 @@ sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-nets
 
 and wait until the hard fork's block number is reached and `RewardByBlock` is activated.
 
-3\) Replace the updated `spec.json` on all the other network nodes \(bootnode, explorer, validators\). Also, restart Parity on the `bootnode` launched earlier: `sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats`
+3\) Replace the updated `spec.json` on all the other network nodes \(bootnode, explorer, validators\). Also, restart Parity on the `bootnode` launched earlier: 
+
+\`\`
+
+`sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-netstats`
 
 {% hint style="success" %}
 Next: [Generate Keys](generate-keys.md)
