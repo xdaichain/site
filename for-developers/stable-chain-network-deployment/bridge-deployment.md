@@ -25,7 +25,7 @@ This data can not be recovered through an account after creation, so be sure to 
 You will need tokens for deployment on the Foreign side of the bridge. This means the DEPLOYMENT\_ACCOUNT and VALIDATOR accounts will require tokens. The DEPLOYMENT\_ACCOUNT will deploy bridge contracts and initialize the bridge, and VALIDATOR accounts use tokens to pay for txs on the foreign side.
 {% endhint %}
 
-2\) Add addresses to the Certifier contract using the [MyCrypto method described previously](5-reconfigure-instances.md#call-contract-methods-using-mycrypto).
+2\) Add the following addresses to the Certifier contract using the [MyCrypto method described previously](5-reconfigure-instances.md#call-contract-methods-using-mycrypto).
 
 a\) Use the `Master of Ceremony` address to call the `certify` method in the `Certifier` Contract. You will certify the following addresses, completing a separate transaction for each:
 
@@ -37,27 +37,38 @@ Certifier ABI: [https://raw.githubusercontent.com/parity-contracts/name-registry
 
 ## Configure and Deploy Bridge Contracts
 
-1\) Clone the Repo
+### 1\) Clone the Repo
 
 ```text
 git clone -b develop https://github.com/poanetwork/tokenbridge-contracts.git
 cd tokenbridge-contracts
 ```
 
-2\) Copy the following example to create the `deploy/.env` file. The example uses the DAI Stablecoin for the ERC20\_Token\_Address.  [Mainnet](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) \| [Kovan](https://kovan.etherscan.io/address/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)
-
-{% hint style="warning" %}
-Replace all variables templated with tags \(&lt;&gt;\) with actual values.
+{% hint style="info" %}
+If preferred, use Docker to get the latest image. `docker pull poanetwork/tokenbridge-contracts:latest`
 {% endhint %}
 
+### 2\) Copy the following example to create the `deploy/.env` file. 
+
+The example below uses the DAI Stablecoin for the ERC20\_Token\_Address.  [Mainnet](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) \| [Kovan](https://kovan.etherscan.io/address/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)
+
 {% hint style="warning" %}
-Learn more about variables here: [https://github.com/poanetwork/poa-bridge-contracts/blob/master/deploy/README.md](https://github.com/poanetwork/poa-bridge-contracts/blob/master/deploy/README.md)
+Replace all variables templated with tags \(&lt;&gt;\) with actual values. [Learn more about variables here ](https://github.com/poanetwork/tokenbridge-contracts/blob/master/deploy/README.md#erc-to-native-bridge-mode-configuration-example)
+{% endhint %}
+
+{% hint style="info" %}
+For exact gas limits:
+
+1. Select to latest \(closed\) pull request: [https://github.com/poanetwork/tokenbridge-contracts/commits/master](https://github.com/poanetwork/tokenbridge-contracts/commits/master) 
+2. Click on the **Checks** subtab 
+3. Click on CodeChecks -&gt; Gas Usage
+4. View the Gas column. For example, the value for `HomeBridgeErcToNative` will impact the `Deployment_Gas_Limit` variable.
 {% endhint %}
 
 ```text
  BRIDGE_MODE=ERC_TO_NATIVE
  DEPLOYMENT_ACCOUNT_PRIVATE_KEY=<DEPLOYMENT_ACCOUNT_PRIVATE_KEY>
- DEPLOYMENT_GAS_LIMIT=5000000
+ DEPLOYMENT_GAS_LIMIT=6000000
  HOME_DEPLOYMENT_GAS_PRICE=0
  FOREIGN_DEPLOYMENT_GAS_PRICE=10000000000
  GET_RECEIPT_INTERVAL_IN_MILLISECONDS=3000
@@ -77,6 +88,8 @@ Learn more about variables here: [https://github.com/poanetwork/poa-bridge-contr
  HOME_MIN_AMOUNT_PER_TX=500000000000000000
  HOME_REQUIRED_BLOCK_CONFIRMATIONS=1
  HOME_GAS_PRICE=0
+ 
+ BLOCK_REWARD_ADDRESS=<0x_BLOCK_REWARD_HOME>
 
  FOREIGN_RPC_URL=https://<url.to.foreignnet>
  FOREIGN_BRIDGE_OWNER=<FOREIGN_OWNER>
@@ -98,13 +111,33 @@ Learn more about variables here: [https://github.com/poanetwork/poa-bridge-contr
  #If several validators are used, list them separated by space without quotes
  #E.g. VALIDATORS=0x 0x 0x
  VALIDATORS=<address of validator>
-
- HOME_REWARDABLE=false
- FOREIGN_REWARDABLE=false
- DEPLOY_REWARDABLE_TOKEN=false
 ```
 
-3\) Deploy Contracts
+{% hint style="info" %}
+_Optional:_ If you plan to use Etherscan or BlockScout for exploring your chain, you can find information on including the correct parameters in the .env file here: [https://docs.tokenbridge.net/about-tokenbridge/features/contracts-verification-in-explorers](https://docs.tokenbridge.net/about-tokenbridge/features/contracts-verification-in-explorers)
+{% endhint %}
+
+### 3\) Deploy Contracts
+
+{% hint style="info" %}
+There are two options to deploy bridge contracts, you can use npm or docker. If using an official release, we recommend [Docker](https://www.docker.com/products/container-runtime).
+{% endhint %}
+
+#### Docker
+
+Deploy with Docker. More information on the Docker deployment process is [available here](https://github.com/poanetwork/tokenbridge-contracts/blob/master/README.md#deployment-in-the-docker-environment).
+
+```text
+docker run poanetwork/tokenbridge-contracts deploy.sh
+```
+
+or with Linux:
+
+```text
+./deploy.sh
+```
+
+#### NPM
 
 ```text
 npm i
@@ -115,6 +148,6 @@ node deploy.js
 ```
 
 {% hint style="success" %}
-Next: [Deploy Consensus Contracts](7-deploy-consensus-contracts-on-moc-node.md)
+Next: [Deploy Consensus Contracts](deploy-consensus-contracts-on-moc-node.md)
 {% endhint %}
 
