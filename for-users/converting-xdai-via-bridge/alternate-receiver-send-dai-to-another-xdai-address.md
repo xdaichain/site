@@ -78,7 +78,7 @@ where
 ### xDai to Dai
 
 {% hint style="danger" %}
-Due to some xDai chain / MEW compatibility issues, this method may not work properly. It does work when initiated in a contract call. We present here for illustrative purposes, as the method is different \(and simpler\) than the Dai -&gt; xDai transfer. 
+Due to some xDai chain / MEW compatibility issues, this method may trigger an error. It does work when initiated in a contract call. We present here for illustrative purposes, as the method is different \(and simpler\) than the Dai -&gt; xDai transfer. 
 {% endhint %}
 
 1. Choose the xDai chain in the browser wallet extension and login to [MyEtherWallet \(MEW\)](https://www.myetherwallet.com/access-my-wallet). 
