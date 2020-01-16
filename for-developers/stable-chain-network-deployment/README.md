@@ -21,7 +21,7 @@ These advanced instructions are for developers interested in deploying their own
 7. [Call Contract Methods](7-call-contract-methods-using-mycrypto.md)
 8. [Update spec.json](8-update-spec.json-file.md)
 9. [Bridge Deployment](bridge-deployment.md)
-10. [Deploy Consensus Contracts](deploy-consensus-contracts-on-moc-node.md)
+10. [Deploy Consensus Contracts](7-deploy-consensus-contracts-on-moc-node.md)
 11. [Generate Keys](generate-keys.md)
 12. [Swap & Distribute Keys](swap-keys.md)
 13. [Finalize Deployment](10-finalize-deployment.md)

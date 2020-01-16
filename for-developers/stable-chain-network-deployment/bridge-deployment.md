@@ -57,12 +57,12 @@ Replace all variables templated with tags \(&lt;&gt;\) with actual values. [Lear
 {% endhint %}
 
 {% hint style="info" %}
-For exact gas limits:
+ To view exact gas limits:
 
 1. Select to latest \(closed\) pull request: [https://github.com/poanetwork/tokenbridge-contracts/commits/master](https://github.com/poanetwork/tokenbridge-contracts/commits/master) 
 2. Click on the **Checks** subtab 
 3. Click on CodeChecks -&gt; Gas Usage
-4. View the Gas column. For example, the value for `HomeBridgeErcToNative` will impact the `Deployment_Gas_Limit` variable.
+4. View the Gas column. For example, the value for `HomeBridgeErcToNative` will impact the `Deployment_Gas_Limit` variable. Make sure you include enough room  to account for these values.
 {% endhint %}
 
 ```text

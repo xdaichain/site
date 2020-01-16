@@ -75,7 +75,7 @@
   * [7\) Call Contract Methods using MyCrypto](for-developers/stable-chain-network-deployment/7-call-contract-methods-using-mycrypto.md)
   * [8\) Update spec.json file](for-developers/stable-chain-network-deployment/8-update-spec.json-file.md)
   * [9\) Bridge Deployment](for-developers/stable-chain-network-deployment/bridge-deployment.md)
-  * [10\) Deploy Consensus Contracts \(on MoC node\)](for-developers/stable-chain-network-deployment/deploy-consensus-contracts-on-moc-node.md)
+  * [10\) Deploy Consensus Contracts \(on MoC node\)](for-developers/stable-chain-network-deployment/7-deploy-consensus-contracts-on-moc-node.md)
   * [11\) Generate Keys](for-developers/stable-chain-network-deployment/generate-keys.md)
   * [12\) Swap & Distribute Keys](for-developers/stable-chain-network-deployment/swap-keys.md)
   * [13\) Finalize Deployment](for-developers/stable-chain-network-deployment/10-finalize-deployment.md)
