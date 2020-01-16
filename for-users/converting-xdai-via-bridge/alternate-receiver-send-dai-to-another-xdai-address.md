@@ -6,9 +6,9 @@ This feature was developed to support multi-sig wallets and contract calls, howe
 
 ### Example: Dai to xDai
 
-1. Choose the Ethereum Mainnet in the Nifty/MetaMask extension and login to [MyEtherWallet \(MEW\)](https://www.myetherwallet.com/access-my-wallet).
+1. Choose the Ethereum Mainnet in the Nifty/MetaMask extension and login to [MyEtherWallet \(MEW\)](https://www.myetherwallet.com/access-my-wallet). Ensure you have some Dai to send, as well as some ETH for gas.
 
-2. Enter the Dai token contract address to initialize the DAI token contract interface:  `0x6b175474e89094c44da98b954eedeac495271d0f` and the following JSON in the **`ABI/JSON Interface`** field: 
+2. Go to the **Contracts** -&gt; **Interact with Contract** sidebar menu item. Enter the Dai token contract address to initialize the DAI token contract interface:  `0x6b175474e89094c44da98b954eedeac495271d0f` and the following JSON in the **`ABI/JSON Interface`** field: 
 
 ```javascript
 [{"constant":false,"inputs":[{"name":"guy","type":"address"},
@@ -26,9 +26,9 @@ This feature was developed to support multi-sig wallets and contract calls, howe
 * `Guy` -- `0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016`the address of the xDai bridge contract in the Ethereum Mainnet
 * `Wad` -- the amount of tokens \(in Wei\) that is going to be sent through the bridge. This tool can help with Wei conversion. [https://eth-converter.com/](https://eth-converter.com/)
 
-4. Submit the transaction to the web3wallet. The default gas price may be high, we recommend adjusting to an acceptable value \(we used 5 GWEI\). Wait until the transaction is included in the chain.
+4. Press **Write** to submit the transaction to the web3wallet. The default gas price may be high, we recommend adjusting to an acceptable value \(we used 5 GWEI\). Wait until the transaction is included in the chain.
 
-5. Press Back to interact with a second contract. You will Initialize the xDai bridge contract interface by entering the bridge contract address `0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016` and the following JSON in the **`ABI/JSON Interface`** field:
+5. Press **Back** to interact with a second contract. You will Initialize the xDai bridge contract interface by entering the bridge contract address `0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016` and the following JSON in the **`ABI/JSON Interface`** field:
 
 ```javascript
 [{"constant":false,"inputs":[{"name":"_receiver",
@@ -53,7 +53,7 @@ This feature was developed to support multi-sig wallets and contract calls, howe
 
 ![](../../.gitbook/assets/contract3.png)
 
-6. Choose an appropriate `relayTokens` method from the Select an item dropdown. There are four methods:
+6. Press  **Continue**. On the next screen, choose an appropriate `relayTokens` method from the **Select an item** dropdown. There are four methods:
 
 {% hint style="info" %}
 The following options present methods that can be used to transfer SAI -&gt; xDai, as well as specify a second account which can initiate transfers on behalf of a user. Here, we use the first method.
@@ -71,9 +71,9 @@ where
 * `_receiver` -- the account that will receive native tokens \(xDai\) on the xDai chain
 * `_amount` -- the amount of tokens \(in Wei\) to transfer; it should be less or equal to the amount of tokens approved for the bridge operations
 
-7. Click Write to submit the transaction in the web3 wallet \(again check gas price and adjust accordingly\) and wait until it is included in the chain.
+7. Click **Write** to submit the transaction in the web3 wallet \(again check gas price and adjust accordingly\) and wait until it is included in the chain.
 
-8. The xDai bridge will take some time to relay the deposit request to the xDai chain \(8 block confirmations\). After a minute or so,  the balance of the account that was specified as `_receiver` in the `relayTokens` method call will be increased. 
+8. The xDai bridge will take some time to relay the deposit request to the xDai chain \(8 block confirmations\). After a minute or so,  the xDai balance of the account that was specified as `_receiver` in the `relayTokens` method call will increase. 
 
 ### xDai to Dai
 
