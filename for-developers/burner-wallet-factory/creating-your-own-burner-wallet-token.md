@@ -30,11 +30,15 @@ Click **Save and Publish.**
 
 ![](../../.gitbook/assets/token3.png)
 
-3\) You will be forwarded to details about your newly created coin. Note that .01 xDai is added to any new token to pay for gas fees. In addition, the GSN \(Gas Station Network\) reload relay address is available for sending extra xDai if those funds run out.  \(.01 should be good for @ 500 transactions or so\).
+3\) You will be forwarded to details about your newly created coin. It includes the token contract address, the vending machine address \(contract with permission to mint and burn tokens\) and the relay address you can send additional xDai to fund.
+
+{% hint style="info" %}
+$.01 xDai is added to any new token to pay for gas fees. In addition, the GSN \(Gas Station Network\) reload relay address is available. You can send additional xDai here if the $.01 fund runs out.  \(.01 should be good for @ 500 transactions or so\).
+{% endhint %}
 
 ![](../../.gitbook/assets/token4.png)
 
-4\) Next, add your tokens to an existing wallet by selecting **Wallets** in the top navigation, going to the wallets screen, and **selecting your wallet**. Once you are in your wallet, Click on any asset. 
+4\) Next, add your tokens to an existing wallet by selecting **Wallets** in the top navigation, going to the wallets screen, and **selecting your wallet**. Once you are in your wallet, click on any asset. 
 
 ![](../../.gitbook/assets/token6.png)
 
@@ -56,11 +60,11 @@ Click **Save and Publish.**
 
 ![](../../.gitbook/assets/token10.png)
 
-10\) Select the xDai in the From: field, and one of your created tokens in the To field, and press **Exchange**.
+10\) Select the xDai in the From: field, and one of your created tokens in the To: field, and press **Exchange**.
 
 ![](../../.gitbook/assets/token11.png)
 
-11\) Once a balance is shown, click the X to exit out of the Exchange window. Your new token balance will show!
+11\) Once a balance is shown, click the X to exit out of the Exchange window. Your new token balance will show in the wallet!
 
 ![](../../.gitbook/assets/token12.png)
 
