@@ -86,6 +86,7 @@
   * [Appendix D: Call Contract Methods using MyCrypto](for-developers/stable-chain-network-deployment/appendix-d-call-contract-methods-using-mycrypto.md)
 * [Burner Wallet Factory](for-developers/burner-wallet-factory/README.md)
   * [Creating a Quick Burner Wallet](for-developers/burner-wallet-factory/creating-a-quick-burner-wallet.md)
+  * [Creating your own Burner Wallet Token](for-developers/burner-wallet-factory/creating-your-own-burner-wallet-token.md)
 * [API & SQL Access](for-developers/api-and-sql-access.md)
 * [Grants for building on xDai](for-developers/grants/README.md)
   * [xDai Adoption Fund](for-developers/grants/xdai-adoption-fund.md)
