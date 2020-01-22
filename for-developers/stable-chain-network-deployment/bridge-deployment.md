@@ -51,9 +51,7 @@ If preferred, use Docker to get the latest image.
 
 ### 2\) Copy the following example to create the `deploy/.env` file. 
 
-The example below uses the DAI Stablecoin for the ERC20\_Token\_Address. Y  [Mainnet](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) \| [Kovan](https://kovan.etherscan.io/address/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)  
-  
-You can select your own token if desired.
+The example below uses the DAI Stablecoin for the ERC20\_Token\_Address.  [Mainnet](https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359) \| [Kovan](https://kovan.etherscan.io/address/0xc4375b7de8af5a38a93548eb8453a498222c4ff2)
 
 {% hint style="info" %}
 If using Docker, create a standalone file and name it `erc-to-native.config`
