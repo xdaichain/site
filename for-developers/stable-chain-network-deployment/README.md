@@ -5,9 +5,9 @@ description: Instructions for deploying an xDai-like network on AWS
 # Stable Chain Network Deployment
 
 {% hint style="info" %}
-**Instructions in Process**
+**Stable Chain deployment Instructions \(AWS\)**
 
-These advanced instructions are for developers interested in deploying their own xDai-like \(or other ERC20 Stable Token\) Network. They are not required to run or interact with the xDai Stable Chain.
+These advanced instructions are for developers interested in deploying their own xDai-like \(or other ERC20 Stable Token\) Network. They are not required to run or interact with the xDai Stable Chain. This process is quite long, so grab a ☕ and settle in!
 {% endhint %}
 
 #### The following topics cover an AWS deployment:
