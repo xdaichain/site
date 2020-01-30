@@ -13,7 +13,10 @@ description: Easily create and deploy a custom Burner Wallet
 **Burner Factory Tutorials**
 
 * [Creating a Quick Burner Wallet](creating-a-quick-burner-wallet.md)
-* _More Coming Soon_
+* [Creating your own Tokens](creating-your-own-burner-wallet-token.md)
+* [Creating Address Sets](address-sets/)
+* [Airdropping tokens to address sets](address-sets/airdrop-tokens-to-an-address-set.md)
+* [Distributing Paper Wallets](address-sets/distribute-paper-wallets.md)
 
 
 
