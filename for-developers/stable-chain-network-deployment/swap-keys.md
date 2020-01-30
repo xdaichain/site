@@ -158,7 +158,7 @@ Repeat this process for each validator node
 
 3\) Change validators `INSTANCE_NAME` in `/home/validator/eth-net-intelligence-api/app.json` if necessary. 
 
-4\) Update `bootnodes.txt` with the `bootnodes.txt` file from the Bootnode instance. It will contain 2 lines, one enode for the MoC node and the second for the Bootnode.
+4\) Update `bootnodes.txt` with the `bootnodes.txt` file from the Bootnode instance. It will contain 2 lines the first time you run this process, one enode for the MoC node and the second for the Bootnode.
 
 4\) Start validator's node.
 

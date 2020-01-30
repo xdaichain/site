@@ -2,11 +2,11 @@
 
 Nethermind Launcher is a self-contained app - you do not need to install .NET separately to run it. 
 
-📄 **Nethermind Docs**: [https://nethermind.readthedocs.io/en/latest/](https://nethermind.readthedocs.io/en/latest/)
+\*\*\*\*📄 **Nethermind Docs**: [https://nethermind.readthedocs.io/en/latest/](https://nethermind.readthedocs.io/en/latest/)
 
-📦 **Latest Packages:** [http://downloads.nethermind.io/](http://downloads.nethermind.io/)
+\*\*\*\*📦 **Latest Packages:** [http://downloads.nethermind.io/](http://downloads.nethermind.io/)
 
-🛑 **To stop Nethermind:** `Control + c`
+\*\*\*\*🛑 **To stop Nethermind:** `Control + c`
 
 ## **Configuration**
 

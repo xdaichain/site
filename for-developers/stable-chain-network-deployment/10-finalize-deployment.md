@@ -8,7 +8,7 @@ Congratulations - you are ready to complete the deployment! Follow the steps bel
 * [Appendix C: Governance DApps](appendix-c-governance-dapps.md)
 {% endhint %}
 
-1\) Remove initial keys, deployment account's address, and HomeOwner's address from `Certifier` contract calling its `revoke` method. [How to call contract's method with MyCrypto.](5-reconfigure-instances.md#call-contract-methods-using-mycrypto)
+1\) Remove initial keys, deployment account's address, and HomeOwner's address from `Certifier` contract calling its `revoke` method. [How to call contract's method with MyCrypto.](appendix-d-call-contract-methods-using-mycrypto.md)
 
 2\) Launch bridge oracles \([https://github.com/poanetwork/tokenbridge/tree/master/deployment](https://github.com/poanetwork/tokenbridge/tree/master/deployment)\).
 

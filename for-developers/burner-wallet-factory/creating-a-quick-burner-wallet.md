@@ -3,7 +3,7 @@
 Creating a quick wallet for your event is easy with Burner Factory. A step-by-step guide walks you through the process including deployment. 
 
 {% hint style="info" %}
-The following instructions are for creating an xDai/DAI/Eth wallet \(along with a little POA20 for good measure🙂\).  A tutorial for wallet creation with a ****custom token is coming soon.
+The following instructions are for creating an xDai/DAI/Eth wallet \(along with a little POA20 for good measure🙂\).  If you want to create a wallet with a custom token, see [Creating your own Burner Wallet Token](creating-your-own-burner-wallet-token.md). 
 {% endhint %}
 
 1\) Go to [https://burnerfactory.com/](https://burnerfactory.com/). If you don't have an account yet, **sign up using your Github account** _\(account username/password not yet functional\)_
