@@ -4,7 +4,7 @@ description: Create an address group for an event
 
 # Address sets
 
-With Burner Factory you can create a group of addresses though the interface. You can then airdrop tokens to each of these addresses, and print out paper wallets. 
+With Burner Factory you can create a group of addresses though the interface. Once created, you can [airdrop tokens](airdrop-tokens-to-an-address-set.md) to each of these addresses, and [print out and distribute paper wallets](distribute-paper-wallets.md). 
 
 {% hint style="warning" %}
 Remember, Burner Wallets are meant for quick turnaround usage. Because keys are kept in local storage \(and printed on paper wallets\) Burner Wallets are not secure. But they are perfect for events or for carrying a small amount of crypto.
