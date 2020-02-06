@@ -16,14 +16,14 @@ This short documentary features Will Ruddick, founder of Grassroots Economics. I
 
 {% embed url="https://www.youtube.com/watch?v=ojFPrVvpraU&t=" %}
 
-## ⛓ xDai Metrics 
+## ⛓ Transaction Metrics on xDai
 
 * Serafu \(local digital reserve currency supports all local trading pairs\): Token Contract: `0x0Fd6e8F2320C90e9D4b3A5bd888c4D556d20AbD4`  [View on BlockScout](https://blockscout.com/poa/xdai/address/0x0fd6e8f2320c90e9d4b3a5bd888c4d556d20abd4/transactions)
 * Example week \(January 25 - 31, 2020\) transaction counts:
   * 611,338 Kenyan shillings \(~6k usd\) in transaction volume
   * 2,316 standard transactions among 1,771 unique trading pairs
 
-## 📑 Additional Info & Resources:
+## 📑 Additional Info & Resources
 
 {% embed url="https://www.grassrootseconomics.org/single-post/CICs-are-Now-Open-Source" %}
 
