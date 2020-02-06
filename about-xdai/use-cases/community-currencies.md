@@ -4,15 +4,15 @@ description: Providing a blockchain solution to enable local trade and exchange.
 
 # Community Currencies
 
-Community currencies \(CCs\) are local money used to pay for goods and services within a community.  CCs are complementary to the national currency, providing a medium for daily spending and trade, and allowing community members to use national currency \(which can be volatile or scarce\) for savings and interaction with larger institutions. 
+Community currencies \(CCs\) are local money used to pay for goods and services. CCs are not meant to replace national currency; they are complementary currencies designed to support local commerce. CCs provide a medium for daily spending and trade while allowing individuals to save national currency \(which can be volatile or scarce\) for interactions with larger businesses and government institutions outside of the immediate community. 
 
 CCs support and empower communities to create jobs, develop social programs, and support trade by creating a decentralized, local banking infrastructure. In addition to local communities, initiatives led by [Grassroots Economics, the Red Cross and Bancor are bringing CCs to refugee camps and other disaster-prone communities.](https://af.reuters.com/article/kenyaNews/idAFL8N28231Q)
 
-Blockchain technology supports CCs by providing a transparent web-based platform for local currency exchange. [**Grassroots Economics**](https://www.grassrootseconomics.org/) **is leveraging the xDai chain to manage currency trading within and among communities in Kenya.** Local currencies can be traded with one another based on bonding curves - all users need is a mobile phone and a [Bancor ](https://www.bancor.network/)custom wallet app. The speed, stability \(known, low transaction fees can be subsidized\), and reliability of the xDai Chain provides the infrastructure needed for local digital currencies to thrive.
+Blockchain technology supports CCs by providing a transparent web-based platform for local currency exchange. [**Grassroots Economics**](https://www.grassrootseconomics.org/) **is leveraging the xDai chain to manage currency trading within and among communities in Kenya.** Local currencies can be traded with one another based on bonding curves - all users need is a mobile phone and a [Bancor ](https://www.bancor.network/)custom wallet app. The speed, stability \(known, low transaction fees can be subsidized\), and reliability of the xDai Chain provide the infrastructure needed for local digital currencies to thrive.
 
 ## 💵 Overview of Community Currencies 
 
-This short documentary features Will Ruddick, founder of Grassroots Economics. It provides an excellent synopsis of the need and usage of community currencies in Kenya. In 2016, currencies were distributed as paper vouchers. Now, they are digital and commerce is conducted on the xDai Chain.
+This short documentary features Will Ruddick, founder of Grassroots Economics. It provides an engaging account of the history, need and adoption of community currencies in Kenya. In 2016, currencies were distributed as paper vouchers. Now, they are digital and commerce is conducted on the xDai Chain.
 
 {% embed url="https://www.youtube.com/watch?v=ojFPrVvpraU&t=" %}
 
