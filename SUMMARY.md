@@ -7,6 +7,7 @@
 * [Features](about-xdai/features.md)
 * [Use Cases](about-xdai/use-cases/README.md)
   * [Peer-to-Peer Payments](about-xdai/use-cases/peer-to-peer-payments.md)
+  * [Community Currencies](about-xdai/use-cases/community-currencies.md)
   * [Platform for Prediction Markets](about-xdai/use-cases/stable-platform-for-smart-contracts.md)
   * [Platform for Blockchain Games](about-xdai/use-cases/platform-for-blockchain-games.md)
   * [Cryptocurrency for Events & Conferences](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/README.md)
