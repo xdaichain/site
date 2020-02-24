@@ -2,7 +2,7 @@
 description: xDai Chain adoption officially began at EthDenver 2019
 ---
 
-# EthDenver
+# EthDenver 2019
 
 **When:** February 15-17, 2019
 
