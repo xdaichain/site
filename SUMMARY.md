@@ -57,7 +57,7 @@
 
 ## For developers
 
-* [Developer Resources](for-developers/developer-resources.md)
+* [Developer Resources & Tools](for-developers/developer-resources.md)
 * [Install xDai Client](for-developers/install-xdai-client/README.md)
   * [Parity](for-developers/install-xdai-client/parity.md)
   * [Nethermind](for-developers/install-xdai-client/nethermind.md)
