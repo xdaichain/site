@@ -48,13 +48,13 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
   </tbody>
 </table>## Phase 1: Preparation and Permissioned POSDAO
 
-POSDAO will be initiated on the xDai chain with the [current xDai validators](https://validators.poa.network/poa-dapps-validators). Public validators and delegators will be incorporated in phase 2.
+POSDAO will be initiated on the xDai chain with the [current xDai validators](https://validators.poa.network/poa-dapps-validators). **Public validators and delegators will be incorporated in phase 2.**
 
 ### Phase 1 STAKE Info
 
 * Current validators each receive 20,000 STAKE at the start of the protocol. To participate, the entire amount must be staked.
 * Initial validators will receive 15% APR in STAKE rewards \(eg 20k STAKE in protocol =~ 250 STAKE / Mo\) . This rate is subject to adjustment in phase 2.
-* STAKE will be compartmentalized within the xDai chain. It cannot be moved to the mainnet until phase 2.
+* STAKE will be compartmentalized within the xDai chain. It cannot be moved to the Ethereum mainnet until phase 2.
 
 ### Timeline
 
@@ -72,7 +72,7 @@ In preparation for POSDAO migration, we will complete all required changes to th
 
 POSDAO v1 is scheduled to go live with current validators on March 30. Public staking will not be activated in phase 1.
 
-POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked CHAI during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.**
+POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.**
 
 ## Phase 2: Public Staking & Reward Expansion
 
@@ -82,7 +82,7 @@ After the STAKE public listing is complete and POSDAO is running as expected wit
 
 * Validator Candidate: 20,000 STAKE Minimum
 * Delegator: 1,000 STAKE Minimum
-* STAKE reward % will vary based on role \(validator or delegator\) and amount of total STAKE locked in the protocol. The APR may be adjusted from phase 1 \(15% - new % TBD\). For more details, see the [reward distribution section of the POSDAO whitepaper](https://forum.poa.network/t/posdao-white-paper/2208).
+* STAKE reward % will vary based on role \(validator or delegator\) and amount of total STAKE locked in the protocol. The APR may be adjusted from phase 1 \(15%\). For more details, see the [reward distribution section of the POSDAO whitepaper](https://forum.poa.network/t/posdao-white-paper/2208).
 * The STAKE bridge will open bi-directionally, allowing STAKE to flow freely from the mainnet to the xDai chain and back. 
 
 ### Processes
