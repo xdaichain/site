@@ -4,7 +4,7 @@ description: POSDAO enables staking on the xDai chain
 
 # STAKE & Staking
 
-The xDai Chain is transitioning to POSDAO, a Proof of Stake consensus protocol. POSDAO will introduce a staking token called STAKE. Individuals who own STAKE may become validators or may delegate their stake to validator candidates in order to secure the xDai chain. Validators and delegators \(stakers\) will receive rewards in exchange for providing STAKE.
+The xDai Chain is transitioning to POSDAO, a Proof of Stake consensus protocol. POSDAO will introduce a staking token called STAKE. Individuals who own STAKE may become validators or may delegate their stake to validator candidates to secure the xDai chain. Validators and delegators \(stakers\) will receive rewards in exchange for providing STAKE.
 
 The transition to POSDAO will proceed in phases. Phase 1 of this transition is scheduled for completion on **March 30, 2020**. Below are details related to the transition & what to expect in each phase.
 
@@ -48,7 +48,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
   </tbody>
 </table>## Phase 1: Preparation and Permissioned POSDAO
 
-POSDAO will be initiated on the xDai chain with the [current xDai validators](https://validators.poa.network/poa-dapps-validators). **Public validators and delegators will be incorporated in phase 2.**
+POSDAO will launch on the xDai chain with the [current xDai validators](https://validators.poa.network/poa-dapps-validators). **Public validators and delegators will be incorporated in phase 2.**
 
 ### Phase 1 STAKE Info
 
