@@ -48,7 +48,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
   </tbody>
 </table>## Phase 1: Preparation and Permissioned POSDAO
 
-POSDAO will be initiated on the xDai chain with the current xDai validators. Public validators and delegators will be incorporated in phase 2.
+POSDAO will be initiated on the xDai chain with the [current xDai validators](https://validators.poa.network/poa-dapps-validators). Public validators and delegators will be incorporated in phase 2.
 
 ### Phase 1 STAKE Details
 
