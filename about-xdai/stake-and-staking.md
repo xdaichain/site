@@ -64,7 +64,7 @@ POSDAO will launch on the xDai chain with the [current xDai validators](https://
 | Dai -&gt; Chai conversion mechanism | March 15 |
 | POSDAO v1 migration & validator staking | March 30 |
 
-_\*ALL dates are approximate and subject to change if necessary_
+_\*Dates are approximate and subject to change if necessary_
 
 ### Details
 
