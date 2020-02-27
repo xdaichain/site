@@ -50,7 +50,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
 
 POSDAO will be initiated on the xDai chain with the [current xDai validators](https://validators.poa.network/poa-dapps-validators). Public validators and delegators will be incorporated in phase 2.
 
-### Phase 1 STAKE Details
+### Phase 1 STAKE Info
 
 * Current validators each receive 20,000 STAKE at the start of the protocol. To participate, the entire amount must be staked.
 * Initial validators will receive 15% APR in STAKE rewards \(eg 20k STAKE in protocol =~ 250 STAKE / Mo\) . This rate is subject to adjustment in phase 2.
@@ -78,7 +78,7 @@ POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewar
 
 After the STAKE public listing is complete and POSDAO is running as expected with the current validator set, staking on xDai will open up to all public STAKE holders.  Dates for the following upgrades are subject to the STAKE listing date and are currently TBD.
 
-### Public STAKE Details
+### Public STAKE Info
 
 * Validator Candidate: 20,000 STAKE Minimum
 * Delegator: 1,000 STAKE Minimum
