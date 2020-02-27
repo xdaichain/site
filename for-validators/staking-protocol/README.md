@@ -2,7 +2,7 @@
 description: Staking is coming soon to xDai!
 ---
 
-# Staking
+# Staking Protocol
 
 {% hint style="warning" %}
 Staking is not here yet, but we are gathering documentation related to xDai staking processes. All pages in this section are currently under construction.
