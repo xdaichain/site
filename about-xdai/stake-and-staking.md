@@ -99,7 +99,9 @@ After the STAKE public listing is complete and POSDAO is running as expected wit
 
 Public participation will open in phase 2. Individuals who acquire STAKE on the Ethereum mainnet \(through a private/public sale or some other means\) may bridge that STAKE to the xDai chain. Here, it can be used in the protocol to secure the chain and earn staking rewards. STAKE actions on xDai will be intuitive and easy to perform through the staking UI.
 
-Individuals with enough STAKE \(20k minimum\) and the ability to run a node may register as validator candidates. STAKE can also be delegated on validator candidates, forming a pool. Candidate pools with the most STAKE will have the greatest chance of selection to the next validator set. Validator sets will update after each staking epoch, initially set at 1 week intervals.
+Individuals with enough STAKE \(20k minimum\) and the ability to run a node may register as validator candidates. STAKE can also be delegated on validator candidates, forming a pool. Candidate pools with the most STAKE will have the greatest chance of selection to the next validator set \(if there are more than 19 validator pools. If 19 or less all candidates become validators\). 
+
+Validator sets will update after each staking epoch, initially set at 1 week intervals.
 
 With public participation, additional rewards will be added to the protocol.
 
