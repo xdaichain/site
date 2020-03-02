@@ -4,13 +4,19 @@ description: Providing a blockchain solution to enable local trade and exchange.
 
 # Community Currencies
 
-Community currencies \(CCs\) are local money used to pay for goods and services. CCs are not meant to replace national currency; they are complementary currencies designed to support local commerce. CCs provide a medium for daily spending and trade while allowing individuals to save national currency \(which can be volatile or scarce\) for interactions with larger businesses and government institutions outside of the immediate community. 
+Community inclusion currencies \(CICs\) are local money used to pay for goods and services. CICs are not meant to replace national currency; they are complementary currencies designed to support local commerce. CICs provide a medium for daily spending and trade while allowing individuals to save national currency \(which can be volatile or scarce\) for interactions with larger businesses and government institutions outside of the immediate community. 
 
-CCs support and empower communities to create jobs, develop social programs, and support trade by creating a decentralized, local banking infrastructure. In addition to local communities, initiatives led by [Grassroots Economics and the Red Cross are bringing CCs to refugee camps and other disaster-prone communities.](https://af.reuters.com/article/kenyaNews/idAFL8N28231Q)
+CICs support and empower communities to create jobs, develop social programs, and support trade by creating a decentralized, local banking infrastructure. In addition to local communities, initiatives led by [Grassroots Economics and the Red Cross are bringing CCs to refugee camps and other disaster-prone communities.](https://af.reuters.com/article/kenyaNews/idAFL8N28231Q)
 
-Blockchain technology supports CCs by providing a transparent web-based platform for local currency exchange. [**Grassroots Economics**](https://www.grassrootseconomics.org/) **is leveraging the xDai chain to manage currency trading within and among communities in Kenya.** Local currencies can be traded with one another based on bonding curves - all users need is a mobile phone and a custom wallet application. The speed, stability \(known, low transaction fees can be subsidized\), and reliability of the xDai Chain provide the infrastructure needed for local digital currencies to thrive.
+Blockchain technology supports CICs by providing a transparent web-based platform for local currency exchange. [**Grassroots Economics**](https://www.grassrootseconomics.org/) **is leveraging the xDai chain to manage currency trading within and among communities in Kenya.** Local currencies can be traded with one another based on bonding curves - all users need is a mobile phone and a custom wallet application. The speed, stability \(known, low transaction fees can be subsidized\), and reliability of the xDai Chain provide the infrastructure needed for local digital currencies to thrive.
 
 This project infrastructure, developed by [**Sempo**](https://withsempo.com/), is open source and available here: [https://github.com/teamsempo/SempoBlockchain](https://github.com/teamsempo/SempoBlockchain)
+
+## Grassroots Economics Updates and Plans
+
+The [Grassroots Economics blog](https://www.grassrootseconomics.org/blog) is a good place to find the most recent updates. In February 2020, 3015 users made at least 1 trade.  2,336,655 Tokens were traded for basic goods \(~23K equivalent\) and the current user base holds 1,514,155 Tokens \(~15k USD\). 
+
+![Transactions and users in Feb 2020](../../.gitbook/assets/cic-tweet.png)
 
 ## 💵 Overview of Community Currencies 
 
