@@ -24,39 +24,16 @@ description: General Information and Links
 
 There are endpoints provided by POA and Nodesmith. They are used to connect to the network.
 
-### POA RPC
+### RPC
 
 |  |  |
 | :--- | :--- |
-| URL | [https://dai.poa.network](https://dai.poa.network) |
+| **Main RPC \(HTTP2\)** | [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev/) |
+| Main RPC \(HTTP\) | [http://xdai.poanetwork.dev/](http://xdai.poanetwork.dev/) |
+| RPC Alias \(HTTPS/Cloudflare\) | [https://dai.poa.network](https://dai.poa.network) |
+| WebSockets | [ws://xdai.poanetwork.dev:8546](ws://xdai.poanetwork.dev:8546) |
+| Archive node \(last 100k blocks\) | [https://xdai-archive.blockscout.com/](https://xdai-archive.blockscout.com/) |
 | Network ID | 100 |
-
-### **Nodesmith RPC**
-
-{% hint style="warning" %}
-Nodesmith RPC will be shut down by the end of December 2019.
-{% endhint %}
-
-|  |  |
-| :--- | :--- |
-
-
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"><b>URL</b>
-      </th>
-      <th style="text-align:left">
-        <p><a href="https://poa.api.nodesmith.io/v1/dai/jsonrpc?apiKey=YOUR_API_KEY">https://poa.api.nodesmith.io/v1/dai/jsonrpc?apiKey=</a>
-        </p>
-        <p>(requires <a href="https://nodesmith.io/docs/#/overview/httpsQuickstart">free Nodesmith account for your API key</a>):</p>
-      </th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>| Network ID | 100 |
-| :--- | :--- |
-
 
 ## TokenBridge
 
