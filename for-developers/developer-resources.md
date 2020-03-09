@@ -22,9 +22,7 @@ description: General Information and Links
 
 ## JSON RPC endpoints
 
-There are endpoints provided by POA and Nodesmith. They are used to connect to the network.
-
-### RPC
+There are endpoints provided by POA . They are used to connect to the network.
 
 |  |  |
 | :--- | :--- |
