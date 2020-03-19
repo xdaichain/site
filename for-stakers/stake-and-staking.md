@@ -68,7 +68,7 @@ _\*Dates are approximate and subject to change if necessary_
 
 ### Details
 
-In preparation for POSDAO migration, we will complete all required changes to the [open-ethereum client](https://github.com/poanetwork/open-ethereum) and xDai bridge, and complete all necessary testing. We will provide current validators with detailed upgrade instructions and 20,000 STAKE tokens \(the minimum required amount to become a validator\). **In order to participate, validators must upgrade their nodes by March 29**. 
+In preparation for POSDAO migration, we will complete all required changes to the [Open Ethereum client](https://github.com/poanetwork/open-ethereum) and xDai bridge, and complete all necessary testing. We will provide current validators with detailed upgrade instructions and 20,000 STAKE tokens \(the minimum required amount to become a validator\). **In order to participate, validators must upgrade their nodes by March 29**. 
 
 POSDAO v1 is scheduled to go live with current validators on March 30. Public staking will not be activated in phase 1.
 
