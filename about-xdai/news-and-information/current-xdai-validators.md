@@ -2,7 +2,7 @@
 description: Organizations in the ecosystem are guiding the POSDAO transition
 ---
 
-# Current xDai Validators
+# Current xDai Validator Organizations
 
 ⚔ xDai chain consensus is currently provided by a dedicated group of organizations who donate their time and resources to protect the chain. Their main incentive is not financial rewards \(they make less than they spend on infrastructure\) but a desire to invent new solutions, participate in on-chain governance, and support complimentary ecosystem tools.
 

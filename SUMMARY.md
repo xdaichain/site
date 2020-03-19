@@ -21,7 +21,8 @@
     * [Pony Purse \(Conference & Event Wallet\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet.md)
 * [Roadmap](about-xdai/roadmap.md)
 * [News & Information](about-xdai/news-and-information/README.md)
-  * [Current xDai Validators](about-xdai/news-and-information/current-xdai-validators.md)
+  * [Current xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators.md)
+  * [xDai Validator Testimonials](about-xdai/news-and-information/xdai-validator-testimonials.md)
   * [ETHDenver 2020 xDai & Burner Wallet Recap](about-xdai/news-and-information/ethdenver-2020-xdai-and-burner-wallet-recap.md)
 
 ## For users
@@ -61,7 +62,12 @@
 ## For Stakers
 
 * [Staking Roadmap](for-stakers/stake-and-staking.md)
-* [Getting STAKE tokens](for-stakers/getting-stake-tokens.md)
+* [STAKE Staking Token](for-stakers/stake-staking-token/README.md)
+  * [Getting STAKE tokens](for-stakers/stake-staking-token/getting-stake-tokens.md)
+* [STAKE Reward Mechanics](for-stakers/stake-reward-mechanics/README.md)
+  * [xDai Rewards](for-stakers/stake-reward-mechanics/xdai-rewards.md)
+  * [EXIT Reward Token](for-stakers/stake-reward-mechanics/exit-reward-token/README.md)
+    * [EXIT FAQs](for-stakers/stake-reward-mechanics/exit-reward-token/exit-faqs.md)
 * [Staking Protocol](for-stakers/staking-protocol/README.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
     * [Protocol Related Terms](for-stakers/staking-protocol/terminology/untitled.md)
