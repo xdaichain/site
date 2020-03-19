@@ -20,7 +20,9 @@
     * [EthCC Afterparty](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethcc-afterparty.md)
     * [Pony Purse \(Conference & Event Wallet\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet.md)
 * [Roadmap](about-xdai/roadmap.md)
-* [STAKE & Staking](about-xdai/stake-and-staking.md)
+* [News & Information](about-xdai/news-and-information/README.md)
+  * [Current xDai Validators](about-xdai/news-and-information/current-xdai-validators.md)
+  * [ETHDenver 2020 xDai & Burner Wallet Recap](about-xdai/news-and-information/ethdenver-2020-xdai-and-burner-wallet-recap.md)
 
 ## For users
 
@@ -55,6 +57,23 @@
   * [Portis Wallet](for-users/wallets/portis-wallet.md)
   * [Saturn Wallet](for-users/wallets/saturn-wallet.md)
   * [Status Wallet](for-users/wallets/status-wallet.md)
+
+## For Stakers
+
+* [Staking Roadmap](for-stakers/stake-and-staking.md)
+* [Getting STAKE tokens](for-stakers/getting-stake-tokens.md)
+* [Staking Protocol](for-stakers/staking-protocol/README.md)
+  * [Terminology](for-stakers/staking-protocol/terminology/README.md)
+    * [Protocol Related Terms](for-stakers/staking-protocol/terminology/untitled.md)
+    * [Participant Related Terms](for-stakers/staking-protocol/terminology/participant-related-terms.md)
+    * [Operational Terms](for-stakers/staking-protocol/terminology/operational-terms.md)
+  * [Become a Candidate / Validator](for-stakers/staking-protocol/become-a-candidate-validator.md)
+  * [Become a Delegator](for-stakers/staking-protocol/become-a-delegator.md)
+  * [Staking Operations](for-stakers/staking-protocol/staking-operations/README.md)
+    * [Add Stake](for-stakers/staking-protocol/staking-operations/add-stake.md)
+    * [Claim Stake](for-stakers/staking-protocol/staking-operations/claim-stake.md)
+    * [Withdraw Stake](for-stakers/staking-protocol/staking-operations/withdraw-stake.md)
+    * [Move Stake](for-stakers/staking-protocol/staking-operations/move-stake.md)
 
 ## For developers
 
@@ -112,19 +131,6 @@
   * [New Validators: Bridge Node Setup](for-validators/for-bridge-validators/bridge-node-setup.md)
   * [Current Validators: How to Add a New Bridge Validator](for-validators/for-bridge-validators/current-validators-how-to-add-a-new-bridge-validator.md)
   * [xDai Bridge Contracts Management](https://docs.tokenbridge.net/xdai-bridge/xdai-bridge-contracts-management)
-* [Staking Protocol](for-validators/staking-protocol/README.md)
-  * [Terminology](for-validators/staking-protocol/terminology/README.md)
-    * [Protocol Related Terms](for-validators/staking-protocol/terminology/untitled.md)
-    * [Participant Related Terms](for-validators/staking-protocol/terminology/participant-related-terms.md)
-    * [Operational Terms](for-validators/staking-protocol/terminology/operational-terms.md)
-  * [Get STAKE tokens](for-validators/staking-protocol/get-stake-tokens.md)
-  * [Become a Candidate / Validator](for-validators/staking-protocol/become-a-candidate-validator.md)
-  * [Become a Delegator](for-validators/staking-protocol/become-a-delegator.md)
-  * [Staking Operations](for-validators/staking-protocol/staking-operations/README.md)
-    * [Add Stake](for-validators/staking-protocol/staking-operations/add-stake.md)
-    * [Claim Stake](for-validators/staking-protocol/staking-operations/claim-stake.md)
-    * [Withdraw Stake](for-validators/staking-protocol/staking-operations/withdraw-stake.md)
-    * [Move Stake](for-validators/staking-protocol/staking-operations/move-stake.md)
 * [Consensus](for-validators/consensus/README.md)
   * [AuRa Consensus](for-validators/consensus/aura-consensus.md)
   * [HoneyBadger BFT Consensus](for-validators/consensus/honeybadger-bft-consensus/README.md)

@@ -32,11 +32,11 @@ Once the Dai protocol implementation is upgraded to MCD \(Multi-Collateral Dai\)
 
 ## Consensus Upgrade
 
-**Target Date:** Q1 2020
+**Target Date:** Q1-Q2 2020
 
 xDai currently uses known organizations in the ecosystem as chain validators. These organizations subsidize their own nodes, and this is unsustainable in the long term. To increase decentralization, and offer the broader community the chance to participate in consensus, we will upgrade to the POSDAO consensus model.
 
-For more information on this transition, see the [STAKE and staking page](stake-and-staking.md).
+For more information on this transition, see the [STAKE and staking page](../for-stakers/stake-and-staking.md).
 
 ## **Privacy Preserving Transactions**
 
@@ -66,5 +66,5 @@ A scalability solution based on zero-knowledge protocol \(Rollup\) will be deplo
 
 **Target Date**: Q3 2020
 
-A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE](../for-validators/staking-protocol/get-stake-tokens.md) tokens and HBBFT consensus.
+A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE]() tokens and HBBFT consensus.
 
