@@ -12,6 +12,12 @@ Blockchain technology supports CICs by providing a transparent web-based platfor
 
 This project infrastructure, developed by [**Sempo**](https://withsempo.com/), is open source and available here: [https://github.com/teamsempo/SempoBlockchain](https://github.com/teamsempo/SempoBlockchain)
 
+### Cash distribution in times of crisis
+
+CICs can also be used for targeted aid when markets or supply chains deteriorate in the midst of a crisis. Specific health or food related business may be targeted using blockchain transaction data in order to provide rapid aid to those who need it most. 
+
+{% embed url="https://www.grassrootseconomics.org/single-post/CIC-COVID-19-Crisis-Cash-Aid" %}
+
 ## Grassroots Economics Updates and Plans
 
 The [Grassroots Economics blog](https://www.grassrootseconomics.org/blog) is a good place to find the most recent updates. In February 2020, 3015 users made at least 1 trade.  2,336,655 Tokens were traded for basic goods \(~23K equivalent\) and the current user base holds 1,514,155 Tokens \(~15k USD\). 
