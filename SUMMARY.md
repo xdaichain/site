@@ -24,6 +24,7 @@
   * [Current xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators.md)
   * [xDai Validator Testimonials](about-xdai/news-and-information/xdai-validator-testimonials.md)
   * [How xDai Bridges Create Compatibility and Interoperability](about-xdai/news-and-information/how-xdai-bridges-create-compatibility-and-interoperability.md)
+  * [Dai Derivatives: How xDai \(& Chai\) fit into the DeFi ecosystem](about-xdai/news-and-information/dai-derivatives-how-xdai-and-chai-fit-into-the-defi-ecosystem.md)
   * [ETHDenver 2020 xDai & Burner Wallet Recap](about-xdai/news-and-information/ethdenver-2020-xdai-and-burner-wallet-recap.md)
 
 ## For users
