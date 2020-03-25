@@ -4,6 +4,8 @@ description: 'Dai is converted to Chai, resulting in additional interest accumul
 
 # Chai FAQs
 
+![](../../../.gitbook/assets/xdai-chai.png)
+
 ## What is Chai?
 
 Chai is an ERC20 token that earns token holders interest on Dai without needing to lock it in the Dai Savings Contract. Dai is converted to Chai, and the Chai balance remains constant, while the Dai value grows with the [Dai Savings Rate \(DSR](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr)\).  At any time, Chai can be converted back to Dai along with any accumulated interest. [Learn more here](https://chai.money/about.html). 
