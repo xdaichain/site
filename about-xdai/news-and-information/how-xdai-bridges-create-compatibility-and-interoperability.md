@@ -13,7 +13,7 @@ The primary function of the xDai Bridge is to facilitate Dai &lt;-&gt; xDai conv
 During this operation, the selected amount of Dai is locked in the bridge contract and the corresponding amount of xDai is minted on the xDai chain.  When a user wants to convert xDai back to Dai, the xDai is burned and the Dai is unlocked in the contract and returned to the user’s address on the mainnet. Users can facilitate these transactions using the same address \(tokens are shown based on the chain the user is connected to\) or leverage the [alternate receiver feature ](https://docs.tokenbridge.net/xdai-bridge/using-the-xdai-bridge/alternative-receiver-for-the-xdai-bridge)to transfer tokens cross-chain to a different address.
 
 {% hint style="success" %}
-New bridge functionality will convert the Dai locked in the bridge contract into Chai, which will earn interest for xDai validators. [Read more here](../../for-stakers/stake-reward-mechanics/xdai-rewards.md).
+New bridge functionality will convert the Dai locked in the bridge contract into Chai, which will earn interest for xDai validators. [Read more here](../../for-stakers/stake-reward-mechanics/xdai-rewards/).
 {% endhint %}
 
 ## **Arbitrary Message Bridge**
