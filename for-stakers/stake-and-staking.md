@@ -6,7 +6,7 @@ description: POSDAO enables staking on the xDai chain
 
 The xDai Chain is transitioning to POSDAO, a Proof of Stake consensus protocol. POSDAO will introduce a staking token called STAKE. Individuals who own STAKE may become validators or may delegate their stake to validator candidates to secure the xDai chain. Validators and delegators \(stakers\) will receive rewards in exchange for providing STAKE.
 
-The transition to POSDAO will proceed in phases. Phase 1 of this transition is scheduled for completion on **March 30, 2020**. Below are details related to the transition & what to expect in each phase.
+The transition to POSDAO will proceed in phases. Phase 1 of this transition is scheduled for completion on **April 1, 2020**. Below are details related to the transition & what to expect in each phase.
 
 {% hint style="info" %}
 For general information, see the [Staking Protocol ](staking-protocol/)for details on how to stake, protocol terminology, and more. 
@@ -60,19 +60,19 @@ POSDAO will launch on the xDai chain with the [current xDai validators](https://
 
 | Task | Date\* |
 | :--- | :--- |
-| POSDAO finalization & testing | March 1 - 25 |
-| Dai -&gt; Chai conversion mechanism | March 15 |
-| POSDAO v1 migration & validator staking | March 30 |
+| POSDAO finalization & testing | March 1 - 30 |
+| Dai -&gt; Chai conversion mechanism | March 25 |
+| POSDAO v1 migration & validator staking | April 1 |
 
 _\*Dates are approximate and subject to change if necessary_
 
 ### Details
 
-In preparation for POSDAO migration, we will complete all required changes to the [Open Ethereum client](https://github.com/poanetwork/open-ethereum) and xDai bridge, and complete all necessary testing. We will provide current validators with detailed upgrade instructions and 20,000 STAKE tokens \(the minimum required amount to become a validator\). **In order to participate, validators must upgrade their nodes by March 29**. 
+In preparation for POSDAO migration, we will complete all required changes to the [Open Ethereum client](https://github.com/poanetwork/open-ethereum) and xDai bridge, and complete all necessary testing. We will provide current validators with detailed upgrade instructions and 20,000 STAKE tokens \(the minimum required amount to become a validator\). **In order to participate, validators must upgrade their nodes by March 31**. 
 
-POSDAO v1 is scheduled to go live with current validators on March 30. Public staking will not be activated in phase 1.
+POSDAO v1 is scheduled to go live with current validators on April 1. Public staking will not be activated in phase 1.
 
-POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.**
+POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.** [More info on Chai is available here.](stake-reward-mechanics/xdai-rewards/chai-faqs.md)
 
 ## Phase 2: Public Staking & Reward Expansion
 
