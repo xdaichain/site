@@ -6,7 +6,7 @@ STAKE is a flexible asset, meaning it may be used in a variety of contexts. The 
 
 STAKE is a new ERC20 token designed to secure the on-chain payment layer and provide a mechanism for validators to receive multiple POS incentives. It is an ERC20 staking token with a market driven value. 
 
-The initial supply of 8.7M STAKE tokens will be released over time. Additional tokens are minted as rewards at the conclusion of each staking epoch. 
+The initial supply of 8.5375M STAKE tokens will be released over time. Additional tokens are minted as rewards at the conclusion of each staking epoch. 
 
 Users \(stakers\) provide STAKE as collateral when participating in the consensus process. In exchange for providing STAKE \(and supporting a node\), users receive multiple rewards. The primary reward is in the form of additional STAKE tokens.
 
@@ -26,5 +26,5 @@ When STAKE is locked in the protocol, rewards for sealing blocks are generated i
 
 ### STAKE Total Supply 
 
-The STAKE circulating supply is 8,700,000 tokens \(once all tokens are unlocked in the protocol\). 
+The STAKE circulating supply is 8,537,500  tokens \(once all tokens are unlocked in the protocol\). 
 
