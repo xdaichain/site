@@ -1,4 +1,4 @@
-# Token Release Schedule
+# Token release schedule
 
 Tokens will be released according to the schedule below, with daily distribution after they are unlocked. Once released, tokens will be available on an ad-hoc, daily basis. They will not be automatically distributed \(PUSH strategy\), but available on request \(PULL strategy\).
 
