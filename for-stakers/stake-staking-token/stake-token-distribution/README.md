@@ -6,7 +6,7 @@ description: Supply and release schedule
 
 The STAKE token has an initial circulating supply of 8,537,500. Additional STAKE tokens are minted as staking rewards once the POSDAO protocol starts.
 
-![](../../.gitbook/assets/distrubution-chart.png)
+![](../../../.gitbook/assets/distrubution-chart.png)
 
 | Distribution Type | Amount | Initial Lock | Distribution Schedule |
 | :--- | :--- | :--- | :--- |
