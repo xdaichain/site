@@ -76,9 +76,9 @@ If a day is skipped, that amount accrues. The total amount available for any rol
 
 ## **Withdrawal to your wallet**
 
-6\)  Once `makeInstallment` has been called \(or to withdraw initial private amount\), installment amounts are available to withdraw to your wallet.  The withdraw function can be called any time after a single or multiple `makeInstallment` calls have occurred to withdraw the amount that has been unlocked and transferred.
+6\)  Once `makeInstallment` has been called \(or to access initial private funds\), the withdraw function is used to move an available amount into your wallet. The withdraw function can be called any time after a single `makeInstallment` call or multiple `makeInstallment` calls. 
 
-Return to the **Interact with Contract** menu item and enter in the MultipleDistribution contract information. 
+To start, return to the **Interact with Contract** menu item and enter in the MultipleDistribution contract information. 
 
 {% hint style="warning" %}
 **Note the contracts are different for Private Investors and Advisors.** 
