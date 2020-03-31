@@ -38,20 +38,24 @@ Tokens will be available for withdrawal and use based on the distribution rules 
 
 ## **`makeInstallment` function**
 
-5\) We will interact with the **Distribution Contract** to prepare an amount for withdrawal. The `makeInstallment` function is called to unlock amounts available for withdrawal. Amounts are available according to the release schedule. 
+5\) We will interact with the **Distribution Contract** to prepare an amount for withdrawal. The `makeInstallment` function is called to unlock and transfer amounts available for withdrawal. Amounts are available to unlock according to the [release schedule](stake-token-distribution/token-release-schedule.md). 
+
+{% hint style="info" %}
+Anyone can call `makeInstallment`. It unlocks the total amount of all funds \(Investors & Advisors\) and transfers them to the appropriate contracts for [withdrawal](getting-stake-tokens.md#withdrawal-to-your-wallet).
+{% endhint %}
 
 For example, 10% of a private investors amount will be available after day 28. This function is called after day 28 to prepare this amount for withdrawal. Each day following \(for the next 224 days\) a percentage of tokens is released, and each day this function may be called to prepare the corresponding amount for withdrawal.
 
-If a day is skipped, that amount accrues. The total amount available is unlocked when the `makeInstallment` function is called.
+If a day is skipped, that amount accrues. The total amount available for any role is unlocked when the `makeInstallment` function is called.
 
 {% hint style="info" %}
-25% of Private Investor funds are available immediately once the STAKE token is listed. These can be accessed using the [withdrawal function](getting-stake-tokens.md#withdrawal-to-your-wallet) and does not need to be prepared. All other tokens releases must follow the prep process below.
+25% of Private Investor funds are available immediately once the STAKE token is listed. These can be accessed using the [withdrawal function](getting-stake-tokens.md#withdrawal-to-your-wallet) and do not need to be prepared. All other tokens releases must follow the preparatory process below.
 {% endhint %}
 
 5a\) Enter Contract Information:
 
 * **Contract**: 0x99842cD4a57eD3a79ad8Cb9AE5747BEe1677Ab01
-* **ABI**: [https://kovan.etherscan.io/address/0xC468a24d4E15c7A1e081394e24CE95E5D3b23554\#code](https://kovan.etherscan.io/address/0xC468a24d4E15c7A1e081394e24CE95E5D3b23554#code). Copy the ABI Code here and paste into the ABI/JSON Interface field. 
+* **ABI**: [https://kovan.etherscan.io/address/0x99842cD4a57eD3a79ad8Cb9AE5747BEe1677Ab01\#code](https://kovan.etherscan.io/address/0x99842cD4a57eD3a79ad8Cb9AE5747BEe1677Ab01#code)  Copy the ABI Code here and paste into the ABI/JSON Interface field. 
 * Press **Continue**.
 
 ![Contract Address &amp; ABI](../../.gitbook/assets/continue-5.png)
@@ -63,17 +67,22 @@ If a day is skipped, that amount accrues. The total amount available is unlocked
 1. Select the `makeInstallment` function from the dropdown menu. 
 2. Enter a value in the \_pool\(unit8\) field. **This value depends on your role:**
    1. Private Investor: 3
-   2. Advisor: 4
+   2. Advisor: 4 _Note: values can also release installments for the Ecosystem Fund: 1 or the Foundation Reward: 5_
 3. Click **Write**.
 
 ![](../../.gitbook/assets/makeinstallment.png)
 
-5c\) Confirm the transaction in MetaMask.  
-
+5c\) Confirm the transaction in MetaMask. 
 
 ## **Withdrawal to your wallet**
 
-6\)  Once the above transaction is complete \(or to withdraw initial private amount\), the installment amount is available to withdraw to your wallet.  Return to the **Interact with Contract** menu item and enter in the MultipleDistribution contract information. **Note the contracts are different for Private Investors and Advisors.** 
+6\)  Once `makeInstallment` has been called \(or to withdraw initial private amount\), installment amounts are available to withdraw to your wallet.  The withdraw function can be called any time after a single or multiple `makeInstallment` calls have occurred to withdraw the amount that has been unlocked and transferred.
+
+Return to the **Interact with Contract** menu item and enter in the MultipleDistribution contract information. 
+
+{% hint style="warning" %}
+**Note the contracts are different for Private Investors and Advisors.** 
+{% endhint %}
 
 **Private Investor:**
 
