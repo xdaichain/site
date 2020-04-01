@@ -14,6 +14,8 @@ The following article explains on-chain randomness functions and how they will b
 
 ## Randomness Contract \(RandomAuRa\) 
 
+RandomAura is an upgradeable contract, so it includes both an implementation and proxy address. To access, utilize the proxy address \(`RandomAuraProxy`\) along with the ABI of the implementation contract \(`RandomAuraCode`\).
+
 | Contract | Address |
 | :--- | :--- |
 | RandomAuRaCode | 0x77bfEd71b26998Bb9eBd9864e3eC169A5C91504C |
