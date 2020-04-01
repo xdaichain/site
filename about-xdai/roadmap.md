@@ -1,13 +1,13 @@
 ---
-description: Future Directions for the xDai Stable Chain
+description: Current & Future Directions for the xDai Stable Chain
 ---
 
 # Roadmap
 
 ## Fiat to xDai Onramp
 
-**Target:** Q4 2019  
-**Status:** Carbon implementation complete, additional implementations ongoing.
+\*\*\*\*🎯 **Target:** Q4 2019  
+ ✅ **Status:** Carbon implementation complete, additional implementations ongoing.
 
 {% hint style="success" %}
 The [Carbon on-ramp](../for-users/buying-xdai-with-carbon/) for xDai is now functional \(functionality is dependent on geo-location\).
@@ -19,8 +19,8 @@ The xDai team is working with payment processing companies to enable Fiat to xDa
 
 ## **Multi-Collateral Dai &lt;-&gt; xDai Bridge**
 
-**Target Date:** Q4 2019  
-**Status**: Done. Summary: [https://forum.poa.network/t/migration-of-the-xdai-tokenbridge-completed/3212](https://forum.poa.network/t/migration-of-the-xdai-tokenbridge-completed/3212)
+🎯 **Target Date:** Q4 2019  
+✅**Status**: Complete. Summary: [https://forum.poa.network/t/migration-of-the-xdai-tokenbridge-completed/3212](https://forum.poa.network/t/migration-of-the-xdai-tokenbridge-completed/3212)
 
 {% hint style="success" %}
 xDai bridge is upgraded to support both Dai and Sai.
@@ -30,17 +30,41 @@ Bridge balance migrated from Sai to Dai. Both Dai and Sai can be deposited on th
 
 Once the Dai protocol implementation is upgraded to MCD \(Multi-Collateral Dai\), the xDai bridge will also be upgraded to use MCD Dai.
 
-## Consensus Upgrade
+## Chai &lt;-&gt; Dai Bridge Contracts Update
 
-**Target Date:** Q1-Q2 2020
+🎯 **Target Date:** Q1 2020  
+✅**Status**: Completed 03/31/2020
 
-xDai currently uses known organizations in the ecosystem as chain validators. These organizations subsidize their own nodes, and this is unsustainable in the long term. To increase decentralization, and offer the broader community the chance to participate in consensus, we will upgrade to the POSDAO consensus model.
+{% hint style="success" %}
+Bridge contracts are upgraded and functional. For more on Chai, see the [Chai FAQs](../for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md).
+{% endhint %}
 
-For more information on this transition, see the [STAKE and staking page](../for-stakers/stake-and-staking.md).
+The new version of the bridge contract supports usage of [the Dai Savings Rate contract](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr) through [the Chai token](https://chai.money/) to earn the interest for tokens deposited on the bridge balance. Dai locked in the bridge contract is converted to Chai, an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch will be used as an additional incentive for stakers **in Phase 2** of the consensus upgrade. 
+
+## Consensus POSDAO Upgrade: Phase 1
+
+🎯 **Target Date:** Q1-Q2 2020  
+✅**Status**: Completed 04/01/2020
+
+{% hint style="success" %}
+Phase 1 of the POSDAO upgrade was successfully activated April 1, 2020. 
+{% endhint %}
+
+xDai will upgrade to a Proof of Stake model in several phases. In the first phase, the current validators will receive xDai-based STAKE tokens and to protect the chain. These validators will remain in place to assist in the transition to phase 2.
+
+For more information on this transition, see the [staking roadmap](../for-stakers/stake-and-staking.md).
+
+## Consensus POSDAO Upgrade: Phase **2**
+
+🎯 **Target Date:** Q2-Q3 2020
+
+To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
+
+For more information on this transition to public staking, see the [staking roadmap](../for-stakers/stake-and-staking.md).
 
 ## **Privacy Preserving Transactions**
 
-**Target Date:** Q3 2020
+🎯 **Target Date:** Q3 2020
 
 Implementation of additional zero-knowledge protocols and private transactions into xDai.
 
@@ -50,7 +74,7 @@ We have invested in several [different approaches ](https://forum.poa.network/t/
 
 ## Synthetic Assets on xDai based on UMA protocol
 
-**Taget Date**: Q2 2020
+🎯 **Taget Date**: Q2 2020
 
 > UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
 
@@ -58,13 +82,13 @@ xDai will leverage UMA protocol to create derivatives on fiat currencies and ena
 
 ## L2 scalability for token transfers on xDai
 
-**Target Date**: Q3 2020
+🎯 **Target Date**: Q3 2020
 
 A scalability solution based on zero-knowledge protocol \(Rollup\) will be deployed on xDai. This will enable scaling of transfers \(up to 1000x\) for native token and synthetic tokens on top of xDai.
 
 ## xDai NG \(New Generation\) POS Chain
 
-**Target Date**: Q3 2020
+🎯 **Target Date**: Q3 2020
 
-A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE]() tokens and HBBFT consensus.
+A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE ](../for-stakers/stake-staking-token/)tokens and HBBFT consensus.
 
