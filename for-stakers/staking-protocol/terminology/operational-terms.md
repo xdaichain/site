@@ -26,7 +26,7 @@ This page is a work in progress as implementation details are ongoing
 
 ### Active Stake
 
-Stake currently in use by the validator set is called active stake. The amount of active stake is snapshot at the beginning of each staking epoch and used as the basis for reward distribution among validator pools at the end of the epoch.
+Stake currently in use by the validator set is called active stake. The amount of active stake is snapshotted at the beginning of each staking epoch and used as the basis for reward distribution among validator pools at the end of the epoch.
 
 Additional stake can be placed on validator pools during a staking epoch, however, this is pending stake and does not impact the pool until the next staking epoch. Active stake cannot be withdrawn or moved during a staking epoch, but it can be ordered for withdrawal \(the withdrawal amount can be claimed beginning with the next staking epoch\).
 
@@ -38,10 +38,10 @@ The balance is the amount of STAKE available on a participant’s address connec
 
 A ban occurs due to validator misbehavior. This can include:
 
-* not revealing a secret number more than 20 times in a staking epoch
+* not revealing a secret number more than 55 times in a staking epoch
 * not revealing a secret number on the last reveal round of a staking epoch
-* Reported malicious behavior \(ie releasing 2 blocks at the same step or releasing a block out of order\) by other validators
-* Too many calls to the reportMalicious function \(spam calls\)
+* reported malicious behavior \(ie releasing 2 blocks at the same step or releasing a block out of order\) by other validators
+* too many calls to the reportMalicious function \(spam calls\)
 
 When a validator is banned, they are immediately removed from the current staking epoch and moved to the inactive pool list. They do not receive any rewards from the staking epoch. Rewards are distributed among the remaining validators in the set at the end of the staking epoch.
 
@@ -61,8 +61,8 @@ Stake ordered for withdrawal is available to claim once the staking epoch in whi
 
 A pool must contain at least the minimum amount of stake from a candidate in order to become active. Minimum stake requirements exist for validator candidates as well as for delegators. The minimum stake amount for delegators is much lower.
 
-* For validator candidates, the minimum stake is…\# here
-* For delegators, the minimum stake is ….\# here per candidate . Stake may be placed on multiple candidates, but at least … must be placed on each candidate/validator.
+* For validator candidates, the minimum stake is 20000 STAKE.
+* For delegators, the minimum stake is 1000 STAKE per candidate. Stake may be placed on multiple candidates, but at least 1000 STAKE must be placed on each candidate/validator.
 
 If a candidate tries to place an amount of stake that does not meet the minimum stake requirements, their pool is not created.
 
@@ -90,7 +90,7 @@ To order a withdrawal, click on the withdraw icon associated with the validator 
 
 If this is an active validator, the Withdraw Now button will be inactive, and the Order Withdrawal button will be active. Click the Order Withdrawal button to complete the order.
 
-If an order for withdrawal has already been placed during the current staking epoch, it is possible to update this order using the same interface. Entering an additional positive amount will increase the order withdrawal, and entering a negative amount will decrease the order accordingly.Withdrawal orders can be claimed once the current staking epoch is complete and a new staking epoch begins.
+If an order for withdrawal has already been placed during the current staking epoch, it is possible to update this order using the same interface. Entering an additional positive amount will increase the order withdrawal, and entering a negative amount will decrease the order accordingly. Withdrawal orders can be claimed once the current staking epoch is complete and a new staking epoch begins.
 
 ### Pending Stake
 
@@ -98,7 +98,7 @@ Pending stake is stake placed during the current staking epoch which is not yet 
 
 ### Remove My Pool
 
-The Remove My Pool function removes a pool from selection consideration for the next staking epoch. It moves any active pool to the inactive pools list, and ensures that a current validator pool completes the current staking epoch but does not participate in new validator set selection at the end of the epoch.
+The Remove My Pool function removes a pool from selection consideration for the next staking epoch. It moves candidate's/validator's active pool to the inactive pools list, and ensures that a current validator pool completes the current staking epoch but does not participate in new validator set selection at the end of the epoch.
 
 The Remove My Pool link appears in the header \(instead of the become a candidate button\) when the application is accessed using an associated staking address. Clicking on this link will initiate the transaction to move the pool to the inactives list. All staked funds will remain in the pool during this process.
 
@@ -110,7 +110,7 @@ Contrary to many Proof of Stake implementations, total pool stake amounts do not
 
 Stake is managed according to the following rules:
 
-* Stake can be placed, moved, or withdrawn \(or ordered for withdrawal\) during the staking window, which begins immediately after the previous stakes snapshotting process finishes when a staking epoch begins, and ends 6 hours prior to the end of a staking epoch. No staking actions can take place outside of the staking window.
+* Stake can be placed, moved, or withdrawn \(or ordered for withdrawal\) during the staking window, which begins immediately after the staking epoch starts, and ends ~6 hours \(4332 blocks\) prior to the end of the staking epoch. No staking actions can take place outside of the staking window.
 * Stake can be freely placed, moved, or withdrawn from candidate pools during a staking epoch.
 * Stake may be placed on a current validator pool, however it will not impact current pool rewards or staking percentages until the following staking epoch. In this case, it is referred to as pending stake.
 * Pending stake may be moved or withdrawn during the staking window.
@@ -124,9 +124,9 @@ A staking address is generated just like any other arbitrary Ethereum address. E
 
 ### Staking Window
 
-The period of time when stake may be placed on or withdrawn from a candidate or validator pool. The staking window begins shortly after a staking epoch starts, and ends during the final 6 hours of a staking epoch. During the disallow period \(when the window is closed\), stake may not be withdrawn or placed, preventing manipulation of the incoming validator set at the end of an epoch.
+The period of time when stake may be placed on or withdrawn/ordered from a candidate or validator pool. The staking window begins shortly after a staking epoch starts, and ends during the final ~6 hours of a staking epoch. During the disallow period \(when the window is closed\), stake may not be withdrawn, placed, or ordered preventing manipulation of the incoming validator set at the end of an epoch.
 
 ### Stakes Ratio
 
-The Stakes Ratio shows the amount of stake deposited in a validator’s pool relative to the total stake committed to all validator pools. For example, if the total staked amount for all validator pools is 30000, and the staked amount in a specified validator’s pool is 5000, the Stakes Ratio for this pool is 16.67%. A higher stakes ratio corresponds to a greater likelihood of selection to the next validator set.
+The Stakes Ratio shows the amount of stake deposited in a validator’s pool relative to the total stake committed to all validator pools. For example, if the total staked amount for all validator pools is 30000, and the staked amount in a specified validator’s pool is 5000, the Stakes Ratio for this pool is 16.67%. A higher stakes ratio corresponds to a greater likelihood of selection to the next validator set \(when there are more than 19 candidates\).
 
