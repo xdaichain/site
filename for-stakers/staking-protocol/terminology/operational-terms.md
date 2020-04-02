@@ -10,7 +10,7 @@ This page is a work in progress as implementation details are ongoing
 * [Balance ](operational-terms.md#balance)
 * [Ban ](operational-terms.md#ban)
 * [Block Number](operational-terms.md#block-number)
-* Claim Reward 
+* [Claim Reward ](operational-terms.md#claim-reward)
 * [Claim STAKE Ordered Withdrawal ](operational-terms.md#claim-ordered-withdrawal)
 * [Minimum Stake ](operational-terms.md#minimum-stake)
 * [Mining Address ](operational-terms.md#mining-address)
