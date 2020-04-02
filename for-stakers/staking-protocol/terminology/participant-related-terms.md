@@ -22,6 +22,8 @@ This page is a work in progress as implementation details are ongoing
 
 Active pools consist of all candidate and validator pools eligible to join the next staking epoch as members of the validator set. At the end of a staking epoch, the new validator set is constructed from this list. Active pools with higher stake have a higher likelihood of selection to the next epoch, but all active pools have a chance to be selected \(randomness introduces variation in selection\).
 
+Random selection is not applicable if there are 19 or fewer candidates/validators. If there are fewer than 20 candidates, every candidate becomes a validator.
+
 To be considered active, a pool must contain at least the minimum stake amount \(see the whitepaper\) and be in good standing \(not banned\).
 
 All active pools are listed in the active pools tab, arranged from highest stakes ratio to lowest stakes ratio. Delegators may add or move stake to and from active pools during a staking window. However, if the active pool is a current validator, the change in stake amounts will not take effect until the next staking epoch. A withdrawal from a validator’s pool is limited to the amount staked during the current staking epoch. However, any delegator in the validator’s pool \(including the validator themselves\) can order a withdrawal and remove their stake during the next staking epochs.
@@ -32,7 +34,7 @@ To become a validator and produce blocks on the chain, a participant must first 
 
 To become a candidate, a participant must:
 
-1. Acquire both bridged STAKE and xDai tokens. This includes at least the minimum required candidate stake in STAKE and a small amount of xDai to process transactions. Recommended amounts: ??
+1. Acquire both bridged STAKE and xDai tokens. This includes at least the minimum required candidate stake in STAKE and a small amount of xDai to process transactions. Recommended amounts: 20,000 STAKE tokens \(the minimum required candidate stake\) and 1 xDai.
 2. Configure and run a node that meets the technical requirements for the protocol. Once the node is functional, a participant can become a candidate by enabling a web3 wallet with their staking address, providing the mining address associated with their node, and staking the minimum required candidate stake.
 
 Once added, candidates may attract delegators to stake into their pools, increasing the chances of the candidate’s selection to the next validator set.
@@ -61,7 +63,7 @@ If a validator is banned, any stake within the banned pool \(including delegated
 
 ### Initial Validators
 
-The protocol is designed to begin with a set of predefined validators. After the first staking epoch, this validator set can change depending on the presence of additional candidates. The initial validator set for the xDai Stable Chain is comprised of the same group of validators responsible for securing the chain prior to the POSDAO upgrade. See this post for more information regarding this select group.
+The protocol is designed to begin with a set of predefined validators. After the first staking epoch, this validator set can change depending on the presence of additional candidates. The initial validator set for the xDai Stable Chain is comprised of the same group of validators responsible for securing the chain prior to the POSDAO upgrade. \[See this post for more information regarding this select group.\]
 
 ### Inactive Pool
 
@@ -83,11 +85,11 @@ Validators can also remove their pool from selection consideration to the next e
 
 ### Validator Pool
 
-The validator pool contains the total amount of STAKE placed on a validator \(including active and pending stake\). The total amount of active stake is snapshot at the beginning of a staking epoch and used for reward distribution between the validator and its delegators at the end of the epoch. Additional pending stake may be placed on the validator pool during a staking epoch. This pending stake does not accumulate any rewards, but does influence the chances of the pool becoming a validator for the next staking epoch.
+The validator pool contains the total amount of STAKE placed on a validator \(including active and pending stake\). The total amount of active stake is snapshotted at the beginning of a staking epoch and used for reward distribution between the validator and its delegators at the end of the epoch. Additional pending stake may be placed on the validator pool during a staking epoch. This pending stake does not accumulate any rewards, but does influence the chances of the pool becoming a validator for the next staking epoch.
 
 ### Validator Set
 
 The Validator set is the current group of validators participating in consensus. The maximum number of validators in a set is 19, and a new validator set is chosen for each staking epoch. Members are selected based on the total amount of stake in their pool relative to the total deposited stake \(stake ratio\), along with a random number that adds variation to the process. A higher stake ratio results in a higher likelihood of selection, but it does not guarantee selection, as every active candidate has a chance to be selected to the next set.
 
-If a validator in the set is removed for malicious behavior, a new validator set \(containing the current set minus the malicious validator\) is queued and installed into the protocol. This modified set completes the current staking epoch, and rewards are distributed equally among the modified set.
+If a validator in the set is removed for malicious behavior, a new validator set \(containing the current set minus the malicious validator\) is installed into the protocol. This modified set completes the current staking epoch, and rewards are distributed equally among the modified set.
 
