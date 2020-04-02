@@ -6,21 +6,21 @@ This page is a work in progress as implementation details are ongoing
 
 {% tabs %}
 {% tab title="Protocol " %}
-* [Aura Algorithm](untitled.md#aura-algorithm)
-* [Block/Bridge Rewards ](untitled.md#block-bridge-rewards)
-* [Bridge ](untitled.md#bridge)
-* [DPOS ](untitled.md#dpos-delegated-proof-of-stake)
-* [Emission Curve ](untitled.md#emission-curve-emission-schedule)
-* [Epoch ](untitled.md#epoch-staking-epoch)
-* [Epoch Number ](untitled.md#epoch-number)
-* [Fees](untitled.md#fees)
-* [Hard Cap ](untitled.md#hard-cap)
-* [Node ](untitled.md#node)
-* [Reward distribution rules ](untitled.md#reward-distribution-rules)
-* [Secret Number, Random number ](untitled.md#secret-number-randomness-beacon)
-* [Stake token ](untitled.md#stake-token)
-* [Technical Requirements ](untitled.md#technical-requirements)
-* [Withdrawal Rules ](untitled.md#withdrawal-rules)
+* [Aura Algorithm](protocol-terms.md#aura-algorithm)
+* [Block/Bridge Rewards ](protocol-terms.md#block-bridge-rewards)
+* [Bridge ](protocol-terms.md#bridge)
+* [DPOS ](protocol-terms.md#dpos-delegated-proof-of-stake)
+* [Emission Curve ](protocol-terms.md#emission-curve-emission-schedule)
+* [Epoch ](protocol-terms.md#epoch-staking-epoch)
+* [Epoch Number ](protocol-terms.md#epoch-number)
+* [Fees](protocol-terms.md#fees)
+* [Hard Cap ](protocol-terms.md#hard-cap)
+* [Node ](protocol-terms.md#node)
+* [Reward distribution rules ](protocol-terms.md#reward-distribution-rules)
+* [Secret Number, Random number ](protocol-terms.md#secret-number-randomness-beacon)
+* [Stake token ](protocol-terms.md#stake-token)
+* [Technical Requirements ](protocol-terms.md#technical-requirements)
+* [Withdrawal Rules ](protocol-terms.md#withdrawal-rules)
 {% endtab %}
 {% endtabs %}
 

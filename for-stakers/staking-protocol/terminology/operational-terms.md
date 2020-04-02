@@ -9,8 +9,9 @@ This page is a work in progress as implementation details are ongoing
 * [Active Stake ](operational-terms.md#active-stake)
 * [Balance ](operational-terms.md#balance)
 * [Ban ](operational-terms.md#ban)
-* [Block Number ](operational-terms.md#block-number)
-* [Claim Ordered Withdrawal ](operational-terms.md#claim-ordered-withdrawal)
+* [Block Number](operational-terms.md#block-number)
+* Claim Reward 
+* [Claim STAKE Ordered Withdrawal ](operational-terms.md#claim-ordered-withdrawal)
 * [Minimum Stake ](operational-terms.md#minimum-stake)
 * [Mining Address ](operational-terms.md#mining-address)
 * [Move Stake ](operational-terms.md#move-stake)
@@ -52,6 +53,10 @@ To reactivate a banned pool after the 90 day ban is complete, a candidate must i
 ### Block number
 
 Each block in the chain is numbered sequentially starting from the genesis block. The block number displayed in the BlockScout interface corresponds to block height; it is the most current block in the chain.
+
+### Claim Reward
+
+Block rewards are distributed at the end of each staking epoch, but these distributions must be claimed by validators and delegators active during that epoch. The manual claiming process transfers the participant's reward from the contract to each participant's individual wallet. Validators must use their staking address to claim, and delegators must use their delegation address. Users can specify claims for specific staking epochs or claim rewards for all past staking epochs.
 
 ### Claim Ordered Withdrawal
 

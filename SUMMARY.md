@@ -77,7 +77,7 @@
     * [EXIT FAQs](for-stakers/stake-reward-mechanics/exit-reward-token/exit-faqs.md)
 * [Staking Protocol](for-stakers/staking-protocol/README.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
-    * [Protocol Related Terms](for-stakers/staking-protocol/terminology/untitled.md)
+    * [Protocol Related Terms](for-stakers/staking-protocol/terminology/protocol-terms.md)
     * [Participant Related Terms](for-stakers/staking-protocol/terminology/participant-related-terms.md)
     * [Operational Terms](for-stakers/staking-protocol/terminology/operational-terms.md)
   * [Become a Candidate / Validator](for-stakers/staking-protocol/become-a-candidate-validator.md)
