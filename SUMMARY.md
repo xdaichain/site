@@ -92,7 +92,7 @@
 
 * [Developer Resources & Tools](for-developers/developer-resources.md)
 * [Install xDai Client](for-developers/install-xdai-client/README.md)
-  * [Parity](for-developers/install-xdai-client/parity.md)
+  * [OpenEthereum \(formerly Parity\)](for-developers/install-xdai-client/parity.md)
   * [Nethermind](for-developers/install-xdai-client/nethermind.md)
 * [Smart Contract Deployment](for-developers/smart-contract-deployment.md)
 * [ERC20 Test Token Faucet](for-developers/erc20-test-token-faucet.md)

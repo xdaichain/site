@@ -1,5 +1,9 @@
 # Nethermind
 
+{% hint style="warning" %}
+Nethermind is currently working on a POSDAO configuration, targeting a Q2 2020 release. Their client is not yet compatible with xDai.
+{% endhint %}
+
 Nethermind Launcher is a self-contained app - you do not need to install .NET separately to run it. 
 
 \*\*\*\*📄 **Nethermind Docs**: [https://nethermind.readthedocs.io/en/latest/](https://nethermind.readthedocs.io/en/latest/)
