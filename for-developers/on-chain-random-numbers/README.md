@@ -1,6 +1,6 @@
 # On-Chain Random Numbers
 
-We are introducing an on-chain RNG based on RANDAO. It may be leveraged by smart contract developers to introduce random numbers into their applications.  _Note that random numbers are limited to certain blocks in the current implementation. See below for more information._
+The xDai stable chain features an on-chain RNG based on RANDAO. It may be leveraged by smart contract developers to introduce random numbers into their applications.  _Note that random numbers are limited to certain blocks in the current implementation. See below for more information._
 
 * [PRNG implementation explainer](randomaura-rng-explainer.md)
 * [How to access the random seed in a smart contract](accessing-a-random-seed-with-a-smart-contract.md)
