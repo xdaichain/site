@@ -6,6 +6,10 @@ description: >-
 
 # New Validator Process Flow
 
+{% hint style="danger" %}
+This process is outdated with the new POSDAO implementation. Instructions related to community validators are in development.
+{% endhint %}
+
 A new potential xDai validator starts as a validator candidate. A candidate [creates an initial profile on the forum](https://forum.poa.network/c/xdai-chain/validators-intro), generates accounts, and posts these public addresses to the POA forum. Once this information is public, the current xDai validators create a ballot and vote to accept the new validator. If accepted, the newly elected validator sets up their validator and bridge validator nodes. See below for details in each stage of the process.
 
 * [Phase 1: Validator Candidate Process](candidate.md)
