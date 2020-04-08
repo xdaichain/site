@@ -129,8 +129,8 @@
   * [Randomness FAQs](for-developers/on-chain-random-numbers/randomness-faqs.md)
 * [API & SQL Access](for-developers/api-and-sql-access.md)
 * [Smart Contract Dashboard](for-developers/smart-contract-dashboard.md)
+* [Security Audits](for-developers/security-audits.md)
 * [Grants for building on xDai](for-developers/grants/README.md)
-  * [Security Audits](for-developers/grants/security-audits.md)
   * [xDai Adoption Fund](for-developers/grants/xdai-adoption-fund.md)
   * [ZK \(Zero Knowledge\) Privacy Fund](for-developers/grants/zk-zero-knowledge-privacy-fund.md)
 
