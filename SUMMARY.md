@@ -136,8 +136,7 @@
 
 ## For validators
 
-* [About xDai Validators](for-validators/about-xdai-validators/README.md)
-  * [Validator Resources](for-validators/about-xdai-validators/validator-resources.md)
+* [About xDai Validators](for-validators/about-xdai-validators.md)
 * [POSDAO Whitepaper](for-validators/posdao-whitepaper.md)
 * [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
   * [Validator Candidate](for-validators/new-validator-process-flow/candidate.md)
