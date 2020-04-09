@@ -34,7 +34,7 @@ To learn more about the current validators,[ visit the xDai forum page where val
 
 👨🔬\*\*\*\*[**Portis**](https://portis.io/)**:** A technology company with a mission to simplify decentralized applications. Their development process is driven by a desire to create simple user interfaces and intuitive onboarding tools for all users.
 
-🦸♂\*\*\*\*[**SyncNode**](https://ip.sx/)**:** A software development company headquartered in Switzerland and Romania. Since 2017 Syncnode has been fully dedicated to the blockchain space where they are involved in building community solutions.
+🦸♂\*\*\*\*[**SyncNode**](https://medium.com/syncnode-validator)**:** A software development company headquartered in Switzerland and Romania. Since 2017 Syncnode has been fully dedicated to the blockchain space where they are involved in building community solutions.
 
 👩🔧\*\*\*\*[**Lab10 Collective**](https://lab10.coop/)**:** A cooperative dedicated to co-create a zero-carbon society. They build sustainable blockchain enabled energy and mobility solutions towards an open, fair and ethical sharing economy.
 
@@ -42,5 +42,7 @@ To learn more about the current validators,[ visit the xDai forum page where val
 
 👩🏫 [**Gnosis**](https://gnosis.io/)**:** A distributed organization ****building open prediction market applications, decentralized trading protocols, and tools to manage funds and interact with the decentralized web.
 
-🦹♀ [**Galt Project**](https://galtproject.io/)**:** A project providing land and property owners the ability to tokenize their properties as NFTs \(ERC721\) on the Ethereum mainnet. 
+🦹♀ [**Galt Project**](https://galtproject.io/)**:** A project providing land and property owners the ability to tokenize their properties as NFTs \(ERC721\) on the Ethereum mainnet.
+
+🧙♂ ****[**Nethermind:**](http://nethermind.io/) ****The world’s fastest Ethereum .NET Client and P2P Data Marketplace for the decentralised future.
 
