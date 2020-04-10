@@ -34,13 +34,12 @@ Parity on Windows can either be installed as a System Service or executed from a
 More information related to Parity setup and configuration is available on the Parity wiki. [https://wiki.parity.io/Setup](https://wiki.parity.io/Setup)
 {% endhint %}
 
-### Once Parity is Installed,  Connect and Sync with xDai
+### Once OpenEthereum is Installed,  Connect and Sync with xDai
 
-1. Download the latest spec.json file from [https://raw.githubusercontent.com/poanetwork/poa-chain-spec/dai/spec.json](https://raw.githubusercontent.com/poanetwork/poa-chain-spec/dai/spec.json)
-2. Run the following command specifying the correct path to the spec.json file downloaded in step 1.
+1. Run the following command
 
 ```text
-parity --chain ./spec.json --no-warp
+parity --chain xdai --no-warp
 ```
 
 #### Optional
