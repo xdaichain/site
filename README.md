@@ -43,7 +43,7 @@ When users want to exchange xDai for Dai, the process happens in reverse. xDai i
 
 ![xDAi on the BlockScout Blockchain Explorer](.gitbook/assets/screen-shot-2019-10-07-at-12.29.35-pm.png)
 
-## **Reasons to use the xDai Stable Chain:**
+## **Reasons to Use the xDai Stable Chain:**
 
 * ✅Fast transaction times \(5 seconds\) & low transaction fees \(500 tx for $.01\).
 * ✅Digital cash. A stable chain is ideal for real world value exchange where 1 xDai = 1 US Dollar.
