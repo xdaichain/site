@@ -1,6 +1,6 @@
 # BlockScout
 
-BlockScout is a full-featured explorer for xDai. It is available here: [https://blockscout.com/poa/xdai/](https://blockscout.com/poa/xdai/)
+BlockScout is a full-featured explorer for xDai. It is available here: [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai/)
 
 With BlockScout you can:
 
