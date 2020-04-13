@@ -6,6 +6,8 @@ description: Setup your custom RPC to connect to Metamask
 
 1\) Open Metamask, and select "Custom RPC" from the Network Dropdown.
 
+![](../../../.gitbook/assets/custom-rpc.png)
+
 2\) In the "Custom RPC" Settings, add in the xDai network details and click **Save**:
 
 * Network Name: **xDai**
