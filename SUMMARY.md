@@ -128,6 +128,7 @@
   * [Accessing a Random Seed with a Smart Contract](for-developers/on-chain-random-numbers/accessing-a-random-seed-with-a-smart-contract.md)
   * [Randomness FAQs](for-developers/on-chain-random-numbers/randomness-faqs.md)
 * [API & SQL Access](for-developers/api-and-sql-access.md)
+* [TheGraph Data Indexing](for-developers/thegraph-data-indexing.md)
 * [Smart Contract Dashboard](for-developers/smart-contract-dashboard.md)
 * [Security Audits](for-developers/security-audits.md)
 * [Grants for building on xDai](for-developers/grants/README.md)
