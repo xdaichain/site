@@ -2,6 +2,10 @@
 
 Tokens will be released according to the schedule below, with daily distribution after they are unlocked. Once released, tokens will be available on an ad-hoc, daily basis. They will not be automatically distributed \(PUSH strategy\), but available on request \(PULL strategy\).
 
+{% hint style="info" %}
+**Update**: Contracts are deployed on the Ethereum Mainnet and verified in Etherscan. See each category for a link to the associated contract, several funds share a contract.
+{% endhint %}
+
 #### Ecosystem Fund
 
 Used to foster adoption and provide funding for applications.
@@ -10,6 +14,7 @@ Used to foster adoption and provide funding for applications.
 * Locked for first 336 days following token listing
 * Released at day 336: 800,000 \(20%\)
 * Released for following 336 days starting at day 337: ~9,523 daily.
+* Contract: [0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9](https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9)
 
 #### Foundation Reward
 
@@ -19,6 +24,7 @@ The foundation reward recognizes founders and partners.
 * Locked for first 84 days following token listing
 * Released at day 84: 139,809 \(20%\). 
 * Released for following 252 days starting at day 85: ~2,219 daily.
+* Contract: [0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9](https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9)
 
 **Advisors Reward**
 
@@ -28,6 +34,7 @@ Advisors will sign a SAFT \(Simple Agreement for Future Tokens\) contract to pro
 * Locked for first 84 days following token listing
 * Released at day 84: 130,200 \(20%\). 
 * Released for following 252 days starting at day 85: ~2,066 daily.
+* Contract: [0x0218B706898d234b85d2494DF21eB0677EaEa918](https://etherscan.io/address/0x0218B706898d234b85d2494DF21eB0677EaEa918)
 
 #### Private Investors Offering Round
 
@@ -37,6 +44,7 @@ An exclusive offering available to a group of pre-approved investors.
 * Released at listing: 492,737.75 \(25%\)
 * Released at day 28 following the listing: 197,095.1 \(10%\)
 * Released for following 224 days starting at day 29: ~5,719.2 daily
+* Contract: [0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA](https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA)
 
 #### Public Offering
 
@@ -44,6 +52,7 @@ Only ~4.7% of the total supply will be offered in the final, public auction roun
 
 * Total: 400,000\*
 * Released at listing: 400,000 \(100%\)
+* Contract: [0x0DF05ADaC0159e215111696339AD4998e5871B3D](https://etherscan.io/address/0x0df05adac0159e215111696339ad4998e5871b3d)
 
 _\*Any unsold tokens will be burned_
 
@@ -53,6 +62,14 @@ Exchange listings and market maker services require additional fees. The liquidi
 
 * Total: 816,500
 * Released at listing: 816,500 \(100%\)
+* Contract: [0x0DF05ADaC0159e215111696339AD4998e5871B3D](https://etherscan.io/address/0x0df05adac0159e215111696339ad4998e5871b3d)
+
+{% hint style="info" %}
+**Update**: Funds are initialized for distribution on listing, including 260,000 tokens burned \(13 validators X 20k Stake\).  
+
+🔥 Proof of Burn   
+[https://etherscan.io/tx/0x3f2d3f6e0aa85b5023a550b50d527e068fdf0c9a0a73d6379fd3d29e2e9395a6](https://etherscan.io/tx/0x3f2d3f6e0aa85b5023a550b50d527e068fdf0c9a0a73d6379fd3d29e2e9395a6)
+{% endhint %}
 
 #### Minted STAKE
 
