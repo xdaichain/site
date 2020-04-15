@@ -13,50 +13,50 @@ $ git clone https://github.com/poanetwork/poa-dapps-keys-generation
 $ cd poa-dapps-keys-generation
 ```
 
-2\) Make `src/addresses.js` use the address of your `KeysManager` contract
+2\) Make `src/utils/addresses.js` use the address of your `KeysManager` contract
 
 ```diff
-diff --git a/src/addresses.js b/src/addresses.js
+diff --git a/src/utils/addresses.js b/src/utils/addresses.js
 index 799909e..08c195e 100644
---- a/src/addresses.js
-+++ b/src/addresses.js
+--- a/src/utils/addresses.js
++++ b/src/utils/addresses.js
 @@ -1,15 +1,15 @@
- import { constants } from "./constants";
- import helpers from "./helpers";
+ import { constants } from './constants'
+ import helpers from './helpers'
 -//const local = {
--//    "KEYS_MANAGER_ADDRESS": "0x3ef32bb244016ad9af8c8f45398511e7e551b581"   
+-//    KEYS_MANAGER_ADDRESS: '0xfc90125492e58dbfe80c0bfb6a2a759c4f703ca8'
 -//}
 +const local = {
-+    "KEYS_MANAGER_ADDRESS": "0xKEYS_MANAGER"
++    KEYS_MANAGER_ADDRESS: '0xKEYS_MANAGER'
 +}
 
- export default (web3Config) => {
-     const branch = constants.NETWORKS[web3Config.netId].BRANCH;
+ export default web3Config => {
+     const branch = constants.NETWORKS[web3Config.netId].BRANCH
      return new Promise((resolve, reject) => {
          fetch(helpers.addressesURL(branch)).then((response) => { 
-             response.json().then((json) => {
--                resolve({addresses: json, web3Config});
-+                resolve({addresses: local, web3Config});
+             response.json().then(json => {
+-                resolve({ addresses: json, web3Config })
++                resolve({ addresses: local, web3Config })
              })
          }).catch(function(err) {
-             let addr = helpers.addressesURL(branch);
+             let addr = helpers.addressesURL(branch)
 ```
 
-* Make `src/helpers.js` use the ABI of your `KeysManager` contract:
+* Make `src/utils/helpers.js` use the ABI of your `KeysManager` contract:
 
   ```text
-  diff --git a/src/helpers.js b/src/helpers.js
+  diff --git a/src/utils/helpers.js b/src/utils/helpers.js
   index 23b2399..af8ee58 100644
-  --- a/src/helpers.js
-  +++ b/src/helpers.js
+  --- a/src/utils/helpers.js
+  +++ b/src/utils/helpers.js
   @@ -28,6 +28,7 @@ function ABIURL(branch, contract) {
    }
 
    function getABI(branch, contract) {
-  +  if (contract == 'KeysManager') return [...ABI...];
-     let addr = ABIURL(branch, contract);
+  +  if (contract == 'KeysManager') return [...ABI...]
+     let addr = ABIURL(branch, contract)
      return fetch(addr).then(function(response) {
-         return response.json();
+         return response.json()
   ```
 
 * Launch DApp. Validators should use it to swap their initial keys to mining+voting+payout keys.
