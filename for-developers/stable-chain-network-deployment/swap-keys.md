@@ -13,7 +13,9 @@ $ git clone https://github.com/poanetwork/poa-dapps-keys-generation
 $ cd poa-dapps-keys-generation
 ```
 
-2\) Make `src/utils/addresses.js` use the address of your `KeysManager` contract
+2\) Add your network to `constants.NETWORKS` in `src/utils/constants.js` as it's described in [Appendix C: Governance DApps](appendix-c-governance-dapps.md).
+
+3\) Make `src/utils/addresses.js` use the address of your `KeysManager` contract
 
 ```diff
 diff --git a/src/utils/addresses.js b/src/utils/addresses.js
@@ -33,35 +35,35 @@ index 799909e..08c195e 100644
  export default web3Config => {
      const branch = constants.NETWORKS[web3Config.netId].BRANCH
      return new Promise((resolve, reject) => {
++        resolve({ addresses: local, web3Config })
          fetch(helpers.addressesURL(branch)).then((response) => { 
              response.json().then(json => {
--                resolve({ addresses: json, web3Config })
-+                resolve({ addresses: local, web3Config })
+                 resolve({ addresses: json, web3Config })
              })
          }).catch(function(err) {
              let addr = helpers.addressesURL(branch)
 ```
 
-* Make `src/utils/helpers.js` use the ABI of your `KeysManager` contract:
+4\) Make `src/utils/helpers.js` use the ABI of your `KeysManager` contract:
 
-  ```text
-  diff --git a/src/utils/helpers.js b/src/utils/helpers.js
-  index 23b2399..af8ee58 100644
-  --- a/src/utils/helpers.js
-  +++ b/src/utils/helpers.js
-  @@ -28,6 +28,7 @@ function ABIURL(branch, contract) {
-   }
+```text
+diff --git a/src/utils/helpers.js b/src/utils/helpers.js
+index 23b2399..af8ee58 100644
+--- a/src/utils/helpers.js
++++ b/src/utils/helpers.js
+@@ -28,6 +28,7 @@ function ABIURL(branch, contract) {
+ }
 
-   function getABI(branch, contract) {
-  +  if (contract == 'KeysManager') return [...ABI...]
-     let addr = ABIURL(branch, contract)
-     return fetch(addr).then(function(response) {
-         return response.json()
-  ```
+ function getABI(branch, contract) {
++  if (contract == 'KeysManager') return [...ABI...]
+   let addr = ABIURL(branch, contract)
+   return fetch(addr).then(function(response) {
+       return response.json()
+```
 
-* Launch DApp. Validators should use it to swap their initial keys to mining+voting+payout keys.
+5\) Connect your MetaMask to your network and launch DApp. Validators should use it to swap their initial keys to mining+voting+payout keys.
 
-For testing purposes the script from [https://github.com/poanetwork/deployment-terraform/tree/master/helper-scripts/gen-prod-keys](https://github.com/poanetwork/deployment-terraform/tree/master/helper-scripts/gen-prod-keys) can be used:
+Instead of Ceremony DApp the script from [https://github.com/poanetwork/deployment-terraform/tree/master/helper-scripts/gen-prod-keys](https://github.com/poanetwork/deployment-terraform/tree/master/helper-scripts/gen-prod-keys) can be used:
 
 * Edit `helper-scripts/gen-prod-keys/index.js` in the following manner:
 
