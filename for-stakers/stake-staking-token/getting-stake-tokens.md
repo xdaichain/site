@@ -1,9 +1,5 @@
 # Getting STAKE tokens
 
-{% hint style="warning" %}
-The following instructions are under construction and cover a test implementation on Kovan. Correct contract addresses will be added when the STAKE contract is live on the mainnet.
-{% endhint %}
-
 ## Private Round Investors and Advisors 
 
 Tokens will be available for withdrawal and use based on the distribution rules for your role. 
@@ -11,7 +7,7 @@ Tokens will be available for withdrawal and use based on the distribution rules 
 ### Release Schedule
 
 * **Private Investors**: 25% released at listing\*, 10% at day 28, remaining 65% distributed during the next 224 days.
-* **Advisors**: 0% released at listing. Token release begins 84 days post listing and continues daily for 252 days.  _\* Available immediately using the_ [_withdrawal process_](getting-stake-tokens.md#withdrawal-to-your-wallet)\_\_
+* **Advisors**: 0% released at listing. Token release begins 84 days post listing and continues daily for 252 days.  _\* Available immediately using the_ [_withdrawal process_](getting-stake-tokens.md#withdrawal-to-your-wallet)_._
 
 {% hint style="success" %}
 **Requirements for this tutorial:** MetaMask, MyEtherWallet \(MEW\), Contract Addresses. You can use other methods \(such as Nifty Wallet\) to call contract functions if desired.
@@ -54,8 +50,8 @@ If a day is skipped, that amount accrues. The total amount available for any rol
 
 5a\) Enter Contract Information:
 
-* **Contract**: 0x99842cD4a57eD3a79ad8Cb9AE5747BEe1677Ab01
-* **ABI**: [https://kovan.etherscan.io/address/0x99842cD4a57eD3a79ad8Cb9AE5747BEe1677Ab01\#code](https://kovan.etherscan.io/address/0x99842cD4a57eD3a79ad8Cb9AE5747BEe1677Ab01#code)  Copy the ABI Code here and paste into the ABI/JSON Interface field. 
+* **Contract**: 0x9BC4a93883C522D3C79c81c2999Aab52E2268d03
+* **ABI**: [https://etherscan.io/address/0x9BC4a93883C522D3C79c81c2999Aab52E2268d03\#code](https://etherscan.io/address/0x9BC4a93883C522D3C79c81c2999Aab52E2268d03#code)  Copy the ABI Code here and paste into the ABI/JSON Interface field. 
 * Press **Continue**.
 
 ![Contract Address &amp; ABI](../../.gitbook/assets/continue-5.png)
@@ -86,14 +82,14 @@ To start, return to the **Interact with Contract** menu item and enter in the Mu
 
 **Private Investor:**
 
-* Contract: 0xC468a24d4E15c7A1e081394e24CE95E5D3b23554
-* ABI: [https://kovan.etherscan.io/address/0xC468a24d4E15c7A1e081394e24CE95E5D3b23554\#code](https://kovan.etherscan.io/address/0xC468a24d4E15c7A1e081394e24CE95E5D3b23554#code)
+* Contract: 0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA
+* ABI: [https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA\#code](https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA#code)
 * Click **Continue.**
 
 **Advisor:**
 
-* Contract: 0xD97921a3e85239A52A03C28bFFC2786A1372cf62
-* ABI: [https://kovan.etherscan.io/address/0xd97921a3e85239a52a03c28bffc2786a1372cf62\#code](https://kovan.etherscan.io/address/0xd97921a3e85239a52a03c28bffc2786a1372cf62#code)
+* Contract: 0x0218B706898d234b85d2494DF21eB0677EaEa918
+* ABI: [https://etherscan.io/address/0x0218B706898d234b85d2494DF21eB0677EaEa918\#code](https://etherscan.io/address/0x0218B706898d234b85d2494DF21eB0677EaEa918#code)
 * Click **Continue.**
 
 ![Private Investor example](../../.gitbook/assets/contractw1.png)
@@ -123,7 +119,7 @@ To start, return to the **Interact with Contract** menu item and enter in the Mu
 
 8b\)  Click Custom Token and enter in the STAKE Token address. The remaining details will autopopulate. Click **Next**.  
 
-* STAKE Token Address: [0xBB8685525257D89E8b104Ec4193565df67979023](https://kovan.etherscan.io/address/0xBB8685525257D89E8b104Ec4193565df67979023)
+* STAKE Token Address: [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
 
 ![](../../.gitbook/assets/mmk2.png)
 
