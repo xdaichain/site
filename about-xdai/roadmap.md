@@ -90,5 +90,5 @@ A scalability solution based on zero-knowledge protocol \(Rollup\) will be deplo
 
 🎯 **Target Date**: Q3 2020
 
-A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE ](../for-stakers/stake-staking-token/)tokens and HBBFT consensus.
+A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE ](../for-stakers/stake-token/)tokens and HBBFT consensus.
 

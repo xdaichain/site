@@ -50,7 +50,7 @@ When users want to exchange xDai for Dai, the process happens in reverse. xDai i
 * ✅Single token for transactions & gas fees.
 * ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO ](for-validators/posdao-whitepaper.md)\(coming soon - currently transitioning from private to public POSDAO\).
-* ✅[STAKE token](for-stakers/stake-staking-token/) allows community members to participate in consensus and receive incentives.
+* ✅[STAKE token](for-stakers/stake-token/) allows community members to participate in consensus and receive incentives.
 * ✅Wide-ranging Community Support \(see [xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators.md)\).
 * ✅Extreme usability with tools like Burner Wallet & Burner Wallet 2.
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md) and more.

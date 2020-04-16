@@ -8,7 +8,7 @@ description: Staking is coming soon to xDai!
 Public Staking is not here yet, but we are gathering documentation related to xDai staking processes. All pages in this section are currently under construction.
 {% endhint %}
 
-1. Tokens: You will need [STAKE tokens ](../stake-staking-token/)for staking and xDai for any staking transactions \(such as placing, moving or withdrawing stake\) or other on-chain transactions.
+1. Tokens: You will need [STAKE tokens ](../stake-token/)for staking and xDai for any staking transactions \(such as placing, moving or withdrawing stake\) or other on-chain transactions.
 2. [Become a Delegator](become-a-delegator.md)**.** Stake on current candidates and validators.
 3. [Become a Candidate](become-a-candidate-validator.md)**:** Configure an xDai node and place the minimum required stake to become a candidate.
 4. Learn more about [moving stake](staking-operations/move-stake.md), [withdrawing stake](staking-operations/withdraw-stake.md), [claiming stake](staking-operations/claim-stake.md), and [adding additional stake](staking-operations/add-stake.md).
