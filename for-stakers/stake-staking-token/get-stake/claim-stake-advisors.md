@@ -41,7 +41,7 @@ Tokens will not be available until 84 days post listing. Instructions will be up
 5\) We will interact with the **Distribution Contract** to prepare an amount for withdrawal. The `makeInstallment` function is called to unlock and transfer amounts available for withdrawal. Amounts are available to unlock according to the [release schedule](../stake-token-distribution/token-release-schedule.md). 
 
 {% hint style="info" %}
-Anyone can call `makeInstallment`. It unlocks the total amount of all funds \(Investors or Advisors\) within the schedule and transfers them to the appropriate contracts for [withdrawal](claiming-stake-tokens.md#withdrawal-to-your-wallet).
+Anyone can call `makeInstallment`. It unlocks the total amount of all funds \(Investors or Advisors\) within the schedule and transfers them to the appropriate contracts for [withdrawal](claim-stake-pi.md#withdrawal-to-your-wallet).
 {% endhint %}
 
 Each day following \(for the next 224 days\) a percentage of tokens is released, and each day this function may be called to prepare the corresponding amount for withdrawal.
