@@ -1,4 +1,4 @@
-# Getting STAKE Tokens
+# How to get STAKE Tokens
 
 Tokens will be available for trade on exchanges and decentralized exchanges once listed. We will update the pages accordingly. 
 
