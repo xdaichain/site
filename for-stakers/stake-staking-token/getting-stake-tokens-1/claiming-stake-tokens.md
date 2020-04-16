@@ -15,7 +15,7 @@ Tokens will be available for withdrawal and use based on the distribution rules 
 ### Release Schedule
 
 * **Private Investors**: 25% released at listing\*, 10% at day 28, remaining 65% distributed during the next 224 days.
-* **Advisors**: 0% released at listing. Token release begins 84 days post listing and continues daily for 252 days.  _\* Available immediately using the_ [_withdrawal process_](getting-stake-tokens.md#withdrawal-to-your-wallet)_._
+* **Advisors**: 0% released at listing. Token release begins 84 days post listing and continues daily for 252 days.  _\* Available immediately using the_ [_withdrawal process_](claiming-stake-tokens.md#withdrawal-to-your-wallet)_._
 
 {% hint style="success" %}
 **Requirements for this tutorial:** MetaMask, MyEtherWallet \(MEW\), Contract Addresses. You can use other methods \(such as Nifty Wallet\) to call contract functions if desired.
@@ -45,7 +45,7 @@ Tokens will be available for withdrawal and use based on the distribution rules 
 5\) We will interact with the **Distribution Contract** to prepare an amount for withdrawal. The `makeInstallment` function is called to unlock and transfer amounts available for withdrawal. Amounts are available to unlock according to the [release schedule](../stake-token-distribution/token-release-schedule.md). 
 
 {% hint style="info" %}
-Anyone can call `makeInstallment`. It unlocks the total amount of all funds \(Investors or Advisors\) within the schedule and transfers them to the appropriate contracts for [withdrawal](getting-stake-tokens.md#withdrawal-to-your-wallet).
+Anyone can call `makeInstallment`. It unlocks the total amount of all funds \(Investors or Advisors\) within the schedule and transfers them to the appropriate contracts for [withdrawal](claiming-stake-tokens.md#withdrawal-to-your-wallet).
 {% endhint %}
 
 For example, 10% of a private investors amount will be available after day 28. This function is called after day 28 to prepare this amount for withdrawal. Each day following \(for the next 224 days\) a percentage of tokens is released, and each day this function may be called to prepare the corresponding amount for withdrawal.
@@ -53,7 +53,7 @@ For example, 10% of a private investors amount will be available after day 28. T
 If a day is skipped, that amount accrues. The total amount available for any role is unlocked within the schedule when the `makeInstallment` function is called.
 
 {% hint style="info" %}
-25% of Private Investor funds are available immediately once the STAKE token is listed. These can be accessed using the [withdrawal function](getting-stake-tokens.md#withdrawal-to-your-wallet) and do not need to be prepared. All other tokens releases must follow the preparatory process below.
+25% of Private Investor funds are available immediately once the STAKE token is listed. These can be accessed using the [withdrawal function](claiming-stake-tokens.md#withdrawal-to-your-wallet) and do not need to be prepared. All other tokens releases must follow the preparatory process below.
 {% endhint %}
 
 5a\) Enter Contract Information:
