@@ -67,8 +67,10 @@
 
 * [Staking Roadmap](for-stakers/stake-and-staking.md)
 * [STAKE Staking Token](for-stakers/stake-staking-token/README.md)
-  * [Getting STAKE tokens](for-stakers/stake-staking-token/getting-stake-tokens-1/README.md)
-    * [Claiming STAKE tokens](for-stakers/stake-staking-token/getting-stake-tokens-1/claiming-stake-tokens.md)
+  * [Getting STAKE Tokens](for-stakers/stake-staking-token/getting-stake-tokens-1/README.md)
+    * [Claim STAKE: Private Investors](for-stakers/stake-staking-token/getting-stake-tokens-1/claiming-stake-tokens.md)
+    * [Claim STAKE: Advisors](for-stakers/stake-staking-token/getting-stake-tokens-1/claim-stake-advisors.md)
+  * [STAKE Token Contracts](for-stakers/stake-staking-token/stake-token-contracts.md)
   * [STAKE token distribution](for-stakers/stake-staking-token/stake-token-distribution/README.md)
     * [Token release schedule](for-stakers/stake-staking-token/stake-token-distribution/token-release-schedule.md)
 * [STAKE Reward Mechanics](for-stakers/stake-reward-mechanics/README.md)
