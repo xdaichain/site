@@ -4,6 +4,10 @@
 STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai, however STAKE may be used for staking \(or other purposes\) by other blockchain networks. 
 {% endhint %}
 
+{% hint style="success" %}
+STAKE token address on Ethereum [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
+{% endhint %}
+
 STAKE is a new ERC20 token designed to secure the on-chain payment layer and provide a mechanism for validators to receive multiple POS incentives. It is an ERC20 staking token with a market driven value. 
 
 The initial supply of 8.5375M STAKE tokens will be released over time. Additional tokens are minted as rewards at the conclusion of each staking epoch. 
@@ -37,7 +41,7 @@ Contracts corresponding to STAKE and distribution roles have been deployed to th
 | **STAKE Token** | [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/address/0x0Ae055097C6d159879521C384F1D2123D1f195e6) |
 | **Distribution Contract \(DC\)** _Prepares available withdrawal amounts in Investor/Fund Contracts_ | [0x9BC4a93883C522D3C79c81c2999Aab52E2268d03](https://etherscan.io/address/0x9bc4a93883c522d3c79c81c2999aab52e2268d03) |
 
-Funds in contracts below are available according to the release schedule \(e.g. a certain % is released each day\). The Distribution Contract is called with the corresponding number value below \(e.g. 3 for private offering\) to prepare/initialize funds for withdrawal. Once initialized, fund participants can pull available amounts to their wallets. A UI will be released shortly, the process is explained in detail in the [Getting STAKE tokens](getting-stake-tokens.md) section.
+Funds in contracts below are available according to the release schedule \(e.g. a certain % is released each day\). The Distribution Contract is called with the corresponding number value below \(e.g. 3 for private offering\) to prepare/initialize funds for withdrawal. Once initialized, fund participants can pull available amounts to their wallets. A UI will be released shortly, the process is explained in detail in the [Getting STAKE tokens](getting-stake-tokens-1/getting-stake-tokens.md) section.
 
 <table>
   <thead>

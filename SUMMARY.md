@@ -67,9 +67,10 @@
 
 * [Staking Roadmap](for-stakers/stake-and-staking.md)
 * [STAKE Staking Token](for-stakers/stake-staking-token/README.md)
+  * [Getting STAKE tokens](for-stakers/stake-staking-token/getting-stake-tokens-1/README.md)
+    * [Claiming STAKE tokens](for-stakers/stake-staking-token/getting-stake-tokens-1/getting-stake-tokens.md)
   * [STAKE token distribution](for-stakers/stake-staking-token/stake-token-distribution/README.md)
     * [Token release schedule](for-stakers/stake-staking-token/stake-token-distribution/token-release-schedule.md)
-  * [Getting STAKE tokens](for-stakers/stake-staking-token/getting-stake-tokens.md)
 * [STAKE Reward Mechanics](for-stakers/stake-reward-mechanics/README.md)
   * [xDai Rewards \(via Chai\)](for-stakers/stake-reward-mechanics/xdai-rewards/README.md)
     * [Chai FAQs](for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md)

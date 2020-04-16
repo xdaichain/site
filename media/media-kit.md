@@ -12,3 +12,7 @@ description: Branding and Logos
 
 
 
+{% file src="../.gitbook/assets/xdai\_alternative.ai" caption="Logo in AI format" %}
+
+
+
