@@ -123,7 +123,7 @@ If the path to your private key is different, use that instead of `~/.ssh/id_rsa
 
 14\) open **aws** console, go to **ec2 instances** and check that new instance is created, note it's IP address for later use.
 
-15\) Next **you must run a second Ansible playbook** from the root directory to complete the setup - [Return to step III. Ansible Playbook Configuration in Phase 3 setup ](../new-validator-process-flow/new-xdai-validator-node-setup.md#iii-ansible-playbook-configuration)
+15\) Next **you must run a second Ansible playbook** from the root directory to complete the setup - _instructions in process_
 
 ## Troubleshooting:
 

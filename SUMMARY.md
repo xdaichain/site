@@ -28,6 +28,7 @@
   * [How xDai Bridges Create Compatibility and Interoperability](about-xdai/news-and-information/how-xdai-bridges-create-compatibility-and-interoperability.md)
   * [Dai Derivatives: How xDai \(& Chai\) fit into the DeFi ecosystem](about-xdai/news-and-information/dai-derivatives-how-xdai-and-chai-fit-into-the-defi-ecosystem.md)
   * [ETHDenver 2020 xDai & Burner Wallet Recap](about-xdai/news-and-information/ethdenver-2020-xdai-and-burner-wallet-recap.md)
+  * [Interview with YellowBlock](about-xdai/news-and-information/interview-with-yellowblock.md)
 
 ## For users
 
@@ -66,13 +67,13 @@
 ## For Stakers
 
 * [Staking Roadmap](for-stakers/stake-and-staking.md)
-* [STAKE Staking Token](for-stakers/stake-staking-token/README.md)
-  * [Getting STAKE Tokens](for-stakers/stake-staking-token/getting-stake-tokens-1/README.md)
-    * [Claim STAKE: Private Investors](for-stakers/stake-staking-token/getting-stake-tokens-1/claiming-stake-tokens.md)
-    * [Claim STAKE: Advisors](for-stakers/stake-staking-token/getting-stake-tokens-1/claim-stake-advisors.md)
-  * [STAKE Token Contracts](for-stakers/stake-staking-token/stake-token-contracts.md)
-  * [STAKE token distribution](for-stakers/stake-staking-token/stake-token-distribution/README.md)
-    * [Token release schedule](for-stakers/stake-staking-token/stake-token-distribution/token-release-schedule.md)
+* [STAKE Staking Token](for-stakers/stake-token/README.md)
+  * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
+    * [Claim STAKE: Private Investors](for-stakers/stake-token/get-stake/claim-stake-pi.md)
+    * [Claim STAKE: Advisors](for-stakers/stake-token/get-stake/claim-stake-advisors.md)
+  * [STAKE Token Contracts](for-stakers/stake-token/stake-token-contracts.md)
+  * [STAKE token distribution](for-stakers/stake-token/stake-token-distribution/README.md)
+    * [Token release schedule](for-stakers/stake-token/stake-token-distribution/token-release-schedule.md)
 * [STAKE Reward Mechanics](for-stakers/stake-reward-mechanics/README.md)
   * [xDai Rewards \(via Chai\)](for-stakers/stake-reward-mechanics/xdai-rewards/README.md)
     * [Chai FAQs](for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md)
@@ -143,9 +144,7 @@
 * [About xDai Validators](for-validators/about-xdai-validators.md)
 * [POSDAO Whitepaper](for-validators/posdao-whitepaper.md)
 * [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
-  * [Validator Candidate](for-validators/new-validator-process-flow/candidate.md)
-  * [Current xDai Validators: Ballot Process](for-validators/new-validator-process-flow/current-xdai-validators-ballot-process.md)
-  * [New xDai Validator: Node setup](for-validators/new-validator-process-flow/new-xdai-validator-node-setup.md)
+  * [Prior Node setup instructions](for-validators/new-validator-process-flow/prior-node-setup-instructions.md)
 * [New Node Deployment](for-validators/node-deployment/README.md)
   * [Manual \(Non-AWS\) Deployment](for-validators/node-deployment/manual-non-aws-deployment.md)
   * [AWS Node Deployment using Playbooks](for-validators/node-deployment/aws-node-deployment-using-playbooks.md)
@@ -169,6 +168,7 @@
 ## Media
 
 * [Crypto Influencers on xDai](media/crypto-influencers-on-xdai.md)
+* [Articles & Interviews](media/articles-and-interviews.md)
 * [Social Media](media/social-media.md)
 * [Media Kit](media/media-kit.md)
 * [Contact us](media/contact-us.md)

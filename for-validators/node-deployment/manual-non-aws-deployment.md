@@ -44,5 +44,3 @@ Enter a **STRONG** password to protect the user and you can leave the next 5 fie
 usermod -aG sudo ubuntu
 ```
 
-4\) [Return to Ansible Playbook Configuration in Phase 3 setup.](../new-validator-process-flow/new-xdai-validator-node-setup.md#iii-ansible-playbook-configuration)
-
