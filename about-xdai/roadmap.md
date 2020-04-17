@@ -26,9 +26,9 @@ The xDai team is working with payment processing companies to enable Fiat to xDa
 xDai bridge is upgraded to support both Dai and Sai.
 
 Bridge balance migrated from Sai to Dai. Both Dai and Sai can be deposited on the Ethereum side. Sai to Dai converted automatically.
-{% endhint %}
 
-Once the Dai protocol implementation is upgraded to MCD \(Multi-Collateral Dai\), the xDai bridge will also be upgraded to use MCD Dai.
+_Update 4/15/2020: With the impending Sai shutdown, Sai transfers are no longer allowed on the bridge._ [_https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet_](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)\_\_
+{% endhint %}
 
 ## Chai &lt;-&gt; Dai Bridge Contracts Update
 

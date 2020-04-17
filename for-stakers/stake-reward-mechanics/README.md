@@ -14,6 +14,6 @@ STAKE rewards also come from bridge fees assessed when users remove STAKE from t
 
 STAKE makes up the largest percentage of the staking incentive. Stakers also receive additional rewards in the form of xDai and EXIT.
 
-* **xDai rewards**.  Paid to stakers from interest accumulated from locked [CHAI](https://chai.money/).  When users convert DAI or SAI into xDAI, it is initially locked as DAI in the bridge. This locked DAI is then converted to CHAI, which earns interest on the converted amount. The interest earned during a staking epoch is distributed to stakers at the end of the epoch. 
+* **xDai rewards**.  Paid to stakers from interest accumulated from locked [CHAI](https://chai.money/).  When users convert DAI into xDAI, it is initially locked as DAI in the bridge. This locked DAI is then converted to CHAI, which earns interest on the converted amount. The interest earned during a staking epoch is distributed to stakers at the end of the epoch. 
 * **EXIT rewards**.  EXIT is an exploratory virtual stable currency. It's stable value is backed by soft ETH.  The face value of EXIT is stable, and the market determines the purchasing power of this synthetic reward token. EXIT may be incorporated at the beginning of the protocol or at a later date.
 

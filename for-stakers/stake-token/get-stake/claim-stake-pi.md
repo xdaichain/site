@@ -21,7 +21,11 @@ Private investor token contract
 
 ## MetaMask
 
-1\) Import your account to MetaMask. This is the account you used to obtain STAKE as an Advisor or Private Investor. You can use the private key or JSON file to import.
+{% hint style="info" %}
+If using a hardware wallet to store your tokens \(Ledger, Trezor\) you can connect it to MetaMask rather than importing your account.  Connecting MetaMask instructions: [https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
+{% endhint %}
+
+1\) Import your account to MetaMask. This is the account you used to obtain STAKE as an Advisor or Private Investor. You can use the private key or JSON file to import \(or Connect Hardware Wallet\).
 
 ![](../../../.gitbook/assets/mm1.png)
 

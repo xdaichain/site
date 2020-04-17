@@ -6,7 +6,7 @@ The Dai stable coin, by [MakerDAO](https://makerdao.com/), is one of the anchors
 
 Since Dai was introduced, a large number of Dai derivatives have been created with different use cases in mind.  xDai was the original Dai derivative, created to support a stable chain where transactions could be completed with a single token \(on the mainnet you must spend Ether for gas when transacting Dai\). It also moved transactions off of the mainnet, reducing congestion, optimizing capacity, and providing a platform for micro-transactions.
 
-xDai is created by locking Dai \(or Sai - the legacy single-collateral Dai\) into a bridge contract. The same amount of xDai is then minted on the xDai chain. In reverse, xDai is burned and the original Dai is unlocked back on the mainnet. 
+xDai is created by locking Dai into a bridge contract. The same amount of xDai is then minted on the xDai chain. In reverse, xDai is burned and the original Dai is unlocked back on the mainnet. 
 
 ![A line at Bank of Ethereum](../../.gitbook/assets/levi-jones-n0ctq0rroso-unsplash.jpg)
 

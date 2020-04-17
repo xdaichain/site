@@ -38,7 +38,7 @@
 * [Buying xDai with Wyre](for-users/buying-xdai-with-wyre/README.md)
   * [Buying xDai with Portis via Wyre \(US Residents only\)](for-users/buying-xdai-with-wyre/buying-xdai-with-portis.md)
 * [Converting xDai via Bridge](for-users/converting-xdai-via-bridge/README.md)
-  * [Transfer Sai/Dai without the UI \(using web3 or mobile wallet\)](for-users/converting-xdai-via-bridge/transfer-sai-dai-without-the-ui-using-web3-or-mobile-wallet.md)
+  * [Transfer Dai without the UI \(using web3 or mobile wallet\)](for-users/converting-xdai-via-bridge/transfer-sai-dai-without-the-ui-using-web3-or-mobile-wallet.md)
   * [Alternate Receiver \(Send Dai to another xDai address\)](for-users/converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md)
   * [Moving Dai to xDai](for-users/converting-xdai-via-bridge/moving-dai-to-xdai.md)
   * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)
