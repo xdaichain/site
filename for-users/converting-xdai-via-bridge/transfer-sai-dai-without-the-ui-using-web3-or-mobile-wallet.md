@@ -1,7 +1,7 @@
 # Transfer Dai without the UI \(using web3 or mobile wallet\)
 
 {% hint style="warning" %}
-Bridge has been upgraded and Sai can no longer be transferred to the xDai chain.
+The bridge has been upgraded and Sai is no longer supported.
 {% endhint %}
 
 It is possible to move assets using a wallet rather than through the UI. This method is supported by all wallets that support ERC20 transfers \(e.g. [NiftyWallet ](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en), [MyEtherWallet.com](http://myetherwallet.com/), [TrustWallet](https://trustwallet.com/), [MetaMask](https://metamask.io/)\). Here we use NiftyWallet.
