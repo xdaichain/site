@@ -1,4 +1,4 @@
-# Creating your own Burner Wallet Token
+# Creating your own Burner Wallet \(Backed\) Token
 
 Burner Wallet Factory provides the option to create a custom token for your wallet. This token can be "unbacked", which means it can be minted at any time in any amount, or "backed", which gives it value based on the backed collateral. By backing your coin with xDai, you know that each coin is also worth $1 USD.
 
@@ -14,6 +14,8 @@ For this tutorial, we will assume you have already created a wallet \(see [Creat
 
 ![](../../.gitbook/assets/token2.png)
 
+
+
 2\) Fill in the token details. 
 
 * **Token Name**: Full name of your token
@@ -22,7 +24,7 @@ For this tutorial, we will assume you have already created a wallet \(see [Creat
 * **Token Type**:  
   * **Backed**:  This means each token is backed by 1 xDai, making it worth 1 US Dollar
   * **Unbacked**: This is a token that is not backed by any currency, and can be minted in any amount up to the maximum. 
-* **Network**: xDai.  For testing you can also deploy on Kovan or Gorli
+* **Network**: xDai.  For testing you can also deploy on Kovan or Görli.
 * **Token Recovery Period**:  When creating an event token, you may want to create a recovery period where unused tokens can be swept back to the wallet. Options are Disabled, 1 Hour, 1 Day, 7 Days or 30 days
 * **Icon**: Click to upload an image from your computer.
 
