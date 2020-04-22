@@ -47,36 +47,38 @@ b\)  Click the  **Custom Token** item and enter in the STAKE Token address. The 
 
 ![](../../../.gitbook/assets/mm3.png)
 
-## Use Etherscan to transfer STAKE to your wallet
+## Use the STAKE Token Withdrawal DApp to transfer STAKE to your wallet
 
-3\) Go to the following address on Etherscan.  
-[https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA\#writeContract ](https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA#writeContract%20) 
+3\) Go to [http://stake-token-withdrawal.xdaichain.com/](http://stake-token-withdrawal.xdaichain.com/)
 
-4\) Connect MetaMask. Click on **Connect to Web3** and click **Connect**  on the MetaMask popup. 
+4\) Connect MetaMask.
 
-![](../../../.gitbook/assets/contract1%20%282%29.png)
+![](../../../.gitbook/assets/connect-1.png)
 
-![](../../../.gitbook/assets/connect-2.png)
+![](../../../.gitbook/assets/connect-2%20%281%29.png)
 
-5\) In Etherscan, press the **Write** button next to the **withdraw** function.
+5\) Once connected you will see information related to your amount of STAKE. This includes:
 
-![](../../../.gitbook/assets/connect-3.png)
+* `Stake` Your total token amount.
+* `Withdrawn` Amount of tokens you have already withdrawn.
+* `Locked` Amount of tokens locked for future withdrawal.
+* `Available` Amount of tokens available now. You will receive this amount when you process a withdrawal. 
+* `Total number of installments`: Total installments \(224\).
+* `Number of remaining installments`: How many daily installments are left.
+* `Next installment`: Installments are released according to the following schedule:
+  * 25% released at initialization
+  * 10% released on Day 28
+  * Daily installments for 224 days following day 28 
 
-6\) Confirm the transaction details in MetaMask.
+![](../../../.gitbook/assets/withdraw-stake.png)
+
+6\) Press the **Withdraw** button to start the process. This will transfer the entire amount from **Available** to your **Wallet Address**. Confirm the transaction in the MetaMask popup.
 
 ![](../../../.gitbook/assets/mm-confirm.png)
 
- 
-
-7\) Click **View your transaction** to see transaction details
-
-![](../../../.gitbook/assets/connect-4.png)
-
 {% hint style="success" %}
-Once the transaction is processed, you should see your STAKE token amount in MetaMask, and can transfer/send as you would any other ERC20 token.
+Once the transaction is processed, you should see your STAKE token amount in MetaMask, and can transfer/send/exchange as you would any other ERC20 token.
 {% endhint %}
-
-
 
 \*\*\*\*
 
