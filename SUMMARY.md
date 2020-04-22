@@ -23,7 +23,6 @@
 * [Comparisons](about-xdai/comparisons/README.md)
   * [POA Network](about-xdai/comparisons/poa.md)
 * [Articles & Information](about-xdai/news-and-information/README.md)
-  * [Untitled](about-xdai/news-and-information/untitled.md)
   * [DApp Spotlights](about-xdai/news-and-information/dapp-spotlights/README.md)
     * [Galleass.io](about-xdai/news-and-information/dapp-spotlights/galleass.io.md)
   * [Current xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators.md)
