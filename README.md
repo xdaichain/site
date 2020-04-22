@@ -41,7 +41,7 @@ When users want to exchange xDai for Dai, the process happens in reverse. xDai i
 {% endtab %}
 {% endtabs %}
 
-![xDAi on the BlockScout Blockchain Explorer](.gitbook/assets/screen-shot-2019-10-07-at-12.29.35-pm.png)
+![xDai on the BlockScout Blockchain Explorer](.gitbook/assets/xdai_explorer.png)
 
 ## **Reasons to Use the xDai Stable Chain:**
 
