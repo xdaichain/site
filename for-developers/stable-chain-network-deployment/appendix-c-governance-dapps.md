@@ -1,3 +1,7 @@
+---
+description: Optional depending on setup (POSDAO does not use Governance DApps)
+---
+
 # Appendix C: Governance DApps
 
 There are three DApps for governance:
