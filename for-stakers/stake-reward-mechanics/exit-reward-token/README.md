@@ -1,3 +1,7 @@
+---
+description: Exploratory reward for future implementation
+---
+
 # EXIT Reward Token
 
 ### **EXIT** Token

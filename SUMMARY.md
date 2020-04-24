@@ -76,6 +76,7 @@
   * [STAKE token distribution](for-stakers/stake-token/stake-token-distribution/README.md)
     * [Token release schedule](for-stakers/stake-token/stake-token-distribution/token-release-schedule.md)
 * [STAKE Reward Mechanics](for-stakers/stake-reward-mechanics/README.md)
+  * [Rewards in a Dual Token Environment](for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md)
   * [xDai Rewards \(via Chai\)](for-stakers/stake-reward-mechanics/xdai-rewards/README.md)
     * [Chai FAQs](for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md)
   * [EXIT Reward Token](for-stakers/stake-reward-mechanics/exit-reward-token/README.md)
