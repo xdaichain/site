@@ -56,19 +56,34 @@ Only ~4.7% of the total supply will be offered in the final, public auction roun
 
 _\*Any unsold tokens will be burned_
 
+{% hint style="info" %}
+Proof of sent funds for public offering:  
+__[_https://etherscan.io/tx/0x8f23a34b60e35399a97cea74d6ab48df320064d643b9bbf7f818b2125c67d652_](https://etherscan.io/tx/0x8f23a34b60e35399a97cea74d6ab48df320064d643b9bbf7f818b2125c67d652)\_\_
+{% endhint %}
+
 #### Liquidity Fund
 
-Exchange listings and market maker services require additional fees. The liquidity fund will support these activities to ensure token availability through exchanges. This fund will also provide staking tokens to initial validators onboarded prior to the transition \(Number of validators \* 20,000 STAKE per validator\). These initial onboarding tokens will be burned following the distribution by sending them to `0x0000000000000000000000000000000000000000`
+Exchange listings and market maker services require additional fees. The liquidity fund will support these activities to ensure token availability through exchanges. This fund will also provide staking tokens to initial validators onboarded prior to the transition \(Number of validators \* 20,000 STAKE per validator\). Initial onboarding tokens will be burned following the distribution by sending them to `0x0000000000000000000000000000000000000000`
 
 * Total: 816,500
 * Released at listing: 816,500 \(100%\)
 * Contract: [0x0DF05ADaC0159e215111696339AD4998e5871B3D](https://etherscan.io/address/0x0df05adac0159e215111696339ad4998e5871b3d)
 
-{% hint style="info" %}
-**Update**: Funds are initialized for distribution on listing, including 260,000 tokens burned \(13 validators X 20k Stake\).  
+**Update**: Funds are initialized for distribution on listing, including 260,000 tokens burned \(13 validators X 20k Stake\).
 
+{% hint style="info" %}
+Proof of sent liquidity providing funds \(BitMax\):  
+  
+[https://etherscan.io/tx/0x3f1576a8b15a655a320c5b43f719ee1d90a92b7bfd871bf5740daa3580ce810](https://etherscan.io/tx/0x3f1576a8b15a655a320c5b43f719ee1d90a92b7bfd871bf5740daa3580ce810a)  
+  
+[https://etherscan.io/tx/0xa29f6618609e441f50f70b5cea4374493d6645377a6a475e93c267e1d5d71b68](https://etherscan.io/tx/0xa29f6618609e441f50f70b5cea4374493d6645377a6a475e93c267e1d5d71b68)[  
+  
+https://etherscan.io/tx/0x3a7d0106d164ee24465ff3e2e5266426e3443c28385d007b6edbb119125313be](https://etherscan.io/tx/0x3a7d0106d164ee24465ff3e2e5266426e3443c28385d007b6edbb119125313be)
+{% endhint %}
+
+{% hint style="info" %}
 🔥 Proof of Burn   
-[https://etherscan.io/tx/0x3f2d3f6e0aa85b5023a550b50d527e068fdf0c9a0a73d6379fd3d29e2e9395a6](https://etherscan.io/tx/0x3f2d3f6e0aa85b5023a550b50d527e068fdf0c9a0a73d6379fd3d29e2e9395a6)
+[https://etherscan.io/tx/0x3f2d3f6e0aa85b5023a550b50d527e068fdf0c9a0a73d6379fd3d29e2e9395a6](https://etherscan.io/tx/0x3f2d3f6e0aa85b5023a550b50d527e068fdf0c9a0a73d6379fd3d29e2e9395a6) 
 {% endhint %}
 
 #### Minted STAKE
