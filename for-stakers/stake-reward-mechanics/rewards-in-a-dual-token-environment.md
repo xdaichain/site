@@ -1,3 +1,7 @@
+---
+description: 'Reward rules, types and distribution'
+---
+
 # Rewards in a Dual Token Environment
 
 POSDAO is implemented on xDai with a dual token structure. 
