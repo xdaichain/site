@@ -8,7 +8,7 @@ STAKE is a flexible asset, meaning it may be used in a variety of contexts. The 
 STAKE token address on Ethereum [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
 {% endhint %}
 
-STAKE is a new ERC20 token designed to secure the on-chain payment layer and provide a mechanism for validators to receive multiple POS incentives. It is an ERC20 staking token with a market driven value. 
+STAKE is a new ERC20-type \([implemented as an ERC677](https://github.com/ethereum/EIPs/issues/677)\) token designed to secure the on-chain payment layer and provide a mechanism for validators to receive multiple POS incentives. It is an ERC20-based staking token with a market driven value. 
 
 The initial supply of 8.5375M STAKE tokens will be released over time. Additional tokens are minted as rewards at the conclusion of each staking epoch. 
 
