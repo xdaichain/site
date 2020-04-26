@@ -1,6 +1,12 @@
 # How to get STAKE Tokens
 
-Tokens will be available for trade on exchanges and decentralized exchanges once listed. We will update the pages accordingly. 
+Tokens will be available for trade on [BitMax exchange](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308453-xDai-Chain-STAKE-) and various decentralized exchanges once listed. 
+
+{% hint style="info" %}
+To celebrate the listing of xDai Chain \(STAKE\), BitMax.io will launch STAKE Auction from April 28th, 9:00 a.m. EDT - April 28th, 11:00 a.m. EDT.  
+  
+Details: [https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308193](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308193)
+{% endhint %}
 
 [Private Investors](claim-stake-pi.md) and [Advisors](claim-stake-advisors.md) can claim tokens according to the claiming STAKE tokens instructions for each group.
 
