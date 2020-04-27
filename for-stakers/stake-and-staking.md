@@ -6,7 +6,7 @@ description: POSDAO enables staking on the xDai chain
 
 The xDai Chain is transitioning to POSDAO, a Proof of Stake consensus protocol. POSDAO will introduce a staking token called STAKE. Individuals who own STAKE may become validators or may delegate their stake to validator candidates to secure the xDai chain. Validators and delegators \(stakers\) will receive rewards in exchange for providing STAKE.
 
-The transition to POSDAO will proceed in phases. Phase 1 of this transition is scheduled for completion on **April 1, 2020**. Below are details related to the transition & what to expect in each phase.
+The transition to POSDAO will proceed in phases. Phase 1 of this transition was completed on **April 1, 2020**. Below are details related to the transition & what to expect in each phase.
 
 {% hint style="info" %}
 For general information, see the [Staking Protocol ](staking-protocol/)for details on how to stake, protocol terminology, and more. 
@@ -21,6 +21,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
     <tr>
       <th style="text-align:left">Phase</th>
       <th style="text-align:left">General</th>
+      <th style="text-align:left">Date</th>
     </tr>
   </thead>
   <tbody>
@@ -28,6 +29,8 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
       <td style="text-align:left">1) <a href="stake-and-staking.md#phase-1-preparation-and-permissioned-posdao">Preparation and Permissioned POSDAO</a>
       </td>
       <td style="text-align:left">POSDAO transition for current xDai validators only</td>
+      <td style="text-align:left">Completed:
+        <br />04/01/2020</td>
     </tr>
     <tr>
       <td style="text-align:left">2) <a href="stake-and-staking.md#phase-2-public-staking-and-reward-expansion">Public Staking &amp; Reward Expansion</a>
@@ -39,11 +42,14 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
           <li>1K STAKE minimum for delegators</li>
         </ul>
       </td>
+      <td style="text-align:left">Anticipated:
+        <br />08/2020</td>
     </tr>
     <tr>
       <td style="text-align:left">3) <a href="stake-and-staking.md#phase-3-honeybadger-bft-consensus-layer-integration">HoneyBadger BFT Consensus Layer Integration</a>
       </td>
       <td style="text-align:left">New consensus integration - details TBD</td>
+      <td style="text-align:left">TBD</td>
     </tr>
   </tbody>
 </table>## ✅ Phase 1: Preparation and Permissioned POSDAO
