@@ -56,7 +56,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
 
 Phase 1 was successfully activated April 1, 2020.
 
-POSDAO will launch on the xDai chain with the [current xDai validators](https://validators.poa.network/poa-dapps-validators). **Public validators and delegators will be incorporated in phase 2.**
+POSDAO will launch on the xDai chain with the [current xDai validators](https://validators.poa.network/). **Public validators and delegators will be incorporated in phase 2.**
 
 ### Phase 1 STAKE Info
 
