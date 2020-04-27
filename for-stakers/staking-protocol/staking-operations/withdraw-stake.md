@@ -18,11 +18,11 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 
 #### Ordered withdrawal:
 
-* Active stake, in use by a current validator pool, can be ordered for withdrawal. This order is processed at the end of the current staking epoch, and available to claim in the subsequent staking epoch.
-* The amount of stake ordered for withdrawal may be increased or decreased **during the same staking epoch in which it was placed**.
+* Active stake, in use by a current validator pool, can be ordered for withdrawal. This order is processed at the end of the current staking epoch, and available to claim in the subsequent staking epochs.
+* The amount of stake ordered for withdrawal may be increased or decreased.
 
 {% hint style="warning" %}
-\*_**Note:**_ _You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive._
+\*_**Note:**_ _You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end of each staking epoch, where all staking actions are inactive._
 {% endhint %}
 
 ### Immediate Withdrawal Instructions \(Withdraw Now\):
@@ -56,5 +56,5 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 1. To order an additional amount to withdraw, follow steps 3 and 4 to complete an additional transaction, adding this amount to your previous order.
 2. To **reduce the amount ordered, enter a - in front of the number**. For example, if you have already ordered 5, but want to reduce that to 3, enter -2 in the amount field. This will adjust the order to 3.
 
-6\) The order will process at the end of the staking epoch, and your funds will be available to claim. If you ordered your entire stake from the pool, you will no longer be a delegator with that pool
+6\) The order will process at the end of the staking epoch, and your funds will be available to claim. If you ordered your entire stake from the pool, you will no longer be a delegator with that pool.
 
