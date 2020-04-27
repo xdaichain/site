@@ -81,7 +81,7 @@
     * [Chai FAQs](for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md)
   * [EXIT Reward Token](for-stakers/stake-reward-mechanics/exit-reward-token/README.md)
     * [EXIT FAQs](for-stakers/stake-reward-mechanics/exit-reward-token/exit-faqs.md)
-* [Staking Protocol](for-stakers/staking-protocol/README.md)
+* [Staking Protocol / Tutorials](for-stakers/staking-protocol/README.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
     * [Protocol Related Terms](for-stakers/staking-protocol/terminology/protocol-terms.md)
     * [Participant Related Terms](for-stakers/staking-protocol/terminology/participant-related-terms.md)

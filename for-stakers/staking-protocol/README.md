@@ -2,10 +2,10 @@
 description: Staking is coming soon to xDai!
 ---
 
-# Staking Protocol
+# Staking Protocol / Tutorials
 
 {% hint style="warning" %}
-Public Staking is not here yet, but we are gathering documentation related to xDai staking processes. All pages in this section are currently under construction.
+Public Staking is not here yet \(anticipated August 2020\), but we are gathering documentation related to xDai staking processes. All pages in this section are currently under construction.
 {% endhint %}
 
 1. Tokens: You will need [STAKE tokens ](../stake-token/)for staking and xDai for any staking transactions \(such as placing, moving or withdrawing stake\) or other on-chain transactions.
@@ -14,4 +14,6 @@ Public Staking is not here yet, but we are gathering documentation related to xD
 4. Learn more about [moving stake](staking-operations/move-stake.md), [withdrawing stake](staking-operations/withdraw-stake.md), [claiming stake](staking-operations/claim-stake.md), and [adding additional stake](staking-operations/add-stake.md).
 5. [Read the glossary ](terminology/protocol-terms.md)for an overview of the protocol and explanation of terms and features.
 6. Contact us through the [xDai Forum](https://forum.poa.network/c/xdai-chain), our [website](https://www.xdaichain.com) or [twitter](https://twitter.com/xdaichain) for questions and assistance.
+
+
 
