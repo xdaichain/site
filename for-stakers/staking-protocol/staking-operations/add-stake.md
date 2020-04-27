@@ -28,10 +28,10 @@ A modal will appear with information about the pool on the right, and your balan
 
 5\) Once you have placed or added stake, you can move pending stake to another pool or withdraw pending stake at any time during the current staking epoch\*. When the epoch concludes, a new validators set is chosen.
 
-1. If the pool you placed stake on becomes a validator pool, then this stake is committed to the protocol for the next epoch. You will earn xDai rewards based on your percentage of stake in the pool. You cannot withdraw this stake immediately, but can order for withdrawal. This request will be processed at the end of the current epoch, and funds will be available during the next staking epoch.
+1. If the pool you placed stake on becomes a validator pool, then this stake is committed to the protocol for the next epoch. You will earn rewards based on your percentage of stake in the pool. You cannot withdraw this stake immediately, but can order for withdrawal. This request will be processed at the end of the current epoch, and funds will be available after the current staking epoch ends.
 2. If the pool you placed stake on is not chosen as a validator pool, you can withdraw or move your funds at any time\* during the next epoch.
 
 {% hint style="warning" %}
-\*You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive. 
+\*You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end of each staking epoch, where all staking actions are inactive. 
 {% endhint %}
 
