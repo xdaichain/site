@@ -23,7 +23,7 @@ Stake ordered for withdrawal is available to claim once the staking epoch in whi
 
 **For example:**
 
-* **Staking epoch 100:** 5 $DPOS ordered for withdrawal.
-* **Staking epoch 101:**5 $DPOS is available to claim. However, you place another order withdrawal for 7 $DPOS before claiming the available 5 $DPOS. The total ordered for withdrawal from the pool is now 12 $DPOS. This new amount will be available in the next staking epoch.
-* **Staking epoch 102:** 12 $DPOS available to claim. This claim will continue to be available in subsequent staking epochs as long as another withdrawal order is not placed, which will delay claiming until the next staking epoch.
+* **Staking epoch 100:** 5 STAKE ordered for withdrawal.
+* **Staking epoch 101:** 5 STAKE is available to claim. However, you place another order withdrawal for 7 STAKE before claiming the available 5 STAKE. The total ordered for withdrawal from the pool is now 12 STAKE. This new amount will be available in the next staking epochs.
+* **Staking epoch 102:** 12 STAKE available to claim. This claim will continue to be available in subsequent staking epochs as long as another withdrawal order is not placed, which will delay claiming until the next staking epoch.
 
