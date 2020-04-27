@@ -48,7 +48,9 @@ An exclusive offering available to a group of pre-approved investors.
 
 #### Public Offering
 
-Only ~4.7% of the total supply will be offered in the final, public auction round.
+400,000 offered offered in the public auction round.
+
+**Details:** [https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308193](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308193)
 
 * Total: 400,000\*
 * Released at listing: 400,000 \(100%\)
