@@ -15,7 +15,7 @@ To change which candidate you are staking on, or spread your stake to different 
 * Stake cannot be moved or withdrawn from a banned pool until the ban is complete.
 
 {% hint style="warning" %}
-\*Note You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end and very beginning of each staking epoch, where all staking actions are inactive.
+\*Note You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end of each staking epoch, where all staking actions are inactive.
 {% endhint %}
 
 #### To move stake:
@@ -36,5 +36,5 @@ To change which candidate you are staking on, or spread your stake to different 
 
 5\) Once the transaction is complete, stake will be immediately removed from the current pool and placed in the selected pool.
 
-6\) Moved stake is considered pending until the end of the current staking epoch. It can be moved an unlimited number of times until the staking window is close
+6\) Moved stake is considered pending until the end of the current staking epoch. It can be moved an unlimited number of times until the staking window is close.
 
