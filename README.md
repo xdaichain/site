@@ -55,5 +55,5 @@ When users want to exchange xDai for Dai, the process happens in reverse. xDai i
 * ✅Extreme usability with tools like Burner Wallet & Burner Wallet 2.
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md) and more.
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic and others.
-* ✅Experiencing the [magic of crypto](media/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
+* ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
 

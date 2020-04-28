@@ -18,7 +18,7 @@ The xDai Chain has been one of crypto's breakout success stories. Its prominent 
 
 ## Anthony Pompliano
 
-> xDAI is a magical first experience for people. Ric showed it to me and I've used it multiple times with those unfamiliar with crypto. It leads to them wanting to learn more very quickly.
+> xDAI is a `MAGICAL` first experience for people. Ric showed it to me and I've used it multiple times with those unfamiliar with crypto. It leads to them wanting to learn more very quickly.
 >
 > Anthony "Pomp" Pompliano, Co-founder & Partner at Morgan Creek Digital
 

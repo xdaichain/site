@@ -23,13 +23,13 @@
 * [Comparisons](about-xdai/comparisons/README.md)
   * [POA Network](about-xdai/comparisons/poa.md)
 * [News & Information](about-xdai/news-and-information/README.md)
+  * [Crypto Influencers on xDai](about-xdai/news-and-information/crypto-influencers-on-xdai.md)
   * [Current xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators.md)
   * [xDai Validator Testimonials](about-xdai/news-and-information/xdai-validator-testimonials.md)
   * [How xDai Bridges Create Compatibility and Interoperability](about-xdai/news-and-information/how-xdai-bridges-create-compatibility-and-interoperability.md)
   * [Dai Derivatives: How xDai \(& Chai\) fit into the DeFi ecosystem](about-xdai/news-and-information/dai-derivatives-how-xdai-and-chai-fit-into-the-defi-ecosystem.md)
-  * [DApp Spotlights](about-xdai/news-and-information/dapp-spotlights/README.md)
-    * [Galleass.io](about-xdai/news-and-information/dapp-spotlights/galleass.io.md)
   * [ETHDenver 2020 xDai & Burner Wallet Recap](about-xdai/news-and-information/ethdenver-2020-xdai-and-burner-wallet-recap.md)
+  * [Interviews & Media Articles](about-xdai/news-and-information/media-articles.md)
 
 ## For users
 
@@ -48,6 +48,8 @@
   * [Getting airdrops via Linkdrop](for-users/getting-airdrops/getting-airdrops-via-linkdrop.md)
   * [Getting airdrops via Burner Wallet](for-users/getting-airdrops/airdrops-via-burner-wallet.md)
   * [Getting airdrops via Discord](for-users/getting-airdrops/airdrops-on-discord.md)
+* [DApp Spotlights](for-users/dapp-spotlights/README.md)
+  * [Galleass.io](for-users/dapp-spotlights/galleass.io.md)
 * [Explorers](for-users/explorers/README.md)
   * [BlockScout](for-users/explorers/blockscout.md)
   * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)
@@ -168,10 +170,8 @@
   * [2019-01-11 \| \#1604400](for-validators/hard-forks/2019-01-11-or-1604400.md)
   * [Spec.json update](for-validators/hard-forks/spec.json-update.md)
 
-## Media
+## Contact & Media Info <a id="media"></a>
 
-* [Crypto Influencers on xDai](media/crypto-influencers-on-xdai.md)
-* [Interviews & Media Articles](media/media-articles.md)
 * [Social Media](media/social-media.md)
 * [Media Kit](media/media-kit.md)
 * [Contact us](media/contact-us.md)

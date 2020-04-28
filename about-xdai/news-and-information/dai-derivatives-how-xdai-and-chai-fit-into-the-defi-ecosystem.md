@@ -10,7 +10,7 @@ xDai is created by locking Dai into a bridge contract. The same amount of xDai i
 
 ![A line at Bank of Ethereum](../../.gitbook/assets/levi-jones-n0ctq0rroso-unsplash.jpg)
 
-We may think of the Ethereum blockchain as an awesome trustless, permissionless bank run by and for the people, but sometimes there is still a line \(sometimes short, sometimes winding around the block!\). You can pay to get closer to the front of the line, wait for a while….. or you can use the xDai chain - an ATM with no line at all. 
+We may think of the Ethereum blockchain as an awesome trustless, _**`PERMISSIONLESS`**_ bank run by and for the people, but sometimes there is still a line \(sometimes short, sometimes winding around the block!\). You can pay to get closer to the front of the line, wait for a while….. or you can use the xDai chain - an ATM with no line at all. 
 
 xDai is designed for lightning fast transactions with known, stable fees. The [Burner Wallet](../../for-users/wallets/burner-wallet.md), a prominent xDai UI, is designed for carrying small amounts of xDai - just like the $40 you get from the ATM on your way to a night on the town. Other use cases demand different interfaces, and wallets like [AlphaWallet](../../for-users/wallets/alpha-wallet/) & [Portis](../../for-users/wallets/portis-wallet.md) provide more advanced features as needed.
 

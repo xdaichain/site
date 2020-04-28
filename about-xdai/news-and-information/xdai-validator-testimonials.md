@@ -10,7 +10,7 @@ This amazing group of organizations understands the importance and need for the 
 
 > _Protofire has been involved in the POA Networks ecosystem for a long time, contributing to its technology stack development. When the xDAI Network was born around DevCon IV, it was a no brainer for us to contribute to it as both network and bridge validators. At Protofire we believe that combining a stablecoin such as MakerDAO DAI with a scalable side chain, which provides not only higher speed but mainly low and stable cost fees, is a perfect match to enable and optimize many use cases, from digital cash in emerging economies to supply chain and non-speculative decentralized finance._ [**Manuel Garcia**](https://twitter.com/rmgarciap)**, CTO at Protofire.**
 
-> _xDAI is pushing Scaling NOW! Everyone talks about Scaling Ethereum… eventually, but POA Network actually did it with xDai and we are so happy to be one of the initial validators of xDai Stable Chain._ [**Griff Green**](https://twitter.com/thegrifft) **, founder of Giveth**
+> _xDAI is pushing **`SCALING`** NOW! Everyone talks about Scaling Ethereum… eventually, but POA Network actually did it with xDai and we are so happy to be one of the initial validators of xDai Stable Chain._ [**Griff Green**](https://twitter.com/thegrifft) **, founder of Giveth**
 
 > _As an xDai validator I’m excited to experiment with new mechanisms in staking and because I’m focusing on_ [_building games on top_](https://forum.poa.network/t/daog-an-open-ended-decentralized-governance-game/2599) _of the Burner Wallet, an on-chain random number generator will really help out._ [**Austin Griffith**](https://twitter.com/austingriffith)**, creator of Burner Wallet** 🔥
 

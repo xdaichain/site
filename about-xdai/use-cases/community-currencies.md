@@ -26,7 +26,7 @@ The [Grassroots Economics blog](https://www.grassrootseconomics.org/blog) is a g
 
 ## 💵 Overview of Community Currencies 
 
-This short documentary features Will Ruddick, founder of Grassroots Economics. It provides an engaging account of the history, need and adoption of community currencies in Kenya. In 2016, currencies were distributed as paper vouchers. Now, they are digital and commerce is conducted on the xDai Chain.
+This short documentary features Will Ruddick, founder of Grassroots Economics. It provides an engaging account of the history, need and adoption of community currencies in _**`KENYA`**_. In 2016, currencies were distributed as paper vouchers. Now, they are digital and commerce is conducted on the xDai Chain.
 
 {% embed url="https://www.youtube.com/watch?v=ojFPrVvpraU&t=" %}
 

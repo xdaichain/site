@@ -10,7 +10,7 @@ description: >-
 
 **Where:** Las Vegas, NV
 
-**What:** The [Splunk .conf19](https://conf.splunk.com/) is the biggest event to date powered by xDai, with over 10,000 participants! This non-crypto event introduced many new people to the world of cryptocurrency with their ButterCup Bucks \(BCB\) token.  In addition to purchases at the BCB store, tens of thousands of dollars were raised for charity.
+**What:** The [Splunk .conf19](https://conf.splunk.com/) is the biggest event to date powered by xDai, with over 10,000 participants! This non-crypto event introduced many new people to the world of cryptocurrency with their _**`BUTTERCUP`**_ Bucks \(BCB\) token.  In addition to purchases at the BCB store, tens of thousands of dollars were raised for charity.
 
 ## Media Coverage
 

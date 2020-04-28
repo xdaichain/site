@@ -4,7 +4,7 @@ description: A first-hand account of the ETHDenver 2020 Burner Wallet & xDai exp
 
 # ETHDenver 2020 xDai & Burner Wallet Recap
 
-_**TL;DR**: Dogfooding is good for you! When technology conferences embrace the technology they are touting, things break, participants glimpse the future, and hundreds of development hours are compressed into one intense weekend._
+_**TL;DR**: **`DOGFOODING`** is good for you! When technology conferences embrace the technology they are touting, things break, participants glimpse the future, and hundreds of development hours are compressed into one intense weekend._
 
 This year, xDai team representatives attended [ETHDenver 2020](https://www.ethdenver.com/) as both participants and volunteers. It was amazing to get a small peek behind the curtain from the volunteer table. As problems arose, the organizers, devs and volunteers were able to address issues head on and come up with creative, on-the-fly solutions.
 
@@ -26,7 +26,7 @@ Roughly 60 hours prior, on Friday morning, each of the 2000+ ETHDenver attendees
 
 As the evening progressed, some crypto transactions were not going through, and the crowd was getting restless and thirsty. Fortunately, developer David Mihal had a free hand \(the other was occupied by an IPA\). He opened his MacBook and started pushing bug fixes push faster than the drinks were going down. Disaster was averted, once again.
 
-This wasn’t the first issue that occured with BuffiDai and Burner Wallets \(the official ETHDenver conference crypto wallet\) over the weekend. But rather than feeling upset or flustered, David was energized. Another bug had been identified and squashed! The Burner Wallet had undergone some severe stress testing, and hundreds of development hours had been compressed into one intense weekend.
+This wasn’t the first issue that occured with _**`BUFFIDAI`**_ and Burner Wallets \(the official ETHDenver conference crypto wallet\) over the weekend. But rather than feeling upset or flustered, David was energized. Another bug had been identified and squashed! The Burner Wallet had undergone some severe stress testing, and hundreds of development hours had been compressed into one intense weekend.
 
 ## ETHDenver <a id="ethdenver"></a>
 

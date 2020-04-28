@@ -36,7 +36,7 @@ _Update 4/15/2020: With the impending Sai shutdown, Sai transfers are no longer 
 ✅**Status**: Completed 03/31/2020
 
 {% hint style="success" %}
-Bridge contracts are upgraded and functional. For more on Chai, see the [Chai FAQs](../for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md).
+Bridge contracts are upgraded and functional. For more on _**`CHAI,`**_ see the [Chai FAQs](../for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md).
 {% endhint %}
 
 The new version of the bridge contract supports usage of [the Dai Savings Rate contract](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr) through [the Chai token](https://chai.money/) to earn the interest for tokens deposited on the bridge balance. Dai locked in the bridge contract is converted to Chai, an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch will be used as an additional incentive for stakers **in Phase 2** of the consensus upgrade. 

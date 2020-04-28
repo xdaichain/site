@@ -24,13 +24,13 @@ To learn more about the current validators,[ visit the xDai forum page where val
 
 👨✈ ****[**POA Network**](https://www.poa.network/)**:** A Network and an R&D organization that builds infrastructure and tools for the Ethereum ecosystem. POA projects are focused on users, developers and the greater community.
 
-👨🚀\*\*\*\*[**MakerDAO**](https://makerdao.com/en/)**:** An autonomous blockchain organization that offers a decentralized stablecoin to minimize market volatility. Its stablecoin, Dai, is pegged to the U.S. Dollar and is backed by Ethereum collateral. xDai is created from Dai locked in a smart contract.
+👨🚀\*\*\*\*[**MakerDAO**](https://makerdao.com/en/)**:** An autonomous blockchain organization that offers a decentralized stablecoin to minimize market volatility. Its stablecoin, Dai, is pegged to the U.S. Dollar and is backed by Ethereum collateral. xDai is created from Dai locked in a ~~_**`SMART`**_~~ contract.
 
 🕵♂\*\*\*\*[**Protofire**](https://protofire.io/)**:** A team of engineers who deliver decentralized infrastructure, protocols and applications to accelerate the growth of blockchain ecosystems. By delivering hands-on coding and contributions, Protofire specializes in supercharging developer adoption and network usage.
 
 👨🎤\*\*\*\*[**Giveth**](https://giveth.io/)**:** A community of blockchain enthusiasts who strive to make the world a better place via the use of blockchain technology. They organize under the Giveth Galaxy, fostering a large network of organizations dedicated to projects that help humanity.
 
-👩🚒\*\*\*\*[**Burner Wallet**](https://burnerwallet.io/)**:** An application that provides a quick and easy way to carry and exchange small amounts of spending crypto using a mobile browser. The Burner Wallet runs on the xDai Chain and uses xDai, taking advantage of low fees and fast transaction times.
+👩🚒\*\*\*\*[**Burner Wallet**](https://burnerwallet.io/)**:** An application that provides a quick and easy way to carry and exchange small amounts of spending crypto using a mobile browser. The _**`BURNER`**_ Wallet runs on the xDai Chain and uses xDai, taking advantage of low fees and fast transaction times.
 
 👨🔬\*\*\*\*[**Portis**](https://portis.io/)**:** A technology company with a mission to simplify decentralized applications. Their development process is driven by a desire to create simple user interfaces and intuitive onboarding tools for all users.
 
