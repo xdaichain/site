@@ -1,2 +1,2 @@
-# Articles & Information
+# News & Information
 
