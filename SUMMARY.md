@@ -173,6 +173,7 @@
 
 ## Contact & Media Info <a id="media"></a>
 
+* [xDai Dev Team](media/xdai-dev-team.md)
 * [Social Media](media/social-media.md)
 * [Media Kit](media/media-kit.md)
 * [Contact us](media/contact-us.md)
