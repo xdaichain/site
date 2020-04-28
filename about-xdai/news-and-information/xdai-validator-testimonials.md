@@ -1,3 +1,7 @@
+---
+description: xDai validators on the reason they became involved
+---
+
 # xDai Validator Testimonials
 
 ![xDai Validators as of 3/19/2020](../../.gitbook/assets/validators-2.png)
