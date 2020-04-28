@@ -1,12 +1,5 @@
 # DApp Spotlights
 
-{% hint style="success" %}
-Success Stories
-
-* [Galleass.io](galleass.io.md) \(reviewed 3/30/2020\)
-* _More Spotlights Coming Soon_
-{% endhint %}
-
 Developers choose xDai to run their Decentralized Applications \(DApps\) for several reasons. 
 
 1. Transactions process extremely quickly.
