@@ -26,7 +26,7 @@ Roughly 60 hours prior, on Friday morning, each of the 2000+ ETHDenver attendees
 
 As the evening progressed, some crypto transactions were not going through, and the crowd was getting restless and thirsty. Fortunately, developer David Mihal had a free hand \(the other was occupied by an IPA\). He opened his MacBook and started pushing bug fixes push faster than the drinks were going down. Disaster was averted, once again.
 
-This wasn’t the first issue that occured with _**`BUFFIDAI`**_ and Burner Wallets \(the official ETHDenver conference crypto wallet\) over the weekend. But rather than feeling upset or flustered, David was energized. Another bug had been identified and squashed! The Burner Wallet had undergone some severe stress testing, and hundreds of development hours had been compressed into one intense weekend.
+This wasn’t the first issue that occured with BuffiDai and Burner Wallets \(the official ETHDenver conference crypto wallet\) over the weekend. But rather than feeling upset or flustered, David was energized. Another bug had been identified and squashed! The Burner Wallet had undergone some severe stress testing, and hundreds of development hours had been compressed into one intense weekend.
 
 ## ETHDenver <a id="ethdenver"></a>
 

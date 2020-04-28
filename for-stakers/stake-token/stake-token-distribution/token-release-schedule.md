@@ -81,6 +81,8 @@ Proof of sent liquidity providing funds \(BitMax\):
 [https://etherscan.io/tx/0xa29f6618609e441f50f70b5cea4374493d6645377a6a475e93c267e1d5d71b68](https://etherscan.io/tx/0xa29f6618609e441f50f70b5cea4374493d6645377a6a475e93c267e1d5d71b68)[  
   
 https://etherscan.io/tx/0x3a7d0106d164ee24465ff3e2e5266426e3443c28385d007b6edbb119125313be](https://etherscan.io/tx/0x3a7d0106d164ee24465ff3e2e5266426e3443c28385d007b6edbb119125313be)
+
+Community Engagement Fund: [https://etherscan.io/tx/0x810f3a3eb3fe4f3b6c876e272d88f0bbaac5c022a3e587f4ca99962754585d42](https://etherscan.io/tx/0x810f3a3eb3fe4f3b6c876e272d88f0bbaac5c022a3e587f4ca99962754585d42)
 {% endhint %}
 
 {% hint style="info" %}
