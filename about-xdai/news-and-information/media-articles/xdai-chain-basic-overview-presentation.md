@@ -22,19 +22,18 @@ We set out to build a reliable chain for stable payments, based on our past expe
 
 ![](https://lh3.googleusercontent.com/sQpGS7d7TffvcLE6xjzzviq-ZyR-gKGzKQxVSvk2rIj6Mq8iOmXwW4t3vYnD3snQiORjwrPRqaTbmmHPdht9LHqPtZr-78f3d5B1dHxhwlFCy2Mla9fGmotAPYnNcF8hgRc1RodP)
 
-1. Infrastructure:  A stable chain requires speed, user-friendly tools, and interoperability \(the ability to connect between chains\). xDai is an Ethereum based sidechain which features 5 second block times, tools developed for crypto-newbies, and a bridge that connects the chain to Ethereum, so that stable assets like Dai can be seamlessly transferred to xDai and back when needed.  
-2. Stable Payments: Fees should be stable, and simplified for users. On the xDai chain, transactions and fees are paid with xDai. In addition, the block creation process means fees can be kept extremely low \(up to 500 tx for $.01 xDai\).  
-3.  Community Support: xDai has been supported by a dedicated group of well known organizations in the community. 
+1. **Infrastructure**:  A stable chain requires speed, user-friendly tools, and interoperability \(the ability to connect between chains\). xDai is an Ethereum based sidechain which features 5 second block times, tools developed for crypto-newbies, and a bridge that connects the chain to Ethereum, so that stable assets like Dai can be seamlessly transferred to xDai and back when needed. 
+2. **Stable Payments**: Fees should be stable, and simplified for users. On the xDai chain, transactions and fees are paid with xDai. In addition, the block creation process means fees can be kept extremely low \(up to 500 tx for $.01 xDai\). 
+3. **Community Support:** xDai has been supported by a dedicated group of well known organizations in the community. 
 
 ## Validators
 
 ![](https://lh6.googleusercontent.com/4bd0ms6g5ktjvGuNSA45ir-TCl5bBK7NOnB4wl3vplAjP6bD1u2HXrOvip_XaHNZexI2Euw23qf52-kfx1W-0nfyn2Whi55_3k_NuSv-4zMb13GCJ5PGOGAHA6cHlenSkFJ1fUT7)
 
-The initial list of validators on the xDai chain includes POA Network, Giveth, Portis, MakerDAO, BurnerWallet, SyncNode, AnyBlock Analytics, Nevermind, Protofire, Gnosis and Galt Project. To date, these validators have subsidized their nodes in order to provide a stable chain for users.  
+The initial list of validators on the xDai chain includes POA Network, Giveth, Portis, MakerDAO, BurnerWallet, SyncNode, AnyBlock Analytics, Nevermind, Protofire, Gnosis and Galt Project. To date, these validators have subsidized their nodes in order to provide a stable chain for users.
 
+In addition to the support from influential validators, companies like Splunk have supported the xDai chain by creating back-end data analysis tools and using xDai for their developer conferences. TheGraph, Terminal, Pocket Network, Tenderly, Chainbeat and more have all created compatible network tooling.
 
-In addition to the support from influential validators, companies like Splunk have supported the xDai chain by creating back-end data analysis tools and using xDai for their developer conferences. TheGraph, Terminal, Pocket Network, Tenderly, Chainbeat and more have all created compatible network tooling.  
-  
 Support extends to the greater Ethereum Community. Many thought leaders and influential individuals in the space have also experienced the “magic” of xDai.
 
 ## Community
@@ -45,7 +44,7 @@ xDai has been used by 1000s of individuals at conferences, communities in Kenya,
 
 xDai has been a success story so far. But to move forward, it is vital that we transition to a permissionless, decentralized consensus. With the transition to delegated Proof-of-Stake, xDai will become a truly decentralized platform for stable payments.
 
-## xDai Phase 2: POSDAO & STAKE 
+## xDai Phase 2: POSDAO & STAKE
 
 POSDAO is a delegated Proof-of-Stake algorithm implemented as a DAO \(Decentralized Autonomous Organization\). Validators provide STAKE in order to secure the network, and delegators may place STAKE on validators they believe will best serve the xDai chain consensus process. 
 
@@ -53,7 +52,7 @@ POSDAO opens up the consensus process to the greater community. An easy-to-use i
 
 We have already rolled out phase 1 of POSDAO, where the current validators are placing STAKE and receiving rewards. Phase 2 is planned for an August release. This will allow public participants to become validator candidates, and allow public delegators to place stake on current validators.
 
-## Public POSDAO Validator Selection 
+## Public POSDAO Validator Selection
 
 ![](https://lh6.googleusercontent.com/KZ03UYK99IENZj_TH1Knc6huKj87iIP26-1FCyAMH5SYWsm5zNHEko7H2Khmb1lprE0wMDN4f6l2bwAOsn_2dsKdxar4l_VG9xJK7qMMXQUMy01bWi_hNQDeohL1Rp-DZNhQ5_xq)
 
