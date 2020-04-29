@@ -52,11 +52,9 @@ An exclusive offering available to a group of pre-approved investors.
 
 **Details:** [https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308193](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308193)
 
-* Total: 400,000\*
+* Total: 400,000
 * Released at listing: 400,000 \(100%\)
 * Contract: [0x0DF05ADaC0159e215111696339AD4998e5871B3D](https://etherscan.io/address/0x0df05adac0159e215111696339ad4998e5871b3d)
-
-_\*Any unsold tokens will be burned_
 
 {% hint style="info" %}
 Proof of sent funds for public offering:  

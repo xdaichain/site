@@ -74,6 +74,7 @@
 * [STAKE Staking Token](for-stakers/stake-token/README.md)
   * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
     * [Claim STAKE: Private Investors](for-stakers/stake-token/get-stake/claim-stake-pi.md)
+    * [Manual Instruction - Private Investors](for-stakers/stake-token/get-stake/manual-instruction-private-investors.md)
     * [Claim STAKE: Advisors](for-stakers/stake-token/get-stake/claim-stake-advisors.md)
   * [STAKE Token Contracts](for-stakers/stake-token/stake-token-contracts.md)
   * [STAKE token distribution](for-stakers/stake-token/stake-token-distribution/README.md)
