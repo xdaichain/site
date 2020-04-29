@@ -41,7 +41,7 @@ Support extends to the greater Ethereum Community. Many thought leaders and infl
 
 ![](https://lh6.googleusercontent.com/3K7xQCMKW8wctHOQ_fY8Dyn9KUuRJXGSN0ItYANKzTZUwxZcwovNok2nDasr917t-F4bL01yItD77n1g9xqQYxNgCsaY6jpnOGW6aSHXgqqY6CoKW65niQp15tvTPpkMRl7RrnFm)
 
-xDai has been used by 1000s of individuals at conferences, communities in Kenya, and as a payment chain for small gatherings across the globe. User-friendly tools like the Burner Wallet make this possible. We invite you to explore the [use-cases section of our website ](../use-cases/)to see how xDai adoption is real and growing every day. 
+xDai has been used by 1000s of individuals at conferences, communities in Kenya, and as a payment chain for small gatherings across the globe. User-friendly tools like the Burner Wallet make this possible. We invite you to explore the [use-cases section of our website ](../../use-cases/)to see how xDai adoption is real and growing every day. 
 
 xDai has been a success story so far. But to move forward, it is vital that we transition to a permissionless, decentralized consensus. With the transition to delegated Proof-of-Stake, xDai will become a truly decentralized platform for stable payments.
 
