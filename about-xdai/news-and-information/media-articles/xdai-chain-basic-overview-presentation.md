@@ -4,7 +4,7 @@ description: 'An overview of the past, present and future of xDai.'
 
 # xDai Chain: Basic Overview Presentation
 
-We've offered this presentation to communities interested in learning what xDai is all about, and where we are headed with public POSDAO.
+We have presented to communities interested in learning what xDai is all about, and where we are headed with public POSDAO. Below are the basics.
 
 ## Stablecoins & the DeFi Revolution
 
