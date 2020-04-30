@@ -21,9 +21,9 @@ In the future, we will have [secure, per-block randomness when HoneyBadger BFT i
 
 ## Is an unpredictable random value created on every block? <a id="is-an-unpredictable-random-value-created-on-every-block"></a>
 
-**No!** Random values are only created during the **reveals phase**, which occurs on Sokol every 20 blocks and continues for a period of 20 blocks \(note this value is configurable\).
+**No!** Random values are only created during the **reveals phase**, which occurs on xDai every 38 blocks and continues for a period of 38 blocks \(note this value is configurable\).
 
-A complete collection phase on Sokol is currently set to 40 blocks. The first half \(the first 20 blocks\) is called the commit phase, where random number hashes are committed by validators. The second half \(the second 20 blocks\) is the reveal phase, where numbers are revealed and added to the `currentSeed` getter.
+A complete collection phase on xDai is currently set to 76 blocks. The first half \(the first 38 blocks\) is called the commit phase, where random number hashes are committed by validators. The second half \(the second 38 blocks\) is the reveal phase, where numbers are revealed and added to the `currentSeed` getter.
 
 Entropy increases throughout the reveal phase, and the final number revealed is the most secure. Applications requiring secure randomness should retrieve the `currentSeed` from the final block of a reveal phase or during a commit phase.
 
@@ -45,9 +45,7 @@ While secure, there are considerations to keep in mind. They have to do with mal
 
 This means that during the reveal phase, a validator can effectively choose between 2 numbers, either the current number or the new one that will be created when they reveal their number. If an application uses the final number of the reveals phase, only the final validator can make this choice, limiting the scope of this issue.
 
-To discourage skipping, validators who skip too often \(or skip at the end of an epoch\) will be reported as malicious. In POSDAO \(a proof-of-stake algorithm that may be implemented in the future\), malicious validators will be banned from the protocol for 90 days and their STAKE frozen. For now, we will monitor the network for any malicious behavior and validators can determine and vote on consequences.
-
-Since validators on Sokol and POA are known individuals staking their reputation, this is not as much a concern as it would be in a permissionless network.
+To discourage skipping, validators who skip too often \(or skip at the end of an epoch\) will be reported as malicious. In POSDAO, malicious validators will be banned from the protocol for 90 days and their STAKE frozen. 
 
 ## Will on-chain, unpredictable random numbers per block be available in the future? <a id="will-on-chain-unpredictable-random-numbers-per-block-be-available-in-the-future"></a>
 
