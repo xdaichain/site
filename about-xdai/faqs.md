@@ -13,7 +13,7 @@ FAQs are in progress, we are continuing to add to this document. If you have a q
 There is a lot to know about xDai, so we've split the website into several sections, depending on your role and what you info you might need to access.
 
 * **About xDai**: General features, overview, latest news and information designed for new users or those who want to learn more about xDai.
-* **For Users**: If you want to transact with xDai, use xDai DApps or wallets.=
+* **For Users**: If you want to transact with xDai, use xDai DApps or wallets.
 * **For Stakers**: If you want to delegate STAKE on chain and earn rewards, or become a validator candidate. This section is related to xDai consensus and the STAKE token, which protects the chain.
 * **For Developers**: If you want to build on xDai, all the resources you need are in this section.
 * **For Validators**: This section is geared towards validators - setting up and running a node, bridge validator info, and other information. This section will change as the chain transforms to public validation.
@@ -71,9 +71,9 @@ BlockScout is a full-featured, open-source explorer that supports xDai. It lets 
 
 ### **What wallets are available to use with xDai?**
 
-We are actually fortunate to have the support of quite a number of wallets, including some amazing mobile wallets like AlphaWallet, DEX wallet ****and Poketto, and web wallets like Portis Wallet. You can use MetaMask, and Nifty Wallet and Saturn Wallet are similar to MetaMask but include additional features that natively support xDai.  
+We are fortunate to have the support of quite a number of wallets, including some amazing mobile wallets like AlphaWallet, DEX wallet ****and Poketto, and web wallets like Portis Wallet. You can use MetaMask, and Nifty Wallet and Saturn Wallet are additional web3 wallets similar to MetaMask but containing additional features that natively support xDai.  
   
-The biggest wallet use case is Burner Wallet - as this is really designed for small, stable payments as well as conferences and events. We invite you to [check out our wallets page](ttps://www.xdaichain.com/for-users/wallets) for more information.
+The biggest wallet use case is Burner Wallet - as this is really designed for small, stable payments and for conferences and events. We invite you to [check out our wallets page](ttps://www.xdaichain.com/for-users/wallets) for more information.
 
 ### How can I develop and deploy a DApp on xDai?
 
@@ -91,8 +91,6 @@ Long-term plans are related to features and updates to our infrastructural asset
 * xDai General: [https://www.xdaichain.com/about-xdai/roadmap](https://www.xdaichain.com/about-xdai/roadmap)  
 * TokenBridge:  [https://docs.tokenbridge.net/about-tokenbridge/roadmap](https://docs.tokenbridge.net/about-tokenbridge/roadmap) 
 * BlockScout: [https://docs.blockscout.com/about/roadmap](https://docs.blockscout.com/about/roadmap)
-
-
 
 ## **xDai Native Coin/Token**
 
