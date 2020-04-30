@@ -24,8 +24,6 @@ To retrieve the number of the first block of the next `commit phase`, use the `n
 
 ## Example code to retrieve a random seed
 
-Note: we are currently testing on Sokol and will provide a detailed example when the randomness contract is deployed.
-
 ```javascript
 pragma solidity 0.5.16;
 

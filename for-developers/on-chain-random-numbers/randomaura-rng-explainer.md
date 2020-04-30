@@ -157,7 +157,7 @@ _Note: Randomness created in a deterministic manner, through computerized means,
 
 The RandomAura Contract interfaces with the Authority Round consensus process to store and iterate the `currentSeed` , control when the seed is revealed, and report on skipped reveals by Validators.
 
-Below is the full RandomAura contract code \(its POSDAO implementation is located at [https://github.com/poanetwork/posdao-contracts/blob/master/contracts/RandomAuRa.sol](https://github.com/poanetwork/posdao-contracts/blob/master/contracts/RandomAuRa.sol)\)
+Below is the full RandomAura contract code \(its POSDAO implementation is located at [https://github.com/poanetwork/posdao-contracts/blob/master/contracts/RandomAuRa.sol](https://github.com/poanetwork/posdao-contracts/blob/master/contracts/RandomAuRa.sol)
 
 ```javascript
 pragma solidity 0.5.16;

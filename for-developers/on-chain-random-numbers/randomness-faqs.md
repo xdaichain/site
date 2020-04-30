@@ -29,7 +29,7 @@ Entropy increases throughout the reveal phase, and the final number revealed is 
 
 ## How do I access a random value from my smart contract? <a id="how-do-i-access-a-random-value-from-my-smart-contract"></a>
 
-The value is contained in the `currentSeed` getter. It is important to check the phase \(`commit` or `reveal`\) and determine when the value is created. Details are available on the [Accessing a Random Seed with a Smart Contract](https://www.poa.network/for-developers/on-chain-random-numbers/accessing-a-random-seed-with-a-smart-contract) page.
+The value is contained in the `currentSeed` getter. It is important to check the phase \(`commit` or `reveal`\) and determine when the value is created. Details are available on the [Accessing a Random Seed with a Smart Contract ](accessing-a-random-seed-with-a-smart-contract.md)page.
 
 Business logic actions that require randomness should not be allowed during the reveal phase. In addition, **randomness can never be guaranteed for block** **`N + 1`**, only for some block between `N + commitRoundLength` and `N + 2*commitRoundLength`.
 
