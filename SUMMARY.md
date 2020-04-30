@@ -23,6 +23,7 @@
 * [Comparisons](about-xdai/comparisons/README.md)
   * [POA Network](about-xdai/comparisons/poa.md)
 * [News & Information](about-xdai/news-and-information/README.md)
+  * [FAQs](about-xdai/news-and-information/faqs.md)
   * [Crypto Influencers on xDai](about-xdai/news-and-information/crypto-influencers-on-xdai.md)
   * [Current xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators.md)
   * [xDai Validator Testimonials](about-xdai/news-and-information/xdai-validator-testimonials.md)
