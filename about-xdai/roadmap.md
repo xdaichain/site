@@ -56,7 +56,7 @@ For more information on this transition, see the [staking roadmap](../for-staker
 
 ## Consensus POSDAO Upgrade: Phase **2**
 
-🎯 **Target Date:** Q2-Q3 2020
+🎯 **Target Date:** Q3 2020
 
 To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
 

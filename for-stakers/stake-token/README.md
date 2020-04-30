@@ -24,7 +24,7 @@ Users \(stakers\) provide STAKE as collateral when participating in the consensu
 
 ### Staking STAKE
 
-When xDai public staking starts \(**scheduled for August 2020**\) , individuals who own STAKE tokens can place them into the protocol through a user friendly interface. Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.
+When xDai public staking starts \(**scheduled for Q3 2020**\) , individuals who own STAKE tokens can place them into the protocol through a user friendly interface. Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.
 
 In addition, exchanges may offer the opportunity to provide delegator staking directly from the exchange. Typically, this means STAKE holders select the option to stake the token, and the exchange processes the request \(determining which validator to stake on, aggregating rewards and other tasks for a small percentage fee\). Staking functionality is initiated by the participating exchange. 
 

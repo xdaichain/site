@@ -50,7 +50,7 @@ POSDAO is a delegated Proof-of-Stake algorithm implemented as a DAO \(Decentrali
 
 POSDAO opens up the consensus process to the greater community. An easy-to-use interface allows anyone with STAKE to participate in consensus and earn incentives for their participation. 
 
-We have already rolled out phase 1 of POSDAO, where the current validators are placing STAKE and receiving rewards. Phase 2 is planned for an August release. This will allow public participants to become validator candidates, and allow public delegators to place stake on current validators.
+We have already rolled out phase 1 of POSDAO, where the current validators are placing STAKE and receiving rewards. Phase 2 is planned for a Q3 2020 release. This will allow public participants to become validator candidates, and allow public delegators to place stake on current validators.
 
 ## Public POSDAO Validator Selection
 
