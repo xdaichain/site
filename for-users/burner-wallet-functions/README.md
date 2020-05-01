@@ -1,4 +1,4 @@
-# Burner Wallet Functions
+# Basic Burner Wallet Functions
 
 Burner Wallet is the wallet that brought xDai to the mainstream. See the [Burner Wallet post](../wallets/burner-wallet.md) under wallets for the basics.  Here, we'll describe the simple tasks you can accomplish with the Burner.
 
