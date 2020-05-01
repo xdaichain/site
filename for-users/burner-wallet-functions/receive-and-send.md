@@ -1,6 +1,10 @@
+---
+description: 'xDai, ETH & DAI'
+---
+
 # Receive & Send
 
-Sending & Receiving is intuitive, and is based around QR codes for mobile. You can also copy/paste addresses for other formats.
+Sending & Receiving is intuitive, and is based around QR codes for mobile. You can also copy/paste addresses for other formats. Primary usage is for sending and receiving xDai, however you can also send/receive ETH and DAI through the Burner Wallet.
 
 ## Receive \(xDai or ETH/Dai\) 
 
@@ -11,7 +15,7 @@ Sending & Receiving is intuitive, and is based around QR codes for mobile. You c
 2\) The Sender can scan the QR, or you can copy the address and send manually. 
 
 {% hint style="info" %}
-Note that the wallet address is functional on both the Ethereum Mainnet and the xDai chain. So someone can send Ether or Dai to this address, as well as xDai. All amounts will show up in the wallet interface, but you can only send xDai using the Burner Wallet.
+Note that the wallet address is functional on both the Ethereum Mainnet and the xDai chain. So someone can send Ether or Dai to this address, as well as xDai. All amounts will show up in the wallet interface.
 {% endhint %}
 
 ![](../../.gitbook/assets/bw-received.png)
@@ -50,6 +54,28 @@ You can also switch to the Ethereum mainnet to check your address on the mainnet
 4\) Check the [tx on BlockScout.](https://blockscout.com/poa/xdai/tx/0x102200f7e55558abdfcc091b99bc5e944d02f406d17e59e1af48f63c474d00c9/internal_transactions) If you switch Raw Input from Hex to UTF-8 you will see the unencrypted message!
 
 ![](../../.gitbook/assets/blockscout-transaction.png)
+
+## Send DAI or ETH from the Burner Wallet
+
+You can also send DAI or ETH from your Burner Wallet - this functionality is on the **Exchange Page**.
+
+1\) Go to the Exchange Page
+
+![](../../.gitbook/assets/bw-exchange1.png)
+
+2\) Click on an arrow next to the currency you want to send. Note the scanner icon will move when you scroll.
+
+![](../../.gitbook/assets/bw-exchange-2.png)
+
+3\) Fill in the user details and click Send.  \*To send DAI you will need a small amount of ETH to cover transaction costs.
+
+![](../../.gitbook/assets/bw-exchange3.png)
+
+4\) Follow progress in the app. When complete, balances will reflect the new amounts.
+
+![](../../.gitbook/assets/bw-exchange4.png)
+
+
 
 
 

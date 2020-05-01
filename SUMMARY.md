@@ -71,6 +71,7 @@
   * [Status Wallet](for-users/wallets/status-wallet.md)
 * [Burner Wallet Functions](for-users/burner-wallet-functions/README.md)
   * [Receive & Send](for-users/burner-wallet-functions/receive-and-send.md)
+  * [Exchange Currencies](for-users/burner-wallet-functions/exchange-currencies.md)
 
 ## For Stakers
 
