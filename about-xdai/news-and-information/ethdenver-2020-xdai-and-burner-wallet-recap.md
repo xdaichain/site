@@ -63,7 +63,7 @@ To power the governance and voting aspect, XP points could be used as hackathon 
 
 ## Collaboration & Integration <a id="collaboration-and-integration"></a>
 
-To start, the organizing team made a wishlist for the wallet with potential enhancements that would increase functionality and enable the DAO. Persistent wallet login would be useful, as BW keys are kept in local storage and can be easily lost. As would a human readable wallet address, an XP leaderboard, and lots of awesome real-time stats, and of course the DAO integration. Fortunately, the teams were in place to make this happen. Collaborating teams included:
+To start, the organizing team made a wishlist for the wallet with potential enhancements that would increase functionality and enable the DAO. Persistent wallet login would be useful, as BW keys are kept in local storage and can be easily lost. As would a human readable wallet address, an XP leaderboard, and lots of ⭐ awesome ⭐ real-time stats, and of course the DAO integration. Fortunately, the teams were in place to make this happen. Collaborating teams included:
 
 * ​[Fortmatic](https://fortmatic.com/): Persistent login
 * ​[DaoStack](https://daostack.io/): DAO voting / XP point integration
