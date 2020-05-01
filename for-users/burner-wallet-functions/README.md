@@ -4,6 +4,8 @@ Burner Wallet is the wallet that brought xDai to the mainstream. See the [Burner
 
 {% hint style="info" %}
 Remember, Burner Wallets are meant for carrying around small amounts of cash \(xDai\) for short periods of time. It is not a highly secure solution, because keys are stored in local storage. Recommended usage: For small amounts - think of it as a cash wallet for a night on the town.
+
+Take care when exiting your browser, especially if you have privacy settings enabled, as your wallet may be easily lost. It is recommended to transfer funds out of Burner Wallet once you are finished using it, or to store your private key somewhere safe before exiting.
 {% endhint %}
 
 ## To start, simply visit [https://xdai.org](https://xdai.org)
