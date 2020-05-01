@@ -69,6 +69,8 @@
   * [Portis Wallet](for-users/wallets/portis-wallet.md)
   * [Saturn Wallet](for-users/wallets/saturn-wallet.md)
   * [Status Wallet](for-users/wallets/status-wallet.md)
+* [Burner Wallet Functions](for-users/burner-wallet-functions/README.md)
+  * [Receive & Send](for-users/burner-wallet-functions/receive-and-send.md)
 
 ## For Stakers
 

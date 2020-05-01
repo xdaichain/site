@@ -4,7 +4,7 @@ description: Spending crypto wallet
 
 # Burner Wallet
 
-**Wallet Type**: [Web Wallet](https://xdai.io)
+**Wallet Type**: [Web Wallet](https://xdai.org)
 
 **Description**: Burner Wallet provides a quick and easy way to carry and exchange small amounts of **spending-crypto** using a web browser. The Burner Wallet makes wallet setup a breeze; an Ethereum keypair is automatically generated and used for signing transactions. However, this convenience comes with a security cost – the “burner” in the wallet’s name reminds users that it’s not secure for long-term storage. If you use a Burner Wallet, you should regularly sweep funds into a more secure wallet and burn your Burner Wallet’s private key. It's perfect for short-term, small denomination use, and not safe for storing large amounts of crypto.
 
