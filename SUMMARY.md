@@ -75,7 +75,8 @@
 
 ## For Stakers
 
-* [Staking Roadmap](for-stakers/stake-and-staking.md)
+* [Staking Roadmap](for-stakers/stake-and-staking/README.md)
+  * [Pre-Staking Program](for-stakers/stake-and-staking/pre-staking-program.md)
 * [STAKE Staking Token](for-stakers/stake-token/README.md)
   * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
     * [Claim STAKE: Private Investors](for-stakers/stake-token/get-stake/claim-stake-pi.md)

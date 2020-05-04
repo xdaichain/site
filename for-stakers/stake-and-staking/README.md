@@ -9,9 +9,9 @@ The xDai Chain is transitioning to POSDAO, a Proof of Stake consensus protocol. 
 The transition to POSDAO will proceed in phases. Phase 1 of this transition was completed on **April 1, 2020**. Below are details related to the transition & what to expect in each phase.
 
 {% hint style="info" %}
-For general information, see the [Staking Protocol ](staking-protocol/)for details on how to stake, protocol terminology, and more. 
+For general information, see the [Staking Protocol ](../staking-protocol/)for details on how to stake, protocol terminology, and more. 
 
-For more on POSDAO, see the [POSDAO Whitepaper](../for-validators/posdao-whitepaper.md)
+For more on POSDAO, see the [POSDAO Whitepaper](../../for-validators/posdao-whitepaper.md)
 
 For more on the STAKE token, see [https://www.staketoken.net/](https://www.staketoken.net/)
 {% endhint %}
@@ -26,14 +26,14 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">1) <a href="stake-and-staking.md#phase-1-preparation-and-permissioned-posdao">Preparation and Permissioned POSDAO</a>
+      <td style="text-align:left">1) <a href="./#phase-1-preparation-and-permissioned-posdao">Preparation and Permissioned POSDAO</a>
       </td>
       <td style="text-align:left">POSDAO transition for current xDai validators only</td>
       <td style="text-align:left">Completed:
         <br />04/01/2020</td>
     </tr>
     <tr>
-      <td style="text-align:left">2) <a href="stake-and-staking.md#phase-2-public-staking-and-reward-expansion">Public Staking &amp; Reward Expansion</a>
+      <td style="text-align:left">2) <a href="./#phase-2-public-staking-and-reward-expansion">Public Staking &amp; Reward Expansion</a>
       </td>
       <td style="text-align:left">
         <p>POSDAO open to public participation.</p>
@@ -46,7 +46,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
         <br />Q3 2020</td>
     </tr>
     <tr>
-      <td style="text-align:left">3) <a href="stake-and-staking.md#phase-3-honeybadger-bft-consensus-layer-integration">HoneyBadger BFT Consensus Layer Integration</a>
+      <td style="text-align:left">3) <a href="./#phase-3-honeybadger-bft-consensus-layer-integration">HoneyBadger BFT Consensus Layer Integration</a>
       </td>
       <td style="text-align:left">New consensus integration - details TBD</td>
       <td style="text-align:left">TBD</td>
@@ -80,7 +80,7 @@ In preparation for POSDAO migration, we will complete all required changes to th
 
 POSDAO v1 is scheduled to go live with current validators on April 1. Public staking will not be activated in phase 1.
 
-POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.** [More info on Chai is available here.](stake-reward-mechanics/xdai-rewards/chai-faqs.md)
+POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.** [More info on Chai is available here.](../stake-reward-mechanics/xdai-rewards/chai-faqs.md)
 
 ## Phase 2: Public Staking & Reward Expansion
 
@@ -118,5 +118,5 @@ With public participation, additional rewards will be added to the protocol.
 
 ## Phase 3: HoneyBadger BFT Consensus Layer Integration
 
-No timeline is set yet for HBBFT integration, we will provide further details once phase 2 is complete. [ More information on HBBFT is available here.](../for-validators/consensus/honeybadger-bft-consensus/)
+No timeline is set yet for HBBFT integration, we will provide further details once phase 2 is complete. [ More information on HBBFT is available here.](../../for-validators/consensus/honeybadger-bft-consensus/)
 

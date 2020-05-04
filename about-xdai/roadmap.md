@@ -52,7 +52,7 @@ Phase 1 of the POSDAO upgrade was successfully activated April 1, 2020.
 
 xDai will upgrade to a Proof of Stake model in several phases. In the first phase, the current validators will receive xDai-based STAKE tokens and to protect the chain. These validators will remain in place to assist in the transition to phase 2.
 
-For more information on this transition, see the [staking roadmap](../for-stakers/stake-and-staking.md).
+For more information on this transition, see the [staking roadmap](../for-stakers/stake-and-staking/).
 
 ## Consensus POSDAO Upgrade: Phase **2**
 
@@ -60,7 +60,7 @@ For more information on this transition, see the [staking roadmap](../for-staker
 
 To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
 
-For more information on this transition to public staking, see the [staking roadmap](../for-stakers/stake-and-staking.md).
+For more information on this transition to public staking, see the [staking roadmap](../for-stakers/stake-and-staking/).
 
 ## **Privacy Preserving Transactions**
 
