@@ -141,11 +141,15 @@ The Ethereum Mainnet contract address for STAKE is: [0x0Ae055097C6d159879521C384
 
 You may need to add a custom token - [Instructions for doing this with MetaMask](../for-stakers/stake-token/get-stake/add-stake-to-metamask.md).
 
-### I want to be a Staker! When does Staking Start?
+### I want to stake STAKE Now! Is it possible?
+
+Check out the Pre-Staking program, where you can join the incentivized testnet through StakeVault and start earning rewards now!
+
+### When does public staking start on xDai?
 
 Public staking is scheduled to start in Q3 2020. 
 
-### How much STAKE will I need?
+### How much STAKE will I need for public staking?
 
 Minimum amounts needed to validate or delegate on the xDai chain.
 
@@ -170,6 +174,24 @@ For more information see the EIP677 standard [https://github.com/ethereum/EIPs/i
 
 xDai is the first developed use-case for STAKE. However, it may be adopted by other chains in the future and used as a staking token for their consensus as well. POSDAO consensus is an algorithm we’ve developed that may be adopted by other chains, and those chains would have the opportunity to also incorporate a ready-made solution with STAKE to protect their chain.  
 ****
+
+## **Public Staking \(Validators & Delegators\)**
+
+What is a validator?
+
+What is the maximum number of validators?
+
+What is a delegator?
+
+What is the maximum number of delegators?
+
+How are validators selected?
+
+How long is a staking epoch?
+
+How do I add/withdraw/claim STAKE?
+
+
 
 
 
