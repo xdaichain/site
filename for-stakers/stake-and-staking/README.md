@@ -66,13 +66,11 @@ POSDAO will launch on the xDai chain with the [current xDai validators](https://
 
 ### Timeline
 
-| Task | Date\* |
+| Task | Date |
 | :--- | :--- |
 | POSDAO finalization & testing | March 1 - 30 |
 | Dai -&gt; Chai conversion mechanism | March 25 |
 | POSDAO v1 migration & validator staking | April 1 |
-
-_\*Dates are approximate and subject to change if necessary_
 
 ### Details
 
@@ -84,7 +82,7 @@ POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewar
 
 ## Phase 2: Public Staking & Reward Expansion
 
-After the STAKE public listing is complete and POSDAO is running as expected with the current validator set, staking on xDai will open up to all public STAKE holders.  Dates for the following upgrades are subject to the STAKE listing date and are currently TBD.
+After the STAKE public listing is complete and POSDAO is running as expected with the current validator set, staking on xDai will open up to all public STAKE holders.  Dates for the following upgrades are subject to the STAKE listing date and are currently TBD. In the interim, token holders can participate as mock delegators in the [pre-staking initiative offered by BitMax](pre-staking-program.md). 
 
 ### Public STAKE Info
 
@@ -97,6 +95,7 @@ After the STAKE public listing is complete and POSDAO is running as expected wit
 
 | Task | Date |
 | :--- | :--- |
+| [Pre-staking on BitMax](https://btmx.com/#/staking/details/STAKE-S) | 05/05/2020 |
 | Open bi-directional STAKE bridge | TBD |
 | Enable staking for new validator candidates | TBD  |
 | Enable public delegation | TBD  |
