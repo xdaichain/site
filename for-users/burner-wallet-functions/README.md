@@ -19,9 +19,9 @@ Burner is optimized for mobile, but also works in a desktop environment.
 **Things to try:**
 
 * [Receive & Send xDai with the Wallet](receive-and-send.md)
-* Send xDai with a link \(will open as a burner wallet for a new user\)
+* [Exchange Dai into xDai \(also requires ETH\), or xDai into Dai](exchange-currencies.md)
+* Send xDai with a loaded link \(opens as a burner wallet for a new user\)
 * Create a QR to request funds
-* Exchange Dai into xDai \(also requires ETH\), or xDai into Dai
 * Connect MetaMask
 
 ![A Fresh Burner](../../.gitbook/assets/burner-1.png)
