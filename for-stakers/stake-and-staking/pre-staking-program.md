@@ -20,8 +20,8 @@ Participants lock tokens in a simulated staking environment on BitMax. Rewards a
 
 When open public staking starts, users may continue to use StakeVault or may choose to use the xDai user interface for staking and delegated staking.  [Rewards for public staking on xDai are described here.](../stake-reward-mechanics/rewards-in-a-dual-token-environment.md)
 
-* **To start**:  Link to earn STAKE rewards via StakeVault &lt;link&gt;.
-* **More details**: Additional info and benefits are noted in the BitMax announcement, including a sweepstakes associated with the StakeVault launch. &lt;Link to Announcement&gt;
+* **To start**:  [Earn STAKE rewards via StakeVault](https://btmx.com/#/staking/details/STAKE-S)
+* **More details**: Additional info and benefits are noted in the [BitMax announcement](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047202914-Join-a-3-month-Pre-Staking-for-xDai-with-36-4-Est-Annualized-Return-and-Additional-Incentive-Program), including a sweepstakes associated with the StakeVault launch. 
 
 ## STAKE Pre-staking parameters
 
