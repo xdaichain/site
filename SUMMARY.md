@@ -73,6 +73,7 @@
   * [Receive & Send](for-users/burner-wallet-functions/receive-and-send.md)
   * [Exchange Currencies](for-users/burner-wallet-functions/exchange-currencies.md)
   * [Send xDai with a Loaded Link](for-users/burner-wallet-functions/send-xdai-with-a-loaded-link.md)
+  * [Request specific xDai amount](for-users/burner-wallet-functions/request-specific-xdai-amount.md)
 
 ## For Stakers
 
