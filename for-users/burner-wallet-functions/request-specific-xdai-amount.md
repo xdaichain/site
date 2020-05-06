@@ -1,4 +1,4 @@
-# Request specific xDai amount
+# Request Specific xDai Amount
 
 With Burner Wallet, you can easily create a QR / link which includes a specific amount and an attached message. This works well for vendors offering specific price point items in a conference / event specific setting, or requesting any specified amounts of xDai from other xDai users.
 
