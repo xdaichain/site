@@ -6,7 +6,11 @@ Tokens will be released according to the schedule below, with daily distribution
 **Update**: Contracts are deployed on the Ethereum Mainnet and verified in Etherscan. See each category for a link to the associated contract, several funds share a contract.
 {% endhint %}
 
-#### Ecosystem Fund
+{% hint style="success" %}
+See [Unlock Dates & Circulating Supply ](unlock-dates-and-circulating-supply.md)for additional information.
+{% endhint %}
+
+## Ecosystem Fund
 
 Used to foster adoption and provide funding for applications.
 
@@ -16,7 +20,7 @@ Used to foster adoption and provide funding for applications.
 * Released for following 336 days starting at day 337: ~9,523 daily.
 * Contract: [0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9](https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9)
 
-#### Foundation Reward
+## Foundation Reward
 
 The foundation reward recognizes founders and partners.
 
@@ -26,7 +30,7 @@ The foundation reward recognizes founders and partners.
 * Released for following 252 days starting at day 85: ~2,219 daily.
 * Contract: [0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9](https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9)
 
-**Advisors Reward**
+## **Advisors Reward**
 
 Advisors will sign a SAFT \(Simple Agreement for Future Tokens\) contract to promote transparency.
 
@@ -36,7 +40,7 @@ Advisors will sign a SAFT \(Simple Agreement for Future Tokens\) contract to pro
 * Released for following 252 days starting at day 85: ~2,066 daily.
 * Contract: [0x0218B706898d234b85d2494DF21eB0677EaEa918](https://etherscan.io/address/0x0218B706898d234b85d2494DF21eB0677EaEa918)
 
-#### Private Investors Offering Round
+## Private Investors Offering Round
 
 An exclusive offering available to a group of pre-approved investors.
 
@@ -46,7 +50,7 @@ An exclusive offering available to a group of pre-approved investors.
 * Released for following 224 days starting at day 29: ~5,719.2 daily
 * Contract: [0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA](https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA)
 
-#### Public Offering
+## Public Offering
 
 400,000 offered offered in the public auction round.
 
@@ -61,7 +65,7 @@ Proof of sent funds for public offering:
 __[_https://etherscan.io/tx/0x8f23a34b60e35399a97cea74d6ab48df320064d643b9bbf7f818b2125c67d652_](https://etherscan.io/tx/0x8f23a34b60e35399a97cea74d6ab48df320064d643b9bbf7f818b2125c67d652)\_\_
 {% endhint %}
 
-#### Liquidity Fund
+## Liquidity Fund
 
 Exchange listings and market maker services require additional fees. The liquidity fund will support these activities to ensure token availability through exchanges. This fund will also provide staking tokens to initial validators onboarded prior to the transition \(Number of validators \* 20,000 STAKE per validator\). Initial onboarding tokens will be burned following the distribution by sending them to `0x0000000000000000000000000000000000000000`
 
@@ -88,7 +92,7 @@ Community Engagement Fund: [https://etherscan.io/tx/0x810f3a3eb3fe4f3b6c876e272d
 [https://etherscan.io/tx/0x3f2d3f6e0aa85b5023a550b50d527e068fdf0c9a0a73d6379fd3d29e2e9395a6](https://etherscan.io/tx/0x3f2d3f6e0aa85b5023a550b50d527e068fdf0c9a0a73d6379fd3d29e2e9395a6) 
 {% endhint %}
 
-#### Minted STAKE
+## Minted STAKE
 
 Once the staking application launches, additional STAKE will be minted as a reward for validators and delegators of the protocol. The emission rate is TBD by the community, initial target range is ~15% APR of STAKE placed in the protocol.
 
