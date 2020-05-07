@@ -25,7 +25,7 @@ Circulating Supply Calculator code: [https://github.com/xdaichain/stake-token/tr
 | :--- | :--- | :--- | :--- |
 | 04.29.2020 | 25%  | 1 time | 492,738 |
 | 05.27.2020 | 10% | 1 time | 197,095 |
-| 04.01.2021 - 3.02.2022 | 65%  | Daily | 5,719.2 \(per day\) |
+|  | 65%  | Daily | 5,719.2 \(per day\) |
 
 ### Foundation & Advisors
 
