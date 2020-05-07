@@ -49,7 +49,7 @@ Additional STAKE will be minted as a reward for validators and delegators of the
 | :--- | :--- | :--- | :--- |
 | 08.06.2020_\*_ | 15% APR | Distributed Weekly | TBD |
 
-_\*Date dependent on live protocol activation, this is the anticipated go live date._
+_\*Exact date dependent on live protocol activation._
 
 
 
