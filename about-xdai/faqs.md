@@ -56,7 +56,7 @@ xDai is a stablechain located within the vast Ethereum ecosystem. xDai users are
 
 xDai exists to support stable payments and digital cash transactions. Whereas Ethereum transaction costs are unpredictable, subject to congestion, and require several tokens \(for example DAI + Eth for gas\), xDAi transactions are fast, very inexpensive, and require a single token \(xDai\).
 
-xDai also supports a decentralized, earth-friendly architecture with POSDAO consensus and the STAKE consensus staking token.
+xDai also supports a ⭐ decentralized ⭐ , earth-friendly architecture with POSDAO consensus and the STAKE consensus staking token.
 
 ➡ [xDai General Overview](news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
 
@@ -106,9 +106,7 @@ xDai is created from the stable Dai token - Dai is locked in a bridge contract a
 
 * From another user on the xDai Chain \(Wallet transfer, airdrop, payment\)
 * Converting Dai to xDai using the[ xDai Bridge](https://www.xdaichain.com/for-users/converting-xdai-via-bridge)
-* Buying xDai directly
-* using Carbon Money
-* using Wyre
+* Buying xDai directly using Carbon
 
 ### What makes the xDai coin a different kind of stablecoin?
 
