@@ -41,5 +41,15 @@ Circulating Supply Calculator code: [https://github.com/xdaichain/stake-token/tr
 | 03.31.2021 | 20% | 1 time | 800,000 |
 | 04.01.2021 - 3.02.2022 | 80% | Daily | 9,523 \(per day\) |
 
+### Minting
+
+Additional STAKE will be minted as a reward for validators and delegators of the protocol. Emission is 15% APR of total amount staked in the protocol during a staking epoch_._
+
+| Date | Percentage | Type | Amount |
+| :--- | :--- | :--- | :--- |
+| 08.06.2020_\*_ | 15% APR | Distributed Weekly | TBD |
+
+_\*Date dependent on live protocol activation, this is the anticipated go live date._
+
 
 
