@@ -32,14 +32,14 @@ Circulating Supply Calculator code: [https://github.com/xdaichain/stake-token/tr
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
 | 7.22.2020 | 20% | 1 time | 270,009 |
-| 07.23.2020 - 03.31.2021 | 80% | Daily | 4,286 |
+| 07.23.2020 - 03.31.2021 | 80% | Daily | 4,286 \(per day\) |
 
 ### Ecosystem
 
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
 | 03.31.2021 | 20% | 1 time | 800,000 |
-| 04.01.2021 - 3.02.2022 | 80% | Daily | 9,523 |
+| 04.01.2021 - 3.02.2022 | 80% | Daily | 9,523 \(per day\) |
 
 
 
