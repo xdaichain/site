@@ -87,6 +87,7 @@
     * [Add STAKE to MetaMask](for-stakers/stake-token/get-stake/add-stake-to-metamask.md)
   * [STAKE Token Contracts](for-stakers/stake-token/stake-token-contracts.md)
   * [STAKE token distribution](for-stakers/stake-token/stake-token-distribution/README.md)
+    * [Unlock Dates & Circulating Supply](for-stakers/stake-token/stake-token-distribution/unlock-dates-and-circulating-supply.md)
     * [Token release schedule](for-stakers/stake-token/stake-token-distribution/token-release-schedule.md)
 * [STAKE Reward Mechanics](for-stakers/stake-reward-mechanics/README.md)
   * [Rewards in a Dual Token Environment](for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md)
