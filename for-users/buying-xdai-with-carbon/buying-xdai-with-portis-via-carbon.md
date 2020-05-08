@@ -6,6 +6,12 @@ description: >-
 
 # Buying xDai with Portis via Carbon
 
+
+
+{% hint style="danger" %}
+xDai direct purchases \(Carbon or Wyre\) are currently under construction.  Purchase Dai on the mainnet and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/), or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](../burner-wallet-functions/exchange-currencies.md).
+{% endhint %}
+
 {% hint style="warning" %}
 If your billing address is located in the U.S., Wyre is used to purchase xDai via the Portis wallet. If outside the US, you will use [Carbon](../buying-xdai-with-wyre/buying-xdai-with-portis.md) to buy xDai in the Portis wallet.
 

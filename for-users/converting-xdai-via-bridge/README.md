@@ -4,6 +4,12 @@ description: Dai is converted to xDai through the TokenBridge
 
 # Converting xDai via Bridge
 
+## Bridge UI
+
+{% hint style="success" %}
+[https://dai-bridge.poa.network](https://dai-bridge.poa.network)
+{% endhint %}
+
 ## What is the Bridge
 
 The [TokenBridge](https://docs.tokenbridge.net/) is used to move and convert assets between chains.  With the xDai chain, the bridge converts Dai into xDai. Once converted, xDai is used as a native token \(for transactions as well as transaction fees\) on a chain where block times are fast and transactions are stable and extremely inexpensive. When a user is finished using xDai, they can convert it back to Dai using the same bridge.

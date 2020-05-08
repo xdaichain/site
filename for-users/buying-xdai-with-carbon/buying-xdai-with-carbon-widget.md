@@ -6,6 +6,10 @@ description: >-
 
 # Buying xDai with Carbon Widget
 
+{% hint style="danger" %}
+xDai direct purchases \(Carbon or Wyre\) are currently under construction.  Purchase Dai on the mainnet and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/), or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](../burner-wallet-functions/exchange-currencies.md).
+{% endhint %}
+
 {% hint style="warning" %}
 Carbon's access is currently limited by certain geolocations based on IP address, including the US \(coming soon\). Here is a full list of restricted countries: [https://docs.carbon.money/docs/blocked-countries](https://docs.carbon.money/docs/blocked-countries).
 

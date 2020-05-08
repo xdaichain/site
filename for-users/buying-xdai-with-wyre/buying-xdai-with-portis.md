@@ -6,6 +6,10 @@ description: >-
 
 # Buying xDai with Portis via Wyre \(US Residents only\)
 
+{% hint style="danger" %}
+xDai direct purchases \(Carbon or Wyre\) are currently under construction.  Purchase Dai on the mainnet and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/), or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](../burner-wallet-functions/exchange-currencies.md).
+{% endhint %}
+
 {% hint style="warning" %}
 Billing addresses in the US use the [Wyre](https://www.sendwyre.com/) API to purchase xDai with Portis. US buyers are limited to **$40 per day** and pay a fee of ~3%.  
 {% endhint %}

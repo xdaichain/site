@@ -2,6 +2,10 @@
 
 There are multiple ways to buy xDai via Carbon.
 
+{% hint style="danger" %}
+xDai direct purchases \(Carbon or Wyre\) are currently under construction.  Purchase Dai on the mainnet and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/), or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](../burner-wallet-functions/exchange-currencies.md).
+{% endhint %}
+
 {% hint style="warning" %}
 Carbon currently cannot be accessed from certain geolocations based on IP address, including the US. This is expected to change in the near future. 
 
