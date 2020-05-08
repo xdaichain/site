@@ -56,7 +56,7 @@ xDai is a stablechain located within the vast Ethereum ecosystem. xDai users are
 
 xDai exists to support stable payments and digital cash transactions. Whereas Ethereum transaction costs are unpredictable, subject to congestion, and require several tokens \(for example DAI + Eth for gas\), xDAi transactions are fast, very inexpensive, and require a single token \(xDai\).
 
-xDai also supports a ⭐ decentralized ⭐ , earth-friendly architecture with POSDAO consensus and the STAKE consensus staking token.
+xDai also supports a decentralized, earth-friendly architecture with POSDAO consensus and the STAKE consensus staking token.
 
 ➡ [xDai General Overview](news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
 
@@ -106,7 +106,7 @@ xDai is created from the stable Dai token - Dai is locked in a bridge contract a
 
 * From another user on the xDai Chain \(Wallet transfer, airdrop, payment\)
 * Converting Dai to xDai using the[ xDai Bridge](https://www.xdaichain.com/for-users/converting-xdai-via-bridge)
-* Buying xDai directly using Carbon
+* Buying xDai directly using Carbon \(coming soon\)
 
 ### What makes the xDai coin a different kind of stablecoin?
 
@@ -114,7 +114,7 @@ Imagine every time you needed to pay for lunch you had to use 2 different curren
 
 This is what happens every time you use a stablecoin on the Ethereum mainnet. xDai eliminates this issue - transaction fees are stable and very low \(500 or so for $.01\). Because they are known & low costs, this also enables stable micro-transactions, which is important for contracts and projects who need to plan for application costs. 
 
-xDai enables digital cash, supporting small denomination transactions for everyday, stable purchases. 
+The xDai ⚡stablechain⚡ enables digital cash, supporting small denomination transactions for everyday, stable purchases. 
 
 ## STAKE Staking Token
 
@@ -130,6 +130,7 @@ More on the [Dual Token Model](news-and-information/dual-token-model.md)
 
 * From another user on the Ethereum Mainnet \(Wallet transfer, airdrop, payment\)
 * From an exchange. Currently STAKE is offered at BitMax [https://bitmax.io/\#/trade/usdt/stake](https://bitmax.io/#/trade/usdt/stake)
+* From UniSwap:  [https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6](https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6)
 
 ### What is the STAKE contract address?
 
