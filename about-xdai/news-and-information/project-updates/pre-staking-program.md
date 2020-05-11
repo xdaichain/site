@@ -6,7 +6,7 @@ description: Participants can earn a 36.4% APR by participating in pre-staking d
 
 **Update 05.11.2020**
 
-Through 6 Days, the [BitMax Pre-staking program ](https://btmx.com/#/staking/details/STAKE-S)has been a huge success. New stakers continue to join the fold and try their hand at delegating STAKE. Even as prices experience large gains, participants are content to hold and realize the 36.4% APR gains. While some have chosen to unbond, more have joined as delegators. Here are the latest totals from the first week:
+Through 6 Days, the [BitMax Pre-staking program ](https://btmx.com/#/staking/details/STAKE-S)has been a huge success. New stakers continue to join the fold and try their hand at delegating STAKE. Even as prices experience large gains, participants are content to hold and realize the 36.4% APR gains rather than removing and trading. While some have chosen to unbond, more have joined as delegators. Here are the latest totals from the first week:
 
 ## Pre Staking STAKEtistics
 
