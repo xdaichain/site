@@ -12,6 +12,28 @@
 [Quantstamp Security Audit PDF](https://github.com/poanetwork/tokenbridge/blob/73d500210546e2959536dc569f1aec5752077225/audit/quantstamp/POA-Network-Token-bridge-security-assessment-report.pdf)
 {% endhint %}
 
+## DPOS \(STAKE\) Token by Quantstamp
+
+**Completed:** September 5, 2019
+
+**Conclusion**: All risks resolved. 
+
+**Contracts:** Version 1.0.1 addressed items in audit.  
+[https://github.com/xdaichain/stake-token/releases/tag/v1.0.1](https://github.com/xdaichain/stake-token/releases/tag/v1.0.1)
+
+{% hint style="warning" %}
+When audited, the working name for the staking token was DPOS. This has since changed to STAKE. Additional minor changes have been made since the previous audit. We have conducted internal audits on these changes and an additional outside audit is in process.
+{% endhint %}
+
+{% hint style="success" %}
+* [Quantstamp Report Repository](https://github.com/quantstamp/DPOS-token-review)
+* [Security Audit PDF](https://github.com/xdaichain/stake-token/blob/master/audit/Quantstamp/DPOS%20token-Audit%20Final%20Report.pdf)
+{% endhint %}
+
+**STAKE \(DPOS\) Legal Opinion:** The legal opinion was collected under the DPOS working title. The token is now renamed **STAKE**, but all other terms and conditions are the same.  A new report will be issued shortly.
+
+{% embed url="https://forum.poa.network/t/dpos-legal-opinion/2396" %}
+
 ## POSDAO Initial Security Audit by PepperSec
 
 **Completed**: August 2019
