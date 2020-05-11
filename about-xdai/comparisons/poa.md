@@ -6,7 +6,7 @@ description: POA Network R&D created xDai as the first USD Stable Chain
 
 ## Differences between POA Network and xDai Chain
 
-[POA Network](https://poa.network) is an R&D organization as well as a network, and the xDai stable chain is a chain created by the POA Network. Other POA projects include [BlockScout](https://docs.blockscout.com) and [TokenBridge](https://docs.tokenbridge.com) \(both recipients of Ecosystem Support from the [Ethereum Foundation](https://ethereum.foundation/)\). 
+[POA Network](https://poa.network) is an R&D organization as well as a network, and the xDai stable chain is a chain created by the POA Network. Other POA projects include [BlockScout](https://docs.blockscout.com) and [TokenBridge](https://docs.tokenbridge.net/) \(both recipients of Ecosystem Support from the [Ethereum Foundation](https://ethereum.foundation/)\). 
 
 The first iteration of the xDai chain was modeled after the POA Network chain but included some important advancements. xDai was created as the first stable chain, meaning payments and fees were all completely stable and predictable. It inherited the speed and low fees of POA, but allowed for many new kinds of use cases, creating rapid adoption in the community. 
 
