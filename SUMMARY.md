@@ -32,6 +32,7 @@
   * [ETHDenver 2020 xDai & Burner Wallet Recap](about-xdai/news-and-information/ethdenver-2020-xdai-and-burner-wallet-recap.md)
   * [Dual Token Model](about-xdai/news-and-information/dual-token-model.md)
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
+    * [Pre-Staking Program](about-xdai/news-and-information/project-updates/pre-staking-program.md)
     * [⚔️ xDAi Weekly Recap - 05/08](about-xdai/news-and-information/project-updates/xdai-weekly-recap-05-08.md)
   * [Interviews & Media Articles](about-xdai/news-and-information/media-articles/README.md)
     * [xDai Chain: Basic Overview Presentation](about-xdai/news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
