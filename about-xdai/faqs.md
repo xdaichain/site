@@ -83,7 +83,7 @@ Since xDai is an Ethereum-compatible sidechain, you can use the same tools \(lik
 
 Plans are multi-faceted and both short and long term. In the short term, we are focused on building out the public staking interface for POSDAO. This will enable anyone to participate in staking on the xDai chain.
 
-Long-term plans are related to features and updates to our infrastructural assets like TokenBridge & BlockScout, as well as establishing a fund for DApp development.
+Long-term plans are related to features and updates to our infrastructural assets like TokenBridge & BlockScout, as well as establishing a fund for DApp development and eventual implementation of [HoneyBadger BFT](../for-validators/consensus/honeybadger-bft-consensus/) into the protocol.
 
 **Roadmaps:** 
 
@@ -91,6 +91,26 @@ Long-term plans are related to features and updates to our infrastructural asset
 * xDai General: [https://www.xdaichain.com/about-xdai/roadmap](https://www.xdaichain.com/about-xdai/roadmap)  
 * TokenBridge:  [https://docs.tokenbridge.net/about-tokenbridge/roadmap](https://docs.tokenbridge.net/about-tokenbridge/roadmap) 
 * BlockScout: [https://docs.blockscout.com/about/roadmap](https://docs.blockscout.com/about/roadmap)
+
+### How does the xDai chain address scalability concerns? 5 second blocks are fast, but many chains offer even faster transactions.
+
+We are looking at both vertical and horizontal scalability opportunities to ensure xDai can scale as required. With vertical scalability xDai's validators optimize their nodes and apply protocol upgrades to push the limits of technologies. With horizontal scalability additional chains can be launched in the same manner and connected by the TokenBridge protocol. It's our vision of sharding in a realm based manner.
+
+### Why is the xDai bridge / TokenBridge important?
+
+The bridge is a key element of xDai which allows for interop between xDai and the mainnet. The TokenBridge development team just received [Ethereum Ecosystem support program funding](https://blog.ethereum.org/2020/05/07/ecosystem-support-program-allocation-update-q1/) to continue with TokenBridge development within the entire ecosystem \(not related directly to xDai but the improvements we make will also benefit the xDai chain\)
+
+The bridge connects the networks and allows tokens to exist on both sides. If you want some xDai for transactions, you lock Dai in the bridge contract and then mint xDai on the xDai chain. You can use this xDai as digital cash for transactions, and when you are finished, you can burn the remaining xDai and unlock the corresponding amount of Dai. There’s an easy UI for it, and it works quite well to maintain liquidity.
+
+Another extension of the same bridge infrastructure will be used to move STAKE between the mainnet and xDai.
+
+### Is the xDai chain secure?
+
+We have contracted 3rd party security firms to conduct [comprehensive audits ](../for-developers/security-audits.md)on the xDai consensus, tokens, bridge and underlying architecture. We have resolved any issues they have found, and are committed to ongoing audits and comprehensive testing. However, we cannot anticipate all issues and users must assume risk when using any blockchain technologies.
+
+### Are xDai or STAKE tokens considered securities?
+
+Based on our research and [legal opinions](../for-developers/security-audits.md#dpos-stake-token-by-quantstamp) they are not considered securities. However, the regulatory landscape may differ between countries. Please be informed of your local laws when using.
 
 ## **xDai Native Coin/Token**
 
@@ -114,7 +134,11 @@ Imagine every time you needed to pay for lunch you had to use 2 different curren
 
 This is what happens every time you use a stablecoin on the Ethereum mainnet. xDai eliminates this issue - transaction fees are stable and very low \(500 or so for $.01\). Because they are known & low costs, this also enables stable micro-transactions, which is important for contracts and projects who need to plan for application costs. 
 
-The xDai ⚡stablechain⚡ enables digital cash, supporting small denomination transactions for everyday, stable purchases. 
+The xDai stablechain enables digital cash, supporting small denomination transactions for everyday, stable purchases. 
+
+### How can you mitigate stablecoin-based risks \(like broken stability pegs\) with xDai? 
+
+The xDai bridge is expandable to include additional forms of collateral on the Ethereum side of the bridge.  Currently, three types of collateral are supported: Sai, Dai, Chai. More may be added in the future. Additional types of collateral can act to mitigate stability risks.
 
 ## STAKE Staking Token
 
@@ -200,13 +224,19 @@ A delegator is a STAKE holder who places STAKE in a validator candidates pool. I
 
 A staking epoch is 1 week. 
 
-### How do I add/withdraw/claim STAKE?
+### How does a participant \(validator, candidate or delegator\) add/withdraw/claim STAKE?
 
 A UI is in process that will allow delegators and validators to easily manage their STAKE tokens. For more info, see the [Staking Operations](../for-stakers/staking-protocol/staking-operations/) section.
 
 ### How do I get STAKE rewards as a validator/delegator?
 
 Rewards are automatically distributed at the end of a staking epoch to active validators and delegators.
+
+### What rewards can I expect as a participant?
+
+See the [rewards in a dual token environment post](../for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md) for more information. As a validator, you will always receive at least 30% of your pool's rewards, and more if delegators contribute less than 70% to the pool. Rewards are based on how much STAKE is staked in the protocol as well as chain-based activity \(stable rewards come from bridge fees and transactions, as well as Chai based rewards from DAI locked in the bridge\). Staking rewards will accumulate at 15% APR based on the locked amount.
+
+
 
 
 
