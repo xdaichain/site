@@ -23,23 +23,23 @@ Circulating Supply Calculator code: [https://github.com/xdaichain/stake-token/tr
 
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
-| 04.29.2020 | 25%  | 1 time | 492,738 |
-| 05.27.2020 | 10% | 1 time | 197,095 |
-| 05.28.2020 - 01.06.2021 | 65%  | Daily | 5,719.2 \(per day\) |
+| 29.04.2020 | 25%  | 1 time | 492,738 |
+| 27.05.2020 | 10% | 1 time | 197,095 |
+| 28.05.2020 - 06.01.2021 | 65%  | Daily | 5,719.2 \(per day\) |
 
 ### Foundation & Advisors
 
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
-| 7.22.2020 | 20% | 1 time | 270,009 |
-| 07.23.2020 - 03.31.2021 | 80% | Daily | 4,286 \(per day\) |
+| 22.07.2020 | 20% | 1 time | 270,009 |
+| 23.07.2020 - 31.03.2021 | 80% | Daily | 4,286 \(per day\) |
 
 ### Ecosystem
 
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
-| 03.31.2021 | 20% | 1 time | 800,000 |
-| 04.01.2021 - 3.02.2022 | 80% | Daily | 9,523 \(per day\) |
+| 31.03.2021 | 20% | 1 time | 800,000 |
+| 01.04.2021 - 02.03.2022 | 80% | Daily | 9,523 \(per day\) |
 
 ### Minting
 
@@ -47,9 +47,10 @@ Additional STAKE will be minted as a reward for validators and delegators of the
 
 | Date | Percentage | Type | Amount |
 | :--- | :--- | :--- | :--- |
-| 08.06.2020_\*_ | 15% APR | Distributed Weekly | TBD |
+| 06.08.2020_\*_ | 15% APR | Distributed Weekly | TBD |
 
-_\*Exact date dependent on live protocol activation._
+_\*Exact date dependent on live protocol activation.   
+Dates displayed in dd.mm.yyyy format._
 
 
 

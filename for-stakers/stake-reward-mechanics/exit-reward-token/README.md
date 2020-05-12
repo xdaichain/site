@@ -6,8 +6,10 @@ description: Exploratory reward for future implementation
 
 ### **EXIT** Token
 
-{% hint style="info" %}
+{% hint style="warning" %}
 EXIT is an exploratory stable currency offered as an additional reward to stakers of the protocol. It incorporates an experimental design and may be introduced into the protocol at the start or at a later date. While it's face value is 1:1 with the US Dollar, the purchasing value is determined by the marketplace.
+
+It is currently a highly experimental project and may or may not be launched or included as an additional incentive.
 {% endhint %}
 
 The EXIT token is a stable synthetic ****currency whose face value is equivalent to the US Dollar \(1 EXIT token = $1 US Dollar\). It is minted as an additional reward when STAKE is placed into the protocol. 
