@@ -1,8 +1,8 @@
 ---
-description: The first-ever USD stable blockchain
+description: The first-ever USD stable blockchain and multi-chain staking token
 ---
 
-# Welcome to xDai
+# Welcome to xDai STAKE
 
 ## About
 
