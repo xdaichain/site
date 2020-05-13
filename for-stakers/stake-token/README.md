@@ -20,7 +20,7 @@ Users \(stakers\) provide STAKE as collateral when participating in the consensu
 
 * **STAKE rewards**: STAKE is minted as a reward based on the amount of STAKE placed in the protocol. The final emission rate is TBD through a risk assessment and community review. Target range: ~15% APR.   A STAKE transfer fee is also assessed when a user removes their STAKE from the xDai chain \(using an [AMB bridge](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) extension\). This fee is distributed as a reward to participating stakers. 
 * **xDAI rewards**: DAI locked in the bridge is converted to CHAI, which earns additional interest on the locked amount. This interest is distributed in xDai to stakers at the end of a staking epoch. 
-* **EXIT rewards**: EXIT tokens are minted and distributed to stakers at the end of each epoch. This exploratory virtual stable currency has a stable face value 1:1 with the US Dollar. EXIT rewards may be introduced at the beginning of the protocol or later on.
+* **EXIT rewards**: EXIT tokens may be minted and distributed to stakers at the end of each epoch. This exploratory virtual stable currency has a stable face value 1:1 with the US Dollar. EXIT rewards may be introduced at the beginning of the protocol or later on.
 
 ### Staking STAKE
 
