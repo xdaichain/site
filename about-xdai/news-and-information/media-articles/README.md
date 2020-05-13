@@ -1,18 +1,38 @@
+---
+description: Articles and explainers that feature or describe the xDai ecosystem
+---
+
 # Interviews & Media Articles
 
-{% embed url="https://yellowblock.io/interview-with-xdai/" %}
+## xDai 101
 
-{% embed url="https://www.saturn.network/blog/what-is-xdai/" %}
+{% embed url="https://yellowblock.io/interview-with-xdai/" caption="YellowBlock" %}
 
-{% embed url="https://yellowblock.io/what-is-xdai/" %}
+{% embed url="https://www.saturn.network/blog/what-is-xdai/" caption="Saturn" %}
+
+{% embed url="https://yellowblock.io/what-is-xdai/" caption="YellowBlock" %}
+
+## AMA Recaps
+
+{% embed url="http://gcrypto.media/xdai-recap/" caption="Generation Crypto" %}
+
+## DeFi Explainers
+
+{% embed url="https://medium.com/shapeshift-stories/discovering-defi-in-blockchain-tech-f018524d4e6f" caption="ShapeShift Blog" %}
+
+## Conferences / Events
+
+{% embed url="https://www.coindesk.com/the-next-big-ethereum-conference-will-run-almost-entirely-on-blockchains" caption="CoinDesk" %}
+
+{% embed url="https://blog.infura.io/infura-brings-scale-to-splunk-xdai-pop-up-cryptocurrency-ab53eda62320/" caption="Infura Blog" %}
+
+{% embed url="https://blog.makerdao.com/people-xdai-burner-wallet-portable-giving/" caption="MakerDAO Blog" %}
 
 
 
-## _\*\*\*\*_🔎 _**`xDai`**_  Contests
 
-{% hint style="info" %}
-#### Sherlock Holmes Contest Coming Soon
-{% endhint %}
 
-_**\`\`**_
+
+
+
 
