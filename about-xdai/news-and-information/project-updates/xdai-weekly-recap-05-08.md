@@ -2,7 +2,7 @@
 description: 'May 01, 2020 - May 08, 2020'
 ---
 
-# ⚔️ xDAi Weekly Recap - 05/08
+# ⚔️ xDAi Weekly Recap - 08/05/2020
 
 ## ✅ **Pre-Staking with STAKEVAULT**
 
