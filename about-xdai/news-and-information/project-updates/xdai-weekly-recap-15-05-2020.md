@@ -1,4 +1,4 @@
-# ⚔️ xDAi Weekly Recap - 15/05/2020
+# ⚔️ xDai Weekly Recap - 15/05/2020
 
 ## ✅ **STAKE on 1inch.exchange**
 

@@ -33,8 +33,8 @@
   * [Dual Token Model](about-xdai/news-and-information/dual-token-model.md)
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
     * [Pre-Staking Program](about-xdai/news-and-information/project-updates/pre-staking-program.md)
-    * [⚔️ xDAi Weekly Recap - 15/05/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-15-05-2020.md)
-    * [⚔️ xDAi Weekly Recap - 08/05/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-05-08.md)
+    * [⚔️ xDai Weekly Recap - 15/05/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-15-05-2020.md)
+    * [⚔️ xDai Weekly Recap - 08/05/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-05-08.md)
   * [Interviews & Media Articles](about-xdai/news-and-information/media-articles/README.md)
     * [xDai Chain: Basic Overview Presentation](about-xdai/news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
 
