@@ -14,7 +14,9 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 
 ## AMA Recaps
 
-{% embed url="http://gcrypto.media/xdai-recap/" caption="Generation Crypto" %}
+{% embed url="http://gcrypto.media/xdai-recap/" caption="Generation Crypto 12/05/2020" %}
+
+{% embed url="https://cryptodiffer.com/news/xdai-chain-ama-recap" caption="CryptoDiffer 14/05/2020" %}
 
 ## DeFi Explainers
 

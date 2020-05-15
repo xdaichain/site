@@ -27,8 +27,6 @@ xDai STAKE was featured in 2 AMAs over the week. Checkout the links below for an
 * 12 May with Generation Crypto: [http://gcrypto.media/xdai-recap/](http://gcrypto.media/xdai-recap/)
 * 14 May with CryptoDiffer: [https://cryptodiffer.com/news/xdai-chain-ama-recap](https://cryptodiffer.com/news/xdai-chain-ama-recap)
 
-
-
 ## ✅ **Biconomy Integration**
 
 ![](../../../.gitbook/assets/biconomy.jpeg)

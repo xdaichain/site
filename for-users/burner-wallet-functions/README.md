@@ -16,6 +16,8 @@ You can also open a Burner Wallet if you are sent a pre-populated link. Just cli
 
 Burner is optimized for mobile, but also works in a desktop environment. 
 
+{% embed url="https://video.twimg.com/ext\_tw\_video/1260602551738695683/pu/vid/1280x720/5FsX5EudZAOsW-bJ.mp4?tag=10" %}
+
 **Things to try:**
 
 * [Receive & Send xDai with the Wallet](receive-and-send.md)
