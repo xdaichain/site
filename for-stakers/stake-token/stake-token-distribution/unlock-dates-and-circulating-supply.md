@@ -15,7 +15,7 @@ Circulating Supply = Total Supply minus balances in the following contracts:
 * Advisor’s Reward Contract: [0x0218B706898d234b85d2494DF21eB0677EaEa918](https://etherscan.io/address/0x0218b706898d234b85d2494df21eb0677eaea918)
 * Zero Balance Address \(burned tokens\): 0x0000000000000000000000000000000000000000
 
-Circulating Supply Calculator code: [https://github.com/xdaichain/stake-token/tree/master/supply-calculator](https://github.com/xdaichain/stake-token/tree/master/supply-calculator%29) 
+Circulating Supply Calculator code: [https://github.com/xdaichain/stake-token/tree/master/supply-calculator](https://github.com/xdaichain/stake-token/tree/master/supply-calculator%20)
 
 ## Unlock Dates
 
