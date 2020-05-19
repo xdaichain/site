@@ -73,7 +73,7 @@ BlockScout is a full-featured, open-source explorer that supports xDai. It lets 
 
 We are fortunate to have the support of quite a number of wallets, including some amazing mobile wallets like AlphaWallet, DEX wallet ****and Poketto, and web wallets like Portis Wallet. You can use MetaMask, and Nifty Wallet and Saturn Wallet are additional web3 wallets similar to MetaMask but containing additional features that natively support xDai.  
   
-The biggest wallet use case is Burner Wallet - as this is really designed for small, stable payments and for conferences and events. We invite you to [check out our wallets page](ttps://www.xdaichain.com/for-users/wallets) for more information.
+The biggest wallet use case is Burner Wallet - as this is really designed for small, stable payments and for conferences and events. We invite you to [check out our wallets page](../for-users/wallets/) for more information.
 
 ### How can I develop and deploy a DApp on xDai?
 
