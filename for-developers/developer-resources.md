@@ -49,7 +49,7 @@ You can access the bridge via:
 * [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
 * [TheGraph](https://thegraph.com) supports xDai data indexing, querying and display.
 * [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers. 
-* [Tenderly ](https://tenderly.dev/)dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
+* [Tenderly ](https://tenderly.co/)dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 
 ![Tenderly Dashboard Gas Profiler example](../.gitbook/assets/tenderly.png)
 
