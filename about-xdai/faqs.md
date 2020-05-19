@@ -96,6 +96,10 @@ Long-term plans are related to features and updates to our infrastructural asset
 
 We are looking at both vertical and horizontal scalability opportunities to ensure xDai can scale as required. With vertical scalability xDai's validators optimize their nodes and apply protocol upgrades to push the limits of technologies. With horizontal scalability additional chains can be launched in the same manner and connected by the TokenBridge protocol. It's our vision of sharding in a realm based manner.
 
+### What is the TPS \(transactions per second or tx/sec\) for the xDai Chain?
+
+It depends on the type of transaction being sent, for the simplest transactions the xDai chain can process 60 tx/sec. 
+
 ### Why is the xDai bridge / TokenBridge important?
 
 The bridge is a key element of xDai which allows for interop between xDai and the mainnet. The TokenBridge development team just received [Ethereum Ecosystem support program funding](https://blog.ethereum.org/2020/05/07/ecosystem-support-program-allocation-update-q1/) to continue with TokenBridge development within the entire ecosystem \(not related directly to xDai but the improvements we make will also benefit the xDai chain\)
