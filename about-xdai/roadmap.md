@@ -10,7 +10,7 @@ description: Current & Future Directions for the xDai Stable Chain
  ✅ **Status:** Carbon implementation complete, additional implementations ongoing.
 
 {% hint style="success" %}
-The [Carbon on-ramp](../for-users/buying-xdai-with-carbon/) for xDai is now functional \(functionality is dependent on geo-location\).
+The [Carbon on-ramp](../for-users/buying-xdai-with-carbon/) for xDai is in development \(functionality is dependent on geo-location\).
 {% endhint %}
 
 At the moment, to get xDai, most users have to get Dai first and relay it to xDai via xDai Bridge. The process is complicated and time-consuming due to congestions on the Ethereum networks and the probabilistic nature of Proof of Work consensus. Relayers of the xDai bridge are waiting for eight blocks on Ethereum before they relay Dai to xDai.
@@ -74,7 +74,7 @@ We have invested in several [different approaches ](https://forum.poa.network/t/
 
 ## Synthetic Assets on xDai based on UMA protocol
 
-🎯 **Taget Date**: Q2 2020
+🎯 **Target Date**: Q2 2020
 
 > UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
 
