@@ -60,7 +60,8 @@ Other community members can also delegate, or place STAKE on validators they wou
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO ](for-validators/posdao-whitepaper.md)\(coming soon - currently transitioning from private to public POSDAO\).
 * ✅[STAKE token](for-stakers/stake-token/) allows community consensus participation and incentives. 
 * ✅Wide-ranging Community Support \(see [xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators.md)\).
-* ✅Extreme usability with tools like Burner Wallet & Burner Wallet 2.
+* ✅Outstanding energy efficiency.
+* ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet.md) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md) and more.
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!

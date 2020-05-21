@@ -18,6 +18,10 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 
 {% embed url="https://cryptodiffer.com/news/xdai-chain-ama-recap/" caption="CryptoDiffer 15/05/2020" %}
 
+{% embed url="https://theblockcircle.com/xdai-full-ama-transcript/" caption="The Block Circle 20/05/2020" %}
+
+
+
 ## DeFi Explainers
 
 {% embed url="https://medium.com/shapeshift-stories/discovering-defi-in-blockchain-tech-f018524d4e6f" caption="ShapeShift Blog" %}
