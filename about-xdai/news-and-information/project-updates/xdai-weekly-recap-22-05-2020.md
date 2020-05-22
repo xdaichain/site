@@ -18,7 +18,8 @@ Note that **some** values like circulating supply are still in “?” status. T
 
 In addition to being listed on UniSwap V1, STAKE is also on UniSwap v2. As this is a new listing, you must enter the Token Contract Address to swap STAKE.
 
-STAKE Contract Address: `0x0Ae055097C6d159879521C384F1D2123D1f195e6`
+* Link: [https://uniswap.exchange/swap](https://uniswap.exchange/swap)
+* STAKE Contract Address: `0x0Ae055097C6d159879521C384F1D2123D1f195e6`
 
 ![](../../../.gitbook/assets/uniswapv2.gif)
 
