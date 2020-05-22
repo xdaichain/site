@@ -26,6 +26,12 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 
 {% embed url="https://medium.com/shapeshift-stories/discovering-defi-in-blockchain-tech-f018524d4e6f" caption="ShapeShift Blog" %}
 
+## STAKE Articles
+
+{% embed url="https://www.coinspeaker.com/top-performing-listing-xdai-stake/amp/" %}
+
+
+
 ## Conferences / Events
 
 {% embed url="https://www.coindesk.com/the-next-big-ethereum-conference-will-run-almost-entirely-on-blockchains" caption="CoinDesk" %}
