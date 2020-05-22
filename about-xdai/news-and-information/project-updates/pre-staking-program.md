@@ -32,8 +32,9 @@ Below are the latest totals from the first 2 weeks of the program. Data supplied
 | 18.05.2020 | 14 | 491 | 460,710 | 0.3196456014 |
 | 19.05.2020 | 15 | 511 | 456,248 | 0.3165747945 |
 | 20.05.2020 | 16 | 527 | 477,653 | 0.3314008388 |
+| 21.05.2020 | 17 | 539  | 468,702  | 0.3251905378 |
 
-![](../../../.gitbook/assets/chart-2-%20%281%29.png)
+![](../../../.gitbook/assets/chart.png)
 
 
 
