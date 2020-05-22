@@ -10,7 +10,7 @@ description: 16 May 2020 - 22 May 2020
 
 Listing: [https://coinmarketcap.com/currencies/xdai/](https://coinmarketcap.com/currencies/xdai/)
 
-Note that **some** values like circulating supply are still in “?” status. This will shift as data is verified and reporting accuracy confirmed. To get current circulating supply, see [https://supply.xdaichain.com/](https://supply.xdaichain.com/)
+Note that ****some values like circulating supply are still in “?” status. This will shift as data is verified and reporting accuracy confirmed. To get current circulating supply, see [https://supply.xdaichain.com/](https://supply.xdaichain.com/)
 
 {% embed url="https://twitter.com/xdaichain/status/1262772122528727040" %}
 
