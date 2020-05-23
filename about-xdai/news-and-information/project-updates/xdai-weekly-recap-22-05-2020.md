@@ -35,7 +35,7 @@ The amount of STAKE , but each day more participants have tried the pre-staking 
 
 ## 📰 Media
 
-### ✅ AMA with KUKOIN & LUKSO
+### ✅ AMA with KUCOIN & LUKSO
 
 Igor participated in an AMA with LUKSO. As a technical advisor to the LUKSO team, he answered some questions about his role and what he's working on with xDai.
 
