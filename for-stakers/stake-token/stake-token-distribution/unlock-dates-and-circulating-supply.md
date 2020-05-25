@@ -24,21 +24,21 @@ Circulating Supply = Total Supply minus balances in the following contracts:
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
 | 29.04.2020 | 25%  | 1 time | 492,738 |
-| 27.05.2020 13:02:59 UTC | 10% | 1 time | 197,095 |
+| 27.05.2020 ~ 13:02:59 UTC | 10% | 1 time | 197,095 |
 | 28.05.2020 - 06.01.2021 | 65%  | Daily | 5,719.2 \(per day\) |
 
 ### Foundation & Advisors
 
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
-| 22.07.2020 | 20% | 1 time | 270,009 |
+| 22.07.2020 ~ 13:02:59 UTC | 20% | 1 time | 270,009 |
 | 23.07.2020 - 31.03.2021 | 80% | Daily | 4,286 \(per day\) |
 
 ### Ecosystem
 
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
-| 31.03.2021 | 20% | 1 time | 800,000 |
+| 31.03.2021 ~ 13:02:59 UTC | 20% | 1 time | 800,000 |
 | 01.04.2021 - 02.03.2022 | 80% | Daily | 9,523 \(per day\) |
 
 ### Minting
