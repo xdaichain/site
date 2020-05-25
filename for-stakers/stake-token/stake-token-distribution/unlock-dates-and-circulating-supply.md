@@ -24,7 +24,7 @@ Circulating Supply = Total Supply minus balances in the following contracts:
 | Date | Percentage | Type | Rounded Amount |
 | :--- | :--- | :--- | :--- |
 | 29.04.2020 | 25%  | 1 time | 492,738 |
-| 27.05.2020 | 10% | 1 time | 197,095 |
+| 27.05.2020 13:02:59 UTC | 10% | 1 time | 197,095 |
 | 28.05.2020 - 06.01.2021 | 65%  | Daily | 5,719.2 \(per day\) |
 
 ### Foundation & Advisors
