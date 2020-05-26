@@ -43,21 +43,21 @@ b\)  Click the  **Custom Token** item and enter in the STAKE Token address. The 
 
 ![](../../../.gitbook/assets/mm2.png)
 
-8c\) Click **Add Tokens** to add to your wallet view. You will have 0 STAKE tokens to start. In the next steps, you will add STAKE to your wallet.
+c\) Click **Add Tokens** to add to your wallet view. You will have 0 STAKE tokens to start. In the next steps, you will add STAKE to your wallet.
 
 ![](../../../.gitbook/assets/mm3.png)
 
 ## Use the STAKE Token Withdrawal DApp to transfer STAKE to your wallet
 
-3\) Go to [http://stake-token-withdrawal.xdaichain.com/](http://stake-token-withdrawal.xdaichain.com/)
+4\) Go to [http://stake-token-withdrawal.xdaichain.com/](http://stake-token-withdrawal.xdaichain.com/)
 
-4\) Connect MetaMask.
+5\) Connect MetaMask.
 
 ![](../../../.gitbook/assets/connect-1.png)
 
 ![](../../../.gitbook/assets/connect-2%20%281%29.png)
 
-5\) Once connected you will see information related to your amount of STAKE. This includes:
+6\) Once connected you will see information related to your amount of STAKE. This includes:
 
 * `Stake` Your total token amount.
 * `Withdrawn` Amount of tokens you have already withdrawn.
@@ -72,38 +72,42 @@ b\)  Click the  **Custom Token** item and enter in the STAKE Token address. The 
 
 ![](../../../.gitbook/assets/withdraw-stake.png)
 
-6\) Press the **Withdraw** button to start the process. This will transfer the entire amount from **Available** to your **Wallet Address**. Confirm the transaction in the MetaMask popup.
+7\) Press the **Withdraw** button to start the process. This will transfer the entire amount from **Available** to your **Wallet Address**. Confirm the transaction in the MetaMask popup.
 
 ![](../../../.gitbook/assets/mm-confirm.png)
 
+The **Withdraw** button is locked when **Available** is zero. If you see **Unlock funds** button under the **Withdraw**, click it to create a transaction to unlock the next installment:
+
+![](../../../.gitbook/assets/image%20%285%29.png)
+
 {% hint style="success" %}
-Once the transaction is processed, you should see your STAKE token amount in MetaMask, and can transfer/send/exchange as you would any other ERC20 token.
+Once the withdrawal transaction is processed, you should see your STAKE token amount in MetaMask, and can transfer/send/exchange as you would any other ERC20 token.
 {% endhint %}
 
 \*\*\*\*
 
 ## Optional Manual Instructions: Use Etherscan to transfer STAKE to your wallet
 
-3\) Go to the following address on Etherscan.  
+4\) Go to the following address on Etherscan.  
 [https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA\#writeContract ](https://etherscan.io/address/0x3cFE51b61E25750ab1426b0072e5D0cc5C30aAfA#writeContract%20) 
 
-4\) Connect MetaMask. Click on **Connect to Web3** and click **Connect**  on the MetaMask popup. 
+5\) Connect MetaMask. Click on **Connect to Web3** and click **Connect** on the MetaMask popup. 
 
 ![](../../../.gitbook/assets/contract1%20%282%29.png)
 
 ![](../../../.gitbook/assets/connect-2.png)
 
-5\) In Etherscan, press the **Write** button next to the **withdraw** function.
+6\) In Etherscan, press the **Write** button next to the **withdraw** function.
 
 ![](../../../.gitbook/assets/connect-3.png)
 
-6\) Confirm the transaction details in MetaMask.
+7\) Confirm the transaction details in MetaMask.
 
 ![](../../../.gitbook/assets/mm-confirm.png)
 
  
 
-7\) Click **View your transaction** to see transaction details
+8\) Click **View your transaction** to see transaction details
 
 ![](../../../.gitbook/assets/connect-4.png)
 
@@ -111,7 +115,13 @@ Once the transaction is processed, you should see your STAKE token amount in Met
 Once the transaction is processed, you should see your STAKE token amount in MetaMask, and can transfer/send as you would any other ERC20 token.
 {% endhint %}
 
+If MetaMask shows that your withdrawal transaction fails, try to unlock funds first following the instruction:
 
+* Go to the following address on Etherscan: [https://etherscan.io/address/0x9BC4a93883C522D3C79c81c2999Aab52E2268d03\#writeContract](https://etherscan.io/address/0x9BC4a93883C522D3C79c81c2999Aab52E2268d03#writeContract)
+* Connect MetaMask. Click on **Connect to Web3** and click **Connect** on the MetaMask popup.
+* In Etherscan, find **makeInstallment** point, enter in **3** in **\_pool** text box, and then press the **Write** button:
 
+![](../../../.gitbook/assets/image%20%283%29.png)
 
+* After your **makeInstallment** transaction is processed, you can repeat [the steps above](https://www.xdaichain.com/for-stakers/stake-token/get-stake/claim-stake-pi#optional-manual-instructions-use-etherscan-to-transfer-stake-to-your-wallet) to call **withdraw** function.
 
