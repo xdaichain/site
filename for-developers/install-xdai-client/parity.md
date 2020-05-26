@@ -1,46 +1,51 @@
 ---
-description: xDai with POSDAO runs on the Parity 2.7.2 stable version
+description: xDai with POSDAO runs on OpenEthereum v3.0.0
 ---
 
 # OpenEthereum \(formerly Parity\)
 
-{% hint style="info" %}
-While Parity is now OpenEthereum, there are still overlaps in documentation and download resources that link to Parity docs. When OpenEthereum v3 stable is released many of these redundancies should be accounted for.
-{% endhint %}
+## Install OpenEthereum
 
-### Ubuntu/Debian & MacOS with Homebrew: one-line Binary Installation
+You can  build from source or download a binary release, see the official [3.0 Releases Page](https://github.com/openethereum/openethereum/releases) for download information for Linux, Mac & Windows.
 
-This method is for Ubuntu/Debian based OS and MacOS machines with Homebrew installed. Faster than building from source, but no cutting edge features or latest version. If you would like to build from [source](https://github.com/paritytech/parity) or download binary release, see the official [2.7.2 Release Page.](https://github.com/openethereum/openethereum/releases/tag/v2.7.2) The xDai network is supported by  `Parity` stable version 2.7.2.
-
-Open a bash Terminal and enter the command below, if the client needs an update just simply run the command a second time.  
-
-```bash
-bash <(curl https://get.parity.io -kL)
-```
-
-This will install and configure the Parity client for you. On Ubuntu, this script will also offer to install the Netstats client and connect it to ethstats.net. If you plan on using `Parity` for xDai only, there is no need to install the extra software. 
-
-### **Install using Linux distro Snap Service**
-
-```text
-sudo snap install parity --edge
-```
-
-### Install Parity on Windows
-
-Parity on Windows can either be installed as a System Service or executed from a folder. The executable file is available on  [OpenEtherum Parity 2.7.2 release page](https://github.com/openethereum/openethereum/releases/tag/v2.7.2).
+### Binary Instructions
 
 {% hint style="info" %}
-More information related to Parity setup and configuration is available on the Parity wiki. [https://wiki.parity.io/Setup](https://wiki.parity.io/Setup)
+These instructions are copied from the OpenEthereum wiki at [https://openethereum.github.io/wiki/Setup](https://openethereum.github.io/wiki/Setup)
 {% endhint %}
 
-### Once Parity is Installed,  Connect and Sync with xDai
+* **Linux**
+  * Download the latest release from the link above
+  * Make the `parity` file executable by running `chmod u+x parity`
+  * Launch Parity Ethereum: `./parity --chain xdai --no-warp`
+* Mac
+  * Download the mac binary.
+  * Open a terminal and navigate to the directory using `cd /path/to/binary/folder/`.
+  * Make the binary executable by running `chmod +x parity`.
+  * You can now double click on the binary. 
+* Windows Download the binary and double click on it.
 
-1. Download the latest spec.json file from [https://raw.githubusercontent.com/poanetwork/poa-chain-spec/dai/spec.json](https://raw.githubusercontent.com/poanetwork/poa-chain-spec/dai/spec.json)
-2. Run the following command specifying the correct path to the spec.json file downloaded in step 1.
+### Dependencies <a id="dependencies"></a>
+
+For Linux systems:
+
+* Ubuntu, Debian
+
+  ```text
+    $ apt-get install build-essential cmake libudev-dev
+  ```
+
+* CentOS
+
+  ```text
+    $ yum install libudev-devel
+    $ yum group install "Development Tools"
+  ```
+
+## Once Parity is Installed,  Connect and Sync with xDai
 
 ```text
-parity --chain ./path-to-spec.json --no-warp
+parity --chain xdai --no-warp
 ```
 
 #### Optional
@@ -59,7 +64,10 @@ parity --chain xdai --bootnodes enode://ENODE@IP:PORT,enode://ENODE@IP:PORT
 
 ### Connect to your Node
 
-You can use Ethereum's JSON-RPC or a JavaScript console: [https://wiki.parity.io/Basic-Usage](https://wiki.parity.io/Basic-Usage)
+You can use Ethereum's JSON-RPC or a JavaScript console:  
+[https://openethereum.github.io/wiki/Basic-Usage](https://openethereum.github.io/wiki/Basic-Usage)
 
-Parity's UI is deprecated, but information on the site provides alternatives to a local Parity Ethereum node: [https://wiki.parity.io/Parity-Wallet](https://wiki.parity.io/Parity-Wallet)
+### Smart contract development
+
+You can use [Remix](https://remix.ethereum.org/) connected to a local Parity Ethereum full node as an alternative to Parity UI for smart contracts development and deployment. Make sure that Remix is allowed to connect to your node by setting up the right [JSON-RPC cors policy](https://ethereum.stackexchange.com/questions/54639/is-it-possible-to-connect-remix-and-parity?rq=1).
 
