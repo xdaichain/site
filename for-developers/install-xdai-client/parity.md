@@ -69,5 +69,5 @@ You can use Ethereum's JSON-RPC or a JavaScript console:
 
 ### Smart contract development
 
-You can use [Remix](https://remix.ethereum.org/) connected to a local Parity Ethereum full node as an alternative to Parity UI for smart contracts development and deployment. Make sure that Remix is allowed to connect to your node by setting up the right [JSON-RPC cors policy](https://ethereum.stackexchange.com/questions/54639/is-it-possible-to-connect-remix-and-parity?rq=1).
+You can use [Remix](https://remix.ethereum.org/) connected to a local OpenEthereum full node for smart contracts development and deployment. Make sure that Remix is allowed to connect to your node by setting up the right [JSON-RPC cors policy](https://ethereum.stackexchange.com/questions/54639/is-it-possible-to-connect-remix-and-parity?rq=1).
 
