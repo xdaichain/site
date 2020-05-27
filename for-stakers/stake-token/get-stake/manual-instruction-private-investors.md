@@ -11,7 +11,11 @@ Private investor token contract
 
 **Funds are available now for withdrawal \(25% released\)**
 
-* **Private Investors**: 25% released at initialization, 10% at day 28, remaining 65% distributed during the next 224 days.
+**New funds available 27.05.2020 \(10%\) and each day following for the next 224 days.** 
+
+{% hint style="warning" %}
+If you have already setup MetaMask, skip to the [Manual Instructions](manual-instruction-private-investors.md)
+{% endhint %}
 
 ## MetaMask
 
@@ -60,7 +64,9 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 STAKE token
 
 ![](../../../.gitbook/assets/mm-confirm.png)
 
- 
+{% hint style="warning" %}
+Note: If transaction fails, see the [unlock instructions](manual-instruction-private-investors.md#unlock-instructions) below
+{% endhint %}
 
 8\) Click **View your transaction** to see transaction details
 
@@ -70,7 +76,9 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 STAKE token
 Once the transaction is processed, you should see your STAKE token amount in MetaMask, and can transfer/send as you would any other ERC20 token
 {% endhint %}
 
-If MetaMask shows that your withdrawal transaction fails, try to unlock funds first following the instruction:
+**If MetaMask shows that your withdrawal transaction fails, try to unlock funds first:**
+
+### **Unlock Instructions**
 
 * Go to the following address on Etherscan: [https://etherscan.io/address/0x9BC4a93883C522D3C79c81c2999Aab52E2268d03\#writeContract](https://etherscan.io/address/0x9BC4a93883C522D3C79c81c2999Aab52E2268d03#writeContract)
 * Connect MetaMask. Click on **Connect to Web3** and click **Connect** on the MetaMask popup.
@@ -78,5 +86,5 @@ If MetaMask shows that your withdrawal transaction fails, try to unlock funds fi
 
 ![](../../../.gitbook/assets/image%20%283%29.png)
 
-* After your **makeInstallment** transaction is processed, you can repeat the steps above \(starting from the step 4\) to call **withdraw** function.
+* After your **makeInstallment** transaction is processed, repeat the steps above \(starting from the step 4\) to call the **withdraw** function.
 
