@@ -17,3 +17,11 @@ description: >-
 
 ![radwallet.io - xP+ tokens not pictured](../../../.gitbook/assets/radwallet.io.png)
 
+{% embed url="https://twitter.com/EtherealSummit/status/1126196213437562880" %}
+
+{% embed url="https://twitter.com/ChrisCCrowley/status/1127180917997539329" %}
+
+{% embed url="https://twitter.com/rmgarciap/status/1126941967991152640" %}
+
+
+
