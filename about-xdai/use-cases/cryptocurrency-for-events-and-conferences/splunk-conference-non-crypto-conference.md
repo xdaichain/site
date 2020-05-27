@@ -30,13 +30,11 @@ description: >-
 
 ## Conference Tweets
 
-![2000x Cost Savings](../../../.gitbook/assets/splunk1.png)
+{% embed url="https://twitter.com/DataPhysicist/status/1187487988256772096" %}
 
-![xDai Pinball Anyone?](../../../.gitbook/assets/splunk2.png)
+{% embed url="https://twitter.com/DataPhysicist/status/1187448795417595904" %}
 
-![This is what adoption looks like!!!](../../../.gitbook/assets/splunk3.png)
-
-
+{% embed url="https://twitter.com/DataPhysicist/status/1187458987785998336" %}
 
 
 
