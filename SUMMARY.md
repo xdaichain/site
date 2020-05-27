@@ -13,7 +13,7 @@
   * [DAO Governance](about-xdai/use-cases/dao-governance.md)
   * [Cryptocurrency for Events & Conferences](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/README.md)
     * [Splunk Conference \(Non-Crypto Conference\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/splunk-conference-non-crypto-conference.md)
-    * [RSAConference 2020](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/rsaconference-2020.md)
+    * [RSAConference 2020 Cybersecurity Conference](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/rsaconference-2020.md)
     * [Devcon V](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/devcon-5.md)
     * [Ethereal Summit NYC](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethereal-summit-nyc.md)
     * [EthDenver 2019](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethdenver.md)
