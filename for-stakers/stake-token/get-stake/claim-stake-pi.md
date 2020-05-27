@@ -63,7 +63,7 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 STAKE token
 * `Stake` Your total token amount.
 * `Withdrawn` Amount of tokens you have already withdrawn.
 * `Locked` Amount of tokens locked for future withdrawal.
-* `Available` Amount of tokens available now. You will receive this amount when you process a withdrawal. 
+* `Available` Amount of tokens available now. You will receive this amount when you process a withdrawal. If 0, you may need to unlock funds prior to withdrawal. 
 * `Total number of installments`: Total installments \(224\).
 * `Number of remaining installments`: How many daily installments are left.
 * `Next installment`: Installments are released according to the following schedule:
@@ -76,7 +76,7 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 STAKE token
 7\) Press the **Withdraw\*** button to start the process. This will transfer the entire amount from **Available** to your **Wallet Address**. Confirm the transaction in the MetaMask popup.
 
 {% hint style="warning" %}
-\*Note - The **Withdraw** button is locked when **Available** is zero. If you see **Unlock funds** button under the **Withdraw**, click the Unlock Funds button to create a transaction to unlock the next installment. Confirming this transaction unlocks the installment for all addresses.
+\*Note - The **Withdraw** button is locked when **Available** is zero. If you see **Unlock funds** button under the **Withdraw**, click the Unlock Funds button to create a transaction to unlock the next installment. Confirming this transaction unlocks the installment for all addresses. The amount available will shift from 0 to your amount available for withdrawal.
 {% endhint %}
 
 ![MetaMask Confirmation](../../../.gitbook/assets/mm-confirm.png)

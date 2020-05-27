@@ -64,7 +64,7 @@ c\) Click **Add Tokens** to add to your wallet view. You will have 0 STAKE token
 ![](../../../.gitbook/assets/mm-confirm.png)
 
 {% hint style="warning" %}
-Note: If transaction fails, see the [unlock instructions](manual-instruction-private-investors.md#unlock-instructions) below
+**Note**: If transaction fails, see the [unlock instructions](manual-instruction-private-investors.md#unlock-instructions) below
 {% endhint %}
 
 8\) Click **View your transaction** to see transaction details
