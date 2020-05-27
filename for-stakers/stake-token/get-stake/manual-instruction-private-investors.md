@@ -9,9 +9,8 @@ Private investor token contract
 
 ## Release Schedule
 
-**Funds are available now for withdrawal \(25% released\)**
-
-**New funds available 27.05.2020 \(10%\) and each day following for the next 224 days.** 
+* Initial funds available 29.04.2020 for withdrawal \(25% released\)
+* New funds available 27.05.2020 \(10%\) and each day following for the next 224 days. To transfer any available funds, you must follow the withdrawal process \(pull strategy\).
 
 {% hint style="warning" %}
 If you have already setup MetaMask, skip to the [Manual Instructions](manual-instruction-private-investors.md)
