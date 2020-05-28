@@ -10,7 +10,7 @@ In this article we present an overall energy usage overview \(provided by [Lab10
 
 ## Energy Usage Overview
 
-Energy usage equivalents \(number of average US households consume the same amount of energy\)
+Energy usage equivalents \(number of average US households consume the same amount of energy as the following chains/Visa\)
 
 | Chain / System | \# of US Households |
 | :--- | :--- |
@@ -37,7 +37,7 @@ Large centralized companies like VISA can process many transactions per second a
 
 The energy consumption required for ARTIS is equivalent to 0.8 US households annually. For xDai it is 2.1 households.  ARTIS is ~ 600x more efficient than Visa, and **xDai 300x+ more efficient than VISA**.
 
-Visa does have a much higher TPS \(7896 max vs 119 max for xDai\) at them moment. If required however, xDai can scale to offer more TPS through bridging \(horizontal scalability\) or node improvements \(vertical scalability\). These solutions would slightly increase energy requirements, but these increases would be minor relative to VISA or POW blockchains. In addition, HoneyBadger BFT consensus will improve the TPS to 476 without vastly increasing the energy consumption per TX.
+Visa does have a much higher TPS \(7896 max vs 119 max for xDai\) at them moment. If required however, xDai can scale to offer more TPS through bridging \(horizontal scalability\) or node improvements \(vertical scalability\). These solutions would slightly increase energy requirements, but these increases would be minor relative to VISA or POW blockchains. In addition, [HoneyBadger BFT](../../for-validators/consensus/honeybadger-bft-consensus/) consensus will improve the TPS to 476 without vastly increasing the energy consumption per TX.
 
 xDai is extremely efficient, and further decentralization with public POSDAO will improve security and usefulness for the chain.   
 
