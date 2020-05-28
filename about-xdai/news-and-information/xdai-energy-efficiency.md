@@ -6,13 +6,15 @@ description: >-
 
 # xDai Energy Efficiency
 
-## TLDR;
+In this article we present an overall energy usage overview \(provided by [Lab10Collective](https://lab10.coop/)\) of different blockchains as well as VISA. The data shows that the xDai chain is extremely efficient while providing fast block times and a scaleable infrastructure. 
 
-Equivalent energy usage in number of US households \(The same number of households in the US consume the same amount of energy\)
+## Energy Usage Overview
+
+Energy usage equivalents \(number of average US households consume the same amount of energy\)
 
 | Chain / System | \# of US Households |
 | :--- | :--- |
-| Bitcoin | **5,250,408** 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘  |
+| Bitcoin | **5,250,408** 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 .......... |
 | Ethereum 1.0 | **728,854** 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏡 🏡 🏡 🏡  |
 | Visa | **42,702** 🏘 🏘 🏘 🏡 🏡  |
 | Ethereum 2.0 _\*speculated_ | **2,704** 🏡  |
@@ -31,9 +33,9 @@ Large centralized companies like VISA can process many transactions per second a
 
 ## xDai Chain Efficiency
 
-[Lab10Collective](https://lab10.coop/%20), a project dedicated to a sustainable energy economy and also an xDai validator, recently ran comparison data for their [Artis Chain](https://artis.eco/) and the xDai chain relative to other transaction processing chains/systems. They found that ARTIS and xDai are extremely efficient, consuming far less power than other chains as well as payment processing giant VISA. 
+[lab10Collective](https://lab10.coop/%20), a project dedicated to a sustainable energy economy and also an xDai validator, recently ran comparison data for their [Artis Chain](https://artis.eco/) and the xDai chain relative to other transaction processing chains/systems. They found that ARTIS and xDai are extremely efficient, consuming far less power than other chains as well as payment processing giant VISA. 
 
-The energy consumption required for ARTIS is equivalent to 0.8 US households annually. For xDai it is 2.1 households. This means ARTIS is ~ 600x more efficient than Visa, and **xDai 300x+ more efficient than VISA**.
+The energy consumption required for ARTIS is equivalent to 0.8 US households annually. For xDai it is 2.1 households.  ARTIS is ~ 600x more efficient than Visa, and **xDai 300x+ more efficient than VISA**.
 
 Visa does have a much higher TPS \(7896 max vs 119 max for xDai\) at them moment. If required however, xDai can scale to offer more TPS through bridging \(horizontal scalability\) or node improvements \(vertical scalability\). These solutions would slightly increase energy requirements, but these increases would be minor relative to VISA or POW blockchains. In addition, HoneyBadger BFT consensus will improve the TPS to 476 without vastly increasing the energy consumption per TX.
 
