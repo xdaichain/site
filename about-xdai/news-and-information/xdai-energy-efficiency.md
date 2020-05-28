@@ -1,7 +1,7 @@
 ---
 description: >-
-  Lab10Collective & Artis recently compiled stats for Visa as well as several
-  blockchains.
+  lab10Collective recently compiled energy usage stats for several blockchains
+  as well as Visa.
 ---
 
 # xDai Energy Efficiency
