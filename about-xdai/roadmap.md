@@ -96,7 +96,7 @@ Easy Staking serves to reduce the overall amount of STAKE in active circulation 
 
 UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
 
-xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets. We currently have a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. sUSD example.
+xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets. We currently have a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. [sUSD example](https://docs.tokenbridge.net/eth-xdai-amb-bridge/susd-bridge-extension/transfer-susd-through-the-bridge-extension).
 
 ## L2 scalability for token transfers on xDai
 
