@@ -4,10 +4,16 @@ description: Current & Future Directions for the xDai Stable Chain
 
 # Roadmap
 
+{% hint style="warning" %}
+The xDai roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
+{% endhint %}
+
+_Last update: 28.05.2020_
+
 ## Fiat to xDai Onramp
 
 \*\*\*\*🎯 **Target:** Q4 2019  
- ✅ **Status:** Carbon implementation complete, additional implementations ongoing.
+ ☑ **Status:** In process. Carbon implementation complete, additional implementations ongoing.
 
 {% hint style="success" %}
 The [Carbon on-ramp](../for-users/buying-xdai-with-carbon/) for xDai is in development \(functionality is dependent on geo-location\).
@@ -56,11 +62,10 @@ For more information on this transition, see the [staking roadmap](../for-staker
 
 ## Consensus POSDAO Upgrade: Phase **2**
 
-🎯 **Target Date:** Q3 2020
+🎯 **Target Date:** Q3 2020  
+☑ **Status:** In process. UI development ongoing, see the [staking roadmap](../for-stakers/stake-and-staking/) for more information.
 
 To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
-
-For more information on this transition to public staking, see the [staking roadmap](../for-stakers/stake-and-staking/).
 
 ## **Privacy Preserving Transactions**
 
@@ -68,27 +73,69 @@ For more information on this transition to public staking, see the [staking road
 
 Implementation of additional zero-knowledge protocols and private transactions into xDai.
 
-Since xDai is a stable token, the primary use of the chain is peer-to-peer payments. Just as with cash, privacy should be an option when exchanging money or paying vendors for services. It doesn’t matter if you are sending money to a relative or your local butcher. You should have the freedom to choose that any transaction remain anonymous.
+Since xDai is a stable token, the primary use of the chain is peer-to-peer payments. Just as with cash, privacy and anonymity should be an option when exchanging money or paying vendors for services. 
+
+Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure Dai anonymity. Dai can be used with tornado.cash before and after bridging to xDai to ensure transaction anonymity.
+
+We also plan to implement privacy preserving transactions on xDai directly. Additionally, we plan to enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum.
 
 We have invested in several [different approaches ](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)to implement different ZK protocols into xDai based applications and wallets.
 
+## EasyStaking STAKE on Ethereum
+
+🎯 **Target Date**: Q3 2020
+
+Easy Staking provides an alternative interest-earning application for [STAKE ](../for-stakers/stake-token/)token holders. Users can deposit  STAKE tokens deployed on the Ethereum mainnet and earn a pre-determined interest rate without bridging to xDai and with no minimum STAKE amount requirements.
+
+Easy Staking serves to reduce the overall amount of STAKE in active circulation and acts as a mechanism to limit available liquidity and supply. Limited supply in the open market increases security for POSDAO chains such as the xDai stable chain.
+
 ## Synthetic Assets on xDai based on UMA protocol
 
-🎯 **Target Date**: Q2 2020
+🎯 **Target Date**: Q2 2020  
+☑ **Status:** In process. 50% implementation
 
-> UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
+UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
 
-xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets.
+xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets. We currently have a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. sUSD example.
 
 ## L2 scalability for token transfers on xDai
 
-🎯 **Target Date**: Q3 2020
+🎯 **Target Date**: Q1 2021
 
-A scalability solution based on zero-knowledge protocol \(Rollup\) will be deployed on xDai. This will enable scaling of transfers \(up to 1000x\) for native token and synthetic tokens on top of xDai.
+We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers \(up to 1000x\) for native tokens and synthetic tokens on top of xDai. 
 
-## xDai NG \(New Generation\) POS Chain
+## POSDAO Phase 3
 
-🎯 **Target Date**: Q3 2020
+🎯 **Target Date**: Q2 2021
 
-A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up to use [STAKE ](../for-stakers/stake-token/)tokens and HBBFT consensus.
+A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../for-stakers/stake-token/)tokens and HBBFT consensus.
 
+## Change Log
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Update</th>
+      <th style="text-align:left">Items</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><em>28.05.2020</em>
+      </td>
+      <td style="text-align:left">
+        <p>&lt;em&gt;&lt;/em&gt;</p>
+        <ul>
+          <li>Added EasyStaking Q3</li>
+          <li>Updated Synthetic Assets to 50% complete</li>
+          <li>Adjusted target date for L2 scalability to Q1 2021</li>
+          <li>Renamed NG to POSDAO Phase 3, adjusted target date to Q2 2021</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>

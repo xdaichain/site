@@ -19,7 +19,11 @@ description: The Burner Wallet made a giant leap forward in 2020!
 
 **Read more:** 
 
-We are still compiling recaps from the event! We'll add more here as projects share their EthDenver experiences in upcoming posts.
+{% embed url="https://sludgefeed.com/ethdenver-2020-to-provide-gamified-web3-experience" %}
 
-* ETHDenver 2020 to Provide a Unique Gamified Web 3 Experience: [https://sludgefeed.com/ethdenver-2020-to-provide-gamified-web3-experience](https://sludgefeed.com/ethdenver-2020-to-provide-gamified-web3-experience/)
+{% embed url="https://whiteblock.io/whiteblock-x-splunk-at-ethdenver/" %}
+
+{% embed url="https://medium.com/@dmihal/burner-wallets-buffidaos-ethdenver-2020-recap-c1b69f5c9e3e" %}
+
+
 
