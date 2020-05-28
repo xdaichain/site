@@ -10,12 +10,12 @@ In this article we present an overall energy usage overview \(provided by [Lab10
 
 ## Energy Usage Overview
 
-Energy usage equivalents \(number of average US households consume the same amount of energy as the following chains/Visa\)
+Energy usage equivalents \(number of average US households consume the same amount of energy as the following chains/Visa\). 
 
 | Chain / System | \# of US Households |
 | :--- | :--- |
 | Bitcoin | **5,250,408** 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 .......... |
-| Ethereum 1.0 | **728,854** 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏡 🏡 🏡 🏡  |
+| Ethereum 1.0 | **721,223** 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏘 🏡 🏡 🏡 🏡  |
 | Visa | **42,702** 🏘 🏘 🏘 🏡 🏡  |
 | Ethereum 2.0 _\*speculated_ | **2,704** 🏡  |
 | xDai Chain | **2.1** 👯♂  |
@@ -27,7 +27,7 @@ A frequently mentioned concern about blockchain technology is energy consumption
 
 ![Graphic and information from https://digiconomist.net/bitcoin-energy-consumption](../../.gitbook/assets/carbon-footprint.png)
 
-Ethereum currently consumes much less energy, but it is still equivalent to the energy needed to power 728,854 US homes. [https://digiconomist.net/ethereum-energy-consumption](https://digiconomist.net/ethereum-energy-consumption). This will change with Ethereum 2.0\*
+Ethereum currently consumes much less energy, but it is still equivalent to the energy needed to power 721,223 US homes. [https://digiconomist.net/ethereum-energy-consumption](https://digiconomist.net/ethereum-energy-consumption). This will change with Ethereum 2.0\*
 
 Large centralized companies like VISA can process many transactions per second and require less energy: 42,702 US households. Keep in mind, however, this is just for transaction processing, not all of the power that VISA uses for things like offices, travel, banking infrastructure etc. Not to mention they are a giant centralized corporation that charges high transaction fees.
 
@@ -35,7 +35,9 @@ Large centralized companies like VISA can process many transactions per second a
 
 [lab10Collective](https://lab10.coop/%20), a project dedicated to a sustainable energy economy and also an xDai validator, recently ran comparison data for their [Artis Chain](https://artis.eco/) and the xDai chain relative to other transaction processing chains/systems. They found that ARTIS and xDai are extremely efficient, consuming far less power than other chains as well as payment processing giant VISA. 
 
-The energy consumption required for ARTIS is equivalent to 0.8 US households annually. For xDai it is 2.1 households.  ARTIS is ~ 600x more efficient than Visa, and **xDai 300x+ more efficient than VISA**.
+Efficiency is based on the number of operating nodes, hardware requirements, and TPS \(Transactions per second\) capacity.
+
+The energy consumption required to run the ARTIS is equivalent to 0.8 US households annually. For xDai it is 2.1 households.  ARTIS is ~ 600x more efficient than Visa, and **xDai 300x+ more efficient than VISA**.
 
 Visa does have a much higher TPS \(7896 max vs 119 max for xDai\) at them moment. If required however, xDai can scale to offer more TPS through bridging \(horizontal scalability\) or node improvements \(vertical scalability\). These solutions would slightly increase energy requirements, but these increases would be minor relative to VISA or POW blockchains. In addition, [HoneyBadger BFT](../../for-validators/consensus/honeybadger-bft-consensus/) consensus will improve the TPS to 476 without vastly increasing the energy consumption per TX.
 
