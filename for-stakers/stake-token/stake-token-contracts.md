@@ -46,7 +46,9 @@ The Distribution Contract is called with the corresponding number value below \(
       </td>
     </tr>
   </tbody>
-</table>### Funds / Public Contracts 
+</table>
+
+### Funds / Public Contracts 
 
 <table>
   <thead>
@@ -94,3 +96,4 @@ The Distribution Contract is called with the corresponding number value below \(
     </tr>
   </tbody>
 </table>
+

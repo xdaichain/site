@@ -133,7 +133,9 @@ _Stats provided by Artis. Note that TPS capacity is the absolute max capacity wi
       <td style="text-align:left">5.1</td>
     </tr>
   </tbody>
-</table>{% hint style="info" %}
+</table>
+
+{% hint style="info" %}
 \*Ethereum 2.0 will greatly reduce the Ethereum environmental footprint, although not enough is yet known to determine the total efficiency of the network. Numbers provided here are purely speculative. Lab10 estimates Eth2 will be similar to VISA in regards to energy consumption for transactions, but much more open and decentralized.  Also, VISA uses much more energy to fund their corporate enterprise vs minimal energy for a decentralized blockchain.
 {% endhint %}
 

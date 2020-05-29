@@ -65,7 +65,9 @@ Nifty Wallet and MetaMask do not function properly when both are activated at th
       </td>
     </tr>
   </tbody>
-</table>  
+</table>
+
+  
 **Open Source Code:** [https://github.com/poanetwork/nifty-wallet](https://github.com/poanetwork/nifty-wallet)
 
 

@@ -10,6 +10,10 @@ CICs support and empower communities to create jobs, develop social programs, an
 
 Blockchain technology supports CICs by providing a transparent web-based platform for local currency exchange. [**Grassroots Economics**](https://www.grassrootseconomics.org/) **is leveraging the xDai chain to manage currency trading within and among communities in Kenya.** Local currencies can be traded with one another based on bonding curves - all users need is a mobile phone and a custom wallet application. The speed, stability \(known, low transaction fees can be subsidized\), and reliability of the xDai Chain provide the infrastructure needed for local digital currencies to thrive.
 
+Up to date statistics on traders, trading, and types of trades are available through the Sarafu Dashboard at [https://dashboard.sarafu.network/](https://dashboard.sarafu.network/)
+
+![](../../.gitbook/assets/cic.png)
+
 This project infrastructure, developed by [**Sempo**](https://withsempo.com/), is open source and available here: [https://github.com/teamsempo/SempoBlockchain](https://github.com/teamsempo/SempoBlockchain)
 
 ### Cash distribution in times of crisis
@@ -36,6 +40,7 @@ This short documentary features Will Ruddick, founder of Grassroots Economics. I
 * Example week \(January 25 - 31, 2020\) transaction counts:
   * 611,338 Kenyan shillings \(~6k usd\) in transaction volume
   * 2,316 standard transactions among 1,771 unique trading pairs
+  * See [https://dashboard.sarafu.network/](https://dashboard.sarafu.network/) for additional details.
 
 ## 📑 Additional Info & Resources
 

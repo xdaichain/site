@@ -139,3 +139,4 @@ A chain created specifically to leverage [POSDAO](../for-validators/posdao-white
     </tr>
   </tbody>
 </table>
+

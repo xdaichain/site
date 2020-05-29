@@ -52,7 +52,9 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
       <td style="text-align:left">TBD</td>
     </tr>
   </tbody>
-</table>## ✅ Phase 1: Preparation and Permissioned POSDAO
+</table>
+
+## ✅ Phase 1: Preparation and Permissioned POSDAO
 
 Phase 1 was successfully activated April 1, 2020.
 
