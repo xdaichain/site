@@ -1,3 +1,7 @@
+---
+description: 23 May 2020 - 29 May 2020
+---
+
 # ⚔️ xDai Weekly Recap - 29/05/2020
 
 ## 🔓 Distributions
@@ -62,7 +66,7 @@ The YellowBlock team continues to support xDai and STAKE. This video provides a 
 
 ### ✅ xDai POSDAO on OpenEthereum
 
-As we move towards public POSDAO, xDai is already functioning in a PoS context written in Solidity.  [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts). Starting from v3.0.0, the OpenEthereum client supports all POSDAO features [https://github.com/openethereum/openethereum](https://github.com/openethereum/openethereum)
+As we move towards public POSDAO, xDai is already functioning in a PoS context written in Solidity.  [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts). Starting from v3.0.0, the OpenEthereum client supports all POSDAO features [https://github.com/openethereum/openethereum](https://github.com/openethereum/openethereum). 3.0.0 has been released for several weeks, and POSDAO is functioning as expected, including random number generation, malicious reporting, and transactional consensus with the current validator set. 
 
 
 
