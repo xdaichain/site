@@ -5,9 +5,11 @@ description: Participants can earn a 36.4% APR by participating in pre-staking d
 # Pre-Staking Program
 
 Stats from the  [BitMax Pre-staking program ](https://btmx.com/#/staking/details/STAKE-S)  
-_Last Update 27.05.2020_
+_Last Update 31.05.2020_
 
 ## Pre Staking STAKEtistics
+
+### May 2020
 
 | Date | Day | \# of Participants | STAKE amount pre-staked |
 | :--- | :--- | :--- | :--- |
@@ -34,8 +36,14 @@ _Last Update 27.05.2020_
 | 25.05.2020 | 21 | 580 | 495,384 |
 | 26.05.2020 | 22 | 588 | 510,859 |
 | 27.05.2020\* | 23 | 595 | 515,202 |
+| 28.05.2020 | 24 | 605 | 505,777 |
+| 29.05.2020 | 25 | 621 | 536,321 |
+| 30.05.2020 | 26 | 640 | 531,495 |
+| 31.05.2020 | 27 | 650 | 556,103 |
 
 Note\*: Additional token unlock for private investors. % of circulating supply reported from the [https://supply.xdaichain.com/](https://supply.xdaichain.com/) endpoint, will vary daily after 27.05.  [More on how the circulating supply is calculated](../../../for-stakers/stake-token/stake-token-distribution/unlock-dates-and-circulating-supply.md#circulating-supply). 
 
-![](../../../.gitbook/assets/chart-4-%20%281%29.png)
+![](../../../.gitbook/assets/may-chart.png)
+
+
 
