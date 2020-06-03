@@ -16,7 +16,7 @@ The EXIT token is a stable synthetic ****currency whose face value is equivalent
 
 To mint EXIT, the protocol is over-collateralized with a 2nd token pegged to ETH. This "soft ETH" value is rebalanced regularly to correspond to ETH value  \(1 soft ETH = 1 ETH\). Soft Eth is maintained in the contract at a 2:1 ratio to the face value of EXIT. It is programmatically rebalanced to maintain this 2:1 ratio relative to the amount of EXIT minted by the protocol. 
 
-The overcollateralization mechanism \(where there is always a 2:1 ratio of soft ETH to EXIT\) allows EXIT to be minted as a virtual stable token. In addition, the rebalancing can be called by any user at any time, decentralizing the process. All stable currencies currently available are highly centralized, with rules that can be changed without notice by the people in charge. EXIT is decentralized, the process is facilitated by smart contracts and individuals who wish to participate in the EXIT virtual economy.
+The overcollateralization mechanism \(where there is always a 2:1 ratio of soft ETH to EXIT\) allows EXIT to be minted as a virtual stable token. In addition, the rebalancing can be called by any user at any time, decentralizing the process. 
 
 As a stable token, EXIT has the equivalent virtual value to other USD stable coins. Users can trade and use EXIT as they would any other stable currency. 
 
@@ -28,7 +28,7 @@ In phase 2, EXIT issuance and management will be shifted to a Decentralized Auto
 
 ## **EXIT Usage**
 
-The initial use-case for EXIT will focus on rewards for Liquidity Providers on Uniswap. Users who commit both STAKE and EXIT tokens into a liquidity pool will receive additional STAKE rewards in exchange for providing liquidity. See the [Liquidity Provider Program](liquidity-provider-program.md) page for details.
+The initial use-case for EXIT will focus on Uniswap Liquidity Providers. Users who commit both STAKE and EXIT tokens into a liquidity pool will receive additional STAKE rewards in exchange for providing liquidity. See the [Liquidity Provider Program](liquidity-provider-program.md) page for details.
 
 ## **EXIT Stability**
 
