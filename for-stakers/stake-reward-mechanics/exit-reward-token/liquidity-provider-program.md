@@ -7,7 +7,7 @@ description: >-
 # Liquidity Provider Program
 
 {% hint style="info" %}
-Parameters are being tuned and mechanisms are not yet finalized.  
+This post describes a protocol-in-progress, parameters are being tuned and mechanisms are not yet finalized.  Expect changes to the final version.
 {% endhint %}
 
 ## Liquidity Pool Participants
