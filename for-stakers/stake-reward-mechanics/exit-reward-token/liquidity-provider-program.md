@@ -32,7 +32,7 @@ Easy Staking allows users to place STAKE into a contract and receive STAKE  emis
 | 85 - 336 days | 10% APR | 5% APR |
 | 337+ days | 14% APR | 1% APR |
 
-## How it Works
+## STAKE distribution
 
 Mary Staker has 10,000 STAKE she wants to place into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  she receives 10140 STAKE.  The remaining 10 STAKE earned as part of the 15% APR is sent to the LP distribution contract.
 
