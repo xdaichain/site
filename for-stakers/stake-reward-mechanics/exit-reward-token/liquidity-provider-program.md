@@ -6,7 +6,7 @@ description: >-
 
 # Liquidity Provider Program
 
-The following describes a decentralized protocol where tokens are distributed through contract methods and initiated by users rather than any centralized structure.
+The following describes a decentralized staking and incentives protocol where tokens are distributed through contract methods and initiated by users rather than any centralized structure.
 
 {% hint style="info" %}
 Parameters are being tuned and mechanisms are not yet finalized.  
