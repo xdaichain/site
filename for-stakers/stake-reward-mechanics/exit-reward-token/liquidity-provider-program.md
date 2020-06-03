@@ -6,8 +6,6 @@ description: >-
 
 # Liquidity Provider Program
 
-The following describes a decentralized staking and incentives protocol where tokens are distributed through contract methods and initiated by user actions rather than any centralized structure.
-
 {% hint style="info" %}
 Parameters are being tuned and mechanisms are not yet finalized.  
 {% endhint %}
@@ -19,13 +17,15 @@ Users who place EXIT into the EXIT/STAKE liquidity pool on Uniswap will be eligi
 1. Bob trades 70 Dai for 70 EXIT. This can be accomplished on [1inch.exchange](https://1inch.exchange/#/) or [curve.fi](https://www.curve.fi/) by exchanging Dai to EXIT.  The trade will be approximately 1:1, as EXIT and Dai are both stable tokens. 
 2. Bob acquires 50 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. 
 3. Bob now has STAKE and EXIT.  He heads over to Uniswap \(v2\) and adds both into the STAKE/EXIT liquidity pool. 
-4. After some time, Bob checks his address and sees that he has received an additional 6.97 STAKE directly to his wallet. He has received STAKE rewards for providing liquidity into the STAKE/EXIT pool, thanks to a Staker on the **Easy Staking** protocol!
+4. After some time, Bob checks his address and sees that he has received an additional 6.97 STAKE directly to his wallet. He has received STAKE rewards thanks to the **Easy Staking** protocol!
 
 ## Easy Staking
 
-Easy Staking allows users to place STAKE into a contract and receive STAKE  emissions on the Ethereum Mainnet. Emissions are minted at a 15% APR, but this amount is divided between Stakers and Liquidity Pool Participants. Each receives a portion based on how long STAKE remains in the Easy Staking contract. Longer commitment times benefit the Staker, and shorter commitments benefit EXIT/STAKE liquidity providers. 
+Easy Staking allows users to place STAKE into a contract and receive STAKE  emissions on the Ethereum Mainnet. It is an alternative to staking on the xDai chain - it does not protect the consensus process but it does provide incentives for users.
 
-| Time | Staker | Liquidity Providers |
+STAKE Emissions are minted at 15% APR, and the amount is divided between Stakers and Liquidity Pool Participants. Each receives a portion based on how long the staker decides to keep their STAKE in the application. Longer staking times benefit the Staker, and shorter staking periods benefit EXIT/STAKE liquidity providers. 
+
+| Staking Time | Staker | Liquidity Providers |
 | :--- | :--- | :--- |
 | 0 -7 days | 5% APR | 10% APR |
 | 8 - 84 days | 7% APR | 8% APR |
@@ -34,7 +34,7 @@ Easy Staking allows users to place STAKE into a contract and receive STAKE  emis
 
 ## STAKE distribution
 
-Mary Staker has 10,000 STAKE she wants to place into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  she receives 10140 STAKE \(Her initial amount + 14% APR\).  The remaining 10 STAKE \(1% APR\) earned as part of the total 15% APR is sent to the LP distribution contract.
+Mary has 10,000 STAKE she wants to place into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  Mary receives 10140 STAKE \(Her initial amount + 14% APR\).  The remaining 10 STAKE \(1% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
 
 At this point, the funds are not yet distributed. They remain and accumulate in this contract until a user \(Billy for example\) decides to press the `Distribute LP Funds` button and submit the transaction. Billy receives a small portion of the funds \(0.5% of the STAKE accumulated in the contract\) for initiating the distribution. When the button is pressed, LP funds are distributed to all EXIT/STAKE Liquidity Pool participants \(ie Bob above\). Bob receives a portion of the 10 Stake + any other STAKE in the fund based on how much EXIT he has in the Liquidity Pool when the `Distribute` button is pressed. 
 
