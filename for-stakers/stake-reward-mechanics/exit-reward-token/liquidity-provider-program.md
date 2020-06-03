@@ -23,7 +23,9 @@ Users who place EXIT into the EXIT/STAKE liquidity pool on Uniswap will be eligi
 
 Easy Staking allows users to place STAKE into a contract and receive STAKE  emissions on the Ethereum Mainnet. It is an alternative to staking on the xDai chain - it does not protect consensus but it does provide incentives for participants and limits the circulating STAKE supply.
 
-STAKE Emissions are minted at 15% APR, and the amount is divided between Stakers and Liquidity Pool Participants. Each receives a portion based on how long a Staker decides to keep STAKE in the application. Longer staking times benefit the Staker, and shorter staking periods benefit EXIT/STAKE Liquidity Providers. 
+STAKE Emissions are minted at 15% APR\*, and the amount is divided between Stakers and Liquidity Pool Participants. Each receives a portion based on how long a Staker decides to keep STAKE in the application. Longer staking times benefit the Staker, and shorter staking periods benefit EXIT/STAKE Liquidity Providers. 
+
+\*_Example APR. We are currently testing different emission models_
 
 | Staking Time | Staker | Liquidity Providers |
 | :--- | :--- | :--- |
