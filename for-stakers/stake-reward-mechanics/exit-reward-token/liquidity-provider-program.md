@@ -42,7 +42,7 @@ For simplicity, lets say Bob and Roger were the LPs, Bob had 7000 EXIT and Roger
 
 ## STAKE distribution to LP Participants
 
-Hooks are added to the EXIT token which provide information to the distribution contracts.This allows for an easy formulation and distribution method to EXIT/STAKE liquidity providers. STAKE is distributed based on the amount of EXIT in a liquidity pool on the block when the distribution call is made. More details will be provided when this mechanism is finalized.
+Hooks are added to the EXIT token which provide information the distribution contracts can pull from the blockchain.This allows for an easy formulation and distribution method to EXIT/STAKE liquidity providers. STAKE is distributed based on the amount of EXIT in a liquidity pool on the block when the distribution call is made. More details will be provided when this mechanism is finalized.
 
 ## How to Participate
 
