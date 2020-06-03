@@ -44,9 +44,9 @@ For simplicity, lets say Bob and Roger were the LPs, Bob had 70 EXIT and Roger h
 
 In this example, this reward APR% is much higher than Bob and Roger would have received for other staking methods, as they capture value from all STAKE placed in the Easy Staking contract. As the program evolves, distribution percentages will vary based on how much EXIT is placed in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
-## STAKE distribution to LP Participants
+## STAKE distribution to LP participants
 
-Hooks are added to the EXIT token which provide on-chain information to the distribution contract.This allows for an easy formulation and distribution method to EXIT/STAKE liquidity providers. STAKE is distributed based on the amount of EXIT in a liquidity pool on the block when the distribution call is made. More details will be provided as this mechanism is developed.
+Hooks are added to the EXIT token which provide on-chain information to the distribution contract.This allows for an easy formulation and distribution method to EXIT/STAKE liquidity providers. STAKE is distributed to LP participants based on the amount of EXIT a provider has in the liquidity pool on the block when the distribution call is made. More details will be provided as this mechanism is developed.
 
 ## How to Participate
 
