@@ -34,7 +34,7 @@ Easy Staking allows users to place STAKE into a contract and receive STAKE  emis
 
 ## STAKE distribution
 
-Mary Staker has 10,000 STAKE she wants to place into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  she receives 10140 STAKE.  The remaining 10 STAKE earned as part of the 15% APR is sent to the LP distribution contract.
+Mary Staker has 10,000 STAKE she wants to place into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  she receives 10140 STAKE \(Her initial amount + 14% APR\).  The remaining 10 STAKE \(1% APR\) earned as part of the total 15% APR is sent to the LP distribution contract.
 
 At this point, the funds are not yet distributed. They remain and accumulate in this contract until a user \(Billy for example\) decides to press the `Distribute LP Funds` button and submit the transaction. Billy receives a small portion of the funds \(0.5% of the STAKE accumulated in the contract\) for initiating the distribution. When the button is pressed, LP funds are distributed to all EXIT/STAKE Liquidity Pool participants \(ie Bob above\). Bob receives a portion of the 10 Stake + any other STAKE in the fund based on how much EXIT he has in the Liquidity Pool when the `Distribute` button is pressed. 
 
