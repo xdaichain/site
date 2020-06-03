@@ -14,16 +14,16 @@ Parameters are being tuned and mechanisms are not yet finalized.
 
 Users who place EXIT into the EXIT/STAKE liquidity pool on Uniswap will be eligible to receive additional STAKE rewards. Here's how it works for Bob:
 
-1. Bob trades 70 Dai for 70 EXIT. This can be accomplished on [1inch.exchange](https://1inch.exchange/#/) or [curve.fi](https://www.curve.fi/) by exchanging Dai to EXIT.  The trade will be approximately 1:1, as EXIT and Dai are both stable tokens. 
+1. Bob trades 70 Dai for 70 EXIT. This can be accomplished on [1inch.exchange](https://1inch.exchange/#/) or [curve.fi](https://www.curve.fi/) by exchanging Dai to EXIT.  The trade is approximately 1:1, as EXIT and Dai are both stable tokens. 
 2. Bob acquires 50 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. 
 3. Bob now has STAKE and EXIT.  He heads over to Uniswap \(v2\) and adds both into the STAKE/EXIT liquidity pool. 
-4. After some time, Bob checks his address and sees that he has received an additional 6.97 STAKE directly to his wallet. He has received STAKE rewards thanks to the **Easy Staking** protocol!
+4. After some time, Bob checks his address and sees that he has received an additional 6.97 STAKE directly to his wallet. He has received STAKE rewards \(at a very high %\) thanks to a second applications -  **Easy Staking**!
 
 ## Easy Staking
 
-Easy Staking allows users to place STAKE into a contract and receive STAKE  emissions on the Ethereum Mainnet. It is an alternative to staking on the xDai chain - it does not protect the consensus process but it does provide incentives for users.
+Easy Staking allows users to place STAKE into a contract and receive STAKE  emissions on the Ethereum Mainnet. It is an alternative to staking on the xDai chain - it does not protect consensus but it does provide incentives for participants and limits the circulating STAKE supply.
 
-STAKE Emissions are minted at 15% APR, and the amount is divided between Stakers and Liquidity Pool Participants. Each receives a portion based on how long the staker decides to keep their STAKE in the application. Longer staking times benefit the Staker, and shorter staking periods benefit EXIT/STAKE liquidity providers. 
+STAKE Emissions are minted at 15% APR, and the amount is divided between Stakers and Liquidity Pool Participants. Each receives a portion based on how long a Staker decides to keep STAKE in the application. Longer staking times benefit the Staker, and shorter staking periods benefit EXIT/STAKE Liquidity Providers. 
 
 | Staking Time | Staker | Liquidity Providers |
 | :--- | :--- | :--- |
@@ -34,13 +34,15 @@ STAKE Emissions are minted at 15% APR, and the amount is divided between Stakers
 
 ## STAKE distribution
 
-Mary has 10,000 STAKE she wants to place into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  Mary receives 10140 STAKE \(Her initial amount + 14% APR\).  The remaining 10 STAKE \(1% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
+Mary has 10,000 STAKE she wants to place into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  Mary receives 10140 STAKE \(Her initial amount + 14% APR\).  The remaining 10 STAKE \(1% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
 
-At this point, the funds are not yet distributed. They remain and accumulate in this contract until a user \(Billy for example\) decides to press the `Distribute LP Funds` button and submit the transaction. Billy receives a small portion of the funds \(0.5% of the STAKE accumulated in the contract\) for initiating the distribution. When the button is pressed, LP funds are distributed to all EXIT/STAKE Liquidity Pool participants \(ie Bob above\). Bob receives a portion of the 10 Stake + any other STAKE in the fund based on how much EXIT he has in the Liquidity Pool when the `Distribute` button is pressed. 
+At this point, the funds are not yet distributed. They remain and accumulate in this contract until a user \(Billy for example\) decides to press the `Distribute LP Funds` button and submit the transaction. Billy receives a small portion of the funds \(0.5% of the STAKE accumulated in the contract\) for initiating the distribution. 
 
-For simplicity, lets say Bob and Roger were the LPs, Bob had 70 EXIT and Roger had 30 EXIT in the pool when Billy presses the button. Bob receives 6.97 STAKE and Roger 2.98 STAKE based on the withdrawal scenario above \(Billy the Button Pusher receives .05!\). 
+When the button is pressed, LP funds are distributed to all EXIT/STAKE Liquidity Pool participants \(ie Bob above\). Bob receives a portion of the 10 STAKE + any other STAKE in the fund based on how much EXIT he has in the Liquidity Pool when the `Distribute` button is pressed. 
 
-In this example, this reward APR% is much higher than Bob and Rog would have received for other staking methods, as they capture value from all STAKE placed in the Easy Staking contract. As the program evolves, distribution percentages will vary based on how much EXIT is placed in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
+For simplicity, lets say Bob and Roger were the LPs, Bob had 70 EXIT and Roger had 30 EXIT in the pool when Billy presses the button. Bob receives 6.97 STAKE \(70% of the 10 STAKE in the distribution contract\) and Roger 2.98 STAKE \(30%\) based on the withdrawal scenario above \(Billy the Button Pusher receives .05!\). 
+
+In this example, this reward APR% is much higher than Bob and Roger would have received for other staking methods, as they capture value from all STAKE placed in the Easy Staking contract. As the program evolves, distribution percentages will vary based on how much EXIT is placed in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
 ## STAKE distribution to LP Participants
 
