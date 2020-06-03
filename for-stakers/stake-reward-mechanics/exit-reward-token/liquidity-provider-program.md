@@ -17,7 +17,7 @@ Users who place EXIT into the EXIT/STAKE liquidity pool on Uniswap will be eligi
 1. Bob trades 70 Dai for 70 EXIT. This can be accomplished on [1inch.exchange](https://1inch.exchange/#/) or [curve.fi](https://www.curve.fi/) by exchanging Dai to EXIT.  The trade is approximately 1:1, as EXIT and Dai are both stable tokens. 
 2. Bob acquires 50 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. 
 3. Bob now has STAKE and EXIT.  He heads over to Uniswap \(v2\) and adds both into the STAKE/EXIT liquidity pool. 
-4. After some time, Bob checks his address and sees that he has received an additional 6.97 STAKE directly to his wallet. He has received STAKE rewards \(at a very high %\) thanks to a second applications -  **Easy Staking**!
+4. After some time, Bob checks his address and sees that he has received an additional 6.97 STAKE directly to his wallet. He has received STAKE rewards \(at a very high %\) thanks to a second application -  **Easy Staking**!
 
 ## Easy Staking
 
