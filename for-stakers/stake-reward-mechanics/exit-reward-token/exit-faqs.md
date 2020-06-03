@@ -2,19 +2,19 @@
 
 ### How do I get EXIT
 
-EXIT will be available through a token swap process, accessible through 1inch.exchange. The initial swap pairs will likely be DAI/EXIT and STAKE/EXIT.
+EXIT will be available through a token swap process, accessible through [1inch.exchange](https://1inch.exchange/#/). The initial swap pairs will likely be DAI/EXIT and STAKE/EXIT.
 
 ### How much EXIT will be available?
 
-In phase 1, issuance will be determined based on liquidity needs and interest in the Liquidity Provider program. In phase 2, a DAO will determine the policies associated with issuance.
+In phase 1, issuance will be determined based on liquidity needs and interest in the [Liquidity Provider](liquidity-provider-program.md) program. In phase 2, a DAO will determine the policies associated with issuance.
 
 ### Will EXIT be offered for sale by any exchanges?
 
-Not through any centralized exchanges, but EXIT will be available to swap on decentralized exchanges \(DEXs\) as the market determines there is a value in this.
+Not through any centralized exchanges, but EXIT will be available to swap on decentralized exchanges \(DEXs\) as the market determines the.
 
 ### **How does EXIT remain pegged at 1:1 to the US Dollar?**
 
-The amount of soft ETH in the reward contract provides the backing to support a stable valuation. For every $1 USD of EXIT that is minted,  $2 USD worth of soft ETH is also added. The provides a large cushion to support fluctuating ETH prices.
+The amount of soft ETH in the reward contract provides the backing to support a stable valuation. For every $1 USD of EXIT that is minted, $2 USD worth of soft ETH is also added. The provides a large cushion to support fluctuating ETH prices.
 
 ### **Why is soft Ether needed?**
 

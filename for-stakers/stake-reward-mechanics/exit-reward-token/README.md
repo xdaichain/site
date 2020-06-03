@@ -22,13 +22,13 @@ As a stable token, EXIT has the equivalent virtual value to other USD stable coi
 
 ## EXIT Issuance 
 
-In phase 1 \(beta\), EXIT will be issued and managed by the POA team. Liquidity pools for USDT/EXIT, DAI/EXIT and STAKE/EXIT will be created to provide users with the ability to exchange their tokens for EXIT. 
+In phase 1 \(beta\), an amount of EXIT will be pre-mined and used to create liquidity pools for USDT/EXIT and DAI/EXIT trading pairs. Users will have the ability to exchange their stable tokens for EXIT on a 1:1 basis assuming adequate pool depth.
 
 In phase 2, EXIT issuance and management will be shifted to a Decentralized Autonomous Organization \(DAO\) which will determine monetary policy for the token.
 
 ## **EXIT Usage**
 
-The initial use-case for EXIT will focus on Uniswap Liquidity Providers. Users who commit both STAKE and EXIT tokens into a liquidity pool will receive additional STAKE rewards in exchange for providing liquidity. See the [Liquidity Provider Program](liquidity-provider-program.md) page for details.
+The initial use-case for EXIT will focus on STAKE-based incentives for Uniswap Liquidity Providers. Users who commit both STAKE and EXIT tokens into a liquidity pool will receive additional STAKE rewards in exchange for providing liquidity. See the [Liquidity Provider Program](liquidity-provider-program.md) page for details.
 
 ## **EXIT Stability**
 
