@@ -1,34 +1,34 @@
 ---
-description: Exploratory reward for future implementation
+description: Synthetic stable token
 ---
 
-# EXIT Reward Token
+# EXIT Token
 
-### **EXIT** Token
+## **EXIT** Token
 
 {% hint style="warning" %}
-EXIT is an exploratory stable currency offered as an additional reward to stakers of the protocol. It incorporates an experimental design and may be introduced into the protocol at the start or at a later date. While it's face value is 1:1 with the US Dollar, the purchasing value is determined by the marketplace.
-
-It is currently a highly experimental project and may or may not be launched or included as an additional incentive.
+EXIT is an exploratory stable token. It incorporates an experimental design and may be introduced into the protocol at a later date. While it's face value is 1:1 with the US Dollar, the purchasing value is determined by the marketplace.  
+  
+**Terms, usage, protocols etc described below are a work in progress and are subject to change.**
 {% endhint %}
 
-The EXIT token is a stable synthetic ****currency whose face value is equivalent to the US Dollar \(1 EXIT token = $1 US Dollar\). It is minted as an additional reward when STAKE is placed into the protocol. 
+The EXIT token is a stable synthetic ****currency whose face value is equivalent to the US Dollar \(1 EXIT token = $1 US Dollar\).
 
-In order to mint EXIT, the protocol is over-collateralized with a 2nd token pegged to ETH. This "soft ETH" value is rebalanced regularly to correspond to ETH value  \(1 soft ETH = 1 ETH\). Soft Eth is maintained in the contract at a 2:1 ratio to the face value of EXIT. It is programmatically rebalanced to maintain this 2:1 ratio relative to the amount of EXIT minted by the protocol. 
+To mint EXIT, the protocol is over-collateralized with a 2nd token pegged to ETH. This "soft ETH" value is rebalanced regularly to correspond to ETH value  \(1 soft ETH = 1 ETH\). Soft Eth is maintained in the contract at a 2:1 ratio to the face value of EXIT. It is programmatically rebalanced to maintain this 2:1 ratio relative to the amount of EXIT minted by the protocol. 
 
-The overcollateralization mechanism \(where there is always a 2:1 ratio of soft ETH to EXIT\) allows EXIT to be minted as a virtual stable token. In addition, the rebalancing can be called by anyone, decentralizing the process. All stable currencies currently available are highly centralized, with rules that can be changed at any time by the people in charge. EXIT is decentralized, the process is facilitated by smart contracts and individuals who wish to participate in the EXIT virtual economy.
+The overcollateralization mechanism \(where there is always a 2:1 ratio of soft ETH to EXIT\) allows EXIT to be minted as a virtual stable token. In addition, the rebalancing can be called by any user at any time, decentralizing the process. All stable currencies currently available are highly centralized, with rules that can be changed without notice by the people in charge. EXIT is decentralized, the process is facilitated by smart contracts and individuals who wish to participate in the EXIT virtual economy.
 
-As a stable token, EXIT has the equivalent virtual value to other USD stable coins. Users can trade and use EXIT on the xDai chain as they would any other stable currency. 
+As a stable token, EXIT has the equivalent virtual value to other USD stable coins. Users can trade and use EXIT as they would any other stable currency. 
 
-### EXIT & Soft ETH Minting 
+## EXIT Issuance 
 
-**STAKE** is placed into the POSDAO protocol. When a staking epoch ends, the STAKE reward contract mints & distributes STAKE, and the EXIT reward contract mints  **EXIT** and **Soft ETH**, which acts to virtually balance the EXIT token.
+In phase 1 \(beta\), EXIT will be issued and managed by the POA team. Liquidity pools for DAI/EXIT and STAKE/EXIT will be created to provide users with the ability to exchange their tokens for EXIT. 
 
-The ETH Rebalancer contract maintains a 2:1 \(Soft ETH: EXIT\) ratio based on the current price of ETH. Soft ETH remains in the contract and does not enter circulation.
+In phase 2, EXIT issuance and management will be shifted to a Decentralized Autonomous Organization \(DAO\) which will determine monetary policy for the token.
 
-### EXIT Reward Contract & ETH Rebalancer Contract Diagram
+## **EXIT Usage**
 
-![](../../../.gitbook/assets/exit-diagram.png)
+The initial use-case for EXIT will focus on rewards for Liquidity Providers on Uniswap. Users who commit both STAKE and EXIT tokens into a liquidity pool will receive additional STAKE rewards in exchange for providing liquidity. See the Liquidity Provider Program page for details.
 
 ## **EXIT Stability**
 
@@ -44,7 +44,7 @@ For example, if an individual wants to trade 1000 EXIT for 1000 DAI on [Uniswap]
 {% hint style="success" %}
 For more information on synthetic, stable commodities which informed this new model, please see:
 
-* [https://www.basis.io/basis\_whitepaper\_en.pd](https://www.basis.io/basis_whitepaper_en.pdf)f
+* [https://www.basis.io/basis\_whitepaper\_en.pdf](https://www.basis.io/basis_whitepaper_en.pdf)
 * [https://www.ampleforth.org/paper/](https://www.ampleforth.org/paper/)
 {% endhint %}
 

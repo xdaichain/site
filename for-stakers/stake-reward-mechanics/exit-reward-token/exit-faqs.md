@@ -2,15 +2,15 @@
 
 ### How do I get EXIT
 
-Exit is minted as a reward token when a staking epoch is complete. All stakers in the epoch receive a TBD amount of EXIT.
+EXIT will be available through a token swap process, accessible through 1inch.exchange. The initial swap pairs will likely be DAI/EXIT and STAKE/EXIT.
 
 ### How much EXIT will be available?
 
-The amount minted will depend on the amount of STAKE placed into the protocol. This percentage \(eg for every $100 worth of STAKE = $1 in EXIT tokens\) is flexible and will be determined by the team and community. 
+In phase 1, issuance will be determined based on liquidity needs and interest in the Liquidity Provider program. In phase 2, a DAO will determine the policies associated with issuance.
 
 ### Will EXIT be offered for sale by any exchanges?
 
-No, not through any centralized exchanges. EXIT will be created through the reward minting process. Users who acquire EXIT can then save it, send it to other users, or convert it to xDai. EXIT may be offered through decentralized exchanges \(DEXs\) if the market determines there is a value in this.
+Not through any centralized exchanges, but EXIT will be available to swap on decentralized exchanges \(DEXs\) as the market determines there is a value in this.
 
 ### **How does EXIT remain pegged at 1:1 to the US Dollar?**
 
@@ -26,7 +26,7 @@ On an daily \(configurable\) basis, the contract calls an oracle which provides 
 
 ### How do I use EXIT? What is it used for?
 
-EXIT is an algorithmically derived commodity, it's value and usage will be determined by the marketplace.  It's virtual value is stable at 1:1 with the US Dollar.
+EXIT is an algorithmically derived commodity, it's value and usage will be determined by the marketplace.  The initial use case is to create an EXIT/STAKE liquidity pool and receive STAKE rewards as benefits for  maintaining this pool.
 
 As an ERC20 token, EXIT can be traded on DEXs, sent to wallets, used as a means of trade, and accommodate any other ERC20 functionality. 
 
