@@ -16,8 +16,8 @@ Parameters are being tuned and mechanisms are not yet finalized.
 
 Users who place EXIT into the EXIT/STAKE liquidity pool on Uniswap will be eligible to receive additional STAKE rewards. Here's how it works for Bob:
 
-1. Bob trades 7000 Dai for 7000 EXIT. This can be accomplished on [1inch.exchange](https://1inch.exchange/#/) or [curve.fi](https://www.curve.fi/) by exchanging Dai to EXIT.  The trade will be approximately 1:1, as EXIT and Dai are both stable tokens. 
-2. Bob acquires 4000 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. 
+1. Bob trades 70 Dai for 70 EXIT. This can be accomplished on [1inch.exchange](https://1inch.exchange/#/) or [curve.fi](https://www.curve.fi/) by exchanging Dai to EXIT.  The trade will be approximately 1:1, as EXIT and Dai are both stable tokens. 
+2. Bob acquires 50 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. 
 3. Bob now has STAKE and EXIT.  He heads over to Uniswap \(v2\) and adds both into the STAKE/EXIT liquidity pool. 
 4. After some time, Bob checks his address and sees that he has received an additional 6.97 STAKE directly to his wallet. He has received STAKE rewards for providing liquidity into the STAKE/EXIT pool, thanks to a Staker on the **Easy Staking** protocol!
 
@@ -38,7 +38,9 @@ Mary Staker has 10,000 STAKE she wants to place into the Easy Staking applicatio
 
 At this point, the funds are not yet distributed. They remain and accumulate in this contract until a user \(Billy for example\) decides to press the `Distribute LP Funds` button and submit the transaction. Billy receives a small portion of the funds \(0.5% of the STAKE accumulated in the contract\) for initiating the distribution. When the button is pressed, LP funds are distributed to all EXIT/STAKE Liquidity Pool participants \(ie Bob above\). Bob receives a portion of the 10 Stake + any other STAKE in the fund based on how much EXIT he has in the Liquidity Pool when the `Distribute` button is pressed. 
 
-For simplicity, lets say Bob and Roger were the LPs, Bob had 7000 EXIT and Roger had 3000 EXIT in the pool when Billy presses the button. Bob receives 6.97 STAKE and Roger 2.98 STAKE based on the withdrawal scenario above \(Billy the Button Pusher receives .05!\).
+For simplicity, lets say Bob and Roger were the LPs, Bob had 70 EXIT and Roger had 30 EXIT in the pool when Billy presses the button. Bob receives 6.97 STAKE and Roger 2.98 STAKE based on the withdrawal scenario above \(Billy the Button Pusher receives .05!\). 
+
+In this example, this reward APR% is much higher than Bob and Rog would have received for other staking methods, as they capture value from all STAKE placed in the Easy Staking contract. As the program evolves, distribution percentages will vary based on how much EXIT is placed in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
 ## STAKE distribution to LP Participants
 
