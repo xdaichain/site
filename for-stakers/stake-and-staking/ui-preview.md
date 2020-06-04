@@ -12,23 +12,33 @@ Block times, staking epochs, and staking amounts are all modified to enable fast
 Transactions times were not altered, and take between 5-10 seconds for confirmation.
 {% endhint %}
 
-{% embed url="https://youtu.be/yoKl54HC7G8" caption="Quick run through of xDai Staking on BlockScout" %}
+{% embed url="https://youtu.be/yoKl54HC7G8" caption="Quick visual run through of xDai Staking on BlockScout" %}
 
 ## Staking HOME Screen
+
+Here you will find Epoch and Block number, as well as your account info in the top banner. You can also see the active validators along with how much they have staked. Click on the Delegators column to see a list of delegators.
 
 ![UI in BlockScout \(night mode\)](../../.gitbook/assets/home-screen-night-mode-tooltip.png)
 
 ## Delegators List
 
+The delegators list includes address, current stake amount and reward percentages. The validator in the list has a checkmark, and if you are delegating you will see `ME` next to your name. Clicking on an address brings you to BlockScout to view transactions from that address.
+
 ![](../../.gitbook/assets/delegators-list.png)
 
 ## Placing Stake on a Delegator Modal
 
+Just include the amount to place stake. It will not become active until the following staking epoch, assuming the candidate you staked on becomes a validator.
+
 ![](../../.gitbook/assets/place-stake.png)
-
-
 
 ## Claim Reward Modal \(light mode\)
 
+You are able to claim rewards after every staking epoch you participated in. You can claim all, or specify a range to claim from.
+
 ![](../../.gitbook/assets/claim-reward.png)
+
+{% hint style="info" %}
+We will include more screens and a thorough run through of features as we get closer to the public POSDAO launch.
+{% endhint %}
 
