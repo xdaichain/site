@@ -88,6 +88,7 @@
 
 * [Staking Roadmap](for-stakers/stake-and-staking/README.md)
   * [Pre-Staking Program](for-stakers/stake-and-staking/pre-staking-program.md)
+  * [UI Preview](for-stakers/stake-and-staking/ui-preview.md)
 * [STAKE Staking Token](for-stakers/stake-token/README.md)
   * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
     * [Claim STAKE: Private Investors](for-stakers/stake-token/get-stake/claim-stake-pi.md)
@@ -106,7 +107,6 @@
   * [EXIT Token](for-stakers/stake-reward-mechanics/exit-reward-token/README.md)
     * [EXIT FAQs](for-stakers/stake-reward-mechanics/exit-reward-token/exit-faqs.md)
 * [Staking Protocol / Tutorials](for-stakers/staking-protocol/README.md)
-  * [UI Preview](for-stakers/staking-protocol/ui-preview.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
     * [Protocol Related Terms](for-stakers/staking-protocol/terminology/protocol-terms.md)
     * [Participant Related Terms](for-stakers/staking-protocol/terminology/participant-related-terms.md)
