@@ -20,16 +20,6 @@ The overcollateralization mechanism \(where there is always a 2:1 ratio of soft 
 
 As a stable token, EXIT has the equivalent virtual value to other USD stable coins. Users can trade and use EXIT as they would any other stable currency. 
 
-## EXIT Issuance 
-
-In phase 1 \(beta\), an amount of EXIT will be pre-mined and used to create liquidity pools for USDT/EXIT and DAI/EXIT trading pairs. Users will have the ability to exchange their stable tokens for EXIT on a 1:1 basis assuming adequate pool depth.
-
-In phase 2, EXIT issuance and management will be shifted to a Decentralized Autonomous Organization \(DAO\) which will determine monetary policy for the token.
-
-## **EXIT Usage**
-
-The initial use-case for EXIT will focus on STAKE-based incentives for Uniswap Liquidity Providers. Users who commit both STAKE and EXIT tokens into a liquidity pool will receive additional STAKE rewards in exchange for providing liquidity. See the [Liquidity Provider Program](liquidity-provider-program.md) page for details.
-
 ## **EXIT Stability**
 
 Stability hinges on two factors. 
