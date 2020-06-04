@@ -106,6 +106,7 @@
     * [Liquidity Provider Program](for-stakers/stake-reward-mechanics/exit-reward-token/liquidity-provider-program.md)
     * [EXIT FAQs](for-stakers/stake-reward-mechanics/exit-reward-token/exit-faqs.md)
 * [Staking Protocol / Tutorials](for-stakers/staking-protocol/README.md)
+  * [UI Preview](for-stakers/staking-protocol/ui-preview.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
     * [Protocol Related Terms](for-stakers/staking-protocol/terminology/protocol-terms.md)
     * [Participant Related Terms](for-stakers/staking-protocol/terminology/participant-related-terms.md)
