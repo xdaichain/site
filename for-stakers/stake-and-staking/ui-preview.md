@@ -6,6 +6,18 @@ description: Staking in BlockScout
 
 The xDai staking UI is currently under construction.  It will be incorporated directly into the [xDai block explorer BlockScout](https://blockscout.com/poa/xdai). This will provide users with the ability to easily stake, withdraw, move and claim STAKE and view transactions all from a single interface.  
 
+## Video Sneak Peak
+
+In 3 minutes we click through a few functions to give you a sense of the upcoming UI, including: 
+
+* Tooltip Displays
+* Claiming an Ordered Withdrawal \(Withdrawal was processed earlier, it is now available to claim\)
+* Adding additional STAKE to a pool we are already delegating to
+* Claiming an existing reward
+* Viewing Delegators list and click on our account to see BlockScout Transactions
+* Showing Candidate informational modal and Becoming a Candidate Modal
+* Changing to light mode from night mode
+
 {% hint style="info" %}
 Block times, staking epochs, and staking amounts are all modified to enable faster testing iterations. Parameters will be updated in the live environment.
 
