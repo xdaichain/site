@@ -10,6 +10,10 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 
 {% embed url="https://www.saturn.network/blog/what-is-xdai/" caption="Saturn" %}
 
+{% embed url="https://medium.com/@jaredstauffer/what-is-xdai-how-do-i-use-xdai-a-simple-explanation-7440cbaf1df6" caption="Jared Stauffer" %}
+
+
+
 {% embed url="https://yellowblock.io/what-is-xdai/" caption="YellowBlock" %}
 
 ## AMA Recaps
