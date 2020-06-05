@@ -48,7 +48,7 @@ Our UI for public staking is undergoing testing with different parameters. It wi
 
 Community engagement is strong and members and followers continue to grow. This week community member Romeo Dre worked with Mihail Kiselev to create a STAKE \(steak\) themed telegram animated sticker pack. 
 
-![](../../../.gitbook/assets/stake.png)
+![](../../../.gitbook/assets/stake-pic.png)
 
   
   
