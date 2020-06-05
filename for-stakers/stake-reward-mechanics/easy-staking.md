@@ -14,7 +14,7 @@ APR formula parameters are available here: [https://www.desmos.com/calculator/wv
 
 ![](../../.gitbook/assets/sigmoid-1.png)
 
-Stakers and Liquidity Providers each receive a portion of the emission based on how long a Staker decides to keep STAKE in the application. Longer staking times benefit the Staker, and shorter staking periods benefit EXIT/STAKE Liquidity Providers. 
+Stakers and Liquidity Providers each receive a portion of the emission based on how long a Staker decides to keep STAKE in the application. Longer staking times benefit the Staker, and shorter staking periods benefit wDai/STAKE Liquidity Providers. 
 
 \*_Example APR. We are currently testing different emission models_
 
