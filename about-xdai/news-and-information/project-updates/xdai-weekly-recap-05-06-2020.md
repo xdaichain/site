@@ -32,7 +32,7 @@ BlockTalks is running a content creation challenge until 20 June. Write an artic
 
 ## 🏢 Features & Development
 
-### ✅ $STAKE & $xDai on Discord with tip.cc bot
+### ✅ $STAKE & $xDai on Discord with [tip.cc](https://tip.cc/) bot
 
 xDai has been functional with the tip.cc bot for some time, now it can be used with STAKE as well on any Discord server where [https://tip.cc/](https://tip.cc/) is installed. Join the xDai channel and participate in airdrops, games and more.
 
