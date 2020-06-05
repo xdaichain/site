@@ -19,8 +19,7 @@ The initial supply of 8.5375M STAKE tokens will be released over time. Additiona
 Users \(stakers\) provide STAKE as collateral when participating in the consensus process. In exchange for providing STAKE \(and supporting a node\), users receive multiple rewards. The primary reward is in the form of additional STAKE tokens.
 
 * **STAKE rewards**: STAKE is minted as a reward based on the amount of STAKE placed in the protocol. The final emission rate is TBD through a risk assessment and community review. Target range: ~15% APR.   A STAKE transfer fee is also assessed when a user removes their STAKE from the xDai chain \(using an [AMB bridge](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) extension\). This fee is distributed as a reward to participating stakers. 
-* **xDAI rewards**: DAI locked in the bridge is converted to CHAI, which earns additional interest on the locked amount. This interest is distributed in xDai to stakers at the end of a staking epoch. 
-* **EXIT rewards**: EXIT tokens may be minted and distributed to stakers at the end of each epoch. This exploratory virtual stable currency has a stable face value 1:1 with the US Dollar. EXIT rewards may be introduced at the beginning of the protocol or later on.
+* **xDAI rewards**: DAI locked in the bridge is converted to CHAI, which earns additional interest on the locked amount. This interest is distributed in xDai to stakers at the end of a staking epoch.
 
 ### Staking STAKE
 
@@ -30,7 +29,7 @@ In addition, exchanges may offer the opportunity to provide delegator staking di
 
 Validator candidates must meet certain requirements before placing STAKE \(the ability to run a functional node and minimum STAKE amounts\).  Delegators can place additional STAKE on candidates and receive rewards when the candidates they have placed STAKE on are chosen as validators.
 
-When STAKE is locked in the protocol, rewards for sealing blocks are generated in STAKE, xDai and EXIT. In addition, fees for removing STAKE from the xDai chain are assessed and distributed among active stakers.
+When STAKE is locked in the protocol, rewards for sealing blocks are generated in STAKE and xDai. In addition, fees for removing STAKE from the xDai chain are assessed and distributed among active stakers.
 
 ### STAKE Total Supply 
 
