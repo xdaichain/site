@@ -6,7 +6,7 @@ description: Staking in BlockScout
 
 The xDai staking UI is currently under construction.  It will be incorporated directly into the [xDai block explorer BlockScout](https://blockscout.com/poa/xdai). This will provide users with the ability to easily stake, withdraw, move and claim STAKE and view transactions all from a single interface.  
 
-## Video Sneak Peak
+## Video Sneak Peek
 
 In 3 minutes we click through a few functions to give you a sense of the upcoming UI, including: 
 
