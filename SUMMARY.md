@@ -23,6 +23,7 @@
     * [Pony Purse \(Conference & Event Wallet\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet.md)
 * [Roadmap](about-xdai/roadmap.md)
 * [Comparisons](about-xdai/comparisons/README.md)
+  * [Matic](about-xdai/comparisons/matic.md)
   * [POA Network](about-xdai/comparisons/poa.md)
 * [FAQs](about-xdai/faqs.md)
 * [News & Information](about-xdai/news-and-information/README.md)
