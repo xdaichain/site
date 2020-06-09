@@ -30,9 +30,7 @@ When audited, the working name for the staking token was DPOS. This has since ch
 * [Security Audit PDF](https://github.com/xdaichain/stake-token/blob/master/audit/Quantstamp/DPOS%20token-Audit%20Final%20Report.pdf)
 {% endhint %}
 
-**STAKE \(DPOS\) Legal Opinion:** The legal opinion was collected under the DPOS working title. The token is now renamed **STAKE**, but all other terms and conditions are the same.  A new report will be issued shortly.
-
-{% embed url="https://forum.poa.network/t/dpos-legal-opinion/2396" %}
+**STAKE \(DPOS\) Legal Opinion:** The legal opinion was collected under the DPOS working title. The token is now renamed **STAKE**, but all other terms and conditions are the same.  A new report will be issued shortly. The token constitutes a VFA in terms of Maltese law. Please contact [team@xdaichain.com ](mailto:team@xdaichain.com)to get access to the document.
 
 ## POSDAO Initial Security Audit by PepperSec
 
