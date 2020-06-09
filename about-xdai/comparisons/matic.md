@@ -25,12 +25,12 @@ Although both chains fill similar roles as Ethereum scaling solutions, there are
 | Sidechain Structure | EVM sidechain: 100% Ethereum patchset | Matic VM with More Viable Plasma |
 | Block Times | 5 seconds, 70 TPS \(reported\) | 1 second, 7000 TPS \(reported\) |
 | Asset withdrawal / Interoperability | TokenBridge BiDirectional transfers | Matic JS - 7 day withdrawal period from Matic -&gt; Ethereum |
-| Sybil resistance | Phase 1: Proof-of-Stake with selected delegatorsPhase 2: Public delegated proof-of-stake | Phase 1: Proof-of-Stake with selected delegatorsPhase 2: Public delegated proof-of-stake |
+| Sybil resistance | Phase 1: Proof-of-Stake with selected delegators Phase 2: Public delegated proof-of-stake | Phase 1: Proof-of-Stake with selected delegators Phase 2: Public delegated proof-of-stake |
 | Consensus | AuRa, with roadmap to HBBFT | Peppermint \(a forked version of Tendermint BFT\) |
 | Staking UI | Yes | Yes |
 | Scalability | Horizontal \(Additional chains\) & Vertical \(node scaling\) | Horizontal \(additional chains\) |
 | Real World Use Cases | Events, Conference Adoption, Burner Wallet | TBD Mainnet just launched |
-| Meta-transactions \(abstracted gas fees\) | Yes | yes |
+| Meta-transactions \(abstracted gas fees\) | Yes | Yes |
 | Validator / Delegator staking minimums | 20K STAKE Validator 1K STAKE Delegator | 1 MATIC for either |
 | Staking token emission | 8,765,000 STAKE + max 15% yearly emission | 10,000,000,000 MATIC capped |
 | Exchange based staking | Pre-staking at Bitmax: 36.4% APR | Binance Savings: 10% APR |
