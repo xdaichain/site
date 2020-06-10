@@ -45,7 +45,7 @@ Mary has 10,000 STAKE she places into the Easy Staking application on the Ethere
 
 Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once each day \(within a 24 hour time slots at a random intervals\) and distributes funds based on pool participation percentages.
 
-For simplicity, let's say only Bob and Roger were participating in the LP. Bob has 70 Dai and Roger has 30 Dai in the pool when the distribution script is executed.  At this point, Bob receives 94.5 STAKE \(70% of the STAKE in the distribution contract\) and Roger 40.5 STAKE \(@30%\) based on Mary's withdrawal scenario above.
+For simplicity, let's say only Bob and Roger were participating in the Uniswap LP. Bob has 70 Dai and Roger has 30 Dai in the pool when the distribution script is executed.  At this point, Bob receives 94.5 STAKE \(70% of the STAKE in the distribution contract\) and Roger 40.5 STAKE \(@30%\) based on Mary's withdrawal scenario above.
 
 In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from all STAKE placed in the Easy Staking contract.  Distribution percentages will vary based on how much Dai is placed in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
