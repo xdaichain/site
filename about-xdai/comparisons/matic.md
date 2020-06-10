@@ -4,6 +4,8 @@ description: xDai & Matic sidechains
 
 # Matic
 
+![](../../.gitbook/assets/xdai-vs-matic.png)
+
 As we compare chains, we see that xDai and Matic share several things in common: 
 
 1. Both are Ethereum-based Proof-of-Stake \(PoS\) sidechains designed to address Ethereum mainnet issues like slow transactions, high fees, and throughput concerns. 
@@ -68,7 +70,7 @@ Here we focus on key differences from a user perspective when interacting and or
 4. **Transactions Per Second \(TPS\) and Block Times**. Matic reports extremely fast times, 1 second blocks with 7000 TPS \(and theoretically up to 64,000 TPS\)! The xDai chain produces 5 second blocks with 70 transactions per second.   While xDai TPS is much faster than the Ethereum mainnet, there is still a wide gap between Matic and xDai. The slower tx times are not yet problematic on the xDai chain, but may be a concern in the future. To address this gap, xDai can scale horizontally \(by adding additional chains connected by bridges\) or vertically \(by optimizing nodes\). Because the POSDAO Proof of Stake algorithm allows for a configurable consensus, there are plans to move to HoneyBadger BFT consensus which will increase TPS by a factor of five. Additional research is being done around transaction prioritization, block parameter adjustment and other optimizations to make sure tx capacity and usage requirements are in alignment. 
 5. **Staking**: Both chains offer validator and delegated staking opportunities as well as a UI for staking. However, the functionality and underlying processes differ. With Matic, validators and delegators can stake with just 1 Matic token. Validators take a % of any delegators commission, and the reward pool of 1.2 Billion Matic tokens is designed to support the network for 5 years. After that time, rewards will transition to tx fees. Validators are chosen based on stake amounts, and when they want to exit the protocol, must wait for 21 days before withdrawing their funds.  xDai validators must have 20,000 STAKE in order to declare node candidacy, and delegators must have 1,000 STAKE. This makes potential collusion much more costly for any malicious actors. Validators do not charge commission, but are guaranteed 30% of staking rewards. Reward emissions are created continuously as rewards and are based on how much STAKE is staked into the protocol. Validators can submit a withdrawal claim during a staking epoch \(7 days\) and can withdraw their funds once the epoch is over.  Since misbehavior is accounted for during the staking epoch, there is no need to wait for 21 days as with Matic to ensure there was no malicious activity.
 
-## Parameters / Features of Each Chain
+## Chain Parameters / Features 
 
 | Component | xDai | Matic |
 | :--- | :--- | :--- |
