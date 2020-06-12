@@ -50,7 +50,7 @@ Social Engagement and Telegram followers continue to grow and engage with each o
 
 * [Telegram](https://t.me/xdaistable) community has grown to 11K followers
 * Since May the [xDai Twitter](https://twitter.com/xdaichain) following has increased by over 50%.
-* BlockFolio Signal integration increases audience reach.
+* [BlockFolio Signal ](https://blockfolio.com/coin/STAKE_3)integration increases audience reach.
 
   
   
