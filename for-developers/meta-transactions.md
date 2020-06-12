@@ -18,7 +18,7 @@ The link functionality is a process where a current BW user creates a link \(or 
 
 Meta transactions can be accomplished in different ways. In this example we use components from [OpenZeppelin's Gas Station Network](https://docs.opengsn.org/learn/index.html) . Generally speaking, this process requires a User/Dapp to sign a message, Relayers, a Relay Hub, and a Recipient Contract. 
 
-![](../.gitbook/assets/presentation1%20%281%29.tiff)
+![](../.gitbook/assets/presentation1.png)
 
 1. The **User/DApp** signs a message which includes function calls, arguments and the users signature. This does not require any gas.
 2. The message is sent to an **off-chain relayer**. The relayer creates a signed transaction \(with the user’s signature details\) and sends it to the relay hub.
