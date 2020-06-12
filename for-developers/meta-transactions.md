@@ -37,7 +37,7 @@ For context we will create a link to be sent to a new user. **Creating a link do
 
 ![Creating a link which contains .55 xDai](../.gitbook/assets/bw1.gif)
 
-A user can then claim a link. **Claiming a link uses meta transactions**. Here we copy the created link and pasted into a browser. A link can be sent in any other way, a common method is to scan a QR code with a mobile device.
+A user can then claim a link. **Claiming a link uses meta transactions**. Here we copy the created link and paste into a browser. A link can be sent in any other way \(email, text etc\). The most common method is to scan a QR code with a mobile device, which creates a new wallet on the users device.
 
 ![Pasting a claim link into the browser. ](../.gitbook/assets/bw-2.gif)
 
