@@ -10,7 +10,7 @@ This post is under construction and will be available shortly.
 
 ## Meta transactions for new user onboarding
 
-Meta transactions are an important method for onboarding new users. A user without crypto of any kind \(no Eth, no Dai, no xDai\) can still sign a message and interact with the blockchain without paying transaction fees. These costs are paid instead through an off-chain relayer and relay hub which interacts with a proxy contract on the user’s behalf.  
+Meta transactions are an important method for onboarding new users. A user without crypto of any kind \(no Eth, no Dai, no xDai\) can still sign a message and interact with the blockchain without paying transaction fees. These costs are paid instead through an off-chain relayer and relay hub which interacts with a proxy \(recipient\) contract on the user’s behalf.  
 
 In the Burner Wallet \(BW\) application, a user receives a new instant wallet simply by visiting [xdai.org](https://www.xdai.org).  However, this newly created wallet does not contain any funds, so a new user must figure out how to get xDai. If they don’t have a friend to send it to them, this means they need to somehow get Dai, or get Eth and convert it to Dai - then bridge the Dai to xDai.  While none of these processes is extremely difficult, they are a lot to ask of someone who has never used crypto.
 
@@ -20,14 +20,14 @@ The link functionality is a process where a current BW user creates a link \(or 
 
 ##  Meta Transaction Components
 
-Meta transactions can be accomplished in different ways. In this example we use components from [OpenZeppelin's Gas Station Network](https://docs.opengsn.org/learn/index.html) . Generally speaking, this process requires a user/Dapp to sign a message, relayers, a relay hub, and a proxy contract. 
+Meta transactions can be accomplished in different ways. In this example we use components from [OpenZeppelin's Gas Station Network](https://docs.opengsn.org/learn/index.html) . Generally speaking, this process requires a User/Dapp to sign a message, Relayers, a Relay Hub, and a Recipient Contract. 
 
-![](../.gitbook/assets/presentation1.tiff)
+![](../.gitbook/assets/presentation1%20%281%29.tiff)
 
 1. The **User/DApp** signs a message which includes function calls, arguments and the users signature. This does not require any gas.
 2. The message is sent to an **off-chain relayer**. The relayer creates a signed transaction \(with the user’s signature details\) and sends it to the relay hub.
-3. The **relay hub** verifies and funds the transaction and relays it to the the proxy contract. 
-4. The **proxy contract** executes the method\(s\) on-chain on behalf of the user.
+3. The **relay hub** verifies and funds the transaction and relays it to the the recipient contract. 
+4. The **recipient contract** executes the method\(s\) on-chain on behalf of the user.
 
 ## How it works with link claims on Burner Wallet
 
@@ -44,22 +44,29 @@ A user can then claim a link. **Claiming a link uses meta transactions**. Here w
 ## Meta Transaction process for link claiming with Burner Wallet
 
 1. A new BW is created \(or an old one is used if keys exist in local storage\) at [xDai.org](http://xdai.org/)
-2. This BW calls the Links proxy contract to get the Relay Hub Address
+2. This BW calls the `Links recipient contract` to get the Relay Hub Address
 3. BW queries the Relay Hub Contract to get a list of available relayers
 4. BW sends a signed tx with hashed call data \(or requests a signature if connected with metamask\) off-chain to the relayers. This does not require gas. 
-5. The first relayer to respond checks that the signed tx is valid.
-6. If it is valid, it creates a transaction and sends it to the on-chain relay contract address.
-7. The relay contract address forwards the transaction to the relay hub.
-8. The relay hub verifies the transaction and pays the gas to execute the defined methods in the Links proxy contract.
-9. The user receives the claimed funds into their BW
+5. The first off-chain relayer to respond checks that the signed tx is valid.
+6. If it is valid, it creates a transaction and sends a `relayCall` message from a funded on-chain EOA \(externally owned account\) to the relay hub.
+7. The relay hub sends a `preRelayedCall` to the Links recipient contract
+8. Relay hub sends `recipientCallsAtomic` message to itself
+9. Relay hub sends `preRelayed` call to Links recipient contract
+10. Relay hub sends `claim` call to Links recipient contract
+11. Links contract sends a regular tx to the user with claimed funds. User receives the claimed funds into their BW.
+12. Relay hub sends final `postRelayedCall` to Links recipient contract.
 
-![](../.gitbook/assets/meta-transactions1.png)
+![](../.gitbook/assets/meta-transactions-bw.png)
+
+Below is an example claim meta transaction where you can follow the details on encoded messages, logs, internal transactions, and a raw trace of the transaction.
+
+{% embed url="https://blockscout.com/poa/xdai/tx/0xaa0ad5d6ed4ce7a5f606b631f0f0a50405db66669327bdd0d4c31db39d3f74e4/internal\_transactions" %}
 
 ## Implementation details
 
-In our updated implementation, we use an OpenZeppelin Relayer as well as the OpenZeppelin Relay Hub deployed to the xDai network. The Links proxy contract was created to enable link claiming. A prior implementation using version 0.3 was not functional with the new version of Gas Station Network, so we updated this version to work with GSN v1.
+In our updated implementation, we use an OpenZeppelin Relayer as well as the OpenZeppelin Relay Hub deployed to the xDai network. The Links recipient contract was created to enable link claiming. A prior implementation using version 0.3 was not functional with the new version of Gas Station Network, so we updated this version to work with GSN v1.
 
-* Links Proxy Contract  [0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f](https://blockscout.com/poa/xdai/address/0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f/read_contract)
+* Links Recipient Contract  [0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f](https://blockscout.com/poa/xdai/address/0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f/read_contract)
 * On-chain Relayer Address \(intermediary between off-chain relayer and relay hub\) [0xc94A34a3f388be34AcaF158FD84331240DAb39a](https://blockscout.com/poa/xdai/address/0xc94a34a3f388be34acaf158fd84331240dab39af)
 * Relay Hub. This address is the same on all chains where it is deployed. [0xD216153c06E857cD7f72665E0aF1d7D82172F494](https://blockscout.com/poa/xdai/address/0xD216153c06E857cD7f72665E0aF1d7D82172F494/read_contract) 
 * Pull request where changes were implemented to update contracts to GSNv1: [https://github.com/austintgriffith/burner-wallet/pull/255/files](https://github.com/austintgriffith/burner-wallet/pull/255/files)
@@ -72,5 +79,5 @@ Example transaction:_ [_https://blockscout.com/poa/xdai/tx/0xf968e16b7c9ffc57622
 In many instances you may want to run your own GSN relayers which interface with the xDai chain. This provides redundancy if a relayer is not functional, expands capacity, and ensures availability if relayers were removed for some reason from the OpenZeppelin implementation.
 
 * David Mihal created a [Docker Image which makes it easy to run on xDai.](https://hub.docker.com/repository/docker/dmihal/gsn-relay-xdai)
-* Additional information about launching your own relayer is available here: [https://gist.github.com/spalladino/f516b46bdefb5e025c5d28daf7ad1491](https://gist.github.com/spalladino/f516b46bdefb5e025c5d28daf7ad1491)
+* Additional information about launching your own relayer is [available in the GSN docs](https://docs.opengsn.org/gsn-provider/running-own-relay.html). 
 
