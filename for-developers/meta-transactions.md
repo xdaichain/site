@@ -4,6 +4,10 @@ description: Using Meta Transaction to enable new Burner Wallet users
 
 # Meta Transactions
 
+{% hint style="info" %}
+This post is under construction and will be available shortly. 
+{% endhint %}
+
 ## Meta transactions for new user onboarding
 
 Meta transactions are an important method for onboarding new users. A user without crypto of any kind \(no Eth, no Dai, no xDai\) can still sign a message and interact with the blockchain without paying transaction fees. These costs are paid instead through an off-chain relayer and relay hub which interacts with a proxy contract on the user’s behalf.  
@@ -18,7 +22,7 @@ The link functionality is a process where a current BW user creates a link \(or 
 
 Meta transactions can be accomplished in different ways. In this example we use components from [OpenZeppelin's Gas Station Network](https://docs.opengsn.org/learn/index.html) . Generally speaking, this process requires a user/Dapp to sign a message, relayers, a relay hub, and a proxy contract. 
 
-![](../../.gitbook/assets/presentation1.tiff)
+![](../.gitbook/assets/presentation1.tiff)
 
 1. The **User/DApp** signs a message which includes function calls, arguments and the users signature. This does not require any gas.
 2. The message is sent to an **off-chain relayer**. The relayer creates a signed transaction \(with the user’s signature details\) and sends it to the relay hub.
@@ -31,11 +35,11 @@ In the case of Burner wallet, there are a few additional calls which are made du
 
 For context we will create a link to be sent to a new user. **Creating a link does not use meta transactions**.
 
-![Creating a link which contains .55 xDai](../../.gitbook/assets/bw1.gif)
+![Creating a link which contains .55 xDai](../.gitbook/assets/bw1.gif)
 
 A user can then claim a link. **Claiming a link uses meta transactions**. Here we copy the created link and pasted into a browser. A link can be sent in any other way, a common method is to scan a QR code with a mobile device.
 
-![Pasting a claim link into the browser. ](../../.gitbook/assets/bw-2.gif)
+![Pasting a claim link into the browser. ](../.gitbook/assets/bw-2.gif)
 
 ## Meta Transaction process for link claiming with Burner Wallet
 
@@ -49,7 +53,7 @@ A user can then claim a link. **Claiming a link uses meta transactions**. Here w
 8. The relay hub verifies the transaction and pays the gas to execute the defined methods in the Links proxy contract.
 9. The user receives the claimed funds into their BW
 
-![](../../.gitbook/assets/meta-transactions1.png)
+![](../.gitbook/assets/meta-transactions1.png)
 
 ## Implementation details
 
