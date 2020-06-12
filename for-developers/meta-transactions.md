@@ -8,7 +8,7 @@ description: Using Meta Transaction to enable new Burner Wallet users
 
 Meta transactions are an important method for onboarding new users. A user without crypto of any kind \(no Eth, no Dai, no xDai\) can still sign a message and interact with the blockchain without paying transaction fees. These costs are paid instead through an off-chain relayer and relay hub which interacts with a proxy \(recipient\) contract on the user’s behalf.  
 
-In the Burner Wallet \(BW\) application, a user receives a new instant wallet simply by visiting [xdai.org](https://www.xdai.org).  However, this newly created wallet does not contain any funds, so a new user must figure out how to get xDai. If they don’t have a friend to send it to them, this means they need to somehow get Dai, or get Eth and convert it to Dai - then bridge the Dai to xDai.  While none of these processes is extremely difficult, they are a lot to ask of someone who has never used crypto.
+In the [Burner Wallet \(BW\)](../for-users/wallets/burner-wallet.md) application, a browser-based instant wallet created by [Austin Griffith](https://twitter.com/austingriffith), a user receives a new wallet simply by visiting [xdai.org](https://www.xdai.org).  However, this newly created wallet does not contain any funds, so a new user must figure out how to get xDai. If they don’t have a friend to send it to them, this means they need to somehow get Dai, or get Eth and convert it to Dai - then bridge the Dai to xDai.  While none of these processes is extremely difficult, they are a lot to ask of someone who has never used crypto.
 
 This is where the link functionality and meta transactions come in.
 
