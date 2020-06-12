@@ -33,11 +33,11 @@ For context we will create a link to be sent to a new user. **Creating a link do
 
 ![Creating a link which contains .55 xDai](../.gitbook/assets/bw1.gif)
 
-A user can then claim a link. **Claiming a link uses meta transactions**. Here we copy the created link and paste into a browser. A link can be sent in any other way \(email, text etc\). The most common method is to scan a QR code with a mobile device, which creates a new wallet on the users device.
+A user can then claim a link. **Claiming a link uses meta transactions**. Here we copy the created link and paste into a browser. A link can be sent in any other way \(email, text etc\). The most common method is to scan a QR code with a mobile device, which creates a new wallet directly on the user's mobile device that scans the code.
 
 ![Pasting a claim link into the browser. ](../.gitbook/assets/bw-2.gif)
 
-## Meta Transaction process for link claiming with Burner Wallet
+## Meta Transaction process for link claiming with Burner Wallet \(BW\)
 
 1. A new BW is created \(or an old one is used if keys exist in local storage\) at [xDai.org](http://xdai.org/)
 2. This BW calls the `Links recipient contract` to get the Relay Hub Address
