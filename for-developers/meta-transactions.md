@@ -4,10 +4,6 @@ description: Using Meta Transaction to enable new Burner Wallet users
 
 # Meta Transactions
 
-{% hint style="info" %}
-This post is under construction and will be available shortly. 
-{% endhint %}
-
 ## Meta transactions for new user onboarding
 
 Meta transactions are an important method for onboarding new users. A user without crypto of any kind \(no Eth, no Dai, no xDai\) can still sign a message and interact with the blockchain without paying transaction fees. These costs are paid instead through an off-chain relayer and relay hub which interacts with a proxy \(recipient\) contract on the user’s behalf.  
