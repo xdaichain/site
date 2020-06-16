@@ -6,8 +6,11 @@ Tokens are available for trade on [BitMax exchange](https://bitmaxhelp.zendesk.c
 
 ## DEX
 
-STAKE is now available on UniSwap through a custom URL.   
-[https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6](https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6)
+1inch.exchange is a DEX aggregator which shows available DEX trading for STAKE and allows a user to split orders among multiple DEXS.  
+[https://1inch.exchange/\#/ETH/STAKE](https://1inch.exchange/#/ETH/STAKE)
+
+* Uniswap [https://uniswap.exchange/swap](https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6)
+* Balancer Pool [https://pools.balancer.exchange/\#/pool/0x834fb8276B4E8a24010e2108fDd7F8417C8922bD](https://pools.balancer.exchange/#/pool/0x834fb8276B4E8a24010e2108fDd7F8417C8922bD)
 
 ## Investors and Advisors
 
