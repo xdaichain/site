@@ -1,3 +1,7 @@
+---
+description: 'Instructions for public investors, private investor and advisors'
+---
+
 # How to get STAKE Tokens
 
 ## Exchange
