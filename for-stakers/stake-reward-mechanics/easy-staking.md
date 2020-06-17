@@ -8,22 +8,25 @@ This post describes a protocol-in-progress, parameters are being tuned and mecha
 
 Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on the Ethereum Mainnet. It is an alternative to staking on the xDai chain - it does not protect consensus but does provide incentives for participants and limits the circulating STAKE supply.
 
-Total STAKE Emissions are minted at 15% APR\*. The amount is divided between Stakers and Liquidity Pool Providers \(see below\). This division is determined by a formula whereby APR rises rapidly after a deposit is made then slows over time.  
+Total STAKE Emissions are minted at at total 15% APR\*. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and subdivided and provisioned to based on two parameters:
 
-APR formula parameters are available here: [https://www.desmos.com/calculator/wvy1eo9qzv](https://www.desmos.com/calculator/wvy1eo9qzv). By clicking on a point on the red curve you can view the month and approximate APR a STAKER will earn.
+* Time: 7.5% APR. The amount of time STAKE has been committed to the protocol. Longer staking times result in a higher APR for the Staker, lower times result in a higher APR for Liquidity Providers. 
+* Total Staked Amount: 7.5% APR. The total amount in the pool from all Stakers and other contributors. Larger stakes result in a higher APR for all Stakers. More staked amount = higher rewards.
 
-![](../../.gitbook/assets/sigmoid-1.png)
+![Sigmoid function for determining APR splits between Stakers and LP providers. Formula is currently being modified to include Time and Total Amount parameters.](../../.gitbook/assets/sigmoid-1.png)
 
-Stakers and Liquidity Providers each receive a portion of the emission based on how long a Staker decides to keep STAKE in the application. Longer staking times benefit the Staker, and shorter staking periods benefit Dai/STAKE Liquidity Providers. 
+Stakers and Liquidity Providers each receive portions of the emission based on how long a Staker decides to keep STAKE in the application and the total amount Staked. Longer staking times benefit the Staker, and shorter staking periods benefit Liquidity Providers. 
 
 \*_Example APR. We are currently testing different emission models_
 
+## Time-based Emission Example
+
 | Example Staking Time | Staker | Liquidity Providers |
 | :--- | :--- | :--- |
-| 1 Month | 2.69% APR | 12.31% APR |
-| 4 Months | 8.85% APR | 6.15% APR |
-| 9 Months | 12.81% APR | 2.19% APR |
-| 14 Months | 13.97% APR | 1.03% APR |
+| 1 Month | 1.35% APR | 6.15% APR |
+| 4 Months | 4.43% APR | 3.07% APR |
+| 9 Months | 6.3% APR | 1.2% APR |
+| 14 Months | 6.98% APR | .62% APR |
 
 {% hint style="info" %}
 As well as functioning as a stand-alone application, Easy Staking may be integrated into hardware wallets or other apps. We are exploring different use-cases.
@@ -35,19 +38,19 @@ Liquidity pool providers will also receive STAKE incentives from the Easy Stakin
 
  Here's an example of how it works for Bob:
 
-1. Bob acquires 70 Dai and 50 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. 
+1. Bob acquires 75 Dai and 30 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. \(Model assumes 75 Dai and 30 STAKE have equivalent value\) 
 2. He goes to Uniswap \(v2\) and adds both into the STAKE/Dai liquidity pool. 
-3. After some time, Bob checks his address and sees that he has received an additional 94.5 STAKE directly to his wallet. He has received STAKE rewards \(at a very high % relative to his pool contribution\) thanks to Mary withdrawing money from Easy Staking.
+3. After some time, Bob checks his address and sees that he has received an additional 51 STAKE directly to his wallet. He has received STAKE rewards \(at a very high % relative to his pool contribution\) thanks to Mary withdrawing money from Easy Staking.
 
-## STAKE distribution
+## STAKE distribution \(time-based only example\)
 
-Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  Mary receives 11365 STAKE \(Her initial amount + 13.65% APR\).  The remaining 135 STAKE \(1.35% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
+Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  Mary receives 10682 STAKE \(Her initial amount + 6.82% APR\).  The remaining 68 STAKE \(.68% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
 
 Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once each day \(within a 24 hour time slots at a random intervals\) and distributes funds based on pool participation percentages.
 
-For simplicity, let's say only Bob and Roger were participating in the Uniswap LP. Bob has 70 Dai and Roger has 30 Dai in the pool when the distribution script is executed.  At this point, Bob receives 94.5 STAKE \(70% of the STAKE in the distribution contract\) and Roger 40.5 STAKE \(@30%\) based on Mary's withdrawal scenario above.
+For simplicity, let's say only Bob and Roger were participating in the Uniswap LP. Bob has 75 Dai/30 STAKE and Roger has 25 Dai/10 STAKE in the pool when the distribution script is executed.  At this point, Bob receives 51 STAKE \(75% of the STAKE in the LP distribution contract\) and Roger 17 STAKE \(25%\) based on Mary's withdrawal scenario above.
 
-In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from all STAKE placed in the Easy Staking contract.  Distribution percentages will vary based on how much Dai is placed in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
+In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract.  Distribution percentages will vary based on how much Dai exists in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
 ## STAKE LP distribution script
 
