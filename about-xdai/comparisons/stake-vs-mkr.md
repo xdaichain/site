@@ -29,7 +29,7 @@ Because it is minted 1-for-1 from locked Dai, **xDai inherits the stability feat
 
 STAKE tokens are used to protect the xDai chain. The POSDAO protocol emits STAKE which  provides incentives for honest validators and their delegators and punishes those \(bans and freezes their STAKE amounts\) who do not follow the protocol rules. 
 
-Token holders can commit STAKE into the protocol and receive emission-based STAKE rewards. Individuals who commit a minimum of 20K STAKE are eligible to run a node and become a validator candidate \(a validator is a node that seals blocks and maintains blockchain consensus\).  Delegators can place a minimum of 1K STAKE on validators they believe will best serve the network**\***.
+Token holders can commit STAKE into the protocol and receive emission-based STAKE rewards \(with a maximum 15% target, effective emissions will be lower\). Individuals who commit a minimum of 20K STAKE are eligible to run a node and become a validator candidate \(a validator is a node that seals blocks and maintains blockchain consensus\).  Delegators can place a minimum of 1K STAKE on validators they believe will best serve the network.\* 
 
 {% hint style="info" %}
 \*Parameters are subject to change prior to [Phase 2 launch](../../for-stakers/stake-and-staking/#phase-2-public-staking-and-reward-expansion).
