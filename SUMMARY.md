@@ -25,6 +25,7 @@
 * [Comparisons](about-xdai/comparisons/README.md)
   * [Matic](about-xdai/comparisons/matic.md)
   * [POA Network](about-xdai/comparisons/poa.md)
+  * [STAKE vs MKR](about-xdai/comparisons/stake-vs-mkr.md)
 * [FAQs](about-xdai/faqs.md)
 * [News & Information](about-xdai/news-and-information/README.md)
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
