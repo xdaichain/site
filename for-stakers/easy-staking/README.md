@@ -1,6 +1,10 @@
+---
+description: Easy Staking application is currently in process
+---
+
 # Easy Staking
 
-{% hint style="info" %}
+{% hint style="warning" %}
 This post describes a protocol-in-progress, parameters are being tuned and mechanisms are not yet finalized.  Mechanics and details are subject to change.
 {% endhint %}
 
@@ -8,10 +12,10 @@ This post describes a protocol-in-progress, parameters are being tuned and mecha
 
 Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on the Ethereum Mainnet. It is an alternative to staking on the xDai chain - it does not protect consensus but does provide incentives for participants and limits the circulating STAKE supply.
 
-Total STAKE Emissions are minted at at total 15% APR\*. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and subdivided and provisioned to based on two parameters:
+Total STAKE Emissions are minted at at total 15% APR\*. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and provisioned to based on two parameters:
 
-* Time: 7.5% APR. The amount of time STAKE has been committed to the protocol. Longer staking times result in a higher APR for the Staker, lower times result in a higher APR for Liquidity Providers. 
-* Total Staked Amount: 7.5% APR. The total amount in the pool from all Stakers and other contributors. Larger stakes result in a higher APR for all Stakers. More staked amount = higher rewards.
+* **Time**: 7.5% APR. The amount of time STAKE has been committed to the protocol. Longer staking times result in a higher APR for the Staker. Shorter times result in a higher APR for Liquidity Providers. 
+* **Total Staked Amount**: 7.5% APR. The total amount in the pool from all Stakers and other contributors. Larger stakes result in a higher APR for all Stakers. More staked amount = higher rewards.
 
 ![Sigmoid function for determining APR splits between Stakers and LP providers. Formula is currently being modified to include Time and Total Amount parameters.](../../.gitbook/assets/sigmoid-1.png)
 

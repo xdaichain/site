@@ -20,7 +20,7 @@ We released a technical explainer which highlights the importance of Meta Transa
 
 ### ✅ StakingRewards.com
 
-xDai STAKE has been added to stakingrewards.com. The site offers a simple calculator you can use to approximate Monthly and Annual rewards once public staking begins. A calculator will also be incorporated into the [Easy Staking](../../../for-stakers/stake-reward-mechanics/easy-staking.md) application when it goes live.
+xDai STAKE has been added to stakingrewards.com. The site offers a simple calculator you can use to approximate Monthly and Annual rewards once public staking begins. A calculator will also be incorporated into the [Easy Staking](../../../for-stakers/easy-staking/) application when it goes live.
 
 [https://www.stakingrewards.com/asset/xdai](https://www.stakingrewards.com/asset/xdai)
 
@@ -36,7 +36,7 @@ BlockTalks content creation challenge is ongoing until 20 June. Write an article
 
 ### ✅ EasyStaking ongoing development
 
-We continue to refine our model for [easy staking](../../../for-stakers/stake-reward-mechanics/easy-staking.md). This will provide a second staking option for users with STAKE on the Ethereum Mainnet and a way to incorporate staking into 3rd party applications. In addition, we are researching ways to provide STAKE rewards for Liquidity Pools on Uniswap and other advanced incentives.  The EasyStaking UI is also undergoing improvements including:
+We continue to refine our model for [easy staking](../../../for-stakers/easy-staking/). This will provide a second staking option for users with STAKE on the Ethereum Mainnet and a way to incorporate staking into 3rd party applications. In addition, we are researching ways to provide STAKE rewards for Liquidity Pools on Uniswap and other advanced incentives.  The EasyStaking UI is also undergoing improvements including:
 
 * A simple and intuitive user interface
 * Dynamic display continually updates your STAKE rewards
