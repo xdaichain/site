@@ -32,7 +32,7 @@ Easy Staking is currently under construction and undergoing significant modifica
     </tr>
     <tr>
       <td style="text-align:left">Instant Withdrawal Fee</td>
-      <td style="text-align:left">3%* + ETH gas fees</td>
+      <td style="text-align:left">3%* + gas fees</td>
     </tr>
     <tr>
       <td style="text-align:left">Instant Withdrawal Availability</td>
@@ -41,7 +41,7 @@ Easy Staking is currently under construction and undergoing significant modifica
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Fee</td>
       <td style="text-align:left">
-        <p>0% + ETH gas fees. Requires 2 transactions</p>
+        <p>0% + gas fees. Requires 2 transactions</p>
         <p>1. Prepare withdrawal
           <br />2. Process during the scheduled withdrawal window.</p>
       </td>
@@ -74,8 +74,8 @@ Easy Staking is currently under construction and undergoing significant modifica
     </tr>
     <tr>
       <td style="text-align:left">Partial Withdrawal Penalty</td>
-      <td style="text-align:left">When a partial amount of any deposit (per deposit ID) is withdrawn, the
-        time-based APR resets to 0.</td>
+      <td style="text-align:left">When a partial amount of any deposit (deposit ID) is withdrawn, the time-based
+        APR resets to 0.</td>
     </tr>
   </tbody>
 </table>
