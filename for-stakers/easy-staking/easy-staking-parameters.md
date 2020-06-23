@@ -53,7 +53,8 @@ Easy Staking is currently under construction and undergoing significant modifica
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Availability</td>
       <td style="text-align:left">After ___ hours, funds are available to withdraw during the scheduled
-        withdrawal window.</td>
+        withdrawal window. STAKE price = price when withdrawn, not price when withdrawal
+        is scheduled.</td>
     </tr>
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Window</td>
