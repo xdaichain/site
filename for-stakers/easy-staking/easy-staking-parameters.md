@@ -32,11 +32,11 @@ Easy Staking is currently under construction and undergoing significant modifica
     </tr>
     <tr>
       <td style="text-align:left">Maximum STAKE Deposit</td>
-      <td style="text-align:left">TBD</td>
+      <td style="text-align:left">No Maximum</td>
     </tr>
     <tr>
       <td style="text-align:left">Instant Withdrawal Fee</td>
-      <td style="text-align:left">3%* + ETH gas fees</td>
+      <td style="text-align:left">2%* + ETH gas fees</td>
     </tr>
     <tr>
       <td style="text-align:left">Instant Withdrawal Availability</td>
@@ -52,13 +52,13 @@ Easy Staking is currently under construction and undergoing significant modifica
     </tr>
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Availability</td>
-      <td style="text-align:left">After ___ hours, funds are available to withdraw during the scheduled
-        withdrawal window. STAKE price = price when withdrawn, not price when withdrawal
-        is scheduled.</td>
+      <td style="text-align:left">After 12 hours, funds are available to withdraw during the scheduled withdrawal
+        window (also 12 hours). STAKE price is the price when withdrawn, not price
+        when withdrawal is scheduled.</td>
     </tr>
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Window</td>
-      <td style="text-align:left">___ hours. Scheduled withdrawals are available to pull within this time
+      <td style="text-align:left">12 hours. Scheduled withdrawals are available to pull within this time
         period. If not withdrawn, they are returned to the protocol. <b>APR is not reset if returned</b>,
         funds continue to accrue emissions as before.</td>
     </tr>
@@ -68,7 +68,7 @@ Easy Staking is currently under construction and undergoing significant modifica
         <p>Up to 15%* APR based on 2 factors.
           <br />1. amount of time STAKE is locked in protocol (up to 7.5%)
           <br />2. total amount staked by all participants (up to 7.5%)</p>
-        <p><em>&lt;link to sigmoid function when finalized&gt;</em>
+        <p><em>&lt;link to sigmoid functions when finalized&gt;</em>
         </p>
       </td>
     </tr>
@@ -80,7 +80,9 @@ Easy Staking is currently under construction and undergoing significant modifica
     <tr>
       <td style="text-align:left">Partial Withdrawal Penalty</td>
       <td style="text-align:left">When a partial amount of any deposit (per deposit ID) is withdrawn, the
-        time-based APR resets to 0.</td>
+        time-based APR is reduced based on percentage of amount withdrawn. ie 100
+        STAKE earning 7.5%, participant withdraws 50 STAKE. Remaining 50 STAKE
+        APR will be reduced to 3.75% (7.5%/2). The APR will increase from there.</td>
     </tr>
   </tbody>
 </table>
