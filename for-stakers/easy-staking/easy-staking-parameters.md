@@ -74,15 +74,14 @@ Easy Staking is currently under construction and undergoing significant modifica
     </tr>
     <tr>
       <td style="text-align:left">Multiple Deposits</td>
-      <td style="text-align:left">Supported. Each deposit event creates a separate deposit ID. Emission
-        is accrued from time of deposit for each ID.</td>
+      <td style="text-align:left">Supported. <b>Each deposit event creates a separate deposit ID, you cannot add additional STAKE to a current deposit, a new ID is created for each deposit</b>.
+        Emission is accrued from time of deposit for each ID.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Partial Withdrawal Penalty</td>
-      <td style="text-align:left">When a partial amount of any deposit (per deposit ID) is withdrawn, the
-        time-based APR is reduced based on percentage of amount withdrawn. ie 100
-        STAKE earning 7.5%, participant withdraws 50 STAKE. Remaining 50 STAKE
-        APR will be reduced to 3.75% (7.5%/2). The APR will increase from there.</td>
+      <td style="text-align:left">Partial Withdrawals</td>
+      <td style="text-align:left">Supported. User can withdraw a partial amount from any deposit, and will
+        receive the withdrawal amount + APR calculated at time of withdrawal. The
+        remaining deposit amount will continue to accrue APR from that point.</td>
     </tr>
   </tbody>
 </table>
