@@ -9,7 +9,7 @@ STAKE token address on Ethereum [0x0Ae055097C6d159879521C384F1D2123D1f195e6](htt
 {% endhint %}
 
 {% hint style="warning" %}
-STAKE will protect the xDai consensus in phase 2 of POSDAO, **scheduled to begin in August 2020**. Details upcoming about how to stake on xDai as we approach that date. STAKE is available on the [BitMax exchange](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308453-xDai-Chain-STAKE-) and coming soon to DEXs.
+STAKE will protect the xDai consensus in phase 2 of POSDAO, **scheduled to begin in Q3 2020**. Details upcoming about how to stake on xDai as we approach that date. STAKE is available on the [BitMax exchange](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308453-xDai-Chain-STAKE-) and coming soon to DEXs.
 {% endhint %}
 
 STAKE is a new ERC20-type \([implemented as an ERC677](https://github.com/ethereum/EIPs/issues/677)\) token designed to secure the on-chain payment layer and provide a mechanism for validators to receive multiple POS incentives. It is an ERC20-based staking token with a market driven value. 

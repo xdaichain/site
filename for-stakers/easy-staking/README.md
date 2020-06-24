@@ -1,5 +1,5 @@
 ---
-description: Easy Staking application is currently in process
+description: The EasyStaking application is in active development
 ---
 
 # Easy Staking

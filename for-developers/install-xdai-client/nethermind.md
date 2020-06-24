@@ -1,7 +1,11 @@
 # Nethermind
 
 {% hint style="warning" %}
-Nethermind is currently working on a POSDAO configuration, targeting a Q2 2020 release. Their client is not yet compatible with xDai.
+Nethermind Validator is currently running on POSDAO in Beta. A new release is expected in the near future:
+
+Validator: [https://blockscout.com/poa/xdai/address/0x1A740616e96E07d86203707C1619d9871614922A/validations](https://blockscout.com/poa/xdai/address/0x1A740616e96E07d86203707C1619d9871614922A/validations) 
+
+Ethstats: [https://dai-netstat.poa.network/](https://dai-netstat.poa.network/)
 {% endhint %}
 
 Nethermind Launcher is a self-contained app - you do not need to install .NET separately to run it. 
