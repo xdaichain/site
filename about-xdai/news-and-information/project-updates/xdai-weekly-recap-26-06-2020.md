@@ -27,15 +27,23 @@ The community spoke 📣……we listened👂
 
 We continue to add market liquidity through DeFi mechanisms.  When public staking and Easy Staking starts, these seeds will bear fruit! Farming with sustainable levels of growth and predictable accumulation for stakers.
 
-{% embed url="https://twitter.com/xdaichain/status/1275825383498297344" %}
+{% embed url="https://twitter.com/xdaichain/status/1276197926713167872" %}
 
-## Protocol
+## 🏢 Development
 
-Gas Limits increase
+### Gas Limit Increase
 
+Ethereum Mainnet miners increased the block gas limit from 10M to 12.5M gas/block \([https://ethstats.net/](https://ethstats.net/)\). To maintain xDai smart contract compatibility with ETH, xDai validators are also increasing the gas limit. This will result in 20% gains in tx throughput when needed! 
 
+More info on upgrade: [https://forum.poa.network/t/proposal-increase-block-gas-limit-from-10m-to-12-5m/3538](https://forum.poa.network/t/proposal-increase-block-gas-limit-from-10m-to-12-5m/3538)
 
-## 📰 Articles & Media
+### Nifty Wallet Update
+
+Nifty Wallet provides native support for the xDai chain. It's a great MetaMask alternative and offers additional functionality. The latest upgrade to 5.1.1 lets users import accounts with 24 word seed phrases,  easily send max balances and more. 
+
+Nifty Wallet link: [https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid)
+
+## 📰 Media
 
 ### ✅  BlockTalks Content Creation Challenge Winners
 
@@ -43,11 +51,11 @@ Thanks to all who participated - 5 winners were announced and each received $50 
 
 {% embed url="https://t.me/xdaistable/37424" %}
 
-### ✅ Reddit Update?
+### ✅ Reddit Scaling Competition
 
+We couldn't pass up the opportunity to shine a spotlight on xDai scaling attributes and will compete in the Great Reddit Scaling Bake-Off!  There will be some formidable teams, and we are ready to showcase the unique features of xDai and the benefits it brings to the ecosystem as a whole.
 
-
-### ✅ STAKE vs MKR
+&lt;tweet&gt;
 
 
 
