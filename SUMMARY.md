@@ -129,6 +129,7 @@
 
 * [Developer Resources & Tools](for-developers/developer-resources.md)
 * [Install xDai Client](for-developers/install-xdai-client/README.md)
+  * [Multi-Client Support](for-developers/install-xdai-client/multi-client-support.md)
   * [OpenEthereum \(formerly Parity\)](for-developers/install-xdai-client/parity.md)
   * [Nethermind](for-developers/install-xdai-client/nethermind.md)
 * [Smart Contract Deployment](for-developers/smart-contract-deployment.md)
