@@ -8,7 +8,7 @@ description: General Information and Links
 
 | Block Size | Block Speed | Gas price | Patchset | Native token | Network ID |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 10,000,000 Gas | 5 sec | 1 GWei | Istanbul | xDai | 100 |
+| 12,500,000 Gas | 5 sec | 1 GWei | Istanbul | xDai | 100 |
 
 ## Blockchain Explorer
 
