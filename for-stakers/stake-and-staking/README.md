@@ -33,7 +33,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
         <br />04/01/2020</td>
     </tr>
     <tr>
-      <td style="text-align:left">2) <a href="./#phase-2-public-staking-and-reward-expansion">Public Staking &amp; Reward Expansion</a>
+      <td style="text-align:left">2) <a href="./#phase-2-public-staking-and-reward-expansion">EasyStaking, Public Staking &amp; Reward Expansion</a>
       </td>
       <td style="text-align:left">
         <p>POSDAO open to public participation.</p>
@@ -82,11 +82,23 @@ POSDAO v1 is scheduled to go live with current validators on April 1. Public sta
 
 POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.** [More info on Chai is available here.](../stake-reward-mechanics/xdai-rewards/chai-faqs.md)
 
-## Phase 2: Public Staking & Reward Expansion
+## Phase 2: Easy Staking, Public Staking & Reward Expansion
 
-After the STAKE public listing is complete and POSDAO is running as expected with the current validator set, staking on xDai will open up to all public STAKE holders.  Dates for the following upgrades are subject to the STAKE listing date and are currently TBD. In the interim, token holders can participate as mock delegators in the [pre-staking initiative offered by BitMax](pre-staking-program.md). 
+{% hint style="info" %}
+In progress
+{% endhint %}
 
-### Public STAKE Info
+After the STAKE public listing is complete and POSDAO is running as expected with the current validator set, staking on xDai will start with EasyStaking and then open up to all public STAKE holders.  Dates for the following upgrades are subject to the STAKE listing date and are currently TBD. In the interim, token holders can participate as mock delegators in the [pre-staking initiative offered by BitMax](pre-staking-program.md). 
+
+### EasyStaking on Ethereum
+
+The EasyStaking application will be deployed to the Ethereum Mainnet, and will allow participants with any amount of STAKE to participate. Users can commit STAKE to the protocol, and it will earn additional STAKE based on how long it is placed in the application as well as the total amount staked by all participants.  For more details, see the [EasyStaking page](../easy-staking/).
+
+* Minimum &lt;.0001 STAKE, no Maximum
+* Rewards based on time and total amount staked
+* [EasyStaking parameters](../easy-staking/easy-staking-parameters.md) \(in process\)
+
+### POSDAO Staking on xDai
 
 * Validator Candidate: 20,000 STAKE Minimum
 * Delegator: 1,000 STAKE Minimum
@@ -98,15 +110,21 @@ After the STAKE public listing is complete and POSDAO is running as expected wit
 | Task | Date |
 | :--- | :--- |
 | [Pre-staking on BitMax](https://btmx.com/#/staking/details/STAKE-S) | 05/05/2020 |
+| EasyStaking | TBD |
 | Open bi-directional STAKE bridge | TBD |
 | Enable staking for new validator candidates | TBD  |
 | Enable public delegation | TBD  |
 | Enable bridge exit reward \(additional STAKE reward\) | TBD |
 | Enable xDai Chai-based reward | TBD  |
 
-### Details
+### Public Staking Details
 
-Public participation will open in phase 2. Individuals who acquire STAKE on the Ethereum mainnet \(through a private/public sale or some other means\) may bridge that STAKE to the xDai chain. Here, it can be used in the protocol to secure the chain and earn staking rewards. STAKE actions on xDai will be intuitive and easy to perform through the staking UI.
+Public participation will open in phase 2. Individuals can acquire STAKE on the mainnet \([how to get STAKE](../stake-token/get-stake/)\) and 
+
+1. Immediately stake it into the EasyStaking application \(see [EasyStaking](../easy-staking/) for more info\)
+2.  Bridge it to the xDai chain. Here, it can be used in the protocol to secure the chain and earn staking rewards. STAKE actions on xDai will be intuitive and easy to perform through the staking UI.
+
+**POSDAO Staking on xDai** 
 
 Individuals with enough STAKE \(20k minimum\) and the ability to run a node may register as validator candidates. STAKE can also be delegated on validator candidates, forming a pool. Candidate pools with the most STAKE will have the greatest chance of selection to the next validator set \(if there are more than 19 validator pools. If 19 or less all candidates become validators\). 
 

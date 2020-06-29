@@ -48,7 +48,8 @@ You can access the bridge via:
 * [Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for for gasless transactions and improved DApp UX.
 * [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
 * [TheGraph](https://thegraph.com) supports xDai data indexing, querying and display.
-* [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers. 
+* [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
+* [BlockNative](https://docs.blocknative.com/) supports real-time notification monitoring with API and SDK tools.
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 
 ![Tenderly Dashboard Gas Profiler example](../.gitbook/assets/tenderly.png)

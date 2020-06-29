@@ -2,7 +2,7 @@
 description: The EasyStaking application is in active development
 ---
 
-# Easy Staking
+# EasyStaking
 
 {% hint style="warning" %}
 This post describes a protocol-in-progress, parameters are being tuned and mechanisms are not yet finalized.  Mechanics and details are subject to change.

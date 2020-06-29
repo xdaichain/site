@@ -8,6 +8,8 @@ description: 'Instructions for public investors, private investor and advisors'
 
 [BitMax](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308453-xDai-Chain-STAKE-): Tokens are available for trading  BitMax also offers a [Pre-Staking program](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047202914) where users can participate in a simulated delegated staking environment and earn an elevated APR%.
 
+Additional exchanges that list STAKE can be seen on the [CoinGecko page](https://www.coingecko.com/en/coins/xdai-stake#markets).
+
 ## DEX \(Decentralized Exchanges\)
 
 * IDEX [https://idex.market/eth/stake](https://idex.market/eth/stake)

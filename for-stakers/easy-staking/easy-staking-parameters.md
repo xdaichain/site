@@ -2,7 +2,7 @@
 description: In process
 ---
 
-# Easy Staking Parameters
+# EasyStaking Parameters
 
 {% hint style="warning" %}
 Easy Staking is currently under construction and undergoing significant modifications. A demo app is deployed on Kovan for testing purposes. Current parameters subject to change.
