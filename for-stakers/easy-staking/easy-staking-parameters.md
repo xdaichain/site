@@ -66,8 +66,10 @@ Easy Staking is currently under construction and undergoing significant modifica
       <td style="text-align:left">Staking APR</td>
       <td style="text-align:left">
         <p>Up to 15%* APR based on 2 factors.
-          <br />1. amount of time STAKE is locked in protocol (up to 7.5%)
-          <br />2. total amount staked by all participants (up to 7.5%)</p>
+          <br />1. amount of time STAKE is locked in protocol (up to 7.5% based on sigmoid
+          function)
+          <br />2. total amount staked by all participants (up to 7.5%, based on a linear
+          function)</p>
         <p><em>&lt;link to sigmoid functions when finalized&gt;</em>
         </p>
       </td>

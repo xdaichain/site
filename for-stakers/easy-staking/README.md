@@ -17,7 +17,7 @@ Total STAKE Emissions are minted at at total 15% APR\*. Emissions are sent to st
 * **Time**: 7.5% APR. The amount of time STAKE has been committed to the protocol. Longer staking times result in a higher APR for the Staker. Shorter times result in a higher APR for Liquidity Providers. 
 * **Total Staked Amount**: 7.5% APR. The total amount in the pool from all Stakers and other contributors. Larger stakes result in a higher APR for all Stakers. More staked amount = higher rewards.
 
-![Sigmoid function for determining APR splits between Stakers and LP providers. Formula is currently being modified to include Time and Total Amount parameters.](../../.gitbook/assets/sigmoid-1.png)
+![Sigmoid function for determining time-based APR splits between Stakers and LP providers. Formula is currently being modified to include Time and Total Amount parameters.](../../.gitbook/assets/sigmoid-1.png)
 
 Stakers and Liquidity Providers each receive portions of the emission based on how long a Staker decides to keep STAKE in the application and the total amount Staked. Longer staking times benefit the Staker, and shorter staking periods benefit Liquidity Providers. 
 
