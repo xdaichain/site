@@ -11,7 +11,7 @@ Blocknative provides tools to access a real-time data feed as transactions are a
 * BlockNative Docs: [https://docs.blocknative.com/](https://docs.blocknative.com/)
 * Quickstart video tutorials: [https://www.youtube.com/channel/UC9engR8mowKMratKYMBzOXQ](https://www.youtube.com/channel/UC9engR8mowKMratKYMBzOXQ)
 
-## Example: add address notifications with API / Webhooks & Slack 
+## Example: Add address notifications with API / Webhooks & Slack 
 
 In this example we setup Slack notifications. For instructions on adding to a DApp or developing with BlockNative tools, see the [BlockNative docs](https://docs.blocknative.com/).
 
@@ -19,9 +19,9 @@ In this example we setup Slack notifications. For instructions on adding to a DA
 
 2\) Create an API key for your application.
 
-1. Go to API Keys in the Dashboard
-2. Enter a name for this key \(you can create additional keys later\)
-3. Click **Generate New API Key**
+1. Go to API Keys in the Dashboard.
+2. Enter a name for this key \(you can create additional keys later\).
+3. Click **Generate New API Key.**
 
 ![](../../.gitbook/assets/api-keys.png)
 
@@ -30,7 +30,7 @@ Once enabled and added to a channel of your choice, **copy the Webhook url.**
 
 ![](../../.gitbook/assets/img2-copyurl.png)
 
-4\) Return to Blocknative dashboard and click Add a Webhook. Fill in the following:
+4\) Return to Blocknative dashboard and click **Add a Webhook**. Fill in the following:
 
 * URL \(from step 3\)
 * Blockchain: Ethereum
@@ -41,18 +41,18 @@ Once enabled and added to a channel of your choice, **copy the Webhook url.**
 
 ![Enter details to create a new Webhook ](../../.gitbook/assets/img3.png)
 
-5\) Add addresses to monitor.
+5\) Add an address\(es\) to monitor.
 
-1. Click Watch Address
-2. Enter an 0x address to watch \(can be a regular address, smart contract etc\)
-3. Click Watch. Address will be added. You can add multiple addresses if desired.
+1. Click Watch Address.
+2. Enter an 0x address to watch \(can be a regular address, smart contract etc\).
+3. Click **Watch**. Address will be added. You can add multiple addresses / smart contract addresses if desired.
 
 ![](../../.gitbook/assets/img4.png)
 
 6\) Submit a transaction to test.
 
-1. Submit a transaction with MetaMask or any wallet of your choice to/from the address you added in step 5
-2. Go to Slack to see pending and confirmed tx data. The following is example data \(truncated with ...\) received from a basic send transaction. See the [BlockNative Webhook API docs for all payload details](https://docs.blocknative.com/webhook-api#ethereum-notifications) for token transfer and contract method call transactions.
+1. Submit a transaction with MetaMask or another wallet of your choice using the address you added in step 5
+2. Go to Slack to see pending and confirmed tx data. The following is example confirmed data \(truncated\) received from a basic send transaction. See the [BlockNative Webhook API docs for all payload details](https://docs.blocknative.com/webhook-api#ethereum-notifications) for token transfer and contract method call transactions.
 
 ```text
 {
