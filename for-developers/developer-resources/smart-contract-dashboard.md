@@ -1,4 +1,4 @@
-# Smart Contract Dashboard
+# Chainbeat Smart Contract Dashboard
 
 ## Chainbeat Dashboard on xDai
 
@@ -10,21 +10,21 @@ The ChainBeat interface is amazingly simple to use. Sign up, plugin a smart cont
 
 On xDai, the Safaru token is a local currency now circulating among Kenyan communities. Community members use Sarafu-based tokens for local trade and to purchase basic goods.   The ChainBlock dashboard shows basic token usage over the past week, including the number of transactions, new users, total holders and more. View the report here: [https://chainbeat.io/reports/sarafu](https://chainbeat.io/reports/sarafu)
 
-![](../.gitbook/assets/sarafu.png)
+![](../../.gitbook/assets/sarafu.png)
 
 ## **Creating a dashboard**
 
 1\) With the starter plan, you can create two for free. Once you’ve signed up, click Add Address, enter the Smart Contract address and Click **Submit**.
 
-![](../.gitbook/assets/chain1.png)
+![](../../.gitbook/assets/chain1.png)
 
 2\) Next, if the contract is deployed to multiple chains, select the network you would like to receive insights from and click **Confirm**. In this case, Sarafu is only deployed to the xDai chain, so there is no choice of networks to select.
 
-![](../.gitbook/assets/chain2.png)
+![](../../.gitbook/assets/chain2.png)
 
 3\) Your private dashboard will begin to populate. With xDai, it only takes a few minutes.
 
-![](../.gitbook/assets/chain3.png)
+![](../../.gitbook/assets/chain3.png)
 
 Insights are now available to explore! 
 

@@ -10,9 +10,9 @@ For this tutorial, we will assume you have already created a wallet \(see [Creat
 
 1\) Go to **TOKENS** in the top menu and select **New Token**.
 
-![](../../.gitbook/assets/token1.png)
+![](../../../.gitbook/assets/token1.png)
 
-![](../../.gitbook/assets/token2.png)
+![](../../../.gitbook/assets/token2.png)
 
 
 
@@ -30,7 +30,7 @@ For this tutorial, we will assume you have already created a wallet \(see [Creat
 
 Click **Save and Publish.**
 
-![](../../.gitbook/assets/token3.png)
+![](../../../.gitbook/assets/token3.png)
 
 3\) You will be forwarded to details about your newly created coin. It includes the token contract address, the vending machine address \(contract with permission to mint and burn tokens\) and the relay address you can send additional xDai to fund.
 
@@ -38,37 +38,37 @@ Click **Save and Publish.**
 $.01 xDai is added to any new token to pay for gas fees. In addition, the GSN \(Gas Station Network\) reload relay address is available. You can send additional xDai here if the $.01 fund runs out.  \(.01 should be good for @ 500 transactions or so\).
 {% endhint %}
 
-![](../../.gitbook/assets/token4.png)
+![](../../../.gitbook/assets/token4.png)
 
 4\) Next, add your tokens to an existing wallet by selecting **Wallets** in the top navigation, going to the wallets screen, and **selecting your wallet**. Once you are in your wallet, click on any asset. 
 
-![](../../.gitbook/assets/token6.png)
+![](../../../.gitbook/assets/token6.png)
 
 5\)  In the popup select **ADD TOKEN**.
 
-![](../../.gitbook/assets/token7.png)
+![](../../../.gitbook/assets/token7.png)
 
 6\) Choose a token from the list to add.
 
-![](../../.gitbook/assets/token8.png)
+![](../../../.gitbook/assets/token8.png)
 
 7\) **Build and Deploy** your wallet again to add the new tokens.
 
-![](../../.gitbook/assets/token9.png)
+![](../../../.gitbook/assets/token9.png)
 
 8\) You will now have tokens with a 0 balance. To populate, you can send some xDai to your wallet. Click on **Receive** at the bottom, then scan the QR \(or manually add\) to another wallet \(ie Metamask, AlphaWallet or similar\) that contains xDai, specifying the amount to send. 
 
 9\) Once your wallet has some xDai, you can exchange it for other currencies. Click **Exchange** to start the process.
 
-![](../../.gitbook/assets/token10.png)
+![](../../../.gitbook/assets/token10.png)
 
 10\) Select the xDai in the From: field, and one of your created tokens in the To: field, and press **Exchange**.
 
-![](../../.gitbook/assets/token11.png)
+![](../../../.gitbook/assets/token11.png)
 
 11\) Once a balance is shown, click the X to exit out of the Exchange window. Your new token balance will show in the wallet!
 
-![](../../.gitbook/assets/token12.png)
+![](../../../.gitbook/assets/token12.png)
 
 {% hint style="info" %}
 We will add additional tutorials as items are added. Please check out [David Mihal on Medium ](https://medium.com/@dmihal)for more tutorials and information about the Burner Factory!

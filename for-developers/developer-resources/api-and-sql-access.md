@@ -4,11 +4,11 @@ description: >-
   and the ability to query a SQL Database.
 ---
 
-# API & SQL Access
+# API & SQL Access with AnyBlock Analytics
 
 1\) Go to [https://account.anyblock.tools/auth/login/](https://account.anyblock.tools/auth/login/) and sign up for a free account.
 
-![Login to create an account](../.gitbook/assets/aa_free_acct.png)
+![Login to create an account](../../.gitbook/assets/aa_free_acct.png)
 
 2\) You will receive an API key and SQL username/password.  
 
@@ -40,11 +40,11 @@ https://api.eth.events/ethereum/poa/xdai/es/block/search/ \
 
 2\) Click on Server -&gt; Create -&gt; Server 
 
-![](../.gitbook/assets/servers.png)
+![](../../.gitbook/assets/servers.png)
 
 3\) In the **General** Tab, choose a **Name** for your server instance
 
-![](../.gitbook/assets/xdai_server.png)
+![](../../.gitbook/assets/xdai_server.png)
 
 4\) Go to the **Connection** Tab, and fill in the information from your AnyBlock Analytics Account and click **Save**:
 
@@ -61,7 +61,7 @@ https://api.eth.events/ethereum/poa/xdai/es/block/search/ \
 1. Click on **ethereum\_poa\_xdai** to interact with xDai data. 
 2. To Query the DB, go to Tools -&gt; Query Tool
 
-![Access the Query Tool](../.gitbook/assets/query_tool.png)
+![Access the Query Tool](../../.gitbook/assets/query_tool.png)
 
 6\) **Try a Query!**
 
@@ -70,7 +70,7 @@ https://api.eth.events/ethereum/poa/xdai/es/block/search/ \
 3. Click the lighting icon to execute
 4. Output from query
 
-![Run query with the lightning icon](../.gitbook/assets/query.png)
+![Run query with the lightning icon](../../.gitbook/assets/query.png)
 
 7\) Explore different queries and information in the SQL documentation and tutorials  available here: [https://docs.anyblockanalytics.com/en/latest/sql/tutorials/sql.html](https://docs.anyblockanalytics.com/en/latest/sql/tutorials/sql.html)
 

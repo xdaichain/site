@@ -18,7 +18,7 @@ See the [dual token model](about-xdai/news-and-information/dual-token-model.md) 
 {% endtab %}
 
 {% tab title="For developers" %}
-The xDai chain is an EVM sidechain that uses a different consensus model \([POSDAO](for-validators/posdao-whitepaper.md)\) than Ethereum. The underlying architecture, however, mirrors Ethereum 1.0, meaning that smart contracts can be written and deployed in exactly the same way using a [different RPC endpoint](for-developers/developer-resources.md#json-rpc-endpoints).
+The xDai chain is an EVM sidechain that uses a different consensus model \([POSDAO](for-validators/posdao-whitepaper.md)\) than Ethereum. The underlying architecture, however, mirrors Ethereum 1.0, meaning that smart contracts can be written and deployed in exactly the same way using a [different RPC endpoint](for-developers/developer-resources/#json-rpc-endpoints).
 
 Any contract that works on the Ethereum mainnet can be easily redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai.
 {% endtab %}

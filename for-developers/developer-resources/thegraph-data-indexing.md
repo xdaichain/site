@@ -19,7 +19,7 @@ The article below from [multiply.charity](https://multiply.charity/) also covers
 2\) Go to your dashboard and click **Add Subgraph**. Define the subgraph Name, Account, and Subtitle and update the image and other info \(you can update later\) if desired.  
 
 
-![Basic info is required to create a subgraph. You can modify later if needed.](../.gitbook/assets/xdai-graph.png)
+![Basic info is required to create a subgraph. You can modify later if needed.](../../.gitbook/assets/xdai-graph.png)
 
 3\) Install Graph CLI on your machine \(using either npm or yarn\)
 

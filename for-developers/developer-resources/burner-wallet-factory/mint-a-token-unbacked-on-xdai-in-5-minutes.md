@@ -6,9 +6,9 @@
 
 1\) Go to **TOKENS** in the top menu and select **New Token**.
 
-![](../../.gitbook/assets/token1.png)
+![](../../../.gitbook/assets/token1.png)
 
-![](../../.gitbook/assets/bwnt1.png)
+![](../../../.gitbook/assets/bwnt1.png)
 
 2\) Fill in the token details. 
 
@@ -24,11 +24,11 @@
 
 Click **Save and Publish.**
 
-![](../../.gitbook/assets/bw-2.png)
+![](../../../.gitbook/assets/bw-2.png)
 
 3\) You will be forwarded to details about your newly created coin. It includes the token contract address, the vending machine address \(the contract with permission to mint and burn tokens\) and the Gas Station Network relay address you can send additional xDai to fund.
 
-![](../../.gitbook/assets/bw-details.png)
+![](../../../.gitbook/assets/bw-details.png)
 
 {% hint style="info" %}
 $.01 xDai is added to any new token to pay for gas fees. In addition, the GSN \(Gas Station Network\) reload relay address is available. You can send additional xDai here if the $.01 fund runs out.  \(.01 should be good for @ 500 transactions or so\).
@@ -40,18 +40,18 @@ $.01 xDai is added to any new token to pay for gas fees. In addition, the GSN \(
 2. Add the amount to mint \(up to the max amount\).
 3. Click **Mint**.
 
-![](../../.gitbook/assets/bw3.png)
+![](../../../.gitbook/assets/bw3.png)
 
 5\) Check the transaction in BlockScout.
 
 1. Address where the new tokens were minted. [0x27D6B8127e932eAbA1244bc3F3D87AEbE754abdf](https://blockscout.com/poa/xdai/address/0x27D6B8127e932eAbA1244bc3F3D87AEbE754abdf)
 2. Transaction details \(token minting\). [0xb0acda6633abb1da8992c3c00f8545c459e37a7bb4de3fd59a394f3e4c52f56e](https://blockscout.com/poa/xdai/tx/0xb0acda6633abb1da8992c3c00f8545c459e37a7bb4de3fd59a394f3e4c52f56e)
 
-![](../../.gitbook/assets/bw4.png)
+![](../../../.gitbook/assets/bw4.png)
 
-![](../../.gitbook/assets/bw-bs1.png)
+![](../../../.gitbook/assets/bw-bs1.png)
 
-![](../../.gitbook/assets/bw-bs2.png)
+![](../../../.gitbook/assets/bw-bs2.png)
 
 {% hint style="success" %}
 That's it. You can return to the token page to mint more tokens to different addresses as long as the total minting is =&lt; the total max amount of tokens. You can also send tokens to other addresses from within the Burner Wallet, or by adding the token contract to a web3 wallet connected to the xDai chain.

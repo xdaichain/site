@@ -14,7 +14,7 @@ In this article we look at the similarities and differences between these two ch
 
 ### ✅ Meta Transactions
 
-We released a technical explainer which highlights the importance of Meta Transactions and how they work the Burner Wallet link claiming  functionality. [Read the Article.](../../../for-developers/meta-transactions.md)
+We released a technical explainer which highlights the importance of Meta Transactions and how they work the Burner Wallet link claiming  functionality. [Read the Article.](../../../for-developers/developer-resources/meta-transactions.md)
 
 {% embed url="https://twitter.com/xdaichain/status/1271482262857678849" %}
 

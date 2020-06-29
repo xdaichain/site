@@ -84,7 +84,7 @@ In addition to sending BCBs to each other, participants earned BCBs by completed
 
 ## Additional Features
 
-The Burner Wallet ecosystem is rapidly evolving, and new wallets include plugins which enable  xDai purchase using fiat, interactive games, airdrops, and other features. \(See [Burner Wallet Factory](../../../for-developers/burner-wallet-factory/) for up-and-coming plugins\). 
+The Burner Wallet ecosystem is rapidly evolving, and new wallets include plugins which enable  xDai purchase using fiat, interactive games, airdrops, and other features. \(See [Burner Wallet Factory](../../../for-developers/developer-resources/burner-wallet-factory/) for up-and-coming plugins\). 
 
 At the Splunk conference, a list of conference-based tasks were available where users could earn NFT tokens \(badges\) and additional BCBs. In addition, some tasks were "hidden", and badges were earned when tasks were unknowingly accomplished by the user \(such as talking to a Splunk executive\). This feature brought interactivity and gamification to the conference.
 

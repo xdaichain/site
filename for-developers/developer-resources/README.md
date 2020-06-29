@@ -50,9 +50,10 @@ You can access the bridge via:
 * [TheGraph](https://thegraph.com) supports xDai data indexing, querying and display.
 * [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification monitoring with API and SDK tools.
+* [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 
-![Tenderly Dashboard Gas Profiler example](../.gitbook/assets/tenderly.png)
+![Tenderly Dashboard Gas Profiler example](../../.gitbook/assets/tenderly.png)
 
 ## **Additional resources**
 
