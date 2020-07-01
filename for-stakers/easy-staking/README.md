@@ -10,10 +10,10 @@ This post describes a protocol-in-progress, parameters are being tuned and mecha
 
 ## EasyStaking
 
-Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on Ethereum. It provides an accessible staking mechanism for users and increases STAKE utility and DeFi composability. In addition, the EasyStaking application:
+Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on Ethereum. It provides an accessible staking mechanism for users and increases STAKE utility and DeFi composability. EasyStaking:
 
 * Incentivizes liquidity providers on decentralized exchanges through its unique reward mechanisms
-* Creates additional staking opportunities via hardware wallets
+* Creates staking opportunities via hardware wallets and other Ethereum applications
 * Limits total circulating supply
 
 Total STAKE Emissions are minted at a total of 15% APR\*. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and provisioned to based on two parameters:
