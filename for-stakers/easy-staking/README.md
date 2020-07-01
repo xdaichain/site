@@ -8,11 +8,15 @@ description: The EasyStaking application is in active development
 This post describes a protocol-in-progress, parameters are being tuned and mechanisms are not yet finalized.  Mechanics and details are subject to change.
 {% endhint %}
 
-## Easy Staking
+## EasyStaking
 
-Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on the Ethereum Mainnet. It is an alternative to staking on the xDai chain - it does not protect consensus but does provide incentives for participants and limits the circulating STAKE supply.
+Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on Ethereum. It provides an accessible staking mechanism for users and increases STAKE utility and DeFi composability. In addition, the EasyStaking application:
 
-Total STAKE Emissions are minted at at total 15% APR\*. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and provisioned to based on two parameters:
+* Incentivizes liquidity providers on decentralized exchanges through its unique reward mechanisms
+* Creates additional staking opportunities via hardware wallets
+* Limits total circulating supply
+
+Total STAKE Emissions are minted at a total of 15% APR\*. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and provisioned to based on two parameters:
 
 * **Time**: 7.5% APR. The amount of time STAKE has been committed to the protocol. Longer staking times result in a higher APR for the Staker. Shorter times result in a higher APR for Liquidity Providers. 
 * **Total Staked Amount**: 7.5% APR. The total amount in the pool from all Stakers and other contributors. Larger stakes result in a higher APR for all Stakers. More staked amount = higher rewards.
