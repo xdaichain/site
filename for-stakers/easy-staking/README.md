@@ -22,7 +22,7 @@ Total STAKE Emissions are minted at a total of 15% APR\*. Emissions are sent to 
 * **Time**: 7.5% APR. The amount of time STAKE has been committed to the protocol. Longer staking times result in a higher APR for the Staker.
 * **Total Staked Amount**: 7.5% APR. The total amount in the pool from all Stakers and other contributors. Larger stakes result in a higher APR for all Stakers. More staked amount = higher rewards.
 
-![Sigmoid function for determining time-based APR splits between Stakers and LP providers. Formula is currently being modified to include Time and Total Amount parameters.](../../.gitbook/assets/sigmoid-1.png)
+![Sigmoid function for determining time-based APR](../../.gitbook/assets/sigmoid-1.png)
 
 Stakers and Liquidity Providers each receive portions of the emission based on how long a Staker decides to keep STAKE in the application and the total amount Staked. Longer staking times benefit the Staker, and shorter staking periods benefit Liquidity Providers.
 
@@ -52,17 +52,17 @@ Liquidity pool providers will also receive STAKE incentives from the Easy Stakin
 
 ## STAKE distribution \(time-based only example\)
 
-Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request.  Since she deposited 10000 STAKE and staked for 1 year,  Mary receives 10682 STAKE \(Her initial amount + 6.82% APR\).  The remaining 68 STAKE \(.68% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
+Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request. Assume APR is 10%. Since she deposited 10000 STAKE and staked for 1 year, Mary receives 11000 STAKE \(her initial amount + 10% APR\).  The remaining 500 STAKE \(5% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
 
-Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once each day \(within a 24 hour time slots at a random intervals\) and distributes funds based on pool participation percentages.
+Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once each day \(within 24-hour time slots at random intervals\) and distributes funds based on pool participation percentages.
 
-For simplicity, let's say only Bob and Roger were participating in the Uniswap LP. Bob has 75 Dai/30 STAKE and Roger has 25 Dai/10 STAKE in the pool when the distribution script is executed.  At this point, Bob receives 51 STAKE \(75% of the STAKE in the LP distribution contract\) and Roger 17 STAKE \(25%\) based on Mary's withdrawal scenario above.
+For simplicity, let's say only Bob and Roger were participating in the Uniswap LP. Bob has 75 Dai/30 STAKE and Roger has 25 Dai/10 STAKE in the pool when the distribution script is executed.  At this point, Bob receives 375 STAKE \(75% of the STAKE in the LP distribution contract\) and Roger 125 STAKE \(25%\) based on Mary's withdrawal scenario above.
 
 In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract.  Distribution percentages will vary based on how much Dai exists in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
 ## STAKE LP distribution script
 
-Distributions to LP participants occur once within a 24 hour window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.  
+Distributions to LP participants occur once within a 24-hour window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
 
 The distribution script will run on a centralized server, and its results can be checked for bias or inaccuracy by any interested party. If the server is compromised, max losses are contained to 1 day of accrued interest from Easy Staking withdrawals. A multi-signature wallet will control Easy Staking parameters, including the address which calls distributions. If issues arise, this address may be changed through the multi-sig process.
 
