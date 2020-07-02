@@ -10,6 +10,10 @@ This post describes a protocol-in-progress, parameters are being tuned and mecha
 
 ## EasyStaking
 
+{% hint style="info" %}
+See [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
+{% endhint %}
+
 Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on Ethereum. It provides an accessible staking mechanism for users and increases STAKE utility and DeFi composability. EasyStaking also:
 
 * Incentivizes liquidity providers on decentralized exchanges through unique reward mechanisms
