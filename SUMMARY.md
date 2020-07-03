@@ -30,6 +30,7 @@
 * [News & Information](about-xdai/news-and-information/README.md)
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
     * [Pre-Staking Program](about-xdai/news-and-information/project-updates/pre-staking-program.md)
+    * [⚔️ xDai Weekly Recap - 03/07/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-03-07-2020.md)
     * [⚔️ xDai Weekly Recap - 26/06/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-26-06-2020.md)
     * [⚔️ xDai Weekly Recap - 19/06/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-19-06-2020.md)
     * [⚔️ xDai Weekly Recap - 12/06/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-12-06-2020.md)
