@@ -22,21 +22,21 @@ description: General Information and Links
 
 ## JSON RPC endpoints
 
-There are endpoints provided by POA . They are used to connect to the network.
+Main RPC is a load balancer with 4 nodes, health checks, and failover. 
 
-|  |  |
+| Resource | URL |
 | :--- | :--- |
-| **Main RPC \(HTTS\)** | [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev/) |
-| WebSockets WSS (secure) | [wss://xdai.poanetwork.dev/wss](wss://xdai.poanetwork.dev/wss) |
+| JSON RPC endpoint  | [https://xdai.poanetwork.dev](https://xdai.poanetwork.dev/) |
+| WebSockets WSS endpoint | [wss://xdai.poanetwork.dev/wss](wss://xdai.poanetwork.dev/wss) |
 
-Additional resources:
+Additional resources to connect to xDai network
 
-|  |  |
+| Resource | URL |
 | :--- | :--- |
-| Main RPC \(HTTP\) | [http://xdai.poanetwork.dev/](http://xdai.poanetwork.dev/) |
-| RPC Alias \(HTTPS/Cloudflare\) | [https://dai.poa.network](https://dai.poa.network) |
-| WebSockets WS (non-secure)| [ws://xdai.poanetwork.dev:8546](ws://xdai.poanetwork.dev:8546) |
-| Archive node \(last 100k blocks\) | [https://xdai-archive.blockscout.com/](https://xdai-archive.blockscout.com/) |
+| JSON RPC endpoint over HTTP \(non-secure\) | [http://xdai.poanetwork.dev](http://xdai.poanetwork.dev/) |
+| JSON RPC endpoint via Cloudflare | [https://dai.poa.network](https://dai.poa.network) |
+| WebSockets WS \(non-secure\) | [ws://xdai.poanetwork.dev:8546](ws://xdai.poanetwork.dev:8546) |
+| Archive node | [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com/) |
 | Network ID | 100 |
 
 ## TokenBridge
