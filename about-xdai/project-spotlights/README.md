@@ -6,7 +6,7 @@ description: Projects and applications migrating and/or deploying to xDai
 
  xDai Network is 100% compatible with Ethereum. This means that any Smart Contract or DApp deployed on the Ethereum Mainnet can be deployed on xDai with minimal changes. Developers and projects are realizing they can easily deploy and/or migrate to xDai to realize big cost savings and escape congestion.  Forks of popular projects can also be deployed on xDai to take advantage of the stable network mechanics. Applications can live on multiple networks at once, serving different audiences and experimenting with different modes of operation.
 
-### Examples of Projects/Dapps deployed to xDai include:
+### Examples of 3rd party projects/Dapps deployed to xDai include:
 
 * [1Hive](1hive.md): DAO with a Community Currency & DEX on xDai
   * [Uniswap v1 Fork](https://uniswap.1hive.org/swap): Deployed by 1Hive, provides liquidity with a DEX on xDAI.
