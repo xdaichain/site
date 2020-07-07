@@ -21,12 +21,13 @@
     * [EthWaterloo II](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethwaterloo.md)
     * [EthCC Afterparty](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethcc-afterparty.md)
     * [Pony Purse \(Conference & Event Wallet\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet.md)
-* [Roadmap](about-xdai/roadmap.md)
+* [Projects & DApps](about-xdai/project-spotlights/README.md)
+  * [1Hive](about-xdai/project-spotlights/1hive.md)
+* [FAQs](about-xdai/faqs.md)
 * [Comparisons](about-xdai/comparisons/README.md)
   * [Matic](about-xdai/comparisons/matic.md)
   * [POA Network](about-xdai/comparisons/poa.md)
   * [STAKE vs MKR](about-xdai/comparisons/stake-vs-mkr.md)
-* [FAQs](about-xdai/faqs.md)
 * [News & Information](about-xdai/news-and-information/README.md)
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
     * [Pre-Staking Program](about-xdai/news-and-information/project-updates/pre-staking-program.md)
@@ -49,6 +50,7 @@
   * [Dual Token Model](about-xdai/news-and-information/dual-token-model.md)
   * [Interviews & Media Articles](about-xdai/news-and-information/media-articles/README.md)
     * [xDai Chain: Basic Overview Presentation](about-xdai/news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
+* [Roadmap](about-xdai/roadmap.md)
 
 ## For users
 
