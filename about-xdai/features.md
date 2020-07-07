@@ -20,7 +20,7 @@ Using a RANDAO-based Random Number Generator, validators on xDai produce random 
 
 ## DPOS Consensus
 
-To move to a permissionless structure, the xDai Stable Chain will adopt a delegated Proof of Stake \(DPOS\)_**`CONSENSUS`**_ mechanism. Private POS consensus is already underway, and phase 2 will bring public staking to the xDai chain. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol, called POSDAO consensus, including a complete overview of the theory, rationale, security, and a detailed implementation section. 
+To move to a permissionless structure, the xDai Stable Chain will adopt a delegated Proof of Stake \(DPOS\) consensus mechanism. Private POS consensus is already underway, and phase 2 will bring public staking to the xDai chain. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol, called POSDAO consensus, including a complete overview of the theory, rationale, security, and a detailed implementation section. 
 
 ## Multi-Chain Staking Token
 
@@ -30,6 +30,6 @@ Additional sidechains will also have the opportunity to use STAKE to secure thei
 
 ## Bridges to Ethereum
 
-Two _**`BRIDGES`**_ connect the xDai Stable Chain to the Ethereum mainnet, supporting seamless two-way asset transfer between chains. Tokens are acquired on the mainnet, then bridged to the xDai Stable Chain sidechain using either the Dai-xDai bridge for transactional tokens, or the DPOS bridge for staking tokens. Once a user is finished transacting or staking, tokens can be bridged back to the mainnet with ease.  
+Two bridges connect the xDai Stable Chain to the Ethereum mainnet, supporting seamless two-way asset transfer between chains. Tokens are acquired on the mainnet, then bridged to the xDai Stable Chain sidechain using either the Dai-xDai bridge for transactional tokens, or the DPOS bridge for staking tokens. Once a user is finished transacting or staking, tokens can be bridged back to the mainnet with ease.  
 
 
