@@ -9,8 +9,6 @@ STAKE Emissions are minted at a total of 15% APR\*. Emissions are split between 
 
 If a scheduled \(timed\) withdrawal with 0% fee occurs at the time-based point, the following rewards apply. If an instant withdrawal is processed, a fee is assessed on the total amount \(deposit + emissions\) and sent to the Liquidity Pool address prior to withdrawal.
 
-
-
 <table>
   <thead>
     <tr>
