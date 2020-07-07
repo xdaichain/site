@@ -1,5 +1,5 @@
 ---
-description: Honey Community Currency now deployed on xDai
+description: 'Honey Community Currency, Honey Pot and Honey Swap deployed to xDai'
 ---
 
 # 1Hive
