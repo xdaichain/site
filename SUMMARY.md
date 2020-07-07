@@ -113,6 +113,7 @@
   * [EXIT Token](for-stakers/stake-reward-mechanics/exit-reward-token/README.md)
     * [EXIT FAQs](for-stakers/stake-reward-mechanics/exit-reward-token/exit-faqs.md)
 * [EasyStaking](for-stakers/easy-staking/README.md)
+  * [Emission Rates](for-stakers/easy-staking/emission-rates.md)
   * [EasyStaking Parameters](for-stakers/easy-staking/easy-staking-parameters.md)
 * [Staking Protocol / Tutorials](for-stakers/staking-protocol/README.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
