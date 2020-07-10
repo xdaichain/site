@@ -31,9 +31,9 @@ As a community currency, Honey \(HNY\) is used by the 1Hive community to support
 
 {% embed url="https://www.xdaichain.com/about-xdai/project-spotlights/1hive" %}
 
-### Arbitrary Message Bridge Extensions for Users
+### xDai &lt;-&gt; Eth Arbitrary Message Bridge deployment guide
 
-Instructions for easy deployment were released for  the Ethereum &lt;-&gt; xDai Arbitrary Message Bridge. The guide provides step-by-step instructions for creating a bridgeable ERC20 \(or ERC677/829\) token. The deployment scripts create an equivalent ERC677 on xDai, along with all the necessary functionality so that existing tokens on Ethereum can be bridged and used on xDai. 
+Deployment instructions were released for contracts on the Ethereum &lt;-&gt; xDai Arbitrary Message Bridge. The guide provides step-by-step instructions for deploying contracts and creating bridgeable ERC20 \(or ERC677/829\) tokens. The scripts create an equivalent ERC677 on xDai, along with all the necessary functionality so that existing tokens on Ethereum can be bridged and used on xDai. 
 
 Use-cases for bridged tokens may include a DEX on xDai, or many other features that take advantage of low cost and high speed transactions.
 
@@ -47,7 +47,7 @@ Austin Griffith announced the [xmoon exchange](https://twitter.com/austingriffit
 
 ![](../../../.gitbook/assets/weekinethereum.png)
 
-### ✅ Token Tuesday Article Highlights xDai & STAKE
+### ✅ Token Tuesdays Article Highlights xDai & STAKE
 
 [Cooper Turley](https://twitter.com/Cooopahtroopa) wrote an extensive article on the benefits of xDai
 
