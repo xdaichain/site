@@ -8,7 +8,11 @@ description: 'Instructions for public investors, private investor and advisors'
 
 [BitMax](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308453-xDai-Chain-STAKE-): Tokens are available for trading  BitMax also offers a [Pre-Staking program](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047202914) where users can participate in a simulated delegated staking environment and earn an elevated APR%.
 
-Additional exchanges that list STAKE can be seen on the [CoinGecko page](https://www.coingecko.com/en/coins/xdai-stake#markets).
+[Poloniex](https://medium.com/poloniex/xdai-stake-is-now-available-on-poloniex-12b8a40d74bc): You can now [deposit STAKE](https://poloniex.com/wallet/STAKE/receive) and trade [STAKE/USDT](https://poloniex.com/exchange#usdt_stake).
+
+[Bilaxy](https://bilaxy.com/trade/STAKE_USDT): STAKE/USDT trading pair.
+
+Additional exchanges listing STAKE are shown on the [CoinGecko page](https://www.coingecko.com/en/coins/xdai-stake#markets).
 
 ## DEX \(Decentralized Exchanges\)
 
