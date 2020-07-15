@@ -37,7 +37,7 @@ _Note that the exchange requires 2 transactions, 1 to unlock a token, and a seco
 
 ### 2. Transfer MOONs on Rinkeby to xMOONS on xDai
 
-There are a few ways to move MOONs between chains. You can use the xmoon.exchange application as described in the video above, or a Burner Wallet \(BW\) Plugin that we've developed to exchange tokens.
+There are a few ways to move MOONs between chains. You can use the xmoon.exchange application as described in [Austin's video](https://youtu.be/_ikHSyThDiA), or a Burner Wallet \(BW\) Plugin that we've developed to exchange tokens.
 
 The Burner Wallet plugin is located at [moon-exchange.herokuapp.com](http://moon-exchange.herokuapp.com/). This page may take some time to load, if you experience issues, just reload the page.
 
