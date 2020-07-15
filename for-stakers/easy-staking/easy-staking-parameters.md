@@ -12,7 +12,7 @@ Easy Staking is currently under construction and undergoing significant modifica
   <thead>
     <tr>
       <th style="text-align:left">Parameter</th>
-      <th style="text-align:left">Value - Definitions</th>
+      <th style="text-align:left">Value - Definition</th>
     </tr>
   </thead>
   <tbody>
