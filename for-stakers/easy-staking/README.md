@@ -78,5 +78,3 @@ More liquidity pools with different asset bases may be added in the future, and 
 
 We will provide detailed instructions once the protocol is finalized.  We continue to refine the UI, and are starting to incorporate a calculator and a dynamic reward display.
 
-![Test application \(Emission in hours rather than days\)](../../.gitbook/assets/easystaking-beta.gif)
-

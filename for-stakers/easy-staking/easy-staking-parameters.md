@@ -12,7 +12,7 @@ Easy Staking is currently under construction and undergoing significant modifica
   <thead>
     <tr>
       <th style="text-align:left">Parameter</th>
-      <th style="text-align:left">Value</th>
+      <th style="text-align:left">Value - Definitions</th>
     </tr>
   </thead>
   <tbody>
@@ -76,14 +76,24 @@ Easy Staking is currently under construction and undergoing significant modifica
     </tr>
     <tr>
       <td style="text-align:left">Multiple Deposits</td>
-      <td style="text-align:left">Supported. <b>Each deposit event creates a separate deposit ID, you cannot add additional STAKE to a current deposit, a new ID is created for each deposit</b>.
+      <td style="text-align:left">Supported. <b>Each deposit event creates a separate deposit ID, you cannot manually add additional STAKE to a current deposit, a new ID is created for each deposit</b>.
         Emission is accrued from time of deposit for each ID.</td>
     </tr>
     <tr>
       <td style="text-align:left">Partial Withdrawals</td>
       <td style="text-align:left">Supported. User can withdraw a partial amount from any deposit, and will
         receive the withdrawal amount + APR calculated at time of withdrawal. The
-        remaining deposit amount will continue to accrue APR from that point.</td>
+        remaining deposit amount will continue to accrue APR from that point forward.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Pending Withdrawal</td>
+      <td style="text-align:left">A withdrawal has been scheduled for a deposit. The window to process the
+        withdrawal is not yet open.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Eligible for Withdrawal</td>
+      <td style="text-align:left">The withdrawal window is open and a scheduled withdrawal is available
+        for processing. Users can enter the amount to withdraw and claim.</td>
     </tr>
   </tbody>
 </table>
