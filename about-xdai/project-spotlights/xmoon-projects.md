@@ -4,7 +4,7 @@ description: Apps using xMoon Tokens
 
 # xMoon Projects
 
-Reddit MOONs are community currency for the r/cryptocurrency subreddit. They are currently minted and distributed on the Rinkeby test network. Thanks to TokenBridge technology, MOONS can be converted to xMOONs on the xDai chain, and used in other applications and for different use cases. In order to get xMOONs, you need to move tokens from your Reddit Vault and then transfer them to xDai. The [videos below ](xmoon-projects.md#moving-moons-to-xdai)show you how.
+Reddit MOON tokens are community currency for the r/cryptocurrency subreddit. They are currently minted and distributed on the Rinkeby test network. Thanks to TokenBridge technology, MOONS can be converted to xMOONs on the xDai chain, and used in other applications and for different use cases. In order to get xMOONs, you need to move tokens from your Reddit Vault and then transfer them to xDai. The [videos below ](xmoon-projects.md#moving-moons-to-xdai)show you how.
 
 A few applications for xMOONs have already been created, including the xMOON exchange by Austin Griffith and a Uniswap fork where xMOONs can be traded for xDai. Austin is currently working on an xMOON game as well.
 
@@ -22,20 +22,20 @@ A few applications for xMOONs have already been created, including the xMOON exc
 * Link:  [https://uniswap.1hive.org/swap](https://uniswap.1hive.org/swap)
 * The Uniswap v1 fork enables swapping of different assets on the xDai chain. Currently, xDai, xMOONs and HNY \(the 1hive governance currency\) are available on the platform, with more to come.
 
-_Note that the exchange requires 2 transactions, 1 to unlock tokens for the application, and a second to exchange value, send tokens or add liquidit_y.
+_Note that the exchange requires 2 transactions, 1 to unlock a token, and a second to exchange value, send tokens or add liquidit_y.
 
 ![](../../.gitbook/assets/xmoon-uniswap.png)
 
-## Moving MOONs to xDai
+## Moving MOONs to xDai xMOONs
 
-### 1. Move xMoons to MetaMask:
+### 1. Move Reddit MOONs to MetaMask:
 
 {% embed url="https://youtu.be/n5osHQxMaS0" %}
 
 * Reddit Moons Contract on Rinkeby: 0xDF82c9014F127243CE1305DFE54151647d74B27A 
 * Rinkeby Faucet: [https://faucet.rinkeby.io/](https://www.youtube.com/redirect?q=https%3A%2F%2Ffaucet.rinkeby.io%2F&redir_token=QUFFLUhqbnlQMDhXOXB0SWFOVmtsVGVKWVFBdU81T21PUXxBQ3Jtc0ttVVo0czNqZ3lOdU14enI2Um1XbUZtbHBwNldla0lxeTRHX1A5VFYyakJxU3dwZ1lzeFV1eGNZTlRQQ05xTzJiTkpmZEw0ZFVVTkV5Y0tOVGh4azJfYmdfc09Nd3RXWUEyVnV5dG42al8xY0FyMHJKMA%3D%3D&v=n5osHQxMaS0&event=video_description)
 
-### 2. Transfer MOONs from Rinkeby to xDai
+### 2. Transfer MOONs from Rinkeby to xMOONS on xDai
 
 There are a few ways to move MOONs between chains. You can use the xmoon.exchange application as described in the video above, or a Burner Wallet \(BW\) Plugin that we've developed to exchange tokens.
 
