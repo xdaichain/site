@@ -35,7 +35,7 @@ _Note that the exchange requires 2 transactions, 1 to unlock a token, and a seco
 * Reddit Moons Contract on Rinkeby: 0xDF82c9014F127243CE1305DFE54151647d74B27A 
 * Rinkeby Faucet: [https://faucet.rinkeby.io/](https://www.youtube.com/redirect?q=https%3A%2F%2Ffaucet.rinkeby.io%2F&redir_token=QUFFLUhqbnlQMDhXOXB0SWFOVmtsVGVKWVFBdU81T21PUXxBQ3Jtc0ttVVo0czNqZ3lOdU14enI2Um1XbUZtbHBwNldla0lxeTRHX1A5VFYyakJxU3dwZ1lzeFV1eGNZTlRQQ05xTzJiTkpmZEw0ZFVVTkV5Y0tOVGh4azJfYmdfc09Nd3RXWUEyVnV5dG42al8xY0FyMHJKMA%3D%3D&v=n5osHQxMaS0&event=video_description)
 
-### 2. Transform MOONs on Rinkeby into xMOONS on xDai
+### 2. Transfer MOONs on Rinkeby to xMOONS on xDai
 
 There are a few ways to move MOONs between chains. You can use the xmoon.exchange application as described in the video above, or a Burner Wallet \(BW\) Plugin that we've developed to exchange tokens.
 
