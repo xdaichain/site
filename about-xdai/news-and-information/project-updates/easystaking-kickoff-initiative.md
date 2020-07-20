@@ -2,11 +2,11 @@
 description: xDai Foundation will dedicate 100% of token unlocks through end of year
 ---
 
-# EasyStaking KickOff Initiative
+# EasyStaking Launch Initiative Update
 
 ![](../../../.gitbook/assets/red-blue-white-circle-french-bastille-day-twitter-post%20%281%29.png)
 
-## EasyStaking KickOff Initiative 
+## EasyStaking Initiative Update 
 
 ### xDai **F**oundation to bootstrap and provide ongoing support the EasyStaking protocol
 
@@ -19,15 +19,11 @@ The xDai community is growing, and we are 100% dedicated to supporting the commu
 
 ### What's next?
 
-EasyStaking is currently scheduled for a security audit with Quantstamp. Once the audit is complete, we will post a timeline for deployment and launch. On launch, stakers will be able to move their STAKE tokens into the protocol and immediately earn emissions. There is no minimum amount to stake \(well, it is 0.000000000000000001 STAKE!\) and no minimum unlock period, although staking for longer periods provides higher rewards.
+EasyStaking is currently completing a security audit with Quantstamp. Once the audit is finished, we will post a timeline for deployment and launch. On launch, stakers will be able to move their STAKE tokens into the protocol and immediately earn emissions. There is no minimum amount to stake \(well, it is 0.000000000000000001 STAKE!\) and no minimum unlock period, although staking for longer periods provides higher rewards.
 
 We will post tutorials on the process, but it is very intuitive to deposit and withdraw STAKE from the protocol. In addition, liquidity providers \(those who add STAKE to Uniswap\) will benefit from EasyStaking. See [EasyStaking](../../../for-stakers/easy-staking/) and [EasyStaking Parameters](../../../for-stakers/easy-staking/easy-staking-parameters.md) for more info. 
 
 As usage grows, we expect to integrate the staking protocol with additional ecosystem tools and DApps, including staking from hardware wallets and other integrations. 
 
 **Thank you to the excellent xDai Community for making this possible, we look forward to launching the protocol and staking with you soon!**
-
-
-
-
 
