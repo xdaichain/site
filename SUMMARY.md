@@ -32,6 +32,7 @@
   * [STAKE vs MKR](about-xdai/comparisons/stake-vs-mkr.md)
 * [News & Information](about-xdai/news-and-information/README.md)
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
+    * [EasyStaking KickOff Initiative](about-xdai/news-and-information/project-updates/easystaking-kickoff-initiative.md)
     * [Pre-Staking Program](about-xdai/news-and-information/project-updates/pre-staking-program.md)
     * [⚔️ xDai Weekly Recap - 17/07/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-17-07-2020.md)
     * [⚔️ xDai Weekly Recap - 10/07/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-10-07-2020.md)
