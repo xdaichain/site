@@ -103,7 +103,7 @@
   * [UI Preview](for-stakers/stake-and-staking/ui-preview.md)
 * [STAKE Staking Token](for-stakers/stake-token/README.md)
   * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
-    * [Claim STAKE: Private Investors & Advisors](for-stakers/stake-token/get-stake/claim-stake-pi.md)
+    * [Claim STAKE: Private Investors & Advisors](for-stakers/stake-token/get-stake/claim-stake.md)
     * [Manual Instructions - Private Investors](for-stakers/stake-token/get-stake/manual-instruction-private-investors.md)
     * [Manual Instructions - Advisors](for-stakers/stake-token/get-stake/manual-instructions-advisors.md)
     * [Add STAKE to MetaMask](for-stakers/stake-token/get-stake/add-stake-to-metamask.md)

@@ -8,7 +8,7 @@ description: 23 May 2020 - 29 May 2020
 
 ### ✅ Private investors receive 10% STAKE release and ongoing daily distributions begin
 
-Initial investors hold a total of 1,970,951 STAKE tokens. On May 27, 10% of this amount was released \(~ 197,095\). Each day for the next 224 days an additional 5,719.20 tokens will be released to private investors. Investors must [actively claim amounts](../../../for-stakers/stake-token/get-stake/claim-stake-pi.md) in order to receive them.
+Initial investors hold a total of 1,970,951 STAKE tokens. On May 27, 10% of this amount was released \(~ 197,095\). Each day for the next 224 days an additional 5,719.20 tokens will be released to private investors. Investors must [actively claim amounts](../../../for-stakers/stake-token/get-stake/claim-stake.md) in order to receive them.
 
 See [unlock dates and circulating supply](../../../for-stakers/stake-token/stake-token-distribution/unlock-dates-and-circulating-supply.md) for more details on upcoming releases \(next % release scheduled for July 22, 2020\)     
 

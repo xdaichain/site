@@ -29,7 +29,7 @@ Advisors
 ## MetaMask
 
 {% hint style="warning" %}
-If you have already setup MetaMask or other Web3Wallet with STAKE, skip to the [Token Withdrawal Section](claim-stake-pi.md#use-the-stake-token-withdrawal-dapp-to-transfer-stake-to-your-wallet)
+If you have already setup MetaMask or other Web3Wallet with STAKE, skip to the [Token Withdrawal Section](claim-stake.md#use-the-stake-token-withdrawal-dapp-to-transfer-stake-to-your-wallet)
 {% endhint %}
 
 {% hint style="info" %}
