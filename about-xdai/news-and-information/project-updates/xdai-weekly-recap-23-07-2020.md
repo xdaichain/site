@@ -16,7 +16,7 @@ To support the protocol, the xDai Foundation announced that all token releases t
 
 ### ✅ BitMax Stats Update
 
-Stake and stakers continue to increase in the [BitMax pre-staking StakeVault ](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047202914)program. As we approach the end of the current staking initiative on August 5, BitMax will inform users and stakers about staking options going forward. [View more pre-staking details here](pre-staking-program.md).
+Stake and stakers continue to increase in the [BitMax pre-staking StakeVault ](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047202914)program. As we approach the end of the current staking initiative on August 6, BitMax will inform users and stakers about staking options going forward. [View more pre-staking details here](pre-staking-program.md).
 
 ![](../../../.gitbook/assets/stake-chart%20%282%29.png)
 
