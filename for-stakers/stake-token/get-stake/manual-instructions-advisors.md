@@ -13,7 +13,7 @@ Advisors token contract
 * New funds available each day following for the next 252 days. To transfer any available funds, you must follow the withdrawal process \(pull strategy\).
 
 {% hint style="warning" %}
-If you have already setup MetaMask, skip to the [Manual Instructions]()
+If you have already setup MetaMask, skip to the [Manual Instructions](https://www.xdaichain.com/for-stakers/stake-token/get-stake/manual-instructions-advisors#manual-instructions-use-etherscan-to-transfer-stake-to-your-wallet)
 {% endhint %}
 
 ## MetaMask
