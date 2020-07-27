@@ -30,7 +30,7 @@ Unit Protocol is a new decentralized borrowing protocol designed to provide a lo
 
 ### ✅ Reddit Bake-Off Preview
 
-We have been working hard on the Reddit Bake-off challenge. In this short video, we provide a sneak-peak of our load script as 1400 Claim transactions \(simulating reddit users claiming MOON token distributions\) are processed in less than 2 minutes.  
+We have been working hard on the Reddit Bake-off challenge. In this short video, we provide a sneak-peak of our load script as 1400 Claim transactions \(simulating reddit users claiming MOON token distributions\) are processed in less than 2 minutes.
 
 {% embed url="https://youtu.be/Ot1BT1QjKNY" %}
 
