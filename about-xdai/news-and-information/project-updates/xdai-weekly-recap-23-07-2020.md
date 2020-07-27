@@ -8,9 +8,9 @@ description: 18 July 2020 - 23 July 2020
 
 ### ✅ Foundation and Advisor Token Releases: Foundation pledges 100% of token release until end of year to EasyStaking
 
-Tokens were released successfully for Advisors and Foundation as described in the [token release schedule](../../../for-stakers/stake-token/stake-token-distribution/token-release-schedule.md).  There will now be daily emissions for Foundation and Advisors  and circulating supply will adjust accordingly. You can view the current circulating supply on [CoinGecko](https://www.coingecko.com/en/coins/xdai-stake) or [CoinMarketCap](https://coinmarketcap.com/currencies/xdai/).
+Tokens were released successfully for Advisors and Foundation as described in the [token release schedule](../../../for-stakers/stake-token/stake-token-distribution/token-release-schedule.md).  There will now be daily emissions for Foundation and Advisors and circulating supply will adjust accordingly. You can view the current circulating supply at any time on [CoinGecko](https://www.coingecko.com/en/coins/xdai-stake) or [CoinMarketCap](https://coinmarketcap.com/currencies/xdai/).
 
-To support the protocol, the xDai Foundation announced that all token releases through the end of the year will be sent to EasyStaking. [Read more about this initiative here](easystaking-launch-initiative.md).
+To support the protocol, the xDai Foundation announced that all token releases through the end of the year will be sent to EasyStaking! [Read more about this initiative here](easystaking-launch-initiative.md).
 
 {% embed url="https://twitter.com/xdaichain/status/1285349014322307073" %}
 
@@ -28,17 +28,9 @@ Unit Protocol is a new decentralized borrowing protocol designed to provide a lo
 
 {% embed url="https://twitter.com/xdaichain/status/1285676935587287042" %}
 
-## 📰 Media & Events
+### ✅ Reddit Bake-Off Preview
 
-### ✅ Reddit Bake-Off End-of-Challenge Event
+We have been working hard on the Reddit Bake-off challenge. In this short video, we provide a sneak-peak of our load script as 1400 Claim transactions \(simulating reddit users claiming MOON token distributions\) are processed in less than 2 minutes.  
 
-xDai has been invited to participate in a virtual event on July 31, 2020 where Reddit Bake-off challenge participants will present on their L2 solutions for scaling Reddit Community Points. The event will be hosted by OMG Network in collaboration with Reddit and Ethereum Foundation and will feature a panel, Q&A and virtual table sessions. We are working hard on our solution and will be excited to present and showcase how scaling is ready now on xDai.  Stay tuned for more details.
-
-{% embed url="https://coinmarketcal.com/en/event/reddit-l2-solution-panel-38701" %}
-
-
-
-
-
-
+{% embed url="https://youtu.be/Ot1BT1QjKNY" %}
 
