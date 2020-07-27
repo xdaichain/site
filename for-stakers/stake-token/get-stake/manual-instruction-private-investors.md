@@ -13,7 +13,7 @@ Private investor token contract
 * New funds available 27.05.2020 \(10%\) and each day following for the next 224 days. To transfer any available funds, you must follow the withdrawal process \(pull strategy\).
 
 {% hint style="warning" %}
-If you have already setup MetaMask, skip to the [Manual Instructions]()
+If you have already setup MetaMask, skip to the [Manual Instructions](https://www.xdaichain.com/for-stakers/stake-token/get-stake/manual-instruction-private-investors#manual-instructions-use-etherscan-to-transfer-stake-to-your-wallet)
 {% endhint %}
 
 ## MetaMask
