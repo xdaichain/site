@@ -12,8 +12,6 @@ The organizations who believe in this project and have helped it grow are listed
 
 The community is thankful and appreciative of these organizations who have helped create, nurture and grow the one and only xDai stable chain.
 
-![](../../.gitbook/assets/ground-group-growth-hands-461049.jpg)
-
 {% hint style="success" %}
 To see a dynamic list of current validators, visit the [validator DApp](https://validators.poa.network/poa-dapps-validators) and select xDai Chain in the dropdown menu.  
   
