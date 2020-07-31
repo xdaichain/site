@@ -27,7 +27,7 @@ Here are a couple of previews of the new UI:
 
 ![EasyStaking Mobile Mockup Screen](../../../.gitbook/assets/ui-preview-2.png)
 
-## 👷♀ Integrations & Development
+## 👷♀ Integrations
 
 ### ✅ 1st KickBack Event on xDai
 
