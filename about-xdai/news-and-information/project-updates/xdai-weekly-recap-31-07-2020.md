@@ -6,7 +6,7 @@ description: 25 July 2020 - 31 July 2020
 
 ## 🥩 Staking & 🍰 Baking
 
-### ✅ Reddit Bakeoff Entry Submitted
+### ✅ The Great Reddit Scaling Bake-Off Entry Submitted
 
 Challenge accepted! We spent a good portion of July load testing, launching an experimental 1 second block network called qDai and working with the Splunk team to create a beautiful custom dashboard. Winners will be announced in September. Check out our entry - we’re happy to answer any questions or comments in the Reddit thread.
 
