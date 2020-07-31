@@ -39,7 +39,7 @@ Events can be related to anything \(crypto & non-crypto alike\), but participant
 
 ## 📰 Media
 
-### ✅ xDai & other sidechains added to L2 scaling solutions in EthHub Docs
+### ✅ xDai Sidechain added to L2 scaling solutions in EthHub Docs
 
 Sidechains are sometimes overlooked as an effective L2 scaling solution, but we know different here at xDai! Ethhub is a wiki of all essential Ethereum information, and sidechains are now added to the Layer 2 Scaling section. xDai and TokenBridge are both highlighted as examples.   
   
