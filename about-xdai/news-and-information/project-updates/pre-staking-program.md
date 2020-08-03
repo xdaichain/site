@@ -5,16 +5,31 @@ description: Participants can earn a 36.4% APR by participating in pre-staking d
 # Pre-Staking Program
 
 Stats from the  [BitMax Pre-staking program ](https://btmx.com/#/staking/details/STAKE-S)  
-_Last Update 17.07.2020_
+_Last Update 02.08.2020_
 
-![](../../../.gitbook/assets/stake-chart%20%281%29.png)
+![](../../../.gitbook/assets/chart-9-%20%282%29.png)
 
 ## Pre Staking STAKEtistics
+
+### August 2020
+
+| Date | STAKE amount pre-staked |
+| :--- | :--- |
+| 02.08.2020 | 1,004,645 |
+| 01.08.2020 | 1,007,967 |
 
 ### July 2020
 
 | Date | STAKE amount pre-staked |
 | :--- | :--- |
+| 31.07.2020 | 1,008,525 |
+| 30.07.2020 | 1,019,615 |
+| 29.07.2020 | 1,037,563 |
+| 28.07.2020 | 1,049,916 |
+| 27.07.2020 | 1,051,301 |
+| 26.07.2020 | 1,052,558 |
+| 25.07.2020 | 1,059,349 |
+| 24.07.2020 | 1,052,313 |
 | 23.07.2020 | 1,043,726 |
 | 22.07.2020 | 1,064,022 |
 | 21.07.2020 | 1,041,088 |
