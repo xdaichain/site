@@ -1,5 +1,13 @@
 # Security Audits
 
+## EasyStaking Audit by Quantstamp
+
+**Completed:** August 3, 2020
+
+**Conclusion:** All high/medium/low risk issues resolved.
+
+{% file src="../.gitbook/assets/xdai-easy-staking-final-report.pdf" caption="Easy Staking Final Audit Report by Quantstamp" %}
+
 ## TokenBridge Audit by Quantstamp \(covers xDai bridge functionality\)
 
 **Completed:** January 8, 2020
@@ -17,6 +25,7 @@
 #### **STAKE Token Distribution Audit**
 
 **Completed:** June 24, 2020  
+  
 **Conclusion**: No High or Medium risks, all low and informational risks addressed
 
 {% hint style="success" %}
@@ -28,7 +37,9 @@
 In the original audit,  the working name for the staking token was DPOS. This changed to STAKE.
 
 **DPOS Audit Completed:** September 5, 2019  
+  
 **Conclusion**: All risks resolved.   
+  
 **Contracts:** Version 1.0.1 addressed items in audit.  
 [https://github.com/xdaichain/stake-token/releases/tag/v1.0.1](https://github.com/xdaichain/stake-token/releases/tag/v1.0.1)
 
