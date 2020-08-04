@@ -59,7 +59,7 @@ Liquidity pool providers will also receive STAKE incentives from the Easy Stakin
  Here's an example of how it works for 👨🌾 Bob:
 
 1. 👨🌾 Bob acquires .3 ETH and 30 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. \(Model assumes .3 ETH and 30 STAKE have equivalent value\) 
-2. He goes to Uniswap \(v2\) and adds both into the STAKE/ETH liquidity pool. 
+2. He goes to Uniswap \(v2\) and adds both into the [STAKE/ETH liquidity pool](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7). 
 3. After some time, 👨🌾 Bob checks his address and sees that he has received an additional 51 STAKE directly to his wallet. He has received STAKE rewards \(at a very high % relative to his pool contribution\) thanks to 👩🎨 Mary ⤵ withdrawing money from Easy Staking.
 
 ## STAKE Distribution \(time-based only example\)
@@ -68,7 +68,7 @@ Liquidity pool providers will also receive STAKE incentives from the Easy Stakin
 
 Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once each day \(within 24-hour time slots at random intervals\) and distributes funds based on pool participation percentages.
 
-For simplicity, let's say only 👨🌾 Bob and 👨🍳 Roger were participating in the Uniswap LP. 👨🌾 Bob has .3 ETH/30 STAKE and 👨🍳 Roger has .1 ETH/10 STAKE in the pool when the distribution script is executed.  At this point, 👨🌾 Bob receives 375 STAKE \(75% of the STAKE in the LP distribution contract\) and 👨🍳 Roger 125 STAKE \(25%\) based on 👩🎨 Mary's withdrawal scenario above.
+For simplicity, let's say only 👨🌾 Bob and 👨🍳 Roger were participating in the Uniswap LP. 👨🌾Bob has .3 ETH/30 STAKE and 👨🍳 Roger has .1 ETH/10 STAKE in the pool when the distribution script is executed.  At this point, 👨🌾 Bob receives 375 STAKE \(75% of the STAKE in the LP distribution contract\) and 👨🍳 Roger 125 STAKE \(25%\) based on 👩🎨 Mary's withdrawal scenario above.
 
 In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract.  Distribution percentages will vary based on how much ETH exists in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
