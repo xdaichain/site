@@ -52,6 +52,8 @@ LPs receive APR rewards within 24 hours following a withdrawal \(\*[see below fo
 
 ## Liquidity Pool \(LP\) Participants
 
+* Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
+
 Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users who put funds into an ETH/STAKE liquidity pool on Uniswap will be eligible for these additional incentives.
 
  Here's an example of how it works for 👨🌾 Bob:
