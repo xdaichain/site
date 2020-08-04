@@ -45,30 +45,32 @@ Stakers and Liquidity Providers each receive portions of the emission based on h
 | 9 Months | 9.16% APR | 15 - 9.16 = 5.84% APR |
 
 {% hint style="info" %}
-As well as functioning as a stand-alone application, Easy Staking may be integrated into hardware wallets or other apps. We are exploring different use-cases.
+As well as functioning as a stand-alone application, Easy Staking may be integrated into hardware wallets and other applications.
+
+LPs receive APR rewards within 24 hours following a withdrawal \(\*[see below for details](./#stake-lp-distribution-script)\)
 {% endhint %}
 
 ## Liquidity Pool \(LP\) Participants
 
-Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users put funds into a Dai/STAKE liquidity pool on Uniswap will be eligible for these additional incentives.
+Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users who put funds into an ETH/STAKE liquidity pool on Uniswap will be eligible for these additional incentives.
 
- Here's an example of how it works for Bob:
+ Here's an example of how it works for 👨🌾 Bob:
 
-1. Bob acquires 75 Dai and 30 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. \(Model assumes 75 Dai and 30 STAKE have equivalent value\) 
-2. He goes to Uniswap \(v2\) and adds both into the STAKE/Dai liquidity pool. 
-3. After some time, Bob checks his address and sees that he has received an additional 51 STAKE directly to his wallet. He has received STAKE rewards \(at a very high % relative to his pool contribution\) thanks to Mary withdrawing money from Easy Staking.
+1. 👨🌾 Bob acquires .3 ETH and 30 STAKE by trading on [Uniswap](https://uniswap.exchange/swap), purchasing on [BitMax](https://bitmax.io/), or through some other means. \(Model assumes .3 ETH and 30 STAKE have equivalent value\) 
+2. He goes to Uniswap \(v2\) and adds both into the STAKE/ETH liquidity pool. 
+3. After some time, 👨🌾 Bob checks his address and sees that he has received an additional 51 STAKE directly to his wallet. He has received STAKE rewards \(at a very high % relative to his pool contribution\) thanks to 👩🎨 Mary ⤵ withdrawing money from Easy Staking.
 
-## STAKE distribution \(time-based only example\)
+## STAKE Distribution \(time-based only example\)
 
-Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request. Assume APR is 10%. Since she deposited 10000 STAKE and staked for 1 year, Mary receives 11000 STAKE \(her initial amount + 10% APR\).  The remaining 500 STAKE \(5% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
+👩🎨 Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request. Assume APR is 10%. Since she deposited 10000 STAKE and staked for 1 year, 👩🎨 Mary receives 11000 STAKE \(her initial amount + 10% APR\).  The remaining 500 STAKE \(5% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
 
 Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once each day \(within 24-hour time slots at random intervals\) and distributes funds based on pool participation percentages.
 
-For simplicity, let's say only Bob and Roger were participating in the Uniswap LP. Bob has 75 Dai/30 STAKE and Roger has 25 Dai/10 STAKE in the pool when the distribution script is executed.  At this point, Bob receives 375 STAKE \(75% of the STAKE in the LP distribution contract\) and Roger 125 STAKE \(25%\) based on Mary's withdrawal scenario above.
+For simplicity, let's say only 👨🌾 Bob and 👨🍳 Roger were participating in the Uniswap LP. 👨🌾 Bob has .3 ETH/30 STAKE and 👨🍳 Roger has .1 ETH/10 STAKE in the pool when the distribution script is executed.  At this point, 👨🌾 Bob receives 375 STAKE \(75% of the STAKE in the LP distribution contract\) and 👨🍳 Roger 125 STAKE \(25%\) based on 👩🎨 Mary's withdrawal scenario above.
 
-In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract.  Distribution percentages will vary based on how much Dai exists in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
+In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract.  Distribution percentages will vary based on how much ETH exists in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
-## STAKE LP distribution script
+## STAKE LP Distribution Script
 
 Distributions to LP participants occur once within a 24-hour window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
 
@@ -80,5 +82,5 @@ More liquidity pools with different asset bases may be added in the future, and 
 
 ## How to Participate
 
-We will provide detailed instructions once the protocol is finalized.  We continue to refine the UI, and are starting to incorporate a calculator and a dynamic reward display.
+Instructions released shortly.
 
