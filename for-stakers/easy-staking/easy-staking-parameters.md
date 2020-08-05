@@ -1,9 +1,5 @@
 # EasyStaking Parameters
 
-{% hint style="warning" %}
-Current parameters subject to change.
-{% endhint %}
-
 <table>
   <thead>
     <tr>
@@ -12,11 +8,6 @@ Current parameters subject to change.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td style="text-align:left">Github Repository</td>
-      <td style="text-align:left"><a href="https://github.com/xdaichain/easy-staking-contracts">https://github.com/xdaichain/easy-staking-contracts</a>
-      </td>
-    </tr>
     <tr>
       <td style="text-align:left">Front-end Application</td>
       <td style="text-align:left"><a href="https://easy-staking.xdaichain.com/">https://easy-staking.xdaichain.com</a>
@@ -93,8 +84,17 @@ Current parameters subject to change.
       <td style="text-align:left">The withdrawal window is open and a scheduled withdrawal is available
         for processing. Users can enter the amount to withdraw and claim.</td>
     </tr>
+    <tr>
+      <td style="text-align:left">Github Repository</td>
+      <td style="text-align:left"><a href="https://github.com/xdaichain/easy-staking-contracts">https://github.com/xdaichain/easy-staking-contracts</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
 _\*configurable_
+
+{% hint style="warning" %}
+Current parameters subject to change.
+{% endhint %}
 

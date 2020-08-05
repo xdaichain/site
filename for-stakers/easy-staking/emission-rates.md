@@ -2,7 +2,7 @@
 
 STAKE Emissions are minted at a total of 15% APR. Emissions are split between Stakers and Liquidity Providers \(LP\). Two factors determine the % accrued for each group.
 
-* **Time-based**: 7.5% total APR, split between Stakers and LPs. The amount of time an individual deposit has been staked in Easy Staking. A longer staking time for a deposit results in a higher APR for the Staker. Rewards for Stakers increase rapidly during the first several months and level out over time as they approach the 7.5% max. 
+* **Time-based**: 7.5% total APR, split between Stakers and LPs. The amount of time an individual deposit has been staked in Easy Staking. A longer staking time for a deposit results in a higher APR for the Staker. Rewards for Stakers increase rapidly during the first several months and level out over time as they approach the 7.5% max based on a [sigmoid function](https://www.desmos.com/calculator/2xtimbnzqw). 
 * **Supply-based**: 7.5% total APR, split between Stakers and LPs. The total amount of STAKE in the pool from all Stakers. Larger amounts result in a higher APR for Stakers. Rewards increase in relation to the total amount staked vs the total supply \(or by a factor between 0% and 100% of the total supply \(`totalSupplyFactor`\) if STAKE supply is a lot more than all STAKE holders currently have\).
 
 ## Examples
