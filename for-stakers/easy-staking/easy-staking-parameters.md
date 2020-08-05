@@ -82,7 +82,8 @@
     <tr>
       <td style="text-align:left">Eligible for Withdrawal</td>
       <td style="text-align:left">The withdrawal window is open and a scheduled withdrawal is available
-        for processing. Users can enter the amount to withdraw and claim.</td>
+        for processing. This occurs after 12 hours and eligibility remains for
+        12 hours. Users can enter the amount to withdraw and claim.</td>
     </tr>
     <tr>
       <td style="text-align:left">Github Repository</td>
