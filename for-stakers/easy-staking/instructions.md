@@ -22,6 +22,10 @@ Check estimated emissions with the UI calculator and make a deposit from the dep
 
 ## Initiate a Withdrawal
 
+{% embed url="https://youtu.be/B4tEyNlqLLE" %}
+
+### Withdrawal Screenshots
+
 Access withdrawals by clicking on details for any deposit. 
 
 ![](../../.gitbook/assets/deets-1.png)
@@ -32,8 +36,6 @@ There are two types of withdrawals - Instant and Scheduled. Select the type you 
 2. An **instant withdrawal** is processed immediately and you are assessed a small fee \(2%\) to withdraw.
 
 ![](../../.gitbook/assets/deets2.png)
-
-_&lt;video for withdrawal process coming soon&gt;_
 
 ## Liquidity Providers
 
