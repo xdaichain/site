@@ -1,11 +1,7 @@
----
-description: In process
----
-
 # EasyStaking Parameters
 
 {% hint style="warning" %}
-Easy Staking is currently under construction and undergoing significant modifications. A demo app is deployed on Kovan for testing purposes. Current parameters subject to change.
+Current parameters subject to change.
 {% endhint %}
 
 <table>
@@ -23,7 +19,7 @@ Easy Staking is currently under construction and undergoing significant modifica
     </tr>
     <tr>
       <td style="text-align:left">Front-end Application</td>
-      <td style="text-align:left"><a href="https://easy-staking.herokuapp.com/">https://easy-staking.herokuapp.com/</a>
+      <td style="text-align:left"><a href="https://easy-staking.xdaichain.com/deposits">https://easy-staking.xdaichain.com</a>
       </td>
     </tr>
     <tr>
@@ -45,39 +41,39 @@ Easy Staking is currently under construction and undergoing significant modifica
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Fee</td>
       <td style="text-align:left">
-        <p>0% + ETH gas fees. Requires 2 transactions</p>
-        <p>1. Prepare withdrawal
+        <p>0% + ETH gas fees. Requires 2 transactions:</p>
+        <p>1. Prepare withdrawal.
           <br />2. Process during the scheduled withdrawal window.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Availability</td>
-      <td style="text-align:left">After 12 hours, funds are available to withdraw during the scheduled withdrawal
-        window (also 12 hours). STAKE price is the price when withdrawn, not price
-        when withdrawal is scheduled.</td>
+      <td style="text-align:left">12 hours* after request, funds are available to withdraw during the scheduled
+        withdrawal window (also 12 hours*). STAKE price is the price when withdrawn,
+        not price when withdrawal is scheduled.</td>
     </tr>
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Window</td>
-      <td style="text-align:left">12 hours. Scheduled withdrawals are available to pull within this time
+      <td style="text-align:left">12 hours*. Scheduled withdrawals are available to pull within this time
         period. If not withdrawn, they are returned to the protocol. <b>APR is not reset if returned</b>,
         funds continue to accrue emissions as before.</td>
     </tr>
     <tr>
       <td style="text-align:left">Staking APR</td>
-      <td style="text-align:left">
-        <p>Up to 15%* APR based on 2 factors.
-          <br />1. amount of time STAKE is locked in protocol (up to 7.5% based on sigmoid
-          function)
-          <br />2. total amount staked by all participants (up to 7.5%, based on a linear
-          function)</p>
-        <p><em>&lt;link to sigmoid functions when finalized&gt;</em>
-        </p>
-      </td>
+      <td style="text-align:left">Up to 15% APR based on 2 factors.
+        <br />1. amount of time STAKE is locked in protocol (up to 7.5% based on sigmoid
+        function <a href="https://www.desmos.com/calculator/2xtimbnzqw">https://www.desmos.com/calculator/2xtimbnzqw</a>)
+        <br
+        />2. total amount staked by all participants (up to 7.5%, based on a linear
+        function)</td>
     </tr>
     <tr>
       <td style="text-align:left">Multiple Deposits</td>
-      <td style="text-align:left">Supported. <b>Each deposit event creates a separate deposit ID, you cannot manually add additional STAKE to a current deposit, a new ID is created for each deposit</b>.
-        Emission is accrued from time of deposit for each ID.</td>
+      <td style="text-align:left">Supported. <b>Each deposit event creates a new deposit ID</b>. You can
+        manually add additional STAKE to a current deposit using the <a href="https://github.com/xdaichain/easy-staking-contracts/blob/d5a477e4faf83d33901737cb461e97954ac4c1ec/contracts/EasyStaking.sol#L223"><code>deposit(uint256 _depositId, uint256 _amount)</code></a> function
+        of the EasyStaking contract. UI doesn&apos;t support replenishing existing
+        deposits but allows to create multiple deposits. Emission is accrued from
+        time of deposit for each ID.</td>
     </tr>
     <tr>
       <td style="text-align:left">Partial Withdrawals</td>
