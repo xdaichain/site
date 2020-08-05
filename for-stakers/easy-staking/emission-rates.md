@@ -1,13 +1,13 @@
 # Emission Rates
 
-STAKE Emissions are minted at a total of 15% APR\*. Emissions are split between Stakers and Liquidity Pool \(LP\) Providers. Two factors determine the % accrued for each group.
+STAKE Emissions are minted at a total of 15% APR. Emissions are split between Stakers and Liquidity Providers \(LP\). Two factors determine the % accrued for each group.
 
 * **Time-based**: 7.5% total APR, split between Stakers and LPs. The amount of time an individual deposit has been staked in Easy Staking. A longer staking time for a deposit results in a higher APR for the Staker. Rewards for Stakers increase rapidly during the first several months and level out over time as they approach the 7.5% max. 
-* **Supply-based**: 7.5% total APR, split between Stakers and LPs. The total amount of STAKE in the pool from all Stakers. Larger amounts result in a higher APR for Stakers. Rewards increase in relation to the total amount staked vs the total supply \(or by a factor of the total supply \(`totalSupplyFactor` \) if STAKE supply is limited\)
+* **Supply-based**: 7.5% total APR, split between Stakers and LPs. The total amount of STAKE in the pool from all Stakers. Larger amounts result in a higher APR for Stakers. Rewards increase in relation to the total amount staked vs the total supply \(or by a factor between 0% and 100% of the total supply \(`totalSupplyFactor`\) if STAKE supply is a lot more than all STAKE holders currently have\).
 
 ## Examples
 
-If a scheduled \(timed\) withdrawal with 0% fee occurs at the time-based point, the following rewards apply. If an instant withdrawal is processed, a fee is assessed on the total amount \(deposit + emissions\) and sent to the Liquidity Pool address prior to withdrawal.
+If a scheduled \(timed\) withdrawal with 0% fee occurs at the time-based point, the following rewards apply. If an instant withdrawal is processed, a fee is assessed on the total amount \(deposit + emissions\) and sent to the Liquidity Providers contract address prior to withdrawal.
 
 <table>
   <thead>
@@ -23,7 +23,7 @@ If a scheduled \(timed\) withdrawal with 0% fee occurs at the time-based point, 
         <br />sb
         <br />APR</th>
       <th style="text-align:left">Staker Receives</th>
-      <th style="text-align:left">LP Receives</th>
+      <th style="text-align:left">LPs Receive</th>
     </tr>
   </thead>
   <tbody>
@@ -41,7 +41,7 @@ If a scheduled \(timed\) withdrawal with 0% fee occurs at the time-based point, 
         </p>
       </td>
       <td style="text-align:left">
-        <p>6.49 STAKE
+        <p>6.59 STAKE
           <br />
         </p>
         <p><code>1000 * (15-(4.53 + 1.875)) / 100 * 28 / 365</code>
@@ -58,11 +58,11 @@ If a scheduled \(timed\) withdrawal with 0% fee occurs at the time-based point, 
         <td style="text-align:left">
           <p>64.04 STAKE</p>
           <p></p>
-          <p><code>5000 * (5.99 + 3.75) / 100 * 48 / 365 = 64.04 STAKE</code>
+          <p><code>5000 * (5.99 + 3.75) / 100 * 48 / 365</code>
           </p>
         </td>
         <td style="text-align:left">
-          <p>34.59 STAKE</p>
+          <p>34.58 STAKE</p>
           <p></p>
           <p><code>5000 * (15-(5.99 + 3.75)) / 100 * 48 / 365</code>
           </p>
