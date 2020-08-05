@@ -40,8 +40,6 @@ Stakers and Liquidity Providers each receive portions of the emission based on h
 
 {% hint style="info" %}
 As well as functioning as a stand-alone application, Easy Staking may be integrated into hardware wallets and other applications.
-
-LPs receive APR rewards within 24 hours following a withdrawal \(\*[see below for details](./#stake-lp-distribution-script)\)
 {% endhint %}
 
 ## Liquidity Pool \(LP\) Participants
@@ -60,7 +58,7 @@ Liquidity pool providers will also receive STAKE incentives from the Easy Stakin
 
 👩🎨 Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request. Assume APR is 10%. Since she deposited 10000 STAKE and staked for 1 year, 👩🎨 Mary receives 11000 STAKE \(her initial amount + 10% APR\).  The remaining 500 STAKE \(5% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
 
-Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once each day \(within 24-hour time slots at random intervals\) and distributes funds based on pool participation percentages.
+Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once a week \(within 7-day time slots at random intervals\) and distributes funds based on pool participation percentages.
 
 For simplicity, let's say only 👨🌾 Bob and 👨🍳 Roger were participating in the Uniswap LP. 👨🌾Bob has .3 ETH/30 STAKE and 👨🍳 Roger has .1 ETH/10 STAKE in the pool when the distribution script is executed.  At this point, 👨🌾 Bob receives 375 STAKE \(75% of the STAKE in the LP distribution contract\) and 👨🍳 Roger 125 STAKE \(25%\) based on 👩🎨 Mary's withdrawal scenario above.
 
@@ -68,9 +66,9 @@ In this example, this reward APR%  for Bob and Roger is very high, much more tha
 
 ## STAKE LP Distribution Script
 
-Distributions to LP participants occur once within a 24-hour window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
+Distributions to LP participants occur once within a 7-day window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
 
-The distribution script will run on a centralized server, and its results can be checked for bias or inaccuracy by any interested party. If the server is compromised, max losses are contained to 1 day of accrued interest from Easy Staking withdrawals. A multi-signature wallet will control Easy Staking parameters, including the address which calls distributions. If issues arise, this address may be changed through the multi-sig process.
+The distribution script will run on a centralized server, and its results can be checked for bias or inaccuracy by any interested party. A multi-signature wallet will control Easy Staking parameters, including the address which calls distributions. If issues arise, this address may be changed through the multi-sig process.
 
 Easy staking is non-custodial, no funds are collected and 100% of accumulated rewards are distributed to Easy Staking participants and LP participants.
 
