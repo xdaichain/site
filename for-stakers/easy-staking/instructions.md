@@ -44,7 +44,7 @@ More details about liquidity provider rewards are available on the [EasyStaking 
 ## Staking from a wallet without the UI
 
 {% hint style="info" %}
-We recommend users use the UI for EasyStaking - method below is available for contracts.
+We recommend users use the UI for EasyStaking - method below is available for contract interaction and other integrations.
 {% endhint %}
 
 You can transact with the EasyStaking proxy contract directly by sending STAKE to `0xecbCd6D7264e3c9eAc24C7130Ed3cd2B38F5A7AD`  . Once your transaction is approved, you can connect your wallet to the Easy Staking UI to view staking details.
