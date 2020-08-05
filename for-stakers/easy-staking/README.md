@@ -1,7 +1,3 @@
----
-description: The EasyStaking application is in active development
----
-
 # EasyStaking
 
 ## EasyStaking
@@ -25,24 +21,22 @@ Easy Staking allows users to place STAKE into a contract and receive STAKE emiss
 * Provides staking opportunities with no minimum STAKE requirements to participate
 * Limits total circulating supply
 
-Total STAKE Emissions are minted at a total of 15% APR\*. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and provisioned to based on two parameters:
+Total STAKE Emissions are minted at a total of 15% APR. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and provisioned to based on two parameters:
 
 * **Time**: 7.5% APR. The amount of time STAKE has been committed to the protocol. Longer staking times result in a higher APR for the Staker.
 * **Total Staked Amount**: 7.5% APR. The total amount in the pool from all Stakers and other contributors. Larger stakes result in a higher APR for all Stakers. More staked amount = higher rewards.
 
-![Sigmoid function for determining time-based APR. The parameters a,b,c will be defined before App launching.](../../.gitbook/assets/sigmoid-1.png)
+![Sigmoid function for determining time-based APR.](../../.gitbook/assets/sigmoid_with_parameters.png)
 
 Stakers and Liquidity Providers each receive portions of the emission based on how long a Staker decides to keep STAKE in the application and the total amount Staked. Longer staking times benefit the Staker, and shorter staking periods benefit Liquidity Providers.
-
-\*_Example APR. We are currently testing different emission models_
 
 ## Time-based Emission Example
 
 | Example Staking Time | Staker | Liquidity Providers |
 | :--- | :--- | :--- |
-| 1 Month | 6.36% APR | 15 - 6.36 = 8.64% APR |
-| 4 Months | 8.96% APR | 15 - 8.96 = 6.04% APR |
-| 9 Months | 9.16% APR | 15 - 9.16 = 5.84% APR |
+| 1 Month | 5.02% APR | 15 - 5.02 = 9.98% APR |
+| 4 Months | 7.44% APR | 15 - 7.44 = 7.56% APR |
+| 9 Months | 7.70% APR | 15 - 7.70 = 7.30% APR |
 
 {% hint style="info" %}
 As well as functioning as a stand-alone application, Easy Staking may be integrated into hardware wallets and other applications.
