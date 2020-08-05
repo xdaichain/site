@@ -6,6 +6,8 @@
 
 {% hint style="success" %}
 See our [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md) to learn how the xDai Foundation will help bootstrap the launch.
+
+See the [Instructions](untitled.md) to get started.
 {% endhint %}
 
 {% hint style="info" %}
@@ -74,7 +76,7 @@ More liquidity pools with different asset bases may be added in the future, and 
 
 ## How to Participate
 
-Instructions released shortly.
+The [instructions page](untitled.md) covers the basics.
 
 {% hint style="warning" %}
 Mechanics and details are subject to change.
