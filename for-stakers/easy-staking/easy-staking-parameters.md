@@ -19,7 +19,7 @@ Current parameters subject to change.
     </tr>
     <tr>
       <td style="text-align:left">Front-end Application</td>
-      <td style="text-align:left"><a href="https://easy-staking.xdaichain.com/deposits">https://easy-staking.xdaichain.com</a>
+      <td style="text-align:left"><a href="https://easy-staking.xdaichain.com/">https://easy-staking.xdaichain.com</a>
       </td>
     </tr>
     <tr>
