@@ -60,12 +60,14 @@ Current parameters subject to change.
     </tr>
     <tr>
       <td style="text-align:left">Staking APR</td>
-      <td style="text-align:left">Up to 15% APR based on 2 factors.
-        <br />1. amount of time STAKE is locked in protocol (up to 7.5% based on sigmoid
-        function <a href="https://www.desmos.com/calculator/2xtimbnzqw">https://www.desmos.com/calculator/2xtimbnzqw</a>)
-        <br
-        />2. total amount staked by all participants (up to 7.5%, based on a linear
-        function)</td>
+      <td style="text-align:left">Up to 15% APR based on 2 factors:
+        <br />1. Amount of time STAKE is locked in protocol (up to 7.5% based on a
+        <a
+        href="https://www.desmos.com/calculator/2xtimbnzqw">sigmoid function</a>). Sigmoid parameters*: a = 75000000000000000, b =
+          0, c = 10000000000000.
+          <br />2. STAKE <code>totalSupply</code> multiplied by <code>totalSupplyFactor</code> (which
+          is 50%*), and the total amount staked by all participants. Up to 7.5%,
+          based on a <a href="https://github.com/xdaichain/easy-staking-contracts/blob/d5a477e4faf83d33901737cb461e97954ac4c1ec/contracts/EasyStaking.sol#L440">linear function</a>.</td>
     </tr>
     <tr>
       <td style="text-align:left">Multiple Deposits</td>
