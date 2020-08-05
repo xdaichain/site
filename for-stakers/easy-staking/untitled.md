@@ -31,19 +31,19 @@ There are two types of withdrawals - Instant and Scheduled. Select the type you 
 
 ![](../../.gitbook/assets/deets2.png)
 
-_&lt;video for withdrawal in process&gt;_
-
-## Staking from a wallet without the UI
-
-You can transact with the EasyStaking proxy contract directly by sending STAKE to `0xecbCd6D7264e3c9eAc24C7130Ed3cd2B38F5A7AD`  . Once your transaction is approved, you can connect your wallet to the Easy Staking UI to view staking details.
-
-_Note: Only send STAKE tokens to this address_
+_&lt;video for withdrawal process coming soon&gt;_
 
 ## Liquidity Providers
 
 If you are interested in supplying Liquidity in the form of STAKE / ETH and earning staking rewards as an LP, you can add liquidity to the Uniswap pool here: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
 
 More details about liquidity provider rewards are available on the [EasyStaking page](./#liquidity-pool-lp-participants). 
+
+## Staking from a wallet without the UI
+
+You can transact with the EasyStaking proxy contract directly by sending STAKE to `0xecbCd6D7264e3c9eAc24C7130Ed3cd2B38F5A7AD`  . Once your transaction is approved, you can connect your wallet to the Easy Staking UI to view staking details.
+
+_Note: Only send STAKE tokens to this address_
 
 {% hint style="warning" %}
 Instructions are in process for additional functionality such as using a Gnosis Multi-sig wallet. For more details about Easy Staking, please see the [EasyStaking page](./) and the [Parameters page](easy-staking-parameters.md).
