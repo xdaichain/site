@@ -100,6 +100,10 @@
 
 ## For Stakers
 
+* [EasyStaking](for-stakers/easy-staking/README.md)
+  * [Instructions](for-stakers/easy-staking/untitled.md)
+  * [Emission Rates](for-stakers/easy-staking/emission-rates.md)
+  * [EasyStaking Parameters](for-stakers/easy-staking/easy-staking-parameters.md)
 * [Staking Roadmap](for-stakers/stake-and-staking/README.md)
   * [Pre-Staking Program](for-stakers/stake-and-staking/pre-staking-program.md)
   * [UI Preview](for-stakers/stake-and-staking/ui-preview.md)
@@ -119,10 +123,6 @@
     * [Chai FAQs](for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md)
   * [EXIT Token](for-stakers/stake-reward-mechanics/exit-reward-token/README.md)
     * [EXIT FAQs](for-stakers/stake-reward-mechanics/exit-reward-token/exit-faqs.md)
-* [EasyStaking](for-stakers/easy-staking/README.md)
-  * [Instructions](for-stakers/easy-staking/untitled.md)
-  * [Emission Rates](for-stakers/easy-staking/emission-rates.md)
-  * [EasyStaking Parameters](for-stakers/easy-staking/easy-staking-parameters.md)
 * [Staking Protocol / Tutorials](for-stakers/staking-protocol/README.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
     * [Protocol Related Terms](for-stakers/staking-protocol/terminology/protocol-terms.md)
