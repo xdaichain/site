@@ -6,6 +6,8 @@ description: Basic Instructions
 
 {% hint style="success" %}
 Easy Staking is now available for stakers at [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/)
+
+Launch details: [https://t.me/xdai\_official/160](https://t.me/xdai_official/160)
 {% endhint %}
 
 To begin, enable your web3wallet \(such as [MetaMask](https://metamask.io/) or [NiftyWallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid)\) with an address that contains both ETH \(for gas fees\) and STAKE \(for staking\). If you've sent STAKE to your wallet address but it is not showing up, [add STAKE as a custom token](../stake-token/get-stake/add-stake-to-metamask.md). Then connect your wallet to the application.
@@ -40,6 +42,10 @@ If you are interested in supplying Liquidity in the form of STAKE / ETH and earn
 More details about liquidity provider rewards are available on the [EasyStaking page](./#liquidity-pool-lp-participants). 
 
 ## Staking from a wallet without the UI
+
+{% hint style="info" %}
+We recommend users use the UI for EasyStaking - method below is available for contracts.
+{% endhint %}
 
 You can transact with the EasyStaking proxy contract directly by sending STAKE to `0xecbCd6D7264e3c9eAc24C7130Ed3cd2B38F5A7AD`  . Once your transaction is approved, you can connect your wallet to the Easy Staking UI to view staking details.
 
