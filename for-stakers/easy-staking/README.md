@@ -64,7 +64,7 @@ Distribution to LP participants occurs through a script which collects addresses
 
 For simplicity, let's say only 👨🌾 Bob and 👨🍳 Roger were participating in the Uniswap LP. 👨🌾Bob has .3 ETH/30 STAKE and 👨🍳 Roger has .1 ETH/10 STAKE in the pool when the distribution script is executed.  At this point, 👨🌾 Bob receives 375 STAKE \(75% of the STAKE in the LP distribution contract\) and 👨🍳 Roger 125 STAKE \(25%\) based on 👩🎨 Mary's withdrawal scenario above.
 
-In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract.  Distribution percentages will vary based on how much ETH exists in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
+In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract. Distribution percentages will vary based on how much ETH and STAKE exist in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
 ## STAKE LP Distribution Script
 
