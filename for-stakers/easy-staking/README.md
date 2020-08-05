@@ -5,14 +5,12 @@
 {% embed url="https://easy-staking.xdaichain.com/" %}
 
 {% hint style="success" %}
-See our [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md) to learn how the xDai Foundation will help bootstrap the launch.
-
-See the [Instructions](untitled.md) to get started.
+* [Instructions](untitled.md) on how to use the EasyStaking application.
+* [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
+* Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md).
 {% endhint %}
 
-{% hint style="info" %}
-See [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
-{% endhint %}
+## What is Easy Staking?
 
 Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on Ethereum. It provides an accessible staking mechanism for users and increases STAKE utility and DeFi composability. EasyStaking also:
 
