@@ -5,7 +5,7 @@
 {% embed url="https://easy-staking.xdaichain.com/" %}
 
 {% hint style="success" %}
-* [Instructions](untitled.md) on how to use the EasyStaking application.
+* [Instructions](instructions.md) on how to use the EasyStaking application.
 * [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
 * Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md).
 {% endhint %}
@@ -74,7 +74,7 @@ More liquidity pools with different asset bases may be added in the future, and 
 
 ## How to Participate
 
-The [instructions page](untitled.md) covers the basics.
+The [instructions page](instructions.md) covers the basics.
 
 {% hint style="warning" %}
 Mechanics and details are subject to change.

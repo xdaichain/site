@@ -101,7 +101,7 @@
 ## For Stakers
 
 * [EasyStaking](for-stakers/easy-staking/README.md)
-  * [Instructions](for-stakers/easy-staking/untitled.md)
+  * [Instructions](for-stakers/easy-staking/instructions.md)
   * [Emission Rates](for-stakers/easy-staking/emission-rates.md)
   * [EasyStaking Parameters](for-stakers/easy-staking/easy-staking-parameters.md)
 * [Staking Roadmap](for-stakers/stake-and-staking/README.md)
