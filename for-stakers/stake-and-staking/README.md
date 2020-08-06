@@ -2,7 +2,7 @@
 description: POSDAO enables staking on the xDai chain
 ---
 
-# Staking Roadmap
+# POSDAO Staking Roadmap
 
 The xDai Chain is transitioning to POSDAO, a Proof of Stake consensus protocol. POSDAO will introduce a staking token called STAKE. Individuals who own STAKE may become validators or may delegate their stake to validator candidates to secure the xDai chain. Validators and delegators \(stakers\) will receive rewards in exchange for providing STAKE.
 
@@ -43,7 +43,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
         </ul>
       </td>
       <td style="text-align:left">Anticipated:
-        <br />Q3 2020</td>
+        <br />Q3-Q4 2020</td>
     </tr>
     <tr>
       <td style="text-align:left">3) <a href="./#phase-3-honeybadger-bft-consensus-layer-integration">HoneyBadger BFT Consensus Layer Integration</a>
@@ -110,7 +110,7 @@ The EasyStaking application will be deployed to the Ethereum Mainnet, and will a
 | Task | Date |
 | :--- | :--- |
 | [Pre-staking on BitMax](https://btmx.com/#/staking/details/STAKE-S) | 05/05/2020 |
-| EasyStaking | TBD |
+| [EasyStaking](../easy-staking/) | 05/08/2020 |
 | Open bi-directional STAKE bridge | TBD |
 | Enable staking for new validator candidates | TBD  |
 | Enable public delegation | TBD  |

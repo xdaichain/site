@@ -8,7 +8,7 @@ description: Current & Future Directions for the xDai Stable Chain
 The xDai roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
 {% endhint %}
 
-_Last update: 28.05.2020 \|_ [_Changelog_](roadmap.md#change-log)\_\_
+_Last update: 06.08.2020 \|_ [_Changelog_](roadmap.md#change-log)\_\_
 
 ## Fiat to xDai Onramp
 
@@ -60,16 +60,44 @@ xDai will upgrade to a Proof of Stake model in several phases. In the first phas
 
 For more information on this transition, see the [staking roadmap](../for-stakers/stake-and-staking/).
 
+## EasyStaking STAKE on Ethereum
+
+🎯 **Target Date**: Q3 2020  
+✅ **Status**: Completed 08/05/2020
+
+[Easy Staking](../for-stakers/easy-staking/) provides an alternative interest-earning application for [STAKE ](../for-stakers/stake-token/)token holders. Users can deposit STAKE tokens deployed on the Ethereum mainnet and earn a pre-determined interest rate without bridging to xDai and with no minimum STAKE amount requirements. Rewards are split among Liquidity Providers and protocol stakers.
+
+Easy Staking serves to reduce the overall amount of STAKE in active circulation and acts as a mechanism to limit available liquidity and supply. Limited supply in the open market increases security for POSDAO chains such as the xDai stable chain.
+
+## EasyStaking Liquidity Pool Analytics
+
+🎯 **Target Date**: Q3 2020  
+☑ **Status:** In process
+
+EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the EasyStaking protocol. [Rewards fluctuate based on numerous factors](../for-stakers/easy-staking/#liquidity-pool-lp-participants), and additional analytics and dashboards for LPs will be useful for determining staking strategies, reviewing historical outcomes and viewing current statistics. 
+
+We will integrate statistics views on the EasyStaking platform as well as develop additional analytics tools \(currently exploring options like Dune Analytics & Graphana\) for LPs.
+
+## Multi-Token Bridge
+
+🎯 **Target Date**: Q3 2020  
+☑ **Status:** In process
+
+Universal mediators will support transfers for virtually any ERC20 token to the xDai chain with no additional contract deployment. This will lower the barrier-to-entry for projects and DApps looking to move tokens to xDai and take advantage of low-fee, high-speed transactions.
+
+Users will have the ability to send a token to a contract address \(or contract ENS name such as xdaibridge.eth\) and an ERC677 token equivalent will be automatically created and deployed to xDai, ready for immediate use.   
+
 ## Consensus POSDAO Upgrade: Phase **2**
 
-🎯 **Target Date:** Q3 2020  
-☑ **Status:** In process. UI development ongoing, see the [staking roadmap](../for-stakers/stake-and-staking/) for more information.
+🎯 **Target Date:** Q4 2020  
+☑ **Status:** In process. UI development and protocol enhancements ongoing, see the [staking roadmap](../for-stakers/stake-and-staking/) for more information.
 
 To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
 
 ## **Privacy Preserving Transactions**
 
-🎯 **Target Date:** Q3 2020
+🎯 **Target Date:** Q3-Q4 2020  
+☑ **Status:** In process, defining requirements and exploring approaches
 
 Implementation of additional zero-knowledge protocols and private transactions into xDai.
 
@@ -80,14 +108,6 @@ Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure
 We also plan to implement privacy preserving transactions on xDai directly. Additionally, we plan to enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum.
 
 We have invested in several [different approaches ](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)to implement different ZK protocols into xDai based applications and wallets.
-
-## EasyStaking STAKE on Ethereum
-
-🎯 **Target Date**: Q3 2020
-
-Easy Staking provides an alternative interest-earning application for [STAKE ](../for-stakers/stake-token/)token holders. Users can deposit  STAKE tokens deployed on the Ethereum mainnet and earn a pre-determined interest rate without bridging to xDai and with no minimum STAKE amount requirements.
-
-Easy Staking serves to reduce the overall amount of STAKE in active circulation and acts as a mechanism to limit available liquidity and supply. Limited supply in the open market increases security for POSDAO chains such as the xDai stable chain.
 
 ## Synthetic Assets on xDai based on UMA protocol
 
@@ -120,6 +140,19 @@ A chain created specifically to leverage [POSDAO](../for-validators/posdao-white
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>06.08.2020</em>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Update EasyStaking status to Completed</li>
+          <li>Adjust POSDAO consensus upgrade target to Q4 2020</li>
+          <li>Adjust Privacy Preserving transactions to Q3-Q4</li>
+          <li>Added LP Analytics to Q3 2020</li>
+          <li>Added Multi-Token Bridge to Q3 2020</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>28.05.2020</em>
       </td>
