@@ -86,6 +86,11 @@
         12 hours. Users can enter the amount to withdraw and claim.</td>
     </tr>
     <tr>
+      <td style="text-align:left">Current STAKE Price</td>
+      <td style="text-align:left"><a href="https://api.coingecko.com/api/v3/simple/price?ids=xdai-stake&amp;vs_currencies=usd">https://api.coingecko.com/api/v3/simple/price?ids=xdai-stake&amp;vs_currencies=usd</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">Github Repository</td>
       <td style="text-align:left"><a href="https://github.com/xdaichain/easy-staking-contracts">https://github.com/xdaichain/easy-staking-contracts</a>
       </td>
