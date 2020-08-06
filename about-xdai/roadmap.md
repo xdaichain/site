@@ -83,9 +83,7 @@ We will integrate statistics views on the EasyStaking platform as well as develo
 🎯 **Target Date**: Q3 2020  
 ☑ **Status:** In process
 
-Universal mediators will support transfers for virtually any ERC20 token to the xDai chain with no additional contract deployment. This will lower the barrier-to-entry for projects and DApps looking to move tokens to xDai and take advantage of low-fee, high-speed transactions.
-
-Users will have the ability to send a token to a contract address \(or contract ENS name such as xdaibridge.eth\) and an ERC677 token equivalent will be automatically created and deployed to xDai, ready for immediate use.   
+Universal mediators will support transfers for virtually any ERC20 token to the xDai chain with no additional contract deployment. This will lower the barrier-to-entry for projects and DApps looking to move tokens to xDai and take advantage of low-fee, high-speed transactions. Users will be able to automatically create equivalent tokens on xDai ready for immediate usage. 
 
 ## Consensus POSDAO Upgrade: Phase **2**
 

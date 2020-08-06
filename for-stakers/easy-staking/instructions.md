@@ -39,11 +39,11 @@ There are two types of withdrawals - Instant and Scheduled. Select the type you 
 
 ## Liquidity Providers
 
-If you are interested in supplying Liquidity in the form of STAKE / ETH and earning staking rewards as an LP,  you can add liquidity to the Uniswap pool here: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
-
-
+If you are interested in supplying Liquidity in the form of STAKE / ETH and earning staking rewards as an LP,  you can add liquidity to the 🦄 Uniswap pool here: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
 
 More details about liquidity provider rewards are available on the [EasyStaking page](./#liquidity-pool-lp-participants). 
+
+STAKE/ETH pair contract on Etherscan: [https://etherscan.io/address/0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7](https://etherscan.io/address/0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7)
 
 ## Staking from a wallet without the UI
 
