@@ -22,8 +22,8 @@ If a scheduled \(timed\) withdrawal with 0% fee occurs at the time-based point, 
       <th style="text-align:left">Staker
         <br />sb
         <br />APR</th>
-      <th style="text-align:left">Staker Receives</th>
-      <th style="text-align:left">LPs Receive</th>
+      <th style="text-align:left">Reward Staker Receives</th>
+      <th style="text-align:left">Reward LPs Receive</th>
     </tr>
   </thead>
   <tbody>

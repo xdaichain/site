@@ -41,7 +41,7 @@
       <td style="text-align:left">Scheduled Withdrawal Availability</td>
       <td style="text-align:left">12 hours* after request, funds are available to withdraw during the scheduled
         withdrawal window (also 12 hours*). STAKE price is the price when withdrawn,
-        not price when withdrawal is scheduled.</td>
+        not the price when withdrawal is scheduled.</td>
     </tr>
     <tr>
       <td style="text-align:left">Scheduled Withdrawal Window</td>
@@ -65,8 +65,8 @@
       <td style="text-align:left">Supported. <b>Each deposit event creates a new deposit ID</b>. You can
         manually add additional STAKE to a current deposit using the <a href="https://github.com/xdaichain/easy-staking-contracts/blob/d5a477e4faf83d33901737cb461e97954ac4c1ec/contracts/EasyStaking.sol#L223"><code>deposit(uint256 _depositId, uint256 _amount)</code></a> function
         of the EasyStaking contract. UI doesn&apos;t support replenishing existing
-        deposits but allows to create multiple deposits. Emission is accrued from
-        time of deposit for each ID.</td>
+        deposits but allows the staker to create multiple deposits. Emission is
+        accrued from time of deposit for each ID.</td>
     </tr>
     <tr>
       <td style="text-align:left">Partial Withdrawals</td>
@@ -80,7 +80,7 @@
         withdrawal is not yet open.</td>
     </tr>
     <tr>
-      <td style="text-align:left">Eligible for Withdrawal</td>
+      <td style="text-align:left">Ready to Withdraw</td>
       <td style="text-align:left">The withdrawal window is open and a scheduled withdrawal is available
         for processing. This occurs after 12 hours and eligibility remains for
         12 hours. Users can enter the amount to withdraw and claim.</td>

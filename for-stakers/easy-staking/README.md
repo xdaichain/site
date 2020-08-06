@@ -19,7 +19,7 @@ Easy Staking allows users to place STAKE into a contract and receive STAKE emiss
 * Provides staking opportunities with no minimum STAKE requirements to participate
 * Limits total circulating supply
 
-Total STAKE Emissions are minted at a total of 15% APR. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and provisioned to based on two parameters:
+Total STAKE Emissions are minted at a total of 15% APR. Emissions are sent to stakers as well as Liquidity Pool Providers \(see below\) and provisioned based on two parameters:
 
 * **Time**: 7.5% APR. The amount of time STAKE has been committed to the protocol. Longer staking times result in a higher APR for the Staker.
 * **Total Staked Amount**: 7.5% APR. The total amount in the pool from all Stakers and other contributors. Larger stakes result in a higher APR for all Stakers. More staked amount = higher rewards.
