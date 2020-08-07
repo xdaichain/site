@@ -52,13 +52,6 @@ In the Daily Gwei, Anthony Sassano wrote on 3 of his favorite Reddit Scaling Bak
 
 {% embed url="https://thedailygwei.substack.com/p/ethereum-scaling-is-here-the-daily" %}
 
-### ✅ AltcoinBuzz xDai DeepDive
-
-The 2 part series is titled xDai and The Roadmap Of Crypto Payment. This article series goes into depth on xDai and all things DeFi. 
-
-* Part 1: [https://www.altcoinbuzz.io/cryptocurrency-news/blockchain-technology/xdai-the-roadmap-of-crypto-payment-part-1/](https://www.altcoinbuzz.io/cryptocurrency-news/blockchain-technology/xdai-the-roadmap-of-crypto-payment-part-1/)
-* Part 2: [https://www.altcoinbuzz.io/cryptocurrency-news/blockchain-technology/xdai-the-roadmap-of-crypto-payment-2/](https://www.altcoinbuzz.io/cryptocurrency-news/blockchain-technology/xdai-the-roadmap-of-crypto-payment-2/)
-
 ## 🦸♂ Community
 
 ### ✅ Twitter Banner Design Contest Ongoing
