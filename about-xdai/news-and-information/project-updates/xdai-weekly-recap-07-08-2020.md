@@ -4,9 +4,11 @@ description: 1 August 2020 - 7 August 2020
 
 # ⚔️ xDai Weekly Recap - 07/08/2020
 
-## 🚀 Launch & 🤝 Partnership
+![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation.png)
 
-### ✅ 🥩 🎉 EasyStaking Launch
+## 🚀 Launch & 🤝 Partnership Announcements
+
+### ✅ 🎉 EasyStaking Launch
 
 Easy Staking officially launched on Wednesday, August 5! Two days later there is over 1M USD value staked in the protocol and growing. We've created some basic instructions to get started, you probably won't need them as the platform is intuitive and easy to manage.
 
@@ -20,7 +22,7 @@ You can also participate by adding STAKE/ETH to the Uniswap Liquidity pool to ea
 
 ### ✅ xDai + Elrond Partnership
 
-xDai will partner with Elrond to architect their interoperability solution. The modified TokenBridge will be implemented to enable cross-chain communication between Elrond and Ethereum.
+xDai will partner with [Elrond](https://elrond.com/) to architect their interoperability solution. The modified TokenBridge will be implemented to enable cross-chain communication between Elrond and Ethereum.
 
 DeFi solutions continue to grow, and interoperability is needed to provide scalability. Excited to see what comes of this partnership!
 
@@ -39,6 +41,8 @@ In addition to our [entry for the Reddit Bakeoff](https://challenge.xdaichain.co
 The BlockScout team continues to innovate and provide cutting-edge tools for their open-source explorer. The number of tokens on xDai are growing, and the tokens tab lets viewers easily find and search for tokens deployed to xDai. 
 
 {% embed url="https://blockscout.com/poa/xdai" %}
+
+![](../../../.gitbook/assets/blockscout%20%282%29.png)
 
 ## 📰 Media
 
