@@ -6,6 +6,10 @@ description: xDai Foundation will dedicate 100% of token unlocks through end of 
 
 ![](../../../.gitbook/assets/red-blue-white-circle-french-bastille-day-twitter-post%20%281%29.png)
 
+{% hint style="success" %}
+Easy Staking is now live at [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/)
+{% endhint %}
+
 ## EasyStaking Initiative Update 
 
 ### xDai **F**oundation to bootstrap and provide ongoing support the EasyStaking protocol
