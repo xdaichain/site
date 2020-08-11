@@ -17,7 +17,7 @@ There are currently 2 ways to add STAKE to the EasyStaking protocol.
 
 With the EasyStaking application you can withdraw your full amount to unstake. You can do this instantly and pay a 2% fee, or schedule a withdrawal and withdraw after 12 hours. [Instructions](instructions.md#initiate-a-withdrawal).
 
-If you are staking with Bitmax, you can undelegate instantly for a 2% fee, or schedule a withdrawal and withdraw after 24 hours.  [More information](https://bitmax.io/#/staking/investment-product-details/STAKE-S).
+If you are staking with Bitmax, you can undelegate instantly for a 2% fee, or schedule a withdrawal and withdraw after 24 hours with no fee.  [More information](https://bitmax.io/#/staking/investment-product-details/STAKE-S).
 
 ### How much STAKE is in the EasyStaking Contract?
 
@@ -33,9 +33,9 @@ You will receive rewards based on the [LP distribution contract](./#stake-lp-dis
 
 ### I was staking on BitMax during the promotional period. Do I need to do anything to start EasyStaking?
 
-No, your funds will be automatically moved to delegate on EasyStaking through Bitmax. You don't need to do anything if this is your preference. If you want to move your funds, you can undelegate through BitMax then send to an address you can access with MetaMask/NiftyWallet to use EasyStaking with your own address.
+No, your funds will be automatically moved to delegate on EasyStaking through Bitmax. You don't need to do anything if this is your preference. If you want to move your funds, you can undelegate through BitMax then send your STAKE to an address you can access with MetaMask/NiftyWallet to use EasyStaking with your own address.
 
-Note: Moving funds and staking independently will incur gas fees.
+Note: Moving funds and staking independently will incur gas fees. Staking through BitMax does not incur gas fees.
 
 ### What are the differences between staking independently through EasyStaking and staking through BitMax?
 
@@ -50,6 +50,7 @@ Both use the EasyStaking system, but rules are slightly different. More Bitmax r
 | Distribution Cycle | On Demand | Daily |
 | Withdrawal | Instant / 12 hour scheduled  | Instant / 24 hour scheduled |
 | Instant Withdrawal fee | 2% | 2% |
+| Gas fees | Yes | No |
 
 ## APR Questions
 
@@ -57,7 +58,7 @@ Both use the EasyStaking system, but rules are slightly different. More Bitmax r
 
 APR is calculate in 2 ways, each with a maximum 7.5% for the EasyStaking staker. \(totaling a max of 15%\). 
 
-In the following example, the time based emission after 10.2 days is  @2.011 APR, and the Supply based emission with 1.25M STAKE staked is @2.196. This results in a \(2.011 + 2.196 = 4.207\) @4.207% APR if a withdrawal is processed at this time. 
+In the following example, the time based emission after 10.2 days is 2.011 APR, and the Supply based emission with 1.25M STAKE staked is 2.196. This results in a \(2.011 + 2.196 = 4.207\) 4.207% APR if a withdrawal is processed at this time. 
 
 1\) **Time based**: Emissions are earned based on the amount of time in the protocol. These rise quickly and then level off, based on a [sigmoid function](https://www.desmos.com/calculator/2xtimbnzqw).  
 
@@ -65,7 +66,7 @@ If you click on a timepoint on the sigmoid graph you will see the number of seco
 
 ![Click on the line to see the APR based on \# of seconds staked](../../.gitbook/assets/sigmoid%20%281%29.png)
 
-2\) **Supply based:** APR based on the total supply. The total supply can also be adjusted using the `totalSupplyFactor` parameter \(currently set to 50%\). If the supply in the contract is 1.25M and the total supply is set to 4,268,752.50, then the Supply APR is `1,250,000/4,268,752.5 * 7.5` or 2.196%
+2\) **Supply based:** APR based on the total supply. The total supply can also be adjusted using the `totalSupplyFactor` parameter \(currently set to 50%\). If the supply in the contract is 1.25M and the total supply is set to 4,268,752.50 \(total supply \* `totalSupplyFactor`\), then the Supply APR is `1,250,000/4,268,752.5 * 7.5` or 2.196%
 
 ### I am staking for {1 day, 1 week, 1 month etc } how much APR will I earn?
 
@@ -92,11 +93,11 @@ Rewards to LPs are distributed based on the [LP distribution script](./#stake-lp
 
 ### I heard I will earn 15% APR. Why is it lower than that?
 
-15% is the total emissions earned on all STAKE staked in the contract and is divided amongst stakers and Liquidity Providers.  If a participant stakes for a long time and the supply in the contract relative to total supply is very high, the APR for this individual may approach this amount, but will likely never reach the full 15% due to the sigmoid function and supply limits. 
+15% is the total emissions earned on all STAKE staked in the contract and is divided amongst stakers and liquidity providers.  If a participant stakes for a long time \(6+ months\) and the supply in the contract relative to total supply is very high, the APR for this individual will approach 15%, but will never reach the full 15% due to the sigmoid function and supply limits. 
 
 ### What is the predicted APR over time?
 
-It will fluctuate based on the amount in the contract and how long you have staked. See the questions above for answers on how APR is derived for stakers and for liquidity providers.
+APR will fluctuate based on the amount in the contract and how long you have staked. See the questions above for answers on how APR is derived for stakers and for liquidity providers.
 
 ### Why did APR drop from 36.4% to less than 1% on BitMax?
 
@@ -106,11 +107,11 @@ Now that StakeVault is done, Bitmax is moving funds to EasyStaking with some sli
 
 ### Will I make more APR as an LP \(Liquidity Provider with Uniswap\) or as a staker with EasyStaking?
 
-We will see - it depends on how the game is played! In general, if not much supply is staked and stakers unstake quickly, Liquidity Providers will prevail. However, if stakers stake for a long time, and the supply in EasyStaking continues to grow, stakers will earn more.
+We will see - it depends on how the game is played! In general, if not much supply is staked and stakers unstake quickly, Liquidity Providers will receive higher emissions. However, if stakers stake for a long time, and the supply in EasyStaking continues to grow, stakers will earn more.
 
-APR earnings may also depend on timing for liquidity providers. If a large staker cashes out, the remaining APR \(15 - staker APR\) will go to all LPs, regardless of how long they have been an LP. If an LP starts right before a big unstaking event, they may earn a considerable amount of STAKE.
+APR earnings may also depend on timing for liquidity providers. If a large staker cashes out, the remaining APR \(15 - stakers APR\) will go to all LPs, regardless of how long they have been an LP. If an LP starts right before a big unstaking event, they may earn a considerable amount of STAKE.
 
 From a risk management perspective, Easy Staking involves a single token rather than multiple tokens, and the contracts have been thoroughly audited. 
 
-So the answer is "it depends", and we will see how it plays out in practice.
+So the answer is "it depends", and we will see how it plays out in the protocol.
 
