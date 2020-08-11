@@ -95,6 +95,11 @@
       <td style="text-align:left"><a href="https://github.com/xdaichain/easy-staking-contracts">https://github.com/xdaichain/easy-staking-contracts</a>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:left">EasyStaking Contract</td>
+      <td style="text-align:left"><a href="https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad">https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
