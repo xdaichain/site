@@ -1,5 +1,9 @@
 # EasyStaking FAQ
 
+{% hint style="info" %}
+FAQ in process
+{% endhint %}
+
 ## Participation Questions
 
 ### How do I stake STAKE?
