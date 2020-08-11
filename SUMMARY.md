@@ -105,6 +105,7 @@
   * [Instructions](for-stakers/easy-staking/instructions.md)
   * [Emission Rates](for-stakers/easy-staking/emission-rates.md)
   * [EasyStaking Parameters](for-stakers/easy-staking/easy-staking-parameters.md)
+  * [EasyStaking FAQ](for-stakers/easy-staking/easystaking-faq.md)
 * [POSDAO Staking Roadmap](for-stakers/stake-and-staking/README.md)
   * [Pre-Staking Program](for-stakers/stake-and-staking/pre-staking-program.md)
   * [UI Preview](for-stakers/stake-and-staking/ui-preview.md)
