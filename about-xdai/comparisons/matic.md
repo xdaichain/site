@@ -91,7 +91,7 @@ Here we focus on key differences from a user perspective when interacting and or
 | Meta-transactions  | Yes | Yes |
 | Validator / Delegator staking minimums | 20K STAKE Validator 1K STAKE Delegator | 1 MATIC for either |
 | Staking token emission | 8,765,000 STAKE + max 15% yearly emission | 10,000,000,000 MATIC capped |
-| Exchange based staking | Pre-staking at Bitmax: 36.4% APR | Binance Savings: 10% APR |
+| Exchange based staking | EasyStaking with BitMax: 2-15% APR | Binance Savings: 10% APR |
 | Micro transactions | Supported, costs in stable currency allow for accurate resource planning | Supported, costs difficult to assess |
 | Randomness | Contained within the protocol | Oracle based |
 | Wallet support | Burner Wallet, Alpha Wallet, Nifty Wallet, Portis, Saturn, TrustWallet, Ledger, Trezor | Matic Wallet, Atomic Wallet, Trust Wallet, Ledger, Trezor |
