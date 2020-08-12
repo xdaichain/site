@@ -96,8 +96,8 @@ This time-based APR is then added to the supply based APR to get total APR on wi
 
 Liquidity providers receive their APR accordingly:`15 - ( EasyStaking time APR + EasyStaking supply APR)`
 
-* For example, if a staker withdraws with a 2.011% time APR and a 2.196% supply APR, the LP contract will receive 15 - \(2.011 + 2.196\) = 10.793%.  This amount will be split amongst the LP providers based on how much STAKE they have in the LP contract. 
-* LP providers also split the 2% instant withdrawal/unbonding fee.
+* For example, if a staker withdraws with a 2.011% time APR and a 2.196% supply APR, the LP contract will receive 15 - \(2.011 + 2.196\) = 10.793%.  This amount is distributed amongst LP providers based on how much STAKE they have in the LP contract. 
+* LP providers also split the 2% instant withdrawal/unbonding fee when instant withdrawals are processed.
 * Rewards to LPs are distributed based on the [LP distribution script](./#stake-lp-distribution-script).
 
 ### I heard I will earn 15% APR. Why is it lower than that?
@@ -110,7 +110,7 @@ If a participant stakes for a long time \(6+ months\) and the supply in the cont
 
 APR will fluctuate based on the amount in the contract and how long you have staked. See the questions above for answers on how APR is derived for stakers and for liquidity providers.
 
-### Why did APR drop from 36.4% to less than 1% on BitMax?
+### Why did APR drop from 36.4% to less than 3% on BitMax?
 
 The 36.4% APR was part of a 3 month promotional program called Stake Vault. This was designed to last 3 months \(meaning effectively it was a 9% APR if spread over the course of a year\). 
 
