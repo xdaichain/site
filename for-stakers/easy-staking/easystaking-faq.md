@@ -27,6 +27,10 @@ You can view the contract here:  [https://etherscan.io/address/0xecbcd6d7264e3c9
 
 For context, compare this to the circulating supply, which is available on CoinGecko, CMC, or here:  [https://supply.xdaichain.com/](https://supply.xdaichain.com/)
 
+### Is EasyStaking Audited?
+
+Yes, [Quantstamp](https://quantstamp.com/) conducted a full security audit on the EasyStaking contracts. We addressed and resolved all high, medium & low risk issues. [See more information and the full report here](../../for-developers/security-audits.md#easystaking-audit-by-quantstamp).
+
 ### How do I participate as a Liquidity Provider \(LP\)?
 
 Simply add STAKE and ETH to the following Uniswap pool. [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
