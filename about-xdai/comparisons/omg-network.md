@@ -1,5 +1,5 @@
 ---
-description: xDai chain and OMG Network comparison
+description: xDai Stable Chain and OMG Network comparison
 ---
 
 # OMG Network
@@ -7,6 +7,8 @@ description: xDai chain and OMG Network comparison
 OMG Network recently launched its Beta Mainnet Network. OMG is an Ethereum childchain, meaning it inherits the underlying security of Ethereum while allowing for faster and cheaper transactions. It uses a More Viable Plasma construction to achieve scaling.  OMG is designed to support payments and settlements securely, but lacks the flexibility and utility that the xDai sidechain provides. 
 
 Below we highlight some of the key differences a user's perspective.
+
+![](../../.gitbook/assets/green-and-black-corporate-comparison-chart.png)
 
 ## Key Differences
 
@@ -89,7 +91,7 @@ Below we highlight some of the key differences a user's perspective.
 | Chain Structure | EVM sidechain: 100% Ethereum patchset | Child chain with More Viable Plasma |
 | Blocks | 5 second blocks, 70 TPS \(reported\) | Batched blocks, 1000+ TPS \(reported\) |
 | Asset withdrawal / Interoperability | TokenBridge BiDirectional transfers | Exit games / Fraud Proofs |
-| Consensus | AuRa, with roadmap to HBBFT | AuRa |
+| Consensus | POSDAO/ AuRa  Roadmap to HBBFT | More Viable Plasma / AuRa |
 | Staking | EasyStaking available now, public POSDAO Q4 | Planned: Timeframe TBD |
 | Staking UI | Yes | No |
 | Real World Use Cases | Events, Conference Adoption, Burner Wallet, Community Currencies, DApps | TBD Mainnet just launched  Tether Integration |
