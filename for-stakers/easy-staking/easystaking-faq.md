@@ -118,7 +118,7 @@ APR will fluctuate based on the amount in the contract and how long you have sta
 
 The 36.4% APR was part of a 3 month promotional program called Stake Vault. This was designed to last 3 months \(meaning effectively it was a 9% APR if spread over the course of a year\). 
 
-Now that StakeVault is done, Bitmax is moving funds to EasyStaking with some [slight variations on how it is used](easystaking-faq.md#what-are-the-differences-between-staking-independently-through-easystaking-and-staking-through-bitmax). The APR on the BitMax staking page will update daily and adjust to reflect the amount of time STAKE has been in the protocol.
+Now that StakeVault is done, Bitmax is moving funds to EasyStaking with some [slight variations on how it is used](easystaking-faq.md#what-are-the-differences-between-staking-independently-through-easystaking-and-staking-through-bitmax). The APR on the BitMax staking page will update daily and adjust to reflect the amount of time STAKE has been in the protocol. [The daily APR is available here](https://bitmax.io/#/staking/investment-product-details/STAKE-S).
 
 ### Will I make more APR as an LP \(Liquidity Provider with Uniswap\) or as a staker with EasyStaking?
 
@@ -128,5 +128,5 @@ APR emissions may also depend on timing for liquidity providers. If a large stak
 
 From a risk management perspective, Easy Staking involves a single token rather than multiple tokens, and the contracts have been thoroughly audited. 
 
-So the answer is "it depends", and we are excited to see how it plays out in the protocol. We plan to add additional LP analytics and views to learn more about APR benefits for both groups.
+So the answer is "it depends", and we are excited to see how it plays out in the protocol. We plan to add [additional LP analytics and views ](../../about-xdai/roadmap.md#easystaking-liquidity-pool-analytics)to learn more about APR benefits for both groups.
 
