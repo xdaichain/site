@@ -10,8 +10,8 @@ FAQ in process
 
 There are currently 2 ways to add STAKE to the EasyStaking protocol.
 
-1. Go to [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/) and connect your web3wallet. 💡 [More instructions](instructions.md).
-2. Stake through [BitMax](https://bitmax.io/#/staking/investment-product-details/STAKE-S). 💡[More instructions](https://bitmax.io/#/staking/investment-product-details/STAKE-S).
+1. Go to [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/) and connect your web3wallet. 💡 [More instructions](instructions.md)
+2. Stake through [BitMax](https://bitmax.io/#/staking/investment-product-details/STAKE-S). 💡[More instructions](https://bitmax.io/#/staking/investment-product-details/STAKE-S)
 
 ### How do I unstake STAKE?
 
