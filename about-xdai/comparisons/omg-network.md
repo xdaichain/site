@@ -89,9 +89,9 @@ We’d like to talk about some of the key differences of some of our perceived c
 
 ## Chain Parameters / Features 
 
-| Component | xDai | Matic |
+| Component | xDai | OMG |
 | :--- | :--- | :--- |
-| Mainet launch | October 2018 | May 31, 2020 |
+| Mainet launch | October 2018 | June 2020 |
 | Compatibility with Ethereum | 100% | Incomplete \(no smart contract support, NFT support etc\) |
 | Staking Token | STAKE | OMG \(when launched\) |
 | Transactional Token | xDai stable coin | OMG volatile coin |
