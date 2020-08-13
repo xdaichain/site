@@ -5,9 +5,9 @@ description: Basic Instructions
 # Instructions
 
 {% hint style="success" %}
-Easy Staking is now available for stakers at [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/)
-
-Launch details: [https://t.me/xdai\_official/160](https://t.me/xdai_official/160)
+* Easy Staking is now available for stakers at [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/)
+* Launch details: [https://t.me/xdai\_official/160](https://t.me/xdai_official/160)
+* Mobile ready to use use with [Alpha Wallet](https://alphawallet.com/), [Trust Wallet](https://trustwallet.com/), [Coinbase Wallet](https://www.coinbase.com/mobile), [Status](../../for-users/wallets/status-wallet.md), [Opera Browser](https://www.opera.com/crypto) and other Ethereum mobile wallets with browsing capabilities.
 {% endhint %}
 
 To begin, enable your web3wallet \(such as [MetaMask](https://metamask.io/) or [NiftyWallet](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid)\) with an address that contains both ETH \(for gas fees\) and STAKE \(for staking\). If you've sent STAKE to your wallet address but it is not showing up, [add STAKE as a custom token](../stake-token/get-stake/add-stake-to-metamask.md). Then connect your wallet to the application.
