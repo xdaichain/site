@@ -25,6 +25,7 @@
   * [xMoon Projects](about-xdai/project-spotlights/xmoon-projects.md)
   * [1Hive](about-xdai/project-spotlights/1hive.md)
   * [Galleass.io](about-xdai/project-spotlights/galleass.io.md)
+  * [Kickback RSVP Platform](about-xdai/project-spotlights/kickback-rsvp-platform.md)
 * [FAQs](about-xdai/faqs.md)
 * [Comparisons](about-xdai/comparisons/README.md)
   * [Matic](about-xdai/comparisons/matic.md)
