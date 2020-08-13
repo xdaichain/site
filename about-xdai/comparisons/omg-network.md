@@ -4,9 +4,9 @@ description: xDai Stable Chain and OMG Network comparison
 
 # OMG Network
 
-We’d like to talk about some of the key differences of some of our perceived competitors for a second layer solution to scaling Ethereum, while maintaining security. OMG network, a childchain of Ethereum, inherits the underlying security of Ethereum while allowing for faster and cheaper transactions. It uses More Viable Plasma construction to achieve this, yet lacks the flexibility and utility offered by xDai sidechains.
-
 ![](../../.gitbook/assets/green-and-black-corporate-comparison-chart.png)
+
+We’d like to talk about some of the key differences of some of our perceived competitors for a second layer solution to scaling Ethereum, while maintaining security. OMG network, a childchain of Ethereum, inherits the underlying security of Ethereum while allowing for faster and cheaper transactions. It uses More Viable Plasma construction to achieve this, yet lacks the flexibility and utility offered by xDai sidechains.
 
 ## Key Differences
 
