@@ -159,7 +159,7 @@
     * [Creating Airdrops with Token MultiSender](for-developers/developer-resources/creating-airdrops/creating-airdrops-with-token-multisender.md)
   * [Meta Transactions](for-developers/developer-resources/meta-transactions.md)
   * [ERC20 Test Token Faucet](for-developers/developer-resources/erc20-test-token-faucet.md)
-  * [Wrapped xDai \(wxDai\)](for-developers/developer-resources/wrapped-xdai-wxdai.md)
+  * [Wrapped xDai \(wxDai\)](for-developers/developer-resources/wrapped-xdai.md)
 * [Install xDai Client](for-developers/install-xdai-client/README.md)
   * [Multi-Client Support](for-developers/install-xdai-client/multi-client-support.md)
   * [OpenEthereum \(formerly Parity\)](for-developers/install-xdai-client/parity.md)
