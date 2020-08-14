@@ -4,7 +4,7 @@ description: In development consensus model
 
 # HoneyBadger BFT Consensus
 
-The xDai team is currently working on a working implementation of [HoneyBadger BFT ](https://eprint.iacr.org/2016/199)consensus. This **may be** implemented on the xDai chain \(determined through the governance process\) and **will be** implemented as the default consensus for the [xDai NG chain](../../../about-xdai/roadmap.md#xdai-ng-new-generation-pos-chain).
+The xDai team is currently working on a working implementation of [HoneyBadger BFT ](https://eprint.iacr.org/2016/199)consensus. This **may be** implemented on the xDai chain \(determined through the governance process\) and explored in [Phase 3 of the POSDAO staking roadmap](../../../for-stakers/stake-and-staking/#phase-3-honeybadger-bft-consensus-layer-integration).
 
 {% hint style="success" %}
 _Our Honey Badger BFT and Threshold Cryptography implementations have both undergone extensive security audits to ensure safety and cryptographic integrity. The results are available here_

@@ -1,8 +1,8 @@
 ---
-description: Staking in BlockScout
+description: Delegated Staking with POSDAO using BlockScout UI
 ---
 
-# UI Preview
+# Public POSDAO UI Preview
 
 The xDai staking UI is currently under construction.  It will be incorporated directly into the [xDai block explorer BlockScout](https://blockscout.com/poa/xdai). This will provide users with the ability to easily stake, withdraw, move and claim STAKE and view transactions all from a single interface.  
 

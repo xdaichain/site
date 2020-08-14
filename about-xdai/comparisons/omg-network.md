@@ -75,15 +75,19 @@ We’d like to talk about some of the key differences of some of our perceived c
 2. **Cost optimization:** While both chains offer the reduction of transaction costs, xDai achieves this at a significant advantage over its competitors. In brief, an Ethereum transaction costing approximately $5 would cost around $1.50 or so for OMG, whereas xDai is able to bring this cost down to less than $0.01, effectively reducing the cost of transactions by 500x.  **Speed:** xDai presents itself as a faster alternative to Ethereum while maintaining block and gas limit compatibility. We acknowledge that OMG is able to exceed our benchmarks considerably, however, this is still theoretical and not yet shown with real-world usage. Even so, xDai possesses horizontal and vertical scaling capability through chain addition, allowing it to meet much higher demands than our current estimates. 
 3. **Token and Smart Contract Support:** Possibly the most powerful aspect that xDai maintains over its competition is its full compatibility with smart contracts on Ethereum, which can be directly imported to our network with little effort. ERC721s can also be bridged to xDai, as well as other token types. In doing so, the full Ethereum experience of niche currencies, dApps, finance protocols, games, DAO governance and more, can be integrated into xDai this very moment. Competitors such as OMG, however, are not designed to handle contract interactions, and thus are limited solely to payment operations. 
 4. **2 minute exit vs 2 week exit**: Moving assets to either chain is easy. Moving them back to Ethereum is easy on xDai, and more difficult with OMG. Due to exit game challenge periods, OMG assets cannot be transferred back to Ethereum in a timely way. With the TokenBridge interoperability solution, tokens can be moved from xDai to Ethereum in minutes. 
-5. **Production level quality vs an Open Beta:** One of favorite aspects to flaunt about the xDai project is that we’re a proven, resilient, in-production solution for over two years! OMG makes their position clear as a disclaimer on their website:  
+5. **Production level quality vs an Open Beta:** One of our favorite aspects to flaunt about the xDai project is that we’re a proven, resilient, in-production solution for over two years! OMG makes their position clear as a disclaimer on their website:  
 
 
-   > **Please remember the OMG Network is in beta and may be subject to bugs or errors. The OMG Network team is committed to ensuring that these issues are resolved quickly. But we ask you to exercise caution and transact real value on the network at your own risk.**
+   > **Please remember the OMG Network is in beta and may be subject to bugs or errors. The OMG Network team is committed to ensuring that these issues are resolved quickly. But we ask you to exercise caution and transact real value on the network at your own risk.**  
+   >   
+   > _Disclaimer from_  [_https://omg.network/omg-network-scales-ethereum/_](https://omg.network/omg-network-scales-ethereum/) _\(bottom of page\)_
 
    Further, OMG’s own CTO Kasima has said:  
 
 
-   > **As someone who’s running a business, I would be wary of anyone willing to put absolute faith in a research-grade solution or tool. There are a lot of unknowns, and it’s risky for customers.**
+   > **As someone who’s running a business, I would be wary of anyone willing to put absolute faith in a research-grade solution or tool. There are a lot of unknowns, and it’s risky for customers.**  
+   >   
+   > _Quote from OMG AMA at_ [_https://omg.network/ama-30-omg-network-challenges/_](https://omg.network/ama-30-omg-network-challenges/)\_\_
 
    Alternatively, we encourage you to stress test or push our network as hard as you’d like. We have been transacting real value on our network with good faith in a proven technology that’s been processing thousands of transactions a day. Whether it’s large scale or a micro-transaction, the thought of issuing a disclaimer or a word of caution such as those above hasn’t crossed our minds. No doubt, we’ve been live for two years, and haven’t had a problem since.
 

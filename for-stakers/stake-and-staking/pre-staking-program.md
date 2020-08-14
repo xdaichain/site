@@ -6,12 +6,16 @@ description: Earn 36.4% APR on STAKE by participating in StakeVault
 
 ## Pre-Staking on BitMax
 
-BitMax 3 month pre-staking will provide at estimated 36.4% return on STAKE  though the StakeVault program.
+{% hint style="warning" %}
+The Pre-staking program has expired, but you can still stake through BitMax. BitMax staking using the EasyStaking engine to provide APR emissions. 💡[BitMax Staking ](https://bitmax.io/#/staking/investment-product-details/STAKE-S)
+{% endhint %}
+
+BitMax 3 month pre-staking provided an estimated 36.4% return on STAKE  though the StakeVault program.
 
 StakeVault is a brand-new initiative offered by BitMax. It allows projects to refine staking designs and algorithms while public token holders participate in simulated staking. Participants earn real rewards and projects fine-tune their infrastructure through an incentivized platform. 
 
 {% hint style="success" %}
-**STAKE is the first token to launch on StakeVault!**
+**STAKE was the first token to launch on StakeVault!**
 {% endhint %}
 
 ## **How it Works**

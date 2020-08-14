@@ -90,13 +90,16 @@ In progress
 
 After the STAKE public listing is complete and POSDAO is running as expected with the current validator set, staking on xDai will start with EasyStaking and then open up to all public STAKE holders.  Dates for the following upgrades are subject to the STAKE listing date and are currently TBD. In the interim, token holders can participate as mock delegators in the [pre-staking initiative offered by BitMax](pre-staking-program.md). 
 
-### EasyStaking on Ethereum
+### ✅ EasyStaking on Ethereum
+
+EasyStaking is now live at: [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/)  
+EasyStaking Contract: [https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad](https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad)
 
 The EasyStaking application will be deployed to the Ethereum Mainnet, and will allow participants with any amount of STAKE to participate. Users can commit STAKE to the protocol, and it will earn additional STAKE based on how long it is placed in the application as well as the total amount staked by all participants.  For more details, see the [EasyStaking page](../easy-staking/).
 
 * Minimum &lt;.0001 STAKE, no Maximum
 * Rewards based on time and total amount staked
-* [EasyStaking parameters](../easy-staking/easy-staking-parameters.md) \(in process\)
+* [EasyStaking parameters](../easy-staking/easy-staking-parameters.md)
 
 ### POSDAO Staking on xDai
 
