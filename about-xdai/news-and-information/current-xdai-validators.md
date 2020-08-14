@@ -13,7 +13,7 @@ The organizations who believe in this project and have helped it grow are listed
 The community is thankful and appreciative of these organizations who have helped create, nurture and grow the one and only xDai stable chain.
 
 {% hint style="success" %}
-To see a dynamic list of current validators, visit the [validator DApp](https://validators.poa.network/poa-dapps-validators) and select xDai Chain in the dropdown menu.  
+To see a dynamic list of current validators, visit the [validator DApp](https://validators.poa.network) and select xDai Chain in the dropdown menu.  
   
 To learn more about the current validators,[ visit the xDai forum page where validators introduce themselves](https://forum.poa.network/c/xdai-chain/validators-intro) and explain why they want to validate the chain.
 {% endhint %}
