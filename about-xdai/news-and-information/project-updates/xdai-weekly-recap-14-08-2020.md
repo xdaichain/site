@@ -52,7 +52,7 @@ With all the recent Layer 2 scaling talk, we added another comparison article wh
 
 ![](../../../.gitbook/assets/green-and-black-corporate-comparison-chart.png)
 
-### ✅ ALL Twitter 👀 on xDai
+### ✅  Twitter 👀 on xDai
 
 The xDai Chain has received a lot of coverage from Twitter influencers this week. As gas fees continue to rise on Ethereum, many people are looking for scaling solutions now. xDai is primed and ready to handle this upcoming migration.
 
