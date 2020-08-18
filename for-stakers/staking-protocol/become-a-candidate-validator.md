@@ -1,7 +1,9 @@
 # Become a Candidate / Validator
 
 {% hint style="warning" %}
-This page is currently under construction. In the phase 1 transition to POSDAO, the current group of validators will remain as is.
+POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction.  POSDAO is currently in[ phase 1, permissioned staking](../stake-and-staking/), and the current group of validators are functioning within this system.  
+  
+For staking available now, see [EasyStaking](../easy-staking/)
 {% endhint %}
 
 Validators are responsible for securing the xDai stable chain. Validator responsibilities include maintaining a functional node with constant uptime, providing STAKE as collateral, and providing decentralization to the protocol. In exchange for this service, validators receive block rewards and transaction fees.

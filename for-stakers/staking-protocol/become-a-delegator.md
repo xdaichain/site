@@ -1,7 +1,7 @@
 # Become a Delegator
 
 {% hint style="warning" %}
-Staking is not here yet, but we are gathering documentation related to xDai staking processes. All pages in this section are currently under construction.
+POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../easy-staking/)
 {% endhint %}
 
 Delegators play an important role in securing the network. By placing stake on candidates, delegators provide additional funds which improve a candidate’s likelihood of becoming a validator. Stake can be thought of as a “vote” in the form of STAKE tokens for a candidate.

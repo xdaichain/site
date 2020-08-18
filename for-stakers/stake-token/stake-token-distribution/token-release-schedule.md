@@ -94,8 +94,8 @@ Community Engagement Fund: [https://etherscan.io/tx/0x810f3a3eb3fe4f3b6c876e272d
 
 ## Minted STAKE
 
-Once the staking application launches, additional STAKE will be minted as a reward for validators and delegators of the protocol. The emission rate is TBD by the community, initial target range is ~15% APR of STAKE placed in the protocol.
+Once the staking application launches, additional STAKE will be minted as a reward for validators and delegators of the protocol. The  initial target range is 15% APR of STAKE placed in the protocol.
 
-* Total: TBD
-* Released at Day 84: Reward minting begins
+* Total: 15% APR on staked amount
+* Released at Day 84: Reward minting begins with [EasyStaking](../../easy-staking/)
 

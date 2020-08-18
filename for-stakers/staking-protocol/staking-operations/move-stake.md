@@ -1,10 +1,10 @@
 # Move Stake
 
+
+
 {% hint style="warning" %}
-Staking is not here yet, but we are gathering documentation related to xDai staking processes. All pages in this section are currently under construction.
+POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
 {% endhint %}
-
-
 
 To change which candidate you are staking on, or spread your stake to different pools, stake can be moved between pools. You must either retain the minimum amount of stake in the pool \(to remain in the pool\), or move the entire amount to exit the pool and shift your stake to a different pool. Stake moved to another pool must also total at least the minimum amount of stake. If you have already staked the minimum amount to a pool, you can move any additional amount to that pool.
 

@@ -42,6 +42,10 @@ As well as functioning as a stand-alone application, Easy Staking may be integra
 
 ## Liquidity Pool \(LP\) Participants
 
+{% hint style="warning" %}
+The LP incentive will be distributed every 7 days \(within 7-day time slots at random intervals\) once the first distribution in launched. **We expect to launch the first distribution at end of August/ Early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
+{% endhint %}
+
 Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
 
 Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users who put funds into an ETH/STAKE liquidity pool on Uniswap will be eligible for these additional incentives.
@@ -63,6 +67,10 @@ For simplicity, let's say only 👨🌾 Bob and 👨🍳 Roger were participatin
 In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract. Distribution percentages will vary based on how much ETH and STAKE exist in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
 
 ## STAKE LP Distribution Script
+
+{% hint style="warning" %}
+LP incentive will be distributed every 7 days \(within 7-day time slots at random intervals\) once the first distribution in launched. **We expect to launch the first distribution at end of August/ Early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
+{% endhint %}
 
 Distributions to LP participants occur once within a 7-day window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
 

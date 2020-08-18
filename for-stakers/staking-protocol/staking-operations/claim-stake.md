@@ -1,7 +1,7 @@
 # Claim Stake
 
 {% hint style="warning" %}
-Staking is not here yet, but we are gathering documentation related to xDai staking processes. All pages in this section are currently under construction.
+POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
 {% endhint %}
 
 Stake ordered for withdrawal is available to claim once the staking epoch in which the claim was ordered is complete. See the **important note below** related to actions that can cause a claim delay.

@@ -5,7 +5,7 @@ description: Staking is coming soon to xDai!
 # Staking Protocol / Tutorials
 
 {% hint style="warning" %}
-Public Staking is not here yet \(anticipated August 2020\), but we are gathering documentation related to xDai staking processes. All pages in this section are currently under construction.
+POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../easy-staking/)
 {% endhint %}
 
 1. Tokens: You will need [STAKE tokens ](../stake-token/)for staking and xDai for any staking transactions \(such as placing, moving or withdrawing stake\) or other on-chain transactions.

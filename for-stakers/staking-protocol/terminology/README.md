@@ -4,6 +4,10 @@ description: Staking Terms are linked below
 
 # Terminology
 
+{% hint style="warning" %}
+POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
+{% endhint %}
+
 The POSDAO staking algorithm introduces many concepts and terms. Find links to common terms below. Terms are subdivided into 3 categories:
 
 **Protocol:** Terms related to the underlying POSDAO protocol such as reward mechanism, emissions, bridge functionality and protocol rules.

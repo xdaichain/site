@@ -39,6 +39,10 @@ There are two types of withdrawals - Instant and Scheduled. Select the type you 
 
 ## Liquidity Providers
 
+{% hint style="warning" %}
+LP incentive will be distributed every 7 days \(within 7-day time slots at random intervals\) once the first distribution in launched. **We expect to launch the first distribution at end of August/ Early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
+{% endhint %}
+
 If you are interested in supplying Liquidity in the form of STAKE / ETH and earning staking rewards as an LP,  you can add liquidity to the 🦄 Uniswap pool here: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
 
 More details about liquidity provider rewards are available on the [EasyStaking page](./#liquidity-pool-lp-participants). 

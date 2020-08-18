@@ -1,7 +1,7 @@
 # Operational Terms
 
 {% hint style="warning" %}
-This page is a work in progress as implementation details are ongoing
+POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
 {% endhint %}
 
 {% tabs %}
