@@ -154,6 +154,7 @@
       * [Airdrop tokens to an address set](for-developers/developer-resources/burner-wallet-factory/address-sets/airdrop-tokens-to-an-address-set.md)
       * [Distribute Paper Wallets](for-developers/developer-resources/burner-wallet-factory/address-sets/distribute-paper-wallets.md)
   * [Chainbeat Smart Contract Dashboard](for-developers/developer-resources/smart-contract-dashboard.md)
+  * [Curvegrid Smart Contract Interaction](for-developers/developer-resources/curvegrid-smart-contract-interaction.md)
   * [TheGraph Data Indexing](for-developers/developer-resources/thegraph-data-indexing.md)
   * [Creating airdrops](for-developers/developer-resources/creating-airdrops/README.md)
     * [Creating airdrops via Linkdrop](for-developers/developer-resources/creating-airdrops/creating-airdrops-via-linkdrop.md)

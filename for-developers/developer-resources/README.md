@@ -60,7 +60,8 @@ You can access the bridge via:
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification monitoring with API and SDK tools.
 * [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
-* [QuikNode](https://www.quiknode.io/) supports the xDai Network - users who want a super-fast Web3 endpoint for accessing or interacting with the xDai chain can do so with a few clicks.
+* [QuikNode](https://www.quiknode.io/) gives users a super-fast Web3 endpoint for accessing or interacting with the xDai chain.
+* [CurveGrid](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities  through a web UI as well as a comprehensive REST API.
 
 ![Tenderly Dashboard Gas Profiler example](../../.gitbook/assets/tenderly.png)
 
