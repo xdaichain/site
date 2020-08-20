@@ -39,6 +39,8 @@ Additional resources to connect to xDai network
 | Archive node | [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com/) |
 | Network ID | 100 |
 
+🚀 QuikNode also supports xDai. Devs can get their own custom endpoint for DApps or other needs. [https://blog.quiknode.io/xdai-network-is-live-on-quiknode/](https://blog.quiknode.io/xdai-network-is-live-on-quiknode/)
+
 ## TokenBridge
 
 A bridge is required to move locked Dai from Ethereum and mint xDai on xDai Chain
@@ -58,6 +60,7 @@ You can access the bridge via:
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification monitoring with API and SDK tools.
 * [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
+* [QuikNode](https://www.quiknode.io/) supports the xDai Network - users who want a super-fast Web3 endpoint for accessing or interacting with the xDai chain can do so with a few clicks.
 
 ![Tenderly Dashboard Gas Profiler example](../../.gitbook/assets/tenderly.png)
 
