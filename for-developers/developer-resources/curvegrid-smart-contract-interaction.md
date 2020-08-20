@@ -2,7 +2,7 @@
 
 The Curvegrid MultiBass UI provides an interface and dashboard for smart contract deployment, updates and interaction on the xDai chain.
 
-![](../../.gitbook/assets/curvegrid.png)
+![](../../.gitbook/assets/curvergrid1.png)
 
 Get started at [https://console.curvegrid.com/signup](https://console.curvegrid.com/signup)
 
