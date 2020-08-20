@@ -47,10 +47,9 @@ Additional STAKE will be minted as a reward for validators and delegators of the
 
 | Date | Percentage | Type | Amount |
 | :--- | :--- | :--- | :--- |
-| 06.08.2020_\*_ | 15% APR | Distributed Weekly | TBD |
+| 06.08.2020 | 15% APR | Distributed on protocol exit \(EasyStaking\) Distributed weekly to validators/delegators/LPs | TBD |
 
-_\*Exact date dependent on live protocol activation.   
-Dates displayed in dd.mm.yyyy format._
+_Dates displayed in dd.mm.yyyy format._
 
 
 
