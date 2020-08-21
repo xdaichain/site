@@ -4,6 +4,10 @@ description: 15 August 2020 - 21 August 2020
 
 # ⚔️ xDai Weekly Recap - 21/08/2020
 
+
+
+![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%282%29.png)
+
 ## 🌐 Amazon Web Services \(AWS\)
 
 ### ✅ xDai featured in AWS Marketplace Article
