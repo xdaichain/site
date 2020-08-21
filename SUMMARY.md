@@ -37,6 +37,7 @@
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
     * [EasyStaking Launch Initiative Update](about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md)
     * [Pre-Staking Program](about-xdai/news-and-information/project-updates/pre-staking-program.md)
+    * [⚔️ xDai Weekly Recap - 21/08/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-21-08-2020.md)
     * [⚔️ xDai Weekly Recap - 14/08/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-14-08-2020.md)
     * [⚔️ xDai Weekly Recap - 07/08/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-07-08-2020.md)
     * [⚔️ xDai Weekly Recap - 31/07/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-31-07-2020.md)

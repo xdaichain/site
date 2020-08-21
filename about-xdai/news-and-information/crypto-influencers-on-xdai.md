@@ -8,6 +8,12 @@ The xDai Chain has been one of crypto's breakout success stories. Its prominent 
 
  Below are some mentions xDai has received from influencers in the community:
 
+## Vitalik Buterin
+
+{% embed url="https://twitter.com/VitalikButerin/status/1294885662332600320" %}
+
+
+
 ## Dr Gavin Wood
 
 > We will introduce a **Substrate to** [**Parity-Ethereum-PoA**](https://github.com/paritytech/parity-ethereum) **bridge**, very similar to our existing [Parity Bridge](https://github.com/paritytech/parity-bridge) that sits at the heart of the [xDAI](https://xdai.io/) chain...
