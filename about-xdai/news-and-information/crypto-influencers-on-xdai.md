@@ -6,11 +6,9 @@ description: xDai has captured the attention & imagination of the entire communi
 
 The xDai Chain has been one of crypto's breakout success stories. Its prominent use at mainstream Eth events and support from the crypto community have made some of the biggest names in Ethereum stand up, listen, and experience the magic of xDai for themselves.
 
- Below are some mentions xDai has received from influencers in the community:
+Below are some mentions xDai has received from influencers in the community:
 
-
-
-## Dr Gavin Wood
+## Dr. Gavin Wood
 
 > We will introduce a **Substrate to** [**Parity-Ethereum-PoA**](https://github.com/paritytech/parity-ethereum) **bridge**, very similar to our existing [Parity Bridge](https://github.com/paritytech/parity-bridge) that sits at the heart of the [xDAI](https://xdai.io/) chain...
 >
@@ -36,11 +34,9 @@ The xDai Chain has been one of crypto's breakout success stories. Its prominent 
 Note: After xDai moved to POSDAO, the permissioned critique is less  valid 
 {% endhint %}
 
-{% embed url="https://vitalik.ca/general/2019/10/24/gitcoin.html" caption="Review of Gitcoin grants" %}
+{% embed url="https://vitalik.ca/general/2019/10/24/gitcoin.html" caption="Review of Gitcoin grants with quote on xDai" %}
 
 {% embed url="https://twitter.com/VitalikButerin/status/1294885662332600320" %}
-
-
 
 ## Joseph Lubin
 
@@ -49,6 +45,10 @@ Note: After xDai moved to POSDAO, the permissioned critique is less  valid
 > Joseph Lubin, co-founder of Ethereum
 
 {% embed url="https://youtu.be/mHm7MECKLQU?t=2929" %}
+
+## Dovey Wan
+
+{% embed url="https://twitter.com/DoveyWan/status/1296796946309365760?s=19" %}
 
 
 
