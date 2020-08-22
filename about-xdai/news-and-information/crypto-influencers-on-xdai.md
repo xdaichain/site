@@ -8,10 +8,6 @@ The xDai Chain has been one of crypto's breakout success stories. Its prominent 
 
  Below are some mentions xDai has received from influencers in the community:
 
-## Vitalik Buterin
-
-{% embed url="https://twitter.com/VitalikButerin/status/1294885662332600320" %}
-
 
 
 ## Dr Gavin Wood
@@ -37,10 +33,14 @@ The xDai Chain has been one of crypto's breakout success stories. Its prominent 
 > Vitalik Buterin, co-founder of Ethereum
 
 {% hint style="success" %}
-Note: When xDai moves to POSDAO, the permissioned critique is no longer valid 🙂 
+Note: After xDai moved to POSDAO, the permissioned critique is less  valid 
 {% endhint %}
 
-{% embed url="https://vitalik.ca/general/2019/10/24/gitcoin.html" %}
+{% embed url="https://vitalik.ca/general/2019/10/24/gitcoin.html" caption="Review of Gitcoin grants" %}
+
+{% embed url="https://twitter.com/VitalikButerin/status/1294885662332600320" %}
+
+
 
 ## Joseph Lubin
 
