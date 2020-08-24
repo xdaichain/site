@@ -65,7 +65,9 @@ You can access the bridge via:
 
 ![Tenderly Dashboard Gas Profiler example](../../.gitbook/assets/tenderly.png)
 
-## **Additional resources**
+## **Additional Resources**
+
+**General Migration Guide:** A fun and easy xDai migration guide from DAOHaus: [https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a](https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a)
 
 Tutorial on how to use GasRelay in your Dapp by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience.  
 [https://docs.portis.io/\#/gas-relay](https://docs.portis.io/#/gas-relay)
