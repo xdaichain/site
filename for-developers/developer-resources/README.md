@@ -62,6 +62,7 @@ You can access the bridge via:
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 * [QuikNode](https://www.quiknode.io/) gives users a super-fast Web3 endpoint for accessing or interacting with the xDai chain.
 * [CurveGrid](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities  through a web UI as well as a comprehensive REST API.
+* [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
 
 ![Tenderly Dashboard Gas Profiler example](../../.gitbook/assets/tenderly.png)
 
