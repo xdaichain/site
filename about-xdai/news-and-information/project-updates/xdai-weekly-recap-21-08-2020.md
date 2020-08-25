@@ -77,7 +77,7 @@ We ran through some questions about the Reddit Challenge and EasyStaking with Cr
 
 ### ✅ Twitter Banner Design Contest Extended
 
-We’ve launched a contest to design our Twitter banner with prizes in STAKE. **Entries have been extended due by August 24**. If you are a designer, or know one, forward on the info to help elevate the xDai STAKE visual game!   
+We’ve launched a contest to design our Twitter banner with prizes in STAKE. **Entries have been extended to a TBD date.** If you are a designer, or know one, forward on the info to help elevate the xDai STAKE visual game!   
   
 Add your entry here:[ https://airtable.com/shrWqBjOHBzsdIdDI](https://airtable.com/shrWqBjOHBzsdIdDI)
 

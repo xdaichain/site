@@ -1,4 +1,4 @@
-# STAKE Staking Token
+# STAKE Governance and StakingToken
 
 {% hint style="info" %}
 STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai, however STAKE may be used for staking \(or other purposes\) by other blockchain networks. 
