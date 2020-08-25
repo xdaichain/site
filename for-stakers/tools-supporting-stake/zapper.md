@@ -12,13 +12,13 @@ You will connect your wallet to the application at [https://zapper.fi/](https://
 
 ![Finding STAKE pools](../../.gitbook/assets/zapper1.png)
 
-2\) Click on a STAKE pool to invest. If you are already participating in a pool, you will see your current amount and can Rebalance, Withdraw or Add to the pool from the Zapper app.
+2\) Click on a STAKE pool in the list to add funds for the first time. If you are already participating in a pool, you will see your current amount and can Rebalance, Withdraw or Add to the pool from the Zapper app.
 
-![](../../.gitbook/assets/zapper2.png)
+![Your pools will appear if you have any current investments](../../.gitbook/assets/zapper2.png)
 
 3\) In the Rebalance window you can move your funds to a different pool.
 
-![](../../.gitbook/assets/zapper5.png)
+![Move investments from one platform to another](../../.gitbook/assets/zapper5.png)
 
 4\) When adding assets, the application automatically adjusts the balance. With the Balancer pool, you can add USDC, DAI or ETH and it will automatically convert it to STAKE/ETH!
 
