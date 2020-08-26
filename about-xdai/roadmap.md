@@ -78,10 +78,10 @@ EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the
 
 We will integrate statistics views on the EasyStaking platform as well as develop additional analytics tools \(currently exploring options like Dune Analytics & Graphana\) for LPs.
 
-## Multi-Token Bridge
+## OmniBridge
 
 🎯 **Target Date**: Q3 2020  
-☑ **Status:** In process
+☑ **Status:** In process. Bridge is 100% functional, UI in progress. Learn more here: [https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
 
 Universal mediators will support transfers for virtually any ERC20 token to the xDai chain with no additional contract deployment. This will lower the barrier-to-entry for projects and DApps looking to move tokens to xDai and take advantage of low-fee, high-speed transactions. Users will be able to automatically create equivalent tokens on xDai ready for immediate usage. 
 
