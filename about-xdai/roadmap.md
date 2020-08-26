@@ -16,7 +16,7 @@ _Last update: 06.08.2020 \|_ [_Changelog_](roadmap.md#change-log)\_\_
  ☑ **Status:** In process. Carbon implementation complete, additional implementations ongoing.
 
 {% hint style="success" %}
-The [Carbon on-ramp](../for-users/buying-xdai-with-carbon/) for xDai is in development \(functionality is dependent on geo-location\).
+The [Carbon on-ramp]() for xDai is in development \(functionality is dependent on geo-location\).
 {% endhint %}
 
 At the moment, to get xDai, most users have to get Dai first and relay it to xDai via xDai Bridge. The process is complicated and time-consuming due to congestions on the Ethereum networks and the probabilistic nature of Proof of Work consensus. Relayers of the xDai bridge are waiting for eight blocks on Ethereum before they relay Dai to xDai.

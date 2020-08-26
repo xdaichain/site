@@ -34,7 +34,7 @@ xDai is the name of a blockchain AND the stable cryptocurrency used on the chain
 
 The xDai blockchain is a sidechain of the Ethereum blockchain. It has the same properties as Ethereum, but uses a different method to make sure transactions are valid and consistent across all nodes in the distributed network. Currently, known organizations \(called validators\) transmit and verify blocks every 5 seconds. This means transactions can be completed quickly and fees for transactions can be minimized. In the near future, xDai will transition to public staking where community members can also be nodes. See below for more on STAKE, the token that is used for Proof of Stake consensus.
 
-xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card](for-users/buying-xdai-with-carbon/)\) but behind the scenes it is always created from Dai, and the value of xDai always corresponds 1:1 with Dai. 
+xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card]()\) but behind the scenes it is always created from Dai, and the value of xDai always corresponds 1:1 with Dai. 
 
 Here's how xDai is created:
 

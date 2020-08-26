@@ -4,10 +4,10 @@ description: >-
   the Wyre API.
 ---
 
-# Buying xDai with Portis via Wyre \(US Residents only\)
+# Buying xDai with Portis via Wyre \(Under Construction\)
 
 {% hint style="danger" %}
-xDai direct purchases \(Carbon or Wyre\) are currently under construction.  Purchase Dai on the mainnet and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/), or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](../burner-wallet-functions/exchange-currencies.md).
+xDai direct purchases are currently under construction.  Purchase Dai on the mainnet and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/), or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](../burner-wallet-functions/exchange-currencies.md).
 {% endhint %}
 
 {% hint style="warning" %}
