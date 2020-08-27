@@ -10,7 +10,7 @@ At the onset of the POSDAO protocol, the [13 original validators \(12 +1 unremov
 
 Should one of the original validators decide to leave the network, their validator spot will be preserved and the initial 20K allotment kept in the protocol. For security reasons the original 13 validatorships should remain occupied, and the initial 20K allotment cannot be withdrawn. However, an original validator may negotiate to sell their spot to a new validator, and that new validator will then inherit the original 20K staking allotment. Should this validator who replaces the original validator decide to leave, the same parameters will apply.
 
-If an original validator leaves, they are entitled to withdraw all accrued rewards since network inception.
+If an original validator leaves, they are entitled to withdraw all accrued rewards since network inception above and beyond the initial 20K STAKE allotment.
 
 This policy is designed to promote a healthy and viable network and to protect chain security. It was officially introduced in [POSDAO release v0.1.7.](https://github.com/poanetwork/posdao-contracts/releases/tag/v0.1.7)  In the future the terms can be revisited through a governance process; the measure is currently enacted as a safety precaution while the network transitions and successfully functions with public POSDAO.
 
