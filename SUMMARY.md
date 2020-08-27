@@ -197,7 +197,8 @@
 
 ## For validators
 
-* [About xDai Validators](for-validators/about-xdai-validators.md)
+* [About xDai Validators](for-validators/about-xdai-validators/README.md)
+  * [Original Validator Rewards](for-validators/about-xdai-validators/original-validator-rewards.md)
 * [POSDAO Whitepaper](for-validators/posdao-whitepaper.md)
 * [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
   * [Prior Node setup instructions](for-validators/new-validator-process-flow/prior-node-setup-instructions.md)

@@ -24,7 +24,7 @@ Any contract that works on the Ethereum mainnet can be easily redeployed to the 
 {% endtab %}
 
 {% tab title="For validators" %}
-Validators on the xDai chain provide consensus for transactions and secure the chain. Current xDai validators are [well known organizations in the Ethereum community](for-validators/about-xdai-validators.md).
+Validators on the xDai chain provide consensus for transactions and secure the chain. Current xDai validators are [well known organizations in the Ethereum community](for-validators/about-xdai-validators/).
 
 When xDai switches to public POSDAO and delegated Proof of Stake \(Q3 2020\), anyone with enough STAKE and the ability to run a node will have the opportunity to become a validator. Delegators in this model will help determine the validator set by placing stake on candidates they want to see become validators.
 {% endtab %}
