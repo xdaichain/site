@@ -30,6 +30,11 @@ Additional sidechains will also have the opportunity to use STAKE to secure thei
 
 ## Bridges to Ethereum
 
-Two bridges connect the xDai Stable Chain to the Ethereum mainnet, supporting seamless two-way asset transfer between chains. Tokens are acquired on the mainnet, then bridged to the xDai Stable Chain sidechain using either the Dai-xDai bridge for transactional tokens, or the DPOS bridge for staking tokens. Once a user is finished transacting or staking, tokens can be bridged back to the mainnet with ease.  
+Two bridges connect the xDai Stable Chain to the Ethereum mainnet, supporting seamless two-way asset transfer between chains. Tokens are acquired on the mainnet, then bridged to the xDai Stable Chain sidechain using either the Dai-xDai bridge for transactional tokens, or the OmniBridge for any cross-chain transfers. Once a user is finished transacting or staking, tokens can be bridged back to the mainnet with ease.
 
+### Bridged Tokens
+
+View tokens that have been bridged to xDai with the OmniBridge using the BlockScout Interface!  
+  
+[https://blockscout.com/poa/xdai/bridged\_tokens](https://blockscout.com/poa/xdai/bridged_tokens)
 
