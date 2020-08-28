@@ -31,7 +31,7 @@ Yes, [Quantstamp](https://quantstamp.com/) conducted a full security audit on th
 
 Simply add STAKE and ETH to the following Uniswap pool. [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
 
-You will receive rewards based on the [LP distribution contract](./#stake-lp-distribution-script).
+You will receive rewards based on the [LP distribution contract](./#stake-lp-distribution-script). The top 100 liquidity providers will split the rewards based on the percentage of STAKE they have contributed to the pool.
 
 ### I was staking on BitMax during the promotional period. Do I need to do anything to start EasyStaking?
 
@@ -96,7 +96,7 @@ This time-based APR is then added to the supply based APR to get total APR on wi
 
 Liquidity providers receive their APR accordingly:`15 - ( EasyStaking time APR + EasyStaking supply APR)`
 
-* For example, if a staker withdraws with a 2.011% time APR and a 2.196% supply APR, the LP contract will receive 15 - \(2.011 + 2.196\) = 10.793%.  This amount is distributed amongst LP providers based on how much STAKE they have in the LP contract. 
+* For example, if a staker withdraws with a 2.011% time APR and a 2.196% supply APR, the LP contract receives 15 - \(2.011 + 2.196\) = 10.793%.  This amount is distributed amongst the top 100 LP providers based on how much STAKE they have in the LP contract. 
 * LP providers also split the 2% instant withdrawal/unbonding fee when instant withdrawals are processed.
 * Rewards to LPs are distributed based on the [LP distribution script](./#stake-lp-distribution-script).
 

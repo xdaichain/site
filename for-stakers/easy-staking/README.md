@@ -69,16 +69,20 @@ In this example, this reward APR%  for Bob and Roger is very high, much more tha
 ## STAKE LP Distribution Script
 
 {% hint style="warning" %}
-LP incentive will be distributed every 7 days \(within 7-day time slots at random intervals\) once the first distribution in launched. **We expect to launch the first distribution at end of August/ Early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
+LP incentive will be distributed every 5-9 days \(at random intervals within that timeframe\) once the first distribution in launched. **We expect to launch the first distribution in early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
 {% endhint %}
 
-Distributions to LP participants occur once within a 7-day window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
+Distributions to LP participants occur once within a 5-9 day window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
+
+The top 100 providers will receive rewards based on the percentage of STAKE they have in the pool.
 
 The distribution script will run on a centralized server, and its results can be checked for bias or inaccuracy by any interested party. A multi-signature wallet will control Easy Staking parameters, including the address which calls distributions. If issues arise, this address may be changed through the multi-sig process.
 
 Easy staking is non-custodial, no funds are collected and 100% of accumulated rewards are distributed to Easy Staking participants and LP participants.
 
 More liquidity pools with different asset bases may be added in the future, and the distribution mechanics for these pools will be explored further.
+
+The distribution contract is available here: [https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070](https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070)
 
 ## How to Participate
 

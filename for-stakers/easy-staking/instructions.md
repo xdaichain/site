@@ -40,7 +40,7 @@ There are two types of withdrawals - Instant and Scheduled. Select the type you 
 ## Liquidity Providers
 
 {% hint style="warning" %}
-LP incentive will be distributed every 7 days \(within 7-day time slots at random intervals\) once the first distribution in launched. **We expect to launch the first distribution at end of August/ Early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
+LP incentive will be distributed every 5-9 days \(within this time frame at random intervals, for an average of every 7 days\) once the first distribution in launched. **We expect to launch the first distribution  in early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
 {% endhint %}
 
 If you are interested in supplying Liquidity in the form of STAKE / ETH and earning staking rewards as an LP,  you can add liquidity to the 🦄 Uniswap pool here: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
@@ -48,6 +48,8 @@ If you are interested in supplying Liquidity in the form of STAKE / ETH and earn
 More details about liquidity provider rewards are available on the [EasyStaking page](./#liquidity-pool-lp-participants). 
 
 STAKE/ETH pair contract on Etherscan: [https://etherscan.io/address/0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7](https://etherscan.io/address/0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7)
+
+Distribution Contract: [https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070](https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070)
 
 ## Staking from a wallet without the UI
 
