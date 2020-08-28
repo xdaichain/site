@@ -191,11 +191,11 @@
   * [Saturn Wallet](for-users/wallets/saturn-wallet.md)
   * [Status Wallet](for-users/wallets/status-wallet.md)
 * [Basic Burner Wallet Functions](for-users/burner-wallet-functions/README.md)
-  * [OmniBridge](for-users/burner-wallet-functions/omnibridge.md)
   * [Receive & Send](for-users/burner-wallet-functions/receive-and-send.md)
   * [Exchange Currencies](for-users/burner-wallet-functions/exchange-currencies.md)
   * [Send xDai with a Loaded Link](for-users/burner-wallet-functions/send-xdai-with-a-loaded-link.md)
   * [Request Specific xDai Amount](for-users/burner-wallet-functions/request-specific-xdai-amount.md)
+* [OmniBridge](for-users/omnibridge.md)
 
 ## For validators
 
