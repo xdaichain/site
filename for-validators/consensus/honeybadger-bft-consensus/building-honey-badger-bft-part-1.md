@@ -6,11 +6,11 @@ description: >-
 
 # Building Honey Badger BFT: Part 1
 
-### **POA Network: Building Honey Badger BFT**
+### **Building Honey Badger BFT**
 
 If you have been following blockchain \(or [Internet Memes](https://knowyourmeme.com/memes/honey-badger) \) for a while you have probably heard of the ‘Honey Badger.’ Bitcoin is often referred to as the ‘[Honey Badger of Money](https://www.wired.com/2013/12/bitcoin-honey/),’ a reference to the resilience and fearlessness of an animal that eats cobras for breakfast.
 
-In honour of this symbol of resilience, a new protocol is emerging for use in blockchain consensus called the ‘Honey Badger Byzantine Fault Tolerant \(HBBFT\) Protocol.’ The protocol and associated algorithms are described by Miller _et al._ in their 2016 paper titled “[The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf).” [POA Network](https://poa.network/) is currently developing and modifying this consensus protocol for blockchain network use.
+In honour of this symbol of resilience, a new protocol is emerging for use in blockchain consensus called the ‘Honey Badger Byzantine Fault Tolerant \(HBBFT\) Protocol.’ The protocol and associated algorithms are described by Miller _et al._ in their 2016 paper titled “[The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf).” The R&D team is currently developing and modifying this consensus protocol for blockchain network use.
 
 ### Consensus Protocols
 
@@ -41,7 +41,7 @@ In a distributed networking environment \(e.g. a blockchain\), some form of BFT 
 3. Proof-of-work blockchains are notorious for their vast use of computational power and unsustainable energy consumption. For insight into this issue, see [Bitcoin’s Growing Energy Problem](https://www.cell.com/joule/pdf/S2542-4351%2818%2930177-6.pdf) and [Decarbonizing Bitcoin](https://www.sciencedirect.com/science/article/pii/S2214629618301750).
 4. BFT protocols can create slow throughput rates and inefficient data transfer.
 
-Honey Badger BFT addresses these issues, and POA Network’s implementation will provide an efficient consensus protocol that maintains both liveness \(the network continues to make progress\) and safety \(all honest nodes eventually reach consensus\) through a range of network conditions.
+Honey Badger BFT addresses these issues, and our’s implementation will provide an efficient consensus protocol that maintains both liveness \(the network continues to make progress\) and safety \(all honest nodes eventually reach consensus\) through a range of network conditions.
 
 ### Why we need Honey Badger BFT
 

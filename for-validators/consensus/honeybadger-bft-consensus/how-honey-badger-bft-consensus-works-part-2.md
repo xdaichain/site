@@ -18,7 +18,7 @@ Unfortunately, this type of naive blockchain is not secure, and quickly falls ap
 * which transactions to discard
 * the indisputable and unchangeable order of valid transactions
 
-In building a consensus protocol, we must assume and plan for adversaries, network outages, and network attacks. Honey Badger BFT \(HBBFT\) was first described in the 2016 paper titled “[The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)” by Miller _et al._ POA Network is building a production-ready version of HBBFT capable of withstanding attacks while creating a verifiably correct blockchain.
+In building a consensus protocol, we must assume and plan for adversaries, network outages, and network attacks. Honey Badger BFT \(HBBFT\) was first described in the 2016 paper titled “[The Honey Badger of BFT Protocols](https://eprint.iacr.org/2016/199.pdf)” by Miller _et al._ we are building a production-ready version of HBBFT capable of withstanding attacks while creating a verifiably correct blockchain.
 
 In this article we’ll explain how it works, but first we’ll describe several different types of consensus and why HBBFT offers an advantage over these protocols.
 
@@ -60,7 +60,7 @@ Honey Badger BFT also provides block finality and effectively handles malicious 
 
 ## HBBFT Architecture
 
-At POA Network, we are excited to implement the HBBFT protocol in [Rust](https://www.rust-lang.org/). Rust is a systems programming language that prevents many classes of programming errors without sacrificing efficiency, and provides opportunities for integration with blockchain clients like [Parity](http://parity.io/).
+We are excited to implement the HBBFT protocol in [Rust](https://www.rust-lang.org/). Rust is a systems programming language that prevents many classes of programming errors without sacrificing efficiency, and provides opportunities for integration with blockchain clients like [Parity](http://parity.io/).
 
 Note that the purpose of HBBFT is to return agreed upon batches of transactions. It does not complete final block processing \(like updating account balances, executing smart contracts and signing blocks\) and does not append blocks to the blockchain. This is the responsibility of the application HBBFT is using to communicate with the blockchain \(such as Parity\).
 
