@@ -16,7 +16,8 @@ xDai Network is 100% compatible with Ethereum. This means that any Smart Contrac
 * [Galt Project](../use-cases/dao-governance.md): DAO governance, UBI
 * [KickBack](https://medium.com/wearekickback/kickback-x-the-three-experimental-new-features-bb75e1149022): Event Management and RSVP accountability
 * [Galleass](galleass.io.md): Decentralized resource management game
-* [DAOhaus](https://xdai.daohaus.club/): DAO community organization 
+* [DAOhaus](https://xdai.daohaus.club/): DAO community organization
+* [FacebookFly](https://fbfly.xyz/): Bringing DAOs to Facebook
 
 
 
