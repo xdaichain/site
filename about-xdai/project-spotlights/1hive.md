@@ -14,6 +14,8 @@ Honey is issued on each block and accumulates in a common pool. In the proposal 
 
 * **Proposal Dashboard** \([Aragon Connect](https://aragon.org/connect)\): [https://1hive.org/](https://1hive.org/#/)
 
+![](../../.gitbook/assets/1hive-1.png)
+
 ## Honey Liquidity & Exchange
 
 To enable currency exchange and improve liquidity of Honey, Hive1 has deployed a fork of the Uniswap v1 protocol on xDai. This provides users a way to buy, sell, or contribute liquidity for Honey. Additional token pairs and liquidity incentives for providers may also be added in the future
