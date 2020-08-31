@@ -18,6 +18,7 @@ xDai Network is 100% compatible with Ethereum. This means that any Smart Contrac
 * [Galleass](galleass.io.md): Decentralized resource management game
 * [DAOhaus](https://xdai.daohaus.club/): DAO community organization
 * [FacebookFly](https://fbfly.xyz/): Bringing DAOs to Facebook
+* [PrinterDAO](https://aragon.1hive.org/#/printerdao/): Decentralized platform to access large scale printing
 
 
 
