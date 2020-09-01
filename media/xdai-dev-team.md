@@ -1,10 +1,10 @@
 # xDai Dev Team
 
-Igor Barinov is the tech and operations lead and has been involved with Ethereum based projects for quite a long time -  he is an original founder of the [POA Network](http://poa.network). With POA Network he created an Ethereum sidechain with a Proof-of-Autonomy consensus, where all validators are United States Notary publics. The network is largely autonomous now as the validators run the chain.  
+Igor Barinov is the tech and operations lead and has been involved with Ethereum based projects for years, inventing novel projects and new mechanisms of consensus.
 
 A strong R&D focus on Ethereum Ecosystem has resulted in several meaningful projects developed for the blockchain ecosystem. These include a robust open-source explorer called [BlockScout](https://blockscout.com/poa/xdai), which is now the primary explorer for Ethereum Classic and many other chains. They also develop and support [NiftyWallet](https://www.poa.network/for-users/nifty-wallet), a web3 wallet designed to support alternate chains, and built the [TokenBridge](https://docs.tokenbridge.net/), which provides interoperability between different blockchains. These efforts have all come together to create and provide tools for the xDai Stable Chain.
 
-Additional xDai project team leaders include Vadim Arasev \(consensus team lead\), Victor Barinov \(BlockScout + Nifty Wallet team lead\) Alex Kolotov \(TokenBridge lead\), Max Alekseenko \(Decentralized App development\) & Andrew Gross \(technical writer\). Their experience spans not only blockchain development but each brings a unique perspective from fields such as telecommunications, robotics, e-commerce, informatics, genetics and research.
+Additional xDai project team leaders include Vadim Arasev \(consensus team lead\), Victor Barinov \(BlockScout + Nifty Wallet team lead\) Alex Kolotov \(TokenBridge lead\), Max Alekseenko \(Decentralized App development\) & Andrew Gross \(technical writer\). Their experience spans not only blockchain development but each brings a unique perspective from fields such as telecommunications, robotics, e-commerce, informatics, computer science.
 
 ## xDai Core Development Team
 
