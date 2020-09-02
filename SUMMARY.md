@@ -125,6 +125,7 @@
   * [Instructions](for-stakers/easy-staking/instructions.md)
   * [Emission Rates](for-stakers/easy-staking/emission-rates.md)
   * [EasyStaking Parameters](for-stakers/easy-staking/easy-staking-parameters.md)
+  * [Liquidity Provider \(LP\) Info](for-stakers/easy-staking/liquidity-provider-lp-info.md)
   * [EasyStaking FAQ](for-stakers/easy-staking/easystaking-faq.md)
 * [Tools supporting STAKE](for-stakers/tools-supporting-stake/README.md)
   * [Zapper](for-stakers/tools-supporting-stake/zapper.md)

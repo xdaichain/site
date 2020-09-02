@@ -97,12 +97,17 @@
     </tr>
     <tr>
       <td style="text-align:left">EasyStaking Contract</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad">https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad</a>
+      <td style="text-align:left"><a href="https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad">0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">LP Distribution Contract</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070">https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070</a>
+      <td style="text-align:left"><a href="https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070">0x650c1c650773713e0884be96307fb0aa7f4ab070</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">STAKE Token Contract</td>
+      <td style="text-align:left"><a href="https://etherscan.io/token/0x0ae055097c6d159879521c384f1d2123d1f195e6">0x0ae055097c6d159879521c384f1d2123d1f195e6</a>
       </td>
     </tr>
     <tr>

@@ -43,7 +43,7 @@ As well as functioning as a stand-alone application, Easy Staking may be integra
 ## Liquidity Pool \(LP\) Participants
 
 {% hint style="warning" %}
-The LP incentive will be distributed every 5-9 days \(at random intervals within that timeframe\) once the first distribution in launched. **We expect to launch the first distribution in early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
+The LP incentives are distributed every 5-9 days \(at random intervals within that timeframe\) .
 {% endhint %}
 
 Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
@@ -60,29 +60,11 @@ Liquidity pool providers will also receive STAKE incentives from the Easy Stakin
 
 👩🎨 Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request. Assume APR is 10%. Since she deposited 10000 STAKE and staked for 1 year, Mary receives 11000 STAKE \(her initial amount + 10% APR\).  The remaining 500 STAKE \(5% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
 
-Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once a week \(within 7-day time slots at random intervals\) and distributes funds based on pool participation percentages.
+Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once a week \(within 5-9 day time slots at random intervals\) and distributes funds based on pool participation percentages.
 
 For simplicity, let's say only 👨🌾 Bob and 👨🍳 Roger were participating in the Uniswap LP. Bob has .3 ETH/30 STAKE and Roger has .1 ETH/10 STAKE in the pool when the distribution script is executed.  At this point, 👨🌾 Bob receives 375 STAKE \(75% of the STAKE in the LP distribution contract\) and 👨🍳 Roger 125 STAKE \(25%\) based on 👩🎨 Mary's withdrawal scenario above.
 
 In this example, this reward APR%  for Bob and Roger is very high, much more than they would have received for other staking methods, as they capture value from STAKE placed in the Easy Staking contract. Distribution percentages will vary based on how much ETH and STAKE exist in liquidity pools and how much STAKE is placed in the Easy Staking contract. 
-
-## STAKE LP Distribution Script
-
-{% hint style="warning" %}
-LP incentive will be distributed every 5-9 days \(at random intervals within that timeframe\) once the first distribution in launched. **We expect to launch the first distribution in early September and will announce via** [**Twitter** ](https://twitter.com/xdaichain)**and** [**Telegram**](https://t.me/xdaistable) **when it is ready.**
-{% endhint %}
-
-Distributions to LP participants occur once within a 5-9 day window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
-
-The top 100 providers will receive rewards based on the percentage of STAKE they have in the pool.
-
-The distribution script will run on a centralized server, and its results can be checked for bias or inaccuracy by any interested party. A multi-signature wallet will control Easy Staking parameters, including the address which calls distributions. If issues arise, this address may be changed through the multi-sig process.
-
-Easy staking is non-custodial, no funds are collected and 100% of accumulated rewards are distributed to Easy Staking participants and LP participants.
-
-More liquidity pools with different asset bases may be added in the future, and the distribution mechanics for these pools will be explored further.
-
-The distribution contract is available here: [https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070](https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070)
 
 ## How to Participate
 
