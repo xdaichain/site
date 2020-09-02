@@ -16,7 +16,7 @@ xDai’s value is not determined by crypto-market forces, removing much of the d
 
 ## On-Chain Randomness
 
-Using a RANDAO-based Random Number Generator, validators on xDai produce random numbers used for validator selection. These random seeds are also available for usage by contracts deployed to xDai.  This allows for true on-chain randonmness, eliminating the need to rely on a centralized service or 3rd party application. More information on how the xDai RNG works is [available here](../for-developers/on-chain-random-numbers/).
+Using a RANDAO-based Random Number Generator, validators on xDai produce random numbers used for validator selection. These random seeds are also available for usage by contracts deployed to xDai.  This allows for true on-chain randomness, eliminating the need to rely on a centralized service or 3rd party application. More information on how the xDai RNG works is [available here](../for-developers/on-chain-random-numbers/).
 
 ## DPOS Consensus
 
