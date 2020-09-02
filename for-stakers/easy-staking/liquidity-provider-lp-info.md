@@ -1,8 +1,12 @@
 # Liquidity Provider \(LP\) Info
 
-Liquidity providers also receive rewards from EasyStaking. The distribution contract accumulates STAKE when stakers exit the protocol. Funds are added based on a simple formula: 15 - staker's earned APR. In addition, the contract receives fees assessed \(2%\) when a staker exits with an instant withdrawal. For examples, see the [EasyStaking page](./).  
+In addition to [rewards provided by Uniswap for participation](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/), ETH/STAKE liquidity providers receive additional rewards from EasyStaking. The distribution contract accumulates STAKE when stakers exit the protocol. Funds are added based on a simple formula: 15 - staker's earned APR. In addition, the contract receives fees assessed \(2%\) when a staker exits with an instant withdrawal. For examples, see the [EasyStaking page](./).  
   
 A script runs every 5-9 days and provides rewards to the top 100 LP providers, based on how much STAKE they have placed in the pool. 
+
+{% hint style="warning" %}
+Participating as an LP carries certain risks, such as the risk of impermanent \(or divergence\) loss where prices in the pool diverge from external market prices. [More info on impermanent/divergence loss.](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+{% endhint %}
 
 ## LP Resources
 
@@ -15,6 +19,10 @@ A script runs every 5-9 days and provides rewards to the top 100 LP providers, b
 
 * LP distribution contract: [https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070](https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070) 
 * LP Governance: Coming Soon
+
+{% hint style="warning" %}
+Participating as an LP carries certain risks, such as the risk of impermanent \(or divergence\)loss where prices in the pool diverge from external market prices. [More info on impermanent loss.](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
+{% endhint %}
 
 ## Adding to the Liquidity Pool
 
