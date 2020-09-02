@@ -20,10 +20,6 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 * LP distribution contract: [https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070](https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070) 
 * LP Governance: Coming Soon
 
-{% hint style="warning" %}
-Participating as an LP carries certain risks, such as the risk of impermanent \(or divergence\)loss where prices in the pool diverge from external market prices. [More info on impermanent loss.](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
-{% endhint %}
-
 ## Adding to the Liquidity Pool
 
 For now there is a single liquidity pool with Uniswap. More pools may be added in the future.You can use [Zapper.fi](../tools-supporting-stake/zapper.md) to stake, or add with Uniswap:
