@@ -4,13 +4,13 @@ description: Crypto Art 101 on xDai
 
 # Nifty.Ink
 
-An interactive project where anyone can create NFTs on xDai with a fun drawing tool, all for free! Once there, they can send, sell, mint or bridge to Mainnet and OpenSea. 
+An interactive project where anyone can create NFTs on xDai with a fun drawing tool, all for free! Once there, you can send, sell, mint or bridge to Mainnet and OpenSea. 
 
 * Platform for digital artists
 * NFT marketplace on xDai
 * Web3 onboarding space
 
-To start, simply go to Nifty.ink. A burner wallet is automatically created, or you can connect to your MetaMask or WalletConnect instance. Create your masterpiece from there!
+To start, simply go to Nifty.ink. A burner wallet is automatically created, or you can connect to your MetaMask or WalletConnect instance. Then....create your NFT! 
 
 {% embed url="https://youtu.be/XtO6k9egpPk" %}
 
