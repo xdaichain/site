@@ -27,6 +27,7 @@
   * [Galleass.io](about-xdai/project-spotlights/galleass.io.md)
   * [Kickback RSVP Platform](about-xdai/project-spotlights/kickback-rsvp-platform.md)
   * [DAOHaus](about-xdai/project-spotlights/daohaus.md)
+  * [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md)
 * [FAQs](about-xdai/faqs.md)
 * [Comparisons](about-xdai/comparisons/README.md)
   * [Matic](about-xdai/comparisons/matic.md)
