@@ -4,7 +4,9 @@ description: 29 August 2020 - 04 September 2020
 
 # ⚔️ xDai Weekly Recap - 04/09/2020
 
-##  💎 Distributions
+![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%287%29.png)
+
+## 💎 Distributions
 
 ### ✅ 1st Reward Distribution Sent to Uniswap Liquidity Providers
 
@@ -43,17 +45,17 @@ Raidguild continues to port over infrastructure and make progress with xDai deve
 
 ## 🖼 App News
 
-### ✅ Nifty.Ink Contest
-
-With Nifty.Ink anyone can draw and mint an NFT to xDai. BlockTalks and xDai are sponsoring a crypto art contest with a $250 prize pool. 
-
-{% embed url="https://twitter.com/xdaichain/status/1301195000215207936" %}
-
 ### ✅ Powerpool Beta Complete - Gamma up Next
 
 [Powerpool](https://powerpool.finance/) finished their beta on xDai with some amazing results. Gamma testing will start shortly.
 
 {% embed url="https://twitter.com/powerpoolcvp/status/1300936972446375936" %}
+
+### ✅ Nifty.Ink Contest
+
+With Nifty.Ink anyone can draw and mint an NFT to xDai. BlockTalks and xDai are sponsoring a crypto art contest with a $250 prize pool. 
+
+{% embed url="https://twitter.com/xdaichain/status/1301195000215207936" %}
 
 ### ✅ KickBack Events on xDai
 
