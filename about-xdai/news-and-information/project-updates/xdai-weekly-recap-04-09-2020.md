@@ -45,7 +45,7 @@ Raidguild continues to port over infrastructure and make progress with xDai deve
 
 ## 🖼 App News
 
-### ✅ Powerpool Beta Complete - Gamma up Next
+### ✅ Power Pool Beta Complete - Gamma up Next
 
 [Powerpool](https://powerpool.finance/) finished their beta on xDai with some amazing results. Gamma testing will start shortly.
 
