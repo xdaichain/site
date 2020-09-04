@@ -19,7 +19,9 @@ If you are staking with Bitmax, you can undelegate instantly for a 2% fee, or sc
 
 ### How much STAKE is in the EasyStaking Contract?
 
-You can view the contract here:  [https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad](https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad)  Use the token dropdown to see the current amount of STAKE in the contract.  
+Easy View: [https://etherscan.io/tokenholdings?a=0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad](https://etherscan.io/tokenholdings?a=0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad)
+
+View the contract here:  [https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad](https://etherscan.io/address/0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad)  and use the token dropdown to see the current amount of STAKE in the contract.  
 
 For context, compare this to the circulating supply, which is available on CoinGecko, CMC, or here:  [https://supply.xdaichain.com/](https://supply.xdaichain.com/)
 
