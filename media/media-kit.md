@@ -13,6 +13,6 @@ description: Branding and Logos
 
 
 {% file src="../.gitbook/assets/xdai\_alternative.ai" caption="Logo in AI format" %}
-
+{% file src="../.gitbook/assets/xdai_alternative.svg" caption="Logo in SVG format" %}
 
 
