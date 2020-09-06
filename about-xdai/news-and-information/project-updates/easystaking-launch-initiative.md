@@ -14,7 +14,7 @@ Easy Staking is now live at [https://easy-staking.xdaichain.com/](https://easy-s
 
 ### xDai **F**oundation to bootstrap and provide ongoing support the EasyStaking protocol
 
-EasyStaking is coming soon to Ethereum, and the xDai Foundation is excited to support and develop this new protocol. To show our support and dedication from the start, **the foundation will devote 100% of all STAKE tokens** received [through the token release schedule](../../../for-stakers/stake-token/stake-token-distribution/token-release-schedule.md#foundation-reward) to the protocol through the end of the year. This includes the 139,809 token unlock on July 22, as well as future daily releases through EOY. This will serve several purposes. 
+EasyStaking is coming soon to Ethereum, and the xDai Foundation is excited to support and develop this new protocol. To show our support and dedication from the start, **the foundation will devote 100% of all STAKE tokens** received [through the token release schedule](../../../for-stakers/stake-token/stake-token-distribution/token-release-schedule.md#foundation-reward) to the protocol through the end of the year. This includes the 139,809 token unlock on July 22 This will serve several purposes. 
 
 1. Foundation token unlocks will support the staking environment, they will not be sold on exchanges or enter the marketplace in other ways.
 2. Foundation tokens will immediately and meaningfully increase EasyStaking supply. A higher supply results in higher emission rates for every participant. [See EasyStaking for more information](../../../for-stakers/easy-staking/).

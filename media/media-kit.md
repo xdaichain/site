@@ -10,10 +10,7 @@ description: Branding and Logos
 
 ![Logo with +100px borders](../.gitbook/assets/100xdai_alternative.png)
 
-
-
 {% file src="../.gitbook/assets/xdai\_alternative.ai" caption="Logo in AI format" %}
 
-{% file src="../.gitbook/assets/xdai_alternative.svg" caption="Logo in SVG format" %}
-
+{% file src="../.gitbook/assets/xdai\_alternative.svg" caption="Logo in SVG format" %}
 
