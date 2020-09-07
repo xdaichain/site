@@ -18,6 +18,8 @@ To start, simply go to Nifty.ink. A burner wallet is automatically created, or y
 
 More Info: [https://medium.com/@austin\_48503/nifty-ink-%EF%B8%8F-alpha-release-c860a4904cb2](https://medium.com/@austin_48503/nifty-ink-%EF%B8%8F-alpha-release-c860a4904cb2)
 
+Media: [https://decrypt.co/40139/out-of-gas-project-lowers-costs-ethereum-blockchain-artists](https://decrypt.co/40139/out-of-gas-project-lowers-costs-ethereum-blockchain-artists)
+
 Nifty.Ink Contract: [https://blockscout.com/poa/xdai/address/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/transactions](https://blockscout.com/poa/xdai/address/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/transactions)
 
 Token Transfers \(view NFTs in BlockScout\): [https://blockscout.com/poa/xdai/tokens/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/token-transfers](https://blockscout.com/poa/xdai/tokens/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/token-transfers)

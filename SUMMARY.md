@@ -10,6 +10,7 @@
   * [Community Currencies](about-xdai/use-cases/community-currencies.md)
   * [Platform for Prediction Markets](about-xdai/use-cases/stable-platform-for-smart-contracts.md)
   * [Platform for Blockchain Games](about-xdai/use-cases/platform-for-blockchain-games.md)
+  * [NFT Mint and Transfer](about-xdai/use-cases/nft-mint-and-transfer.md)
   * [DAO Governance](about-xdai/use-cases/dao-governance.md)
   * [Cryptocurrency for Events & Conferences](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/README.md)
     * [Splunk Conference \(Non-Crypto Conference\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/splunk-conference-non-crypto-conference.md)
