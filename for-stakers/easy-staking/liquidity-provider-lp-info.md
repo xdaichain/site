@@ -15,6 +15,8 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 
 {% hint style="success" %}
 🎉 The initial distribution was successfully executed on September 2, 2020 and distributed to all 119 providers. Subsequent distributions will be sent to the top 100 providers.
+
+Next distribution will occur between 12 September and 16 September 2020.
 {% endhint %}
 
 * LP distribution contract: [https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070](https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070) 
@@ -66,7 +68,7 @@ You can check the current value of the LP contract at [https://etherscan.io/addr
 
 ## STAKE LP Distribution Script
 
-Distributions to LP participants occur once within a 5-9 day window at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
+Distributions to LP participants occur once every 7 days on average at a random interval. This prevents any user from entering the liquidity pool at a predetermined time to receive STAKE distributions then exiting shortly thereafter.
 
 The top 100 providers receive rewards based on the percentage of STAKE they have in the pool.
 

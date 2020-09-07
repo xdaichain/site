@@ -43,7 +43,7 @@ As well as functioning as a stand-alone application, Easy Staking may be integra
 ## Liquidity Pool \(LP\) Participants
 
 {% hint style="warning" %}
-The LP incentives are distributed every 5-9 days \(at random intervals within that timeframe\) .
+LP incentives are distributed on average every 7 days - the exact distribution date is randomized. 
 {% endhint %}
 
 Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)

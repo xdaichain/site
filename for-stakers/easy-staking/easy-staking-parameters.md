@@ -112,7 +112,7 @@
     </tr>
     <tr>
       <td style="text-align:left">LP Distribution Time</td>
-      <td style="text-align:left">LP rewards distributed every 5-9 days.</td>
+      <td style="text-align:left">LP rewards distributed on average every 7 days.</td>
     </tr>
   </tbody>
 </table>
