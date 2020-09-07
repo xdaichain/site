@@ -8,7 +8,7 @@ NFT game avatars, user parameters, and in-game items can move seamlessly between
 
 High gas prices on Ethereum can make it cost prohibitive to mint and trade NFTs on the mainnet. According to developer Austin Griffith "Based on the current gas prices \(08/28/2020\), it costs between $15.00 and $50.00 to mint a single piece of NFT artwork on Ethereum and $3.00 or more to send it to another account."  
 
-xDai Stable Chain solves this issue with mintong, trading and storing NFTs. Once value is established and/or access on Ethereum is required, unique assets, along with all associated metadata, can be transferred to Ethereum with the TokenBridge. This system provides a fast and inexpensive way to create and manage NFTs
+xDai Stable Chain solves this issue with minting, trading and storing NFTs. Once value is established and/or access on Ethereum is required, unique assets, along with all associated metadata, can be transferred to Ethereum with the TokenBridge. This system provides a fast and inexpensive way to create and manage NFTs across the blockchain ecosystem.
 
 ## Use Case: Nifty.Ink
 
