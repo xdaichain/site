@@ -28,9 +28,9 @@ We set out to build a reliable chain for stable payments, based on our past expe
 
 ## Validators
 
-![](https://lh6.googleusercontent.com/4bd0ms6g5ktjvGuNSA45ir-TCl5bBK7NOnB4wl3vplAjP6bD1u2HXrOvip_XaHNZexI2Euw23qf52-kfx1W-0nfyn2Whi55_3k_NuSv-4zMb13GCJ5PGOGAHA6cHlenSkFJ1fUT7)
+![](../../../.gitbook/assets/photo_2020-09-07-12.05.42.jpeg)
 
-The initial list of validators on the xDai chain includes POA Network, Giveth, Portis, MakerDAO, BurnerWallet, SyncNode, AnyBlock Analytics, Nevermind, Protofire, Gnosis and Galt Project. To date, these validators have subsidized their nodes in order to provide a stable chain for users.
+The initial list of validators on the xDai chain includes POA Network, Giveth, Portis, MakerDAO, BurnerWallet, SyncNode, AnyBlock Analytics, Nethermind, Protofire, Gnosis and Galt Project. To date, these validators have subsidized their nodes in order to provide a stable chain for users.
 
 In addition to the support from influential validators, companies like Splunk have supported the xDai chain by creating back-end data analysis tools and using xDai for their developer conferences. TheGraph, Terminal, Pocket Network, Tenderly, Chainbeat and more have all created compatible network tooling.
 
