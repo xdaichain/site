@@ -6,21 +6,21 @@ description: The following features make xDai a unique and secure sidechain solu
 
 ## Native Stable Coin
 
-A stable coin means peace of mind. Predictable currencies allow buyers and sellers to exchange value without the risks of volatility. In the xDai Stable Chain implementation, transactions are conducted using xDai, a stable coin with 1:1 value ratio to Dai. Because transactions occur on a bridged sidechain, they are extremely fast and inexpensive. In addition, transactions and fees are paid with a single coin. 
+A stable coin means peace of mind. Predictable currencies allow buyers and sellers to exchange value without the risks of volatility. In the xDai Stable Chain implementation, transactions are conducted using xDai, a stable coin with 1:1 value ratio to Dai. Because transactions occur on a bridged sidechain, they are extremely fast and inexpensive. In addition, transactions and fees are paid with a single coin.
 
 ## Neutral Network
 
-The xDai chain provides a vital public utility for users - the ability to transfer stable value free of speculative concerns, volatility, or FUD \(fear, uncertainty & doubt\). xDai is an independent network, built to support transactions that hold value. When DAI is bridged to xDai, it moves to a platform with a clear, transparent purpose;  secure & stable transactions on a fast, neutral network.
+The xDai chain provides a vital public utility for users - the ability to transfer stable value free of speculative concerns, volatility, or FUD \(fear, uncertainty & doubt\). xDai is an independent network, built to support transactions that hold value. When DAI is bridged to xDai, it moves to a platform with a clear, transparent purpose; secure & stable transactions on a fast, neutral network.
 
 xDai’s value is not determined by crypto-market forces, removing much of the drama that permeates the blockchain space. Open governance, open access, and token stability create a trusted environment for users as well as applications built on top of xDai.
 
 ## On-Chain Randomness
 
-Using a RANDAO-based Random Number Generator, validators on xDai produce random numbers used for validator selection. These random seeds are also available for usage by contracts deployed to xDai.  This allows for true on-chain randomness, eliminating the need to rely on a centralized service or 3rd party application. More information on how the xDai RNG works is [available here](../for-developers/on-chain-random-numbers/).
+Using a RANDAO-based Random Number Generator, validators on xDai produce random numbers used for validator selection. These random seeds are also available for usage by contracts deployed to xDai. This allows for true on-chain randomness, eliminating the need to rely on a centralized service or 3rd party application. More information on how the xDai RNG works is [available here](../for-developers/on-chain-random-numbers/).
 
 ## DPOS Consensus
 
-To move to a permissionless structure, the xDai Stable Chain will adopt a delegated Proof of Stake \(DPOS\) consensus mechanism. Private POS consensus is already underway, and phase 2 will bring public staking to the xDai chain. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol, called POSDAO consensus, including a complete overview of the theory, rationale, security, and a detailed implementation section. 
+To move to a permissionless structure, the xDai Stable Chain will adopt a delegated Proof of Stake \(DPOS\) consensus mechanism. Private POS consensus is already underway, and phase 2 will bring public staking to the xDai chain. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol, called POSDAO consensus, including a complete overview of the theory, rationale, security, and a detailed implementation section.
 
 ## Multi-Chain Staking Token
 
@@ -34,7 +34,7 @@ Two bridges connect the xDai Stable Chain to the Ethereum mainnet, supporting se
 
 ### Bridged Tokens
 
-View tokens that have been bridged to xDai with the OmniBridge using the BlockScout Interface!  
-  
+View tokens that have been bridged to xDai with the OmniBridge using the BlockScout Interface!
+
 [https://blockscout.com/poa/xdai/bridged\_tokens](https://blockscout.com/poa/xdai/bridged_tokens)
 

@@ -4,6 +4,10 @@ description: Receive funding to integrate ZK protocols into xDai applications an
 
 # ZK \(Zero Knowledge\) Privacy Fund
 
+{% hint style="success" %}
+Grant Program will reopen in Q4 2020. Stay tuned for details.
+{% endhint %}
+
 A grant to fund ZK applications on xDai and other Layer 2 sidechains. ZK proofs offer the ability for users to make private transactions.
 
 Why implement on xDai? Since xDai is a stable token, a primary use of the chain is peer-to-peer payments. Just as with cash, privacy should be an option when exchanging money or paying vendors for services. ZK protocols allow users to use xDai freely and anonymously.
@@ -16,12 +20,8 @@ Why implement on xDai? Since xDai is a stable token, a primary use of the chain 
 
 ![ZK Privacy Fund distribution](../../.gitbook/assets/zero-knowledge-fund.png)
 
-Applications are ongoing, you can learn more here:  
+Learn more here:  
  [https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)
-
-## To apply for a funding grant,  fill the form below
-
-{% embed url="https://poa950111.typeform.com/to/Lnh9bD" %}
 
 
 
