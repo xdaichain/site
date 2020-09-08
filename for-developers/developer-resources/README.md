@@ -43,13 +43,20 @@ Additional resources to connect to xDai network
 
 ## TokenBridge
 
-A bridge is required to move locked Dai from Ethereum and mint xDai on xDai Chain
+There are 2 bridge implementations connecting xDai and the Ethereum Mainnet. 
 
-You can access the bridge via:
+1. 1. \*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transfering Dai &lt;-&gt; xDai between Ethereum and the xDai chain.
+   2. \*\*\*\*[**ETH-xDai Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb):AMB between Ethereum and xDai for data, token and message transfers. Includes the Ominibridge extension for transfer of any ERC20 cross-chain.
 
-* TokenBridge UI at [https://dai-bridge.poa.network](https://dai-bridge.poa.network)
-* Interactions with Smart contracts[ ](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)
-* Bridge UI built-in into AlphaWallet, BurnerWallet, BurnerFactory
+xDai Bridge Access
+
+* xDai Bridge UI at [https://dai-bridge.poa.network](https://dai-bridge.poa.network)
+  * Interaction using method calls for smart contracts[ ](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)
+* Bridge UI is built-in into AlphaWallet, BurnerWallet, BurnerFactory and other applications.
+
+OmniBridge Access 
+
+* UI coming soon. [More information including method calls here.](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
 
 ## DApp Management & Developer Tools
 
