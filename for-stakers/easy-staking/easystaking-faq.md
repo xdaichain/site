@@ -65,6 +65,10 @@ Both use the EasyStaking system, but the rules are slightly different.
 
 ## APR Questions
 
+### Is there a rewards calculator?
+
+There is a simple rewards calculator on the EasyStaking site. A more advanced model is available at [https://www.stakingrewards.com/earn/xdai/calculate](https://www.stakingrewards.com/earn/xdai/calculate). Here you can change different parameters and view anticipated rewards for participating in Easy Staking or as a Liquidity Provider.
+
 ### How is APR calculated for EasyStaking?
 
 APR is calculate in 2 ways, each with a maximum 7.5% for the EasyStaking staker \(totaling a max of 15%\). 

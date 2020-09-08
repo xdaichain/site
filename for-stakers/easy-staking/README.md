@@ -8,6 +8,7 @@
 * [Instructions](instructions.md) on how to use the EasyStaking application.
 * [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
 * Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md).
+* View reward scenarios and other metrics at [stakingrewards.com](https://www.stakingrewards.com/earn/xdai/calculate%20) 
 {% endhint %}
 
 ## What is Easy Staking?
