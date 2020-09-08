@@ -132,6 +132,7 @@
   * [EasyStaking FAQ](for-stakers/easy-staking/easystaking-faq.md)
 * [Tools supporting STAKE](for-stakers/tools-supporting-stake/README.md)
   * [Zapper](for-stakers/tools-supporting-stake/zapper.md)
+  * [Staking Rewards](for-stakers/tools-supporting-stake/staking-rewards.md)
 * [POSDAO Staking Roadmap](for-stakers/stake-and-staking/README.md)
   * [Pre-Staking Program](for-stakers/stake-and-staking/pre-staking-program.md)
   * [Public POSDAO UI Preview](for-stakers/stake-and-staking/ui-preview.md)
