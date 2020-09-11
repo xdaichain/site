@@ -4,7 +4,7 @@
 
 ### ✅ Loopring Pay
 
-STAKE is now available for transfer on Loopring, a zk rollup platform for secure and fast transfers.
+Transfer STAKE on Loopring, a zk rollup platform for secure and fast transfers.
 
 {% embed url="https://twitter.com/xdaichain/status/1304452871547760643" %}
 
@@ -16,13 +16,13 @@ STAKE listed on [StakingRewards.com](https://www.stakingrewards.com/earn/xdai). 
 
 ### ✅ Coinomi Wallet
 
-STAKE added to Coinomi
+Coinomi wallet now supports STAKE.
 
 {% embed url="https://twitter.com/CoinomiWallet/status/1302823910476447744" %}
 
 ### ✅ Parachute ParJar wallet
 
-The community came together to vote in STAKE! More information on the listing soon!
+The community came together to vote in STAKE! More information on the listing coming soon!
 
 {% embed url="https://twitter.com/parachutetoken/status/1304420766566449152" %}
 
