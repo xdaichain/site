@@ -1,5 +1,7 @@
 # ⚔️ xDai Weekly Recap - 11/09/2020
 
+![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%289%29.png)
+
 ## 🥩 $STAKE Integrations
 
 ### ✅ Loopring Pay
