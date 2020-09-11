@@ -56,7 +56,7 @@ description: Transfer STAKE with Loopring
 4. Optional Note.
 5. Press **Transfer.**
 
-![](../../.gitbook/assets/transfer-1.jpg)
+![Transfers \(using dark theme\). Switch themes from the settings wheel in top left.](../../.gitbook/assets/transfer-1.jpg)
 
 11\) Sign the transaction in your wallet. There are no fees associated with the transfer, a signature is required to process.
 
