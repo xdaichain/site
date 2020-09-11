@@ -131,6 +131,8 @@
   * [Liquidity Provider \(LP\) Info](for-stakers/easy-staking/liquidity-provider-lp-info.md)
   * [EasyStaking FAQ](for-stakers/easy-staking/easystaking-faq.md)
 * [Tools supporting STAKE](for-stakers/tools-supporting-stake/README.md)
+  * [Exchanges](for-stakers/tools-supporting-stake/exchanges.md)
+  * [Loopring Pay](for-stakers/tools-supporting-stake/loopring-pay.md)
   * [Zapper](for-stakers/tools-supporting-stake/zapper.md)
   * [Staking Rewards](for-stakers/tools-supporting-stake/staking-rewards.md)
 * [POSDAO Staking Roadmap](for-stakers/stake-and-staking/README.md)

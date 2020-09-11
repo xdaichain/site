@@ -157,8 +157,9 @@ More on the [Dual Token Model](news-and-information/dual-token-model.md)
 ### How do I get STAKE?
 
 * From another user on the Ethereum Mainnet \(Wallet transfer, airdrop, payment\)
-* From an exchange. Currently STAKE is offered at BitMax [https://bitmax.io/\#/trade/usdt/stake](https://bitmax.io/#/trade/usdt/stake)
-* From UniSwap:  [https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6](https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6)
+* From a centralized exchange. STAKE is offered at [BitMax ](https://bitmax.io/#/trade/usdt/stake)and others
+* From a decentralized exchange. Stake is offered at [UniSwap](https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6) and others. 
+* For a full list see [https://www.coingecko.com/en/coins/xdai-stake\#markets](https://www.coingecko.com/en/coins/xdai-stake#markets) 
 
 ### What is the STAKE contract address?
 
@@ -170,11 +171,11 @@ You may need to add a custom token - [Instructions for doing this with MetaMask]
 
 ### I want to stake STAKE Now! Is it possible?
 
-Check out the Pre-Staking program, where you can join the incentivized testnet through StakeVault and start earning rewards now!
+Yes - with [EasyStaking](https://easy-staking.xdaichain.com/) on the Ethereum Mainnet. 
 
 ### When does public staking start on xDai?
 
-Public staking is scheduled to start in Q3 2020. 
+Public staking is scheduled to start in Q4 2020. 
 
 ### How much STAKE will I need for public staking?
 
@@ -189,7 +190,7 @@ You can find information on the STAKE Marketcap and supply here: [https://www.co
 
 ### How do I transfer STAKE from the Ethereum Mainnet to the xDai chain?
 
-When public staking on xDai begins, you will need to move your STAKE to xDai in order to use it there. We will provide detailed instructions as public staking approaches.
+When public POSDAO staking on xDai begins, you will need to move your STAKE to xDai in order to use it there. We will provide detailed instructions as public staking approaches.
 
 ### Why is STAKE an ERC677?
 
