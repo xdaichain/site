@@ -24,10 +24,34 @@ description: General Information and Links
 
 Main RPC is a load balancer with 4 nodes, health checks, and failover. 
 
-| Resource | URL |
-| :--- | :--- |
-| JSON RPC endpoint  | [https://xdai.poanetwork.dev](https://xdai.poanetwork.dev/) |
-| WebSockets WSS endpoint | [wss://xdai.poanetwork.dev/wss](wss://xdai.poanetwork.dev/wss) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Resource</th>
+      <th style="text-align:left">URL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">JSON RPC endpoint</td>
+      <td style="text-align:left">
+        <p><a href="https://rpc.xdaichain.com/">https://rpc.xdaichain.com/</a>
+        </p>
+        <p>(alternative) <a href="https://xdai.poanetwork.dev/">https://xdai.poanetwork.dev</a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">WebSockets WSS endpoint</td>
+      <td style="text-align:left">
+        <p><a href="wss://rpc.xdaichain.com/wss">wss://rpc.xdaichain.com/wss</a>
+        </p>
+        <p>(alternative) <a href="wss://xdai.poanetwork.dev/wss">wss://xdai.poanetwork.dev/wss</a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Additional resources to connect to xDai network
 
@@ -43,10 +67,11 @@ Additional resources to connect to xDai network
 
 ## TokenBridge
 
-There are 2 bridge implementations connecting xDai and the Ethereum Mainnet. 
+There are two bridge implementations connecting xDai and the Ethereum Mainnet. 
 
-1. 1. \*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transfering Dai &lt;-&gt; xDai between Ethereum and the xDai chain.
-   2. \*\*\*\*[**ETH-xDai Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb):AMB between Ethereum and xDai for data, token and message transfers. Includes the Ominibridge extension for transfer of any ERC20 cross-chain.
+\*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transferring Dai &lt;-&gt; xDai between Ethereum and the xDai chain.
+
+\*\*\*\*[**ETH-xDai Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb): AMB between Ethereum and xDai for data, token and message transfers. Includes the Ominibridge extension for transfer of any ERC20 cross-chain.
 
 xDai Bridge Access
 
@@ -60,7 +85,7 @@ OmniBridge Access
 
 ## DApp Management & Developer Tools
 
-* [Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for for gasless transactions and improved DApp UX.
+* [Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for gasless transactions and improved DApp UX.
 * [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
 * [TheGraph](https://thegraph.com) supports xDai data indexing, querying and display.
 * [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
@@ -68,7 +93,7 @@ OmniBridge Access
 * [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 * [QuikNode](https://www.quiknode.io/) gives users a super-fast Web3 endpoint for accessing or interacting with the xDai chain.
-* [CurveGrid](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities  through a web UI as well as a comprehensive REST API.
+* [CurveGrid](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
 
 ![Tenderly Dashboard Gas Profiler example](../../.gitbook/assets/tenderly.png)
