@@ -4,14 +4,14 @@ description: A new kind of NFT Prediction Market
 
 # Reality Cards
 
-Reality cards has created their first xDai Market! Place bets on outcomes with NFTs that you "own" for a period of time.  If your outcome wins, you split a % of the pot based on ownership time and amount.
+Reality Cards has created their first xDai Market! Place bets on outcomes with NFTs that you "own" for a period of time.  If your outcome wins, you split a % of the pot based on ownership time and amount.
 
 {% hint style="info" %}
-Reality Cards on xDai is still in private beta. To try it out, reach out to the Reality Cards team on [Discord ](https://realitycards.io/discord) and they will set you up with a beta key!\)
+Reality Cards on xDai is still in private beta. To try it out, reach out to the Reality Cards team on [Discord ](https://realitycards.io/discord)and they will set you up with a beta key! Learn more about the xDai deployment here: [https://medium.com/reality-cards/reality-cards-is-live-on-xdai-5348de9fc8fc](https://medium.com/reality-cards/reality-cards-is-live-on-xdai-5348de9fc8fc)
 {% endhint %}
 
 {% hint style="success" %}
-Once you are setup, get started at [https://xdai.realitycards.io/](https://xdai.realitycards.io/). Connect your MetaMask wallet to xDai and place your bet by renting an outcome card!
+Once you are setup, get started at [https://xdai.realitycards.io/](https://xdai.realitycards.io/). Connect your MetaMask wallet to xDai and place your bet by renting a card!
 {% endhint %}
 
 ![](../../.gitbook/assets/reality.jpg)
