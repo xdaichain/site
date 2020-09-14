@@ -11,16 +11,16 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 ## LP Resources
 
 * Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7) 
-* Track distributions: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/)
+* LP Distributions Tracker: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/)
 
-| Round | Date | Detaiils |
+| Round | Date | Details |
 | :--- | :--- | :--- |
 | 1 | 2.9.2020 | 🎉 Initial distribution was successfully distributed to all 119 providers. |
 | 2 | 14.9.2020 | Distribution to top 100 providers. Round 2 distribution slightly delayed due to EasyStaking update. LP distribution includes LPs participating in [https://sakeswap.finance/\#/swaps/eth\_stake](https://sakeswap.finance/#/swaps/eth_stake)  |
 
-* LP distribution contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
-* At Sakeswap.finance you can leverage your Uniswap position by depositing your [STAKE-ETH UNI-V2 LP and earning SAKE](https://sakeswap.finance/#/swaps/eth_stake%20) in addition to your LP rewards. Just as with any external protocols, do your research and use at your own risk! 
-* LP Governance: Coming Soon
+* LP Distribution Contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
+* LP Governance: Coming Soon 
+* Sakeswap.finance: It is possible to leverage your Uniswap position by [depositing your STAKE-ETH UNI-V2 ](https://sakeswap.finance/#/swaps/eth_stake%20)and earning SAKE in addition to your LP rewards. Just as with any external protocols, do your research and use at your own risk!
 
 ## Adding to the Liquidity Pool
 
