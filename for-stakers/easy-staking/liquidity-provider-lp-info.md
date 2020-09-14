@@ -1,6 +1,6 @@
 # Liquidity Provider \(LP\) Info
 
-In addition to [rewards provided by Uniswap for participation](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/), ETH/STAKE liquidity providers receive additional rewards from EasyStaking. The distribution contract accumulates STAKE when stakers exit the protocol. Funds are added based on a simple formula: 15 - staker's earned APR. In addition, the contract receives fees assessed \(2%\) when a staker exits with an instant withdrawal. For examples, see the [EasyStaking page](./).  
+In addition to [rewards provided by Uniswap for participation](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/), **ETH/STAKE liquidity providers receive rewards from EasyStaking**. The distribution contract accumulates STAKE when stakers exit the protocol. Funds are added based on a simple formula: `15 - staker's earned APR`. In addition, the contract receives fees assessed \(2%\) when a staker exits with an instant withdrawal. For examples, see the [EasyStaking page](./).  
   
 **A script runs on average every 5-9 days and provides rewards to the top 100 LP providers**, based on how much STAKE they have placed in the pool. 
 
@@ -19,6 +19,7 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 | 2 | 14.9.2020 | Distribution to top 100 providers. Round 2 distribution slightly delayed due to EasyStaking update. LP distribution includes LPs participating in [https://sakeswap.finance/\#/swaps/eth\_stake](https://sakeswap.finance/#/swaps/eth_stake)  |
 
 * LP distribution contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
+* At Sakeswap.finance you can leverage your Uniswap position by depositing your [STAKE-ETH UNI-V2 LP and earning SAKE](https://sakeswap.finance/#/swaps/eth_stake%20) in addition to your LP rewards. Just as with any external protocols, do your research and use at your own risk! 
 * LP Governance: Coming Soon
 
 ## Adding to the Liquidity Pool
