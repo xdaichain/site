@@ -13,11 +13,10 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 * Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7) 
 * Track distributions: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/)
 
-{% hint style="success" %}
-🎉 The initial distribution was successfully executed on September 2, 2020 and distributed to all 119 providers. Subsequent distributions will be sent to the top 100 providers.
-
-Next distribution will occur between 12 September and 16 September 2020.
-{% endhint %}
+| Round | Date | Detaiils |
+| :--- | :--- | :--- |
+| 1 | 2.9.2020 | 🎉 Initial distribution was successfully distributed to all 119 providers. |
+| 2 | 14.9.2020 | Distribution to top 100 providers. Round 2 distribution slightly delayed due to EasyStaking update. LP distribution includes LPs participating in [https://sakeswap.finance/\#/swaps/eth\_stake](https://sakeswap.finance/#/swaps/eth_stake)  |
 
 * LP distribution contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
 * LP Governance: Coming Soon
