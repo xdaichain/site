@@ -19,12 +19,12 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 Next distribution will occur between 12 September and 16 September 2020.
 {% endhint %}
 
-* LP distribution contract: [https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070](https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070) 
+* LP distribution contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
 * LP Governance: Coming Soon
 
 ## Adding to the Liquidity Pool
 
-For now there is a single liquidity pool with Uniswap. More pools may be added in the future.You can use [Zapper.fi](../tools-supporting-stake/zapper.md) to stake, or add with Uniswap:
+For now there is a single liquidity pool with Uniswap. More pools may be added in the future. You can use [Zapper.fi](../tools-supporting-stake/zapper.md) to stake, or add with Uniswap:
 
 1\) Go to [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7) and click Add Liquidity
 
@@ -64,7 +64,7 @@ Once a distribution occurs, simply go to your wallet and check your updated STAK
 
 Check past distributions with the distribution tracking tool: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/) 
 
-You can check the current value of the LP contract at [https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070](https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070)
+You can check the current value of the LP contract at [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d)
 
 ## STAKE LP Distribution Script
 
