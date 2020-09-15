@@ -4,6 +4,10 @@ description: xDai & Matic sidechains
 
 # Matic
 
+{% hint style="info" %}
+**Note:** This comparison was first done in June of 2020. Upgrades to both networks have changed some of the parameters. Updates are in process. In the meantime, please see the Matic and xDai sites for more current specifications.
+{% endhint %}
+
 ![](../../.gitbook/assets/xdai-vs-matic.png)
 
 As we compare chains, we see that xDai and Matic share several things in common: 
