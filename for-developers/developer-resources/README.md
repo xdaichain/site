@@ -97,13 +97,13 @@ See the dropdown menu for tutorials related to some of these tools.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring with API and SDK tools.
 
-**Dashboards & Monitoring**
+### **Dashboards & Monitoring**
 
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
-* [Dappquery](https://dappquery.com/) analytics dashboard, smart contract alerty, customizable visualizations and scalable GraphQL API.
 *  [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
+* [Dappquery](https://dappquery.com/) analytics dashboard, smart contract alerty, customizable visualizations and scalable GraphQL API.
 
-**Test Token Faucets**
+### **Test Token Faucets**
 
 * [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes.
 * [Weenus ERC20 ](https://github.com/bokkypoobah/WeenusTokenFaucet)is also available to use for testing purposes.
