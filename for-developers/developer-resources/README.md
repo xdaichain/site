@@ -73,28 +73,40 @@ There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 
 \*\*\*\*[**ETH-xDai Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb): AMB between Ethereum and xDai for data, token and message transfers. Includes the Ominibridge extension for transfer of any ERC20 cross-chain.
 
-xDai Bridge Access
+#### xDai Bridge Access
 
 * xDai Bridge UI at [https://dai-bridge.poa.network](https://dai-bridge.poa.network)
   * Interaction using method calls for smart contracts[ ](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)
 * Bridge UI is built-in into AlphaWallet, BurnerWallet, BurnerFactory and other applications.
 
-OmniBridge Access 
+#### OmniBridge Access 
 
 * UI coming soon. [More information including method calls here.](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
 
 ## DApp Management & Developer Tools
 
+{% hint style="info" %}
+See the dropdown menu for tutorials related to some of these tools.
+{% endhint %}
+
 * [Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for gasless transactions and improved DApp UX.
-* [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
 * [TheGraph](https://thegraph.com) supports xDai data indexing, querying and display.
-* [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
-* [BlockNative](https://docs.blocknative.com/) supports real-time notification monitoring with API and SDK tools.
-* [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes
-* [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 * [QuikNode](https://www.quiknode.io/) gives users a super-fast Web3 endpoint for accessing or interacting with the xDai chain.
+* [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
 * [CurveGrid](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
+* [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring with API and SDK tools.
+
+**Dashboards & Monitoring**
+
+* [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
+* [Dappquery](https://dappquery.com/) analytics dashboard, smart contract alerty, customizable visualizations and scalable GraphQL API.
+*  [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
+
+**Test Token Faucets**
+
+* [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes.
+* [Weenus ERC20 ](https://github.com/bokkypoobah/WeenusTokenFaucet)is also available to use for testing purposes.
 
 ![Tenderly Dashboard Gas Profiler example](../../.gitbook/assets/tenderly.png)
 

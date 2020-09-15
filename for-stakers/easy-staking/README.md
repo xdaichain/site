@@ -5,7 +5,7 @@
 {% embed url="https://easy-staking.xdaichain.com/" %}
 
 {% hint style="success" %}
-* [Instructions](instructions.md) on how to use the EasyStaking application.
+* [Instructions](instructions/) on how to use the EasyStaking application.
 * [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
 * Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md).
 * View reward scenarios and other metrics at [stakingrewards.com](https://www.stakingrewards.com/earn/xdai/calculate%20) 
@@ -69,7 +69,7 @@ In this example, this reward APR%  for Bob and Roger is very high, much more tha
 
 ## How to Participate
 
-The [instructions page](instructions.md) covers the basics.
+The [instructions page](instructions/) covers the basics.
 
 {% hint style="warning" %}
 Mechanics and details are subject to change.

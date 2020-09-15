@@ -6,13 +6,13 @@
 
 There are currently 2 ways to add STAKE to the EasyStaking protocol.
 
-1. Go to [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/) and connect your web3wallet. 💡 [More instructions](instructions.md)
+1. Go to [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/) and connect your web3wallet. 💡 [More instructions](instructions/)
 2. Stake through [BitMax](https://bitmax.io/#/staking/investment-product-details/STAKE-S). 
 
 ### How do I unstake STAKE?
 
 With the EasyStaking application you can withdraw any amount. To completely unstake, withdraw your full amount. You can do this instantly and pay a 2% fee, or schedule a withdrawal and withdraw after 12 hours.   
-💡[Instructions](instructions.md#initiate-a-withdrawal)
+💡[Instructions](instructions/#initiate-a-withdrawal)
 
 If you are staking with Bitmax, you can undelegate instantly for a 2% fee, or schedule a withdrawal and withdraw after 24 hours with no fee.   
 💡[More information](https://bitmax.io/#/staking/investment-product-details/STAKE-S)

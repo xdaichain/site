@@ -14,7 +14,7 @@ Easy Staking officially launched on Wednesday, August 5! Two days later there is
 
 * EasyStaking App: [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/)
 * [EasyStaking Overview](../../../for-stakers/easy-staking/)
-* [Getting Started](../../../for-stakers/easy-staking/instructions.md)
+* [Getting Started](../../../for-stakers/easy-staking/instructions/)
 
 You can also participate by adding STAKE/ETH to the Uniswap Liquidity pool to earn rewards. If that's more your speed, check it out here: Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
 

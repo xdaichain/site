@@ -127,7 +127,8 @@
 ## For Stakers
 
 * [EasyStaking](for-stakers/easy-staking/README.md)
-  * [Instructions](for-stakers/easy-staking/instructions.md)
+  * [Instructions](for-stakers/easy-staking/instructions/README.md)
+    * [WalletConnect](for-stakers/easy-staking/instructions/walletconnect.md)
   * [Emission Rates](for-stakers/easy-staking/emission-rates.md)
   * [EasyStaking Parameters](for-stakers/easy-staking/easy-staking-parameters.md)
   * [Liquidity Provider \(LP\) Info](for-stakers/easy-staking/liquidity-provider-lp-info.md)
