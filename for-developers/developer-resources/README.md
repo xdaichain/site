@@ -101,7 +101,7 @@ See the dropdown menu for tutorials related to some of these tools.
 
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 *  [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
-* [Dappquery](https://dappquery.com/) analytics dashboard, smart contract alerty, customizable visualizations and scalable GraphQL API.
+* [Dappquery](https://dappquery.com/) analytics dashboard, customizable visualizations, smart contract alerts and scalable GraphQL API.
 
 ### **Test Token Faucets**
 
