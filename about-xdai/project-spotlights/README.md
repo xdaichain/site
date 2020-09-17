@@ -6,10 +6,11 @@ description: Projects and applications migrating and/or deploying to xDai
 
 xDai Network is 100% compatible with Ethereum. This means that any Smart Contract or DApp deployed on the Ethereum Mainnet can be deployed on xDai with minimal changes. Developers and projects are realizing they can easily deploy and/or migrate to xDai to realize big cost savings and escape congestion.  Forks of popular projects can also be deployed on xDai to take advantage of the stable network mechanics. Applications can live on multiple networks at once, serving different audiences and experimenting with different modes of operation.
 
-### Examples of 3rd party projects/Dapps deployed to xDai include:
+## 3rd Party Projects/Dapps deployed on xDai include:
 
 * [1Hive](1hive.md): DAO with a Community Currency & DEX on xDai
   * [Uniswap v1 Fork](https://uniswap.1hive.org/swap): Deployed by 1Hive, provides liquidity with a DEX on xDAI.
+  * [Uniswap v2 Fork](https://honeyswap.org/#/) - Honeyswap
   * [Aragon Connect](https://1hive.org/): Deployed by 1Hive, provides DAO governance and proposal functionality.
 * [xMoon Exchange](https://xmoon.exchange/): A DEX for Reddit MOON liquidity \(xMoon to xDai\)
 * [Grassroots Economics](../use-cases/community-currencies.md):  Community Currencies in Kenya
@@ -19,6 +20,15 @@ xDai Network is 100% compatible with Ethereum. This means that any Smart Contrac
 * [DAOhaus](https://xdai.daohaus.club/): DAO community organization
 * [FacebookFly](https://fbfly.xyz/): Bringing DAOs to Facebook
 * [PrinterDAO](https://aragon.1hive.org/#/printerdao/): Decentralized platform to access large scale printing
+* [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs.
+* [Reality Cards](https://realitycards.io/): NFTs for prediction voting
+* [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
+* [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
+* [WrapEth](https://wrapeth.com/): xDai wrapper to convert native xDai to wrapped wxDai
+* [PowerPool](https://powerpool.finance/): Pooling governance tokens
+* [Unit Protocol](https://unit.xyz/): Decentralized borrowing with multi-token collateral
+* [The Commons Stack](https://cv.commonsstack.org/#/): Conviction voting
+* [EthicHub](https://ethichub.com/): Loans for small farmers
 
 
 
