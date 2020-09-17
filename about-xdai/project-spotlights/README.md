@@ -4,7 +4,7 @@ description: Projects and applications migrating and/or deploying to xDai
 
 # Projects & DApps
 
-xDai Network is 100% compatible with Ethereum. This means that any Smart Contract or DApp deployed on the Ethereum Mainnet can be deployed on xDai with minimal changes. Developers and projects are realizing they can easily deploy and/or migrate to xDai to realize big cost savings and escape congestion.  Forks of popular projects can also be deployed on xDai to take advantage of the stable network mechanics. Applications can live on multiple networks at once, serving different audiences and experimenting with different modes of operation.
+xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Contract or DApp deployed on Ethereum can also be deployed on xDai with minimal changes. Developers and projects are realizing they can easily deploy and/or migrate to xDai to realize big cost savings and escape congestion.  Forks of popular projects can also deploy on xDai to take advantage of stable network mechanics, speed and low transaction costs. Applications can move completely to xDai, or live on multiple networks at once, serving different audiences and experimenting with different modes of operation and interoperablity.
 
 ## 3rd Party Projects/Dapps Deployed on xDai Include:
 
