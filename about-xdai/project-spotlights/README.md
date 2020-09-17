@@ -24,6 +24,7 @@ xDai Network is 100% compatible with Ethereum. This means that any Smart Contrac
 * [Reality Cards](https://realitycards.io/): NFTs for prediction voting
 * [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
 * [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
+* [0xMonero](https://0xmonero.com/): Privacy tokens with zk-SNARKs and 0xMixer
 * [WrapEth](https://wrapeth.com/): xDai wrapper to convert native xDai to wrapped wxDai
 * [PowerPool](https://powerpool.finance/): Pooling governance tokens
 * [Unit Protocol](https://unit.xyz/): Decentralized borrowing with multi-token collateral
