@@ -8,6 +8,10 @@ xDai Network is 100% compatible with Ethereum. This means that any Smart Contrac
 
 ## 3rd Party Projects/Dapps deployed on xDai include:
 
+* [Gnosis](https://gnosis.io/): With the [xDai-Gnosis partnership](https://blog.gnosis.pm/gnosis-protocol-and-xdai-partnership-1de0e48fb14b), Gnosis is deploying all of their applications to xDai including:
+  * [Gnosis Protocol](https://docs.gnosis.io/protocol), a top-ten Ethereum DEX by volume
+  * [Gnosis Safe Multisig](https://gnosis-safe.io/), a wallet holding more than $1 Billion in assets
+  * [Conditional tokens framework](http://docs.gnosis.io/conditionaltokens), built on by prediction markets [Omen](https://omen.eth.link/) and Polymarket
 * [1Hive](1hive.md): DAO with a Community Currency & DEX on xDai
   * [Uniswap v1 Fork](https://uniswap.1hive.org/swap): Deployed by 1Hive, provides liquidity with a DEX on xDAI.
   * [Uniswap v2 Fork](https://honeyswap.org/#/) - Honeyswap

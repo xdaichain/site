@@ -4,6 +4,16 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 
 # Interviews & Media Articles
 
+## In the News
+
+{% embed url="https://www.coindesk.com/ethereum-gas-fees-drive-gnosis-powered-prediction-market-to-xdais-layer-2" caption="CoinDesk September 2020" %}
+
+{% embed url="https://www.coindesk.com/hopr-token-incentive-program-mixnet" caption="CoinDesk September 2020" %}
+
+{% embed url="https://www.coindesk.com/crypto-burner-wallets-helped-an-it-conference-give-40000-to-charity" caption="CoinDesk 2019" %}
+
+
+
 ## xDai 101
 
 {% embed url="https://yellowblock.io/interview-with-xdai/" caption="YellowBlock" %}
@@ -11,8 +21,6 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 {% embed url="https://www.saturn.network/blog/what-is-xdai/" caption="Saturn" %}
 
 {% embed url="https://medium.com/@jaredstauffer/what-is-xdai-how-do-i-use-xdai-a-simple-explanation-7440cbaf1df6" caption="Jared Stauffer" %}
-
-
 
 {% embed url="https://yellowblock.io/what-is-xdai/" caption="YellowBlock" %}
 
@@ -33,8 +41,6 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 ## STAKE Articles
 
 {% embed url="https://www.coinspeaker.com/top-performing-listing-xdai-stake/amp/" %}
-
-
 
 ## Conferences / Events
 
