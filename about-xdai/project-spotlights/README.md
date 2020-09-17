@@ -6,7 +6,7 @@ description: Projects and applications migrating and/or deploying to xDai
 
 xDai Network is 100% compatible with Ethereum. This means that any Smart Contract or DApp deployed on the Ethereum Mainnet can be deployed on xDai with minimal changes. Developers and projects are realizing they can easily deploy and/or migrate to xDai to realize big cost savings and escape congestion.  Forks of popular projects can also be deployed on xDai to take advantage of the stable network mechanics. Applications can live on multiple networks at once, serving different audiences and experimenting with different modes of operation.
 
-## 3rd Party Projects/Dapps deployed on xDai include:
+## 3rd Party Projects/Dapps Deployed on xDai Include:
 
 * [Gnosis](https://gnosis.io/): With the [xDai-Gnosis partnership](https://blog.gnosis.pm/gnosis-protocol-and-xdai-partnership-1de0e48fb14b), Gnosis is deploying all of their applications to xDai including:
   * [Gnosis Protocol](https://docs.gnosis.io/protocol), a top-ten Ethereum DEX by volume
