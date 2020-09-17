@@ -23,6 +23,7 @@
     * [EthCC Afterparty](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethcc-afterparty.md)
     * [Pony Purse \(Conference & Event Wallet\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet.md)
 * [Projects & DApps](about-xdai/project-spotlights/README.md)
+  * [Gnosis](about-xdai/project-spotlights/gnosis.md)
   * [xMoon Projects](about-xdai/project-spotlights/xmoon-projects.md)
   * [1Hive](about-xdai/project-spotlights/1hive.md)
   * [Galleass.io](about-xdai/project-spotlights/galleass.io.md)
