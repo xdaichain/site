@@ -6,9 +6,9 @@ description: September 12 - September 18 2020
 
 ![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2811%29.png)
 
-## 🤝 Partnerships
+## 🤝 Integrations on xDai
 
-🎉 2 Big Partnership announcements this week!
+🎉 2 Big Announcements this week!
 
 ### ✅ 🦉 Gnosis
 
