@@ -4,7 +4,7 @@ description: September 12 - September 18 2020
 
 # ⚔️ xDai Weekly Recap - 18/09/2020
 
-![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2810%29.png)
+![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2811%29.png)
 
 ## 🤝 Partnerships
 
