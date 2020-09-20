@@ -34,7 +34,9 @@ Two bridges connect the xDai Stable Chain to the Ethereum mainnet, supporting se
 
 ### Bridged Tokens
 
-View tokens that have been bridged to xDai with the [OmniBridge](https://xdai-omnibridge.web.app/) using the BlockScout Interface!
+View tokens that have been bridged to xDai with the [OmniBridge](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension) using the [OmniBridge UI ](https://xdai-omnibridge.web.app/)
 
-[https://blockscout.com/poa/xdai/bridged\_tokens](https://blockscout.com/poa/xdai/bridged-tokens)
+{% embed url="https://blockscout.com/poa/xdai/bridged-tokens" %}
+
+
 
