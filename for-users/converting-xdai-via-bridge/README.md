@@ -22,7 +22,7 @@ The bridge mechanism ensures that the amount of xDai can never exceed the amount
 
 | Type | Dai to xDai Bridge | xDai to Dai Bridge |
 | :--- | :--- | :--- |
-| Daily Transfer Limit | 100,000 Dai | 10,000,000 xDai |
+| Daily Transfer Limit | 10,000,000 Dai | 100,000 xDai |
 | Max Single Deposit | 100,000 Dai | 100,000 xDai |
 | Minimum Transfer | 0.005 Dai | 10 xDai |
 | Transaction Fees | variable, paid in Eth | paid in xDai |
