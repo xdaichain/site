@@ -6,7 +6,7 @@ description: xDai has captured the attention & imagination of the entire communi
 
 The xDai Chain has been one of crypto's breakout success stories. Its prominent use at mainstream Eth events and support from the crypto community have made some of the biggest names in Ethereum stand up, listen, and experience the magic of xDai for themselves.
 
-Below are some mentions xDai has received from influencers in the community:
+Below are some mentions xDai has received from influencers in the community. We continue to add more recent mentions to the list, so scroll down to see the latest accolades.
 
 ## Dr. Gavin Wood
 
@@ -49,6 +49,18 @@ Note: After xDai moved to POSDAO, the permissioned critique is less  valid
 ## Dovey Wan
 
 {% embed url="https://twitter.com/DoveyWan/status/1296796946309365760?s=19" %}
+
+## Stani Kulechov
+
+Founder and CEO at Aave sums it up with 1 word!!
+
+{% embed url="https://twitter.com/StaniKulechov/status/1307413470422466562" %}
+
+## Spencer Noon
+
+Head of DTC Capital describes the coming wave of L2 scalability with xDai leading the charge.
+
+{% embed url="https://twitter.com/spencernoon/status/1308053360260636678" %}
 
 
 
