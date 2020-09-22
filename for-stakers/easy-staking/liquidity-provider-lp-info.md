@@ -15,8 +15,9 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 
 | Round | Date | Details |
 | :--- | :--- | :--- |
-| 1 | 2.9.2020 | 🎉 Initial distribution was successfully distributed to all 119 providers. |
-| 2 | 14.9.2020 | Distribution to top 100 providers. Round 2 distribution slightly delayed due to EasyStaking update. LP distribution includes LPs participating in [https://sakeswap.finance/\#/swaps/eth\_stake](https://sakeswap.finance/#/swaps/eth_stake)  |
+| 1 | 02.09.2020 | 🎉 Initial distribution was successfully distributed to all 119 providers. |
+| 2 | 14.09.2020 | Distribution to top 100 providers. Round 2 distribution slightly delayed due to EasyStaking update. LP distribution includes LPs participating in [https://sakeswap.finance/\#/swaps/eth\_stake](https://sakeswap.finance/#/swaps/eth_stake)  |
+| 3 | 21.09.2020 | [https://etherscan.io/tx/0xba493e9123c31ff319067eca6e15aafd9a808f4d9fb71348ec90f07e89c4abf8](https://etherscan.io/tx/0xba493e9123c31ff319067eca6e15aafd9a808f4d9fb71348ec90f07e89c4abf8) |
 
 * LP Distribution Contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
 * LP Governance: Coming Soon 
