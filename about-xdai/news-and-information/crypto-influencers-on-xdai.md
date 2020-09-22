@@ -62,6 +62,12 @@ Head of DTC Capital describes the coming wave of L2 scalability with xDai leadin
 
 {% embed url="https://twitter.com/spencernoon/status/1308053360260636678" %}
 
+## Camila Russo
+
+Author of _The Infinite Machine_
+
+{% embed url="https://twitter.com/CamiRusso/status/1308391653980491776?s=19" %}
+
 
 
 
