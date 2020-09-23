@@ -28,6 +28,7 @@
   * [1Hive](about-xdai/project-spotlights/1hive.md)
   * [Galleass.io](about-xdai/project-spotlights/galleass.io.md)
   * [Kickback RSVP Platform](about-xdai/project-spotlights/kickback-rsvp-platform.md)
+  * [Stakehaus](about-xdai/project-spotlights/stakehaus.md)
   * [DAOHaus](about-xdai/project-spotlights/daohaus.md)
   * [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md)
   * [Reality Cards](about-xdai/project-spotlights/reality-cards.md)
