@@ -35,6 +35,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [The Commons Stack](https://cv.commonsstack.org/#/): Conviction voting
 * [EthicHub](https://ethichub.com/): Loans for small farmers
 * [Shanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
+* [Vocdoni](https://vocdoni.io/): Secure digital voting
 
 
 
