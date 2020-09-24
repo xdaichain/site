@@ -8,7 +8,7 @@ description: Current & Future Directions for the xDai Stable Chain
 The xDai roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
 {% endhint %}
 
-_Last update: 06.08.2020 \|_ [_Changelog_](roadmap.md#change-log)\_\_
+_Last update: 24.09.2020 \|_ [_Changelog_](roadmap.md#change-log)\_\_
 
 ## Fiat to xDai Onramp
 
@@ -16,7 +16,7 @@ _Last update: 06.08.2020 \|_ [_Changelog_](roadmap.md#change-log)\_\_
  ☑ **Status:** In process. Carbon implementation complete, additional implementations ongoing.
 
 {% hint style="success" %}
-The [Carbon on-ramp]() for xDai is in development \(functionality is dependent on geo-location\).
+Wyre integration for xDai is in development.
 {% endhint %}
 
 At the moment, to get xDai, most users have to get Dai first and relay it to xDai via xDai Bridge. The process is complicated and time-consuming due to congestions on the Ethereum networks and the probabilistic nature of Proof of Work consensus. Relayers of the xDai bridge are waiting for eight blocks on Ethereum before they relay Dai to xDai.
@@ -72,7 +72,7 @@ Easy Staking serves to reduce the overall amount of STAKE in active circulation 
 ## EasyStaking Liquidity Pool Analytics
 
 🎯 **Target Date**: Q3 2020  
-☑ **Status:** In process
+☑ **Status:** 75% complete. [Distributions dashboard](https://stake-reward-distribution.xdaichain.com/) done. 
 
 EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the EasyStaking protocol. [Rewards fluctuate based on numerous factors](../for-stakers/easy-staking/#liquidity-pool-lp-participants), and additional analytics and dashboards for LPs will be useful for determining staking strategies, reviewing historical outcomes and viewing current statistics. 
 
@@ -85,16 +85,9 @@ We will integrate statistics views on the EasyStaking platform as well as develo
 
 Universal mediators will support transfers for virtually any ERC20 token to the xDai chain with no additional contract deployment. This will lower the barrier-to-entry for projects and DApps looking to move tokens to xDai and take advantage of low-fee, high-speed transactions. Users will be able to automatically create equivalent tokens on xDai ready for immediate usage. 
 
-## Consensus POSDAO Upgrade: Phase **2**
-
-🎯 **Target Date:** Q4 2020  
-☑ **Status:** In process. UI development and protocol enhancements ongoing, see the [staking roadmap](../for-stakers/stake-and-staking/) for more information.
-
-To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
-
 ## **Privacy Preserving Transactions**
 
-🎯 **Target Date:** Q3-Q4 2020  
+🎯 **Target Date:** Q4 2020  
 ☑ **Status:** In process, defining requirements and exploring approaches
 
 Implementation of additional zero-knowledge protocols and private transactions into xDai.
@@ -109,7 +102,7 @@ We have invested in several [different approaches ](https://forum.poa.network/t/
 
 ## Synthetic Assets on xDai based on UMA protocol
 
-🎯 **Target Date**: Q2 2020  
+🎯 **Target Date**: Q4 2020  
 ☑ **Status:** In process. 50% implementation
 
 UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
@@ -122,9 +115,16 @@ xDai will leverage UMA protocol to create derivatives on fiat currencies and ena
 
 We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers \(up to 1000x\) for native tokens and synthetic tokens on top of xDai. 
 
+## Consensus POSDAO Upgrade: Phase **2**
+
+🎯 **Target Date:** Q2 2021  
+☑ **Status:** In process. UI development and protocol enhancements ongoing, see the [staking roadmap](../for-stakers/stake-and-staking/) for more information.
+
+To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
+
 ## POSDAO Phase 3
 
-🎯 **Target Date**: Q2 2021
+🎯 **Target Date**: Q4 2021
 
 A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../for-stakers/stake-token/)tokens and HBBFT consensus.
 
@@ -138,6 +138,19 @@ A chain created specifically to leverage [POSDAO](../for-validators/posdao-white
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>24.09.2020</em>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Switch Fiat integration to Wyre</li>
+          <li>Revise public POSDAO targets from Q4 2020 to Q2 2021 to devote resources
+            to <a href="https://ethresear.ch/t/optimistic-bridge-between-mainnet-and-a-pos-chain/7965">Optimistic Bridge development</a>.</li>
+          <li>Add distributions dashboard to EasyStaking Liquidity Pool analytics</li>
+          <li>Adjust order of items to reflect prioritization</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>06.08.2020</em>
       </td>
