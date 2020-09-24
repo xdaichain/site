@@ -38,6 +38,8 @@ Note: After xDai moved to POSDAO, the permissioned critique is less  valid
 
 {% embed url="https://twitter.com/VitalikButerin/status/1294885662332600320" %}
 
+{% embed url="https://twitter.com/VitalikButerin/status/1309137155843817477" %}
+
 ## Joseph Lubin
 
 > At EthDenver, the user experience was really, really smooth.... _\(xDai and the Burner Wallet\)_ enables ease of use & easy onboarding for people.
