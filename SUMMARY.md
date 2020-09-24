@@ -33,6 +33,7 @@
   * [DAOHaus](about-xdai/project-spotlights/daohaus.md)
   * [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md)
   * [Reality Cards](about-xdai/project-spotlights/reality-cards.md)
+  * [Foundation](about-xdai/project-spotlights/foundation.md)
 * [FAQs](about-xdai/faqs.md)
 * [Comparisons](about-xdai/comparisons/README.md)
   * [Matic](about-xdai/comparisons/matic.md)
