@@ -16,6 +16,12 @@ xDai provides accessibility and scalability now, and current limitations on Ethe
 
 {% embed url="https://blog.vocdoni.io/vocdoni-switched-to-xdai-chain/" %}
 
+## Voting as a Service
+
+An introduction to the operation of Vocdoni's digital voting infrastructure and a guide on how to integrate it into other projects.
+
+{% embed url="https://blog.vocdoni.io/introducing-voting-as-a-service/" %}
+
 
 
 
