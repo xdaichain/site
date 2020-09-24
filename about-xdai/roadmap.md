@@ -85,6 +85,17 @@ We will integrate statistics views on the EasyStaking platform as well as develo
 
 Universal mediators will support transfers for virtually any ERC20 token to the xDai chain with no additional contract deployment. This will lower the barrier-to-entry for projects and DApps looking to move tokens to xDai and take advantage of low-fee, high-speed transactions. Users will be able to automatically create equivalent tokens on xDai ready for immediate usage. 
 
+## Bridge Governance Expansion
+
+🎯 **Target Date:** Q3 2020  
+☑ **Status:** Gnosis Safe created with 11 pending representatives. [Progress update here](https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773/12)
+
+Bridge management should be expanded to additional community representatives. These individuals will use a Gnosis Safe to manage bridge operations. A majority must sign to approve operations including:
+
+* Bridge contracts upgrades
+* Extending the set of bridge validators
+* Updating bridge parameters like number of block confirmations, transactions limits,  bridge fees etc.
+
 ## **Privacy Preserving Transactions**
 
 🎯 **Target Date:** Q4 2020  
@@ -144,6 +155,7 @@ A chain created specifically to leverage [POSDAO](../for-validators/posdao-white
       <td style="text-align:left">
         <ul>
           <li>Switch Fiat integration to Wyre</li>
+          <li>Add Bridge Governance Expansion</li>
           <li>Revise public POSDAO targets from Q4 2020 to Q2 2021 to devote resources
             to <a href="https://ethresear.ch/t/optimistic-bridge-between-mainnet-and-a-pos-chain/7965">Optimistic Bridge development</a>.</li>
           <li>Add distributions dashboard to EasyStaking Liquidity Pool analytics</li>
