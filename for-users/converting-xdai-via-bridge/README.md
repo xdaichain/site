@@ -7,7 +7,8 @@ description: Dai is converted to xDai through the TokenBridge
 ## Bridge UI
 
 {% hint style="success" %}
-[https://dai-bridge.poa.network](https://dai-bridge.poa.network)
+* [https://dai-bridge.poa.network](https://dai-bridge.poa.network)
+* If you are experiencing issues or for personal preference, you can go to [https://xdai.io/](https://xdai.io/) and exchange using the burner application.
 {% endhint %}
 
 ## What is the Bridge
