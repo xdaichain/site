@@ -1,4 +1,4 @@
-# Transfer Dai without the UI \(using web3 or mobile wallet\)
+# Transfer Dai without the UI \(using MetaMask or an Ethereum Wallet\)
 
 {% hint style="warning" %}
 The bridge has been upgraded and Sai is no longer supported.
