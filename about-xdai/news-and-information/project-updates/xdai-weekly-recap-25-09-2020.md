@@ -7,12 +7,12 @@ description: September 19 - September 25 2020
 ## \*\*\*\*⚖ Network **Scalability Update**
 
 {% hint style="info" %}
-The following is a long form response to an unsophisticated exploit conducted the xDai bridge, and steps we are taking to address this issue and xDai network scalability in general. [Additional Weekly Updates](xdai-weekly-recap-25-09-2020.md#weekly-updates-xdai-community) appear following this post.
+The following is a long form response to an unsophisticated exploit conducted on the xDai bridge, and steps we are taking to address this issue and xDai network scalability in general. [Additional Weekly Updates](xdai-weekly-recap-25-09-2020.md#weekly-updates-xdai-community) appear following this post.
 {% endhint %}
 
 Over the past several months we’ve seen a huge increase in users, with dozens of teams moving over to xDai and asset transfers coming in at breathtaking speed! As a result, we are very busy addressing scalability issues related to this influx of new projects and users. 
 
-One consequence of our popularity is we are now attracting hackers intent on disrupting the network. Below we talk about a recent attack, and some of the things we are doing to prevent future bad faith attacks as well steps we are taking to increase speed and network scalability.
+One consequence of our popularity is we are now attracting hackers intent on disrupting the network. Below we talk about a fresh attack, and some of the things we are doing to prevent future bad faith attacks as well steps we are taking to increase speed and network scalability.
 
 ### **Lessons from a Public Goods Exploit: Bridge Drain Attack**
 
@@ -20,7 +20,7 @@ One consequence of our popularity is we are now attracting hackers intent on dis
 **Note: No user funds are or were at risk from this exploit - the following only relates to validator resources**.
 {% endhint %}
 
-A black hat hacker decided to run a simple exploit which resulted in some losses for validator accounts on the bridge.  Currently, bridge operations for the xDai -&gt; Dai bridge are subsidized by the project to provide users with relief from high gas prices on Ethereum Network.  In this attack, the hacker converted 1000 DAI to xDai then used a script to withdraw $10 at a time back to Ethereum, resulting in high gas fees for every withdrawal which were paid by bridge validators. 
+This week a black hat hacker decided to run a simple exploit which resulted in some losses for validator accounts on the bridge.  Currently, bridge operations for the xDai -&gt; Dai bridge are subsidized by the project to provide users with relief from high gas prices on Ethereum Network.  In this attack, the hacker converted 1000 DAI to xDai then used a script to withdraw $10 at a time back to Ethereum, resulting in high gas fees for every withdrawal which were paid by bridge validators. 
 
 All user funds were safe during this incident, and it highlighted some known issues with the Dai -&gt; xDai bridge, mainly that it operates with a trusted setup, a limited validator set, and subsidized fees. Adjustments were made to prevent further drains from this malicious actor and avoid similar types of exploits, which resulted in bridge issues for other honest users. While inconvenient, this attack helped our team propose some immediate adjustments \(including fast tracking a more decentralized governance protocol!\) and reprioritize some of our upcoming work to address potential future issues. 
 
