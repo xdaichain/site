@@ -11,7 +11,7 @@ description: Setup your custom RPC to connect to Metamask
 2\) In the "Custom RPC" Settings, add in the xDai network details and click **Save**:
 
 * Network Name: **xDai**
-* New RPC URL: **https://xdai.poanetwork.dev**
+* New RPC URL: [https://rpc.xdaichain.com/](https://rpc.xdaichain.com/)
 * ChainID \(Optional\): **100**
 * Symbol: **xDai**
 * Block Explorer URL: [**https://blockscout.com/poa/xdai**](https://blockscout.com/poa/xdai/)\*\*\*\*
