@@ -76,7 +76,7 @@ xDai sponsored this virtual crytpovoxels event
 
 ## Project Updates
 
-### ✅ Vicdoni secure voting platform migrates to xDai
+### ✅ Vocdoni secure voting platform migrates to xDai
 
 {% embed url="https://twitter.com/vocdoni/status/1308654891431342080" %}
 
