@@ -1,9 +1,9 @@
 # Troubleshooting
 
-Bridge transactions can take some time \(hours in extreme cases\) to complete depending on Ethereum mainnet congestion.  Try these actions first if your transaction has been pending for 10 minutes or more \(and you don't want to wait any more time\). Actions differ depending on if you are transferring from Dai to xDai or xDai to Dai.
+Bridge transactions can take some time \(hours in extreme cases\) to complete depending on Ethereum mainnet congestion.  Try these actions first if your transaction has been **pending for 10 minutes or more** \(and you don't want to wait any more time\). Usually, a transaction will resolve itself after some time, but there are things you can do to speed up the process. Actions differ depending on if you are transferring from Dai to xDai or xDai to Dai.
 
 {% hint style="info" %}
-More detailed instructions in process, basic actions below.
+An update to the current bridge UI is in process. The following are interim solutions while we work on these upgrades.
 {% endhint %}
 
 ## Dai to xDai
