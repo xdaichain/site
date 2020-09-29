@@ -2,13 +2,17 @@
 description: Dai is converted to xDai through the TokenBridge
 ---
 
-# Converting xDai via Bridge
+# xDai Bridge: Converting xDai
 
 ## Bridge UI
 
 {% hint style="success" %}
 * [https://dai-bridge.poa.network](https://dai-bridge.poa.network)
 * If you are experiencing issues or for personal preference, you can go to [https://xdai.io/](https://xdai.io/) and exchange using the burner application.
+{% endhint %}
+
+{% hint style="info" %}
+In addition to the xDai Bridge, the Omnibridge is available for bridging other types of ERC20s. [Learn more](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
 {% endhint %}
 
 ## What is the Bridge
