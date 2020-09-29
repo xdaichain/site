@@ -14,9 +14,9 @@ An update to the current bridge UI is in process. The following are interim solu
 
 ## xDai to Dai
 
-If your transfer is **processing for more than 10 minutes** and you have not received your Dai back, you can process it manually, bypassing some of the oracles components and submitting the signatures yourself. 
+If your transfer is processing for more than 10 minutes ****and you have not received your Dai back, you may want to process it manually, bypassing some of the oracles components and submitting the signatures yourself. This will incur gas fees but will speed up the transaction - so you can pay now or wait for the tx to go through and not pay.
 
-Copy the tx hash of the pending transaction on xDai. You can copy this from an xDai connected instance of MetaMask.
+To start, copy the tx hash of the pending transaction on xDai. You can copy this from an xDai connected instance of MetaMask.
 
 ![Click on the pending transaction to get the tx hash](../../.gitbook/assets/mm2.jpg)
 
