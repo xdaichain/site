@@ -24,7 +24,9 @@ To enable currency exchange and improve liquidity of Honey, Hive1 has deployed a
 * **Honeyswap** \(Uniswap v2\) : [https://honeyswap.org/\#/swap](https://honeyswap.org/#/swap)
 
 {% hint style="info" %}
-For more information on this initiative, please see the [1Hive Blog Post on Honey and xDai](https://blog.1hive.org/honey/).
+For more information on this initiative, please see the [1Hive Blog Post on Honey and xDai](https://blog.1hive.org/honey/). 
+
+For technical issues with HNY, please visit the [1Hive Discord](https://discord.gg/4fm7pgB)
 {% endhint %}
 
   
