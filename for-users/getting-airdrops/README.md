@@ -1,2 +1,2 @@
-# Getting airdrops
+# Airdrops
 
