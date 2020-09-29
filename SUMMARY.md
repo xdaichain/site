@@ -88,6 +88,7 @@
   * [Alternate Receiver \(Send Dai to another xDai address\)](for-users/converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md)
   * [Moving Dai to xDai](for-users/converting-xdai-via-bridge/moving-dai-to-xdai.md)
   * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)
+  * [Viewing Inbound Transactions](for-users/converting-xdai-via-bridge/viewing-inbound-transactions.md)
   * [Troubleshooting](for-users/converting-xdai-via-bridge/troubleshooting.md)
 * [OmniBridge](for-users/omnibridge.md)
 * [Explorers](for-users/explorers/README.md)
