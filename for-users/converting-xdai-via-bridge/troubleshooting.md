@@ -24,7 +24,7 @@ Go to [https://k1rill-fedoseev.github.io/manual-submit-signatures/](https://k1ri
 
 1. Paste pending tx
 2. Click Submit.
-3. Use a gas prices oracle such as [https://ethgas.watch](https://ethgas.watch/) to determine the current gas price
+3. Check current gas prices to decide your limit. [https://ethgas.watch](https://ethgas.watch/) provides an aggregated price feed.
 4. Click Confirm to process.
 
 ![](../../.gitbook/assets/mm3.jpg)
