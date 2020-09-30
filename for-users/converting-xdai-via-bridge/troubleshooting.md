@@ -10,7 +10,7 @@ An update to the current bridge UI is in process. The following are interim solu
 
 8 block confirmations are required to ensure a transaction is final and xDai can be minted to your account. If Ethereum is congested, it may take many more blocks for your transaction to be queued. If your transaction is stuck in pending for a long time, you can opt try to speed it up by selecting the pending transaction in MetaMask, clicking Speed Up, then paying the additional gas to try and get it through more quickly. Otherwise, it will likely be in a pending state until the congestion breaks up.
 
-![](../../.gitbook/assets/mm1.jpg)
+![](../../.gitbook/assets/speedup.jpg)
 
 ## xDai to Dai
 
