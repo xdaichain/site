@@ -11,7 +11,7 @@ If you are experiencing issues or for personal preference, you can go to [https:
 {% endhint %}
 
 {% hint style="info" %}
-You will need some Dai to transfer \(minimum of .005 Dai\) AND some ETH for gas \(transaction fees\).
+You will need some Dai to transfer \(minimum of 0.005 Dai\) AND some ETH for gas \(transaction fees\).
 {% endhint %}
 
 ![](../../.gitbook/assets/bridge1.jpg)
