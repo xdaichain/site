@@ -38,5 +38,5 @@ The bridge mechanism ensures that the amount of xDai can never exceed the amount
 
 A simple UI allows for seamless transfers between chains. Instructions for [moving Dai to xDai](moving-dai-to-xdai.md) and [moving xDai to Dai ](moving-xdai-to-dai.md)are available.  The bridge can also be used without a UI, [instructions are available here](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui).
 
-![](../../.gitbook/assets/bridge.png)
+![](../../.gitbook/assets/bridge1%20%281%29.jpg)
 
