@@ -10,7 +10,7 @@ DAO \(Decentralized Autonomous Organizations\) are thriving on the blockchain. U
 
 💡 ****For more information, see the help section [https://xdai.daohaus.club/help](https://xdai.daohaus.club/help)
 
-🤑 You will also need some xDai - you can convert Dai to xDai using the bridge UI at [https://dai-bridge.poa.network/](https://dai-bridge.poa.network/).  Connect your web3 wallet to Ethereum and select the amount of Dai to transfer. Once it is transferred, connect to the xDai network to interact with Daohaus.  
+🤑 You will also need some xDai - you can convert Dai to xDai using the bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/).  Connect your web3 wallet to Ethereum and select the amount of Dai to transfer. Once it is transferred, connect to the xDai network to interact with Daohaus.  
 
  🦊 Need help [setting up MetaMask & connecting to xDai](../../for-users/wallets/metamask/metamask-setup.md)?
 
