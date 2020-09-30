@@ -103,7 +103,13 @@ See the dropdown menu for tutorials related to some of these tools.
 *  [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
 * [Dappquery](https://dappquery.com/) analytics dashboard, customizable visualizations, smart contract alerts and scalable GraphQL API.
 
-### **Test Token Faucets**
+###  **Token Faucets**
+
+**xDai Faucet**
+
+* [https://xdai-faucet.top/](https://xdai-faucet.top/) An xDai faucet to quickly get .01 xDai and start using the chain right away!
+
+**Test Token Faucets**
 
 * [Token faucet](https://erc20faucet.com/) allows you to easily create ERC20 FAU tokens for testing purposes.
 * [Weenus ERC20 ](https://github.com/bokkypoobah/WeenusTokenFaucet)is also available to use for testing purposes.
