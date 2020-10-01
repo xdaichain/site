@@ -37,6 +37,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Shanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
 * [Vocdoni](https://vocdoni.io/): Secure digital voting
 * [Foundation](https://foundation.app/): Emerging artist marketplace
+* [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement
 
 
 
