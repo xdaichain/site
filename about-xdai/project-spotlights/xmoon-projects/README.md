@@ -4,7 +4,7 @@ description: Apps using xMoon Tokens
 
 # xMoon Projects
 
-Reddit MOON tokens are community currency for the r/cryptocurrency subreddit. They are currently minted and distributed on the Rinkeby test network. Thanks to TokenBridge technology, MOONS can be converted to xMOONs on the xDai chain, and used in other applications and for different use cases. In order to get xMOONs, you need to move tokens from your Reddit Vault and then transfer them to xDai. The [videos below ](xmoon-projects.md#moving-moons-to-xdai)show you how.
+Reddit MOON tokens are community currency for the r/cryptocurrency subreddit. They are currently minted and distributed on the Rinkeby test network. Thanks to TokenBridge technology, MOONS can be converted to xMOONs on the xDai chain, and used in other applications and for different use cases. In order to get xMOONs, you need to move tokens from your Reddit Vault and then transfer them to xDai. The [videos below ](./#moving-moons-to-xdai)show you how.
 
 A few applications for xMOONs have already been created, including the xMOON exchange by Austin Griffith and a Uniswap fork where xMOONs can be traded for xDai. Austin is currently working on an xMOON game as well.
 
@@ -24,7 +24,7 @@ A few applications for xMOONs have already been created, including the xMOON exc
 
 _Note that the exchange requires 2 transactions, 1 to unlock a token, and a second to exchange value, send tokens or add liquidit_y.
 
-![](../../.gitbook/assets/xmoon-uniswap.png)
+![](../../../.gitbook/assets/xmoon-uniswap.png)
 
 ## Transfer Reddit MOONs from Rinkeby to xDai
 
