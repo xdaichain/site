@@ -29,9 +29,9 @@ The steps use the same process as the MOON -&gt; Dai conversion, though mostly i
 
 6\) **Send MOONs from your MetaMask address to your Reddit Vault** \([_assuming you don't have it connected to your MM_](./#transfer-reddit-moons-from-rinkeby-to-xdai)\) To get your Reddit Vault address, go to the mobile app and click on the dots, then copy the address.
 
-![](../../../.gitbook/assets/vault0.jpg)
+![](../../../.gitbook/assets/nvault0.jpg)
 
-![](../../../.gitbook/assets/vault1.jpeg)
+![](../../../.gitbook/assets/nvault.jpg)
 
 Now use MetaMask to send your MOONs to this address. Connect Your MM wallet to Rinkeby Test Netowk and click on the MOON token to start.
 
