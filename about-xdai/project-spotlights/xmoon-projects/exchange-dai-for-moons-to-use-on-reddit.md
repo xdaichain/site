@@ -1,6 +1,6 @@
 # Exchange Dai for MOONs to use on Reddit
 
-Many articles have been popping up for people wanting to [exchange their Reddit MOONs for Dai ](https://www.reddit.com/r/CryptoCurrency/comments/j1lnc0/if_you_are_not_sure_how_to_convert_moon_to_dai_i/)and other cryptocurrency. This is made possible thanks to a multi-hop bridging \(moving from Rinkeby -&gt; xDai -&gt; Ethereum\) with TokenBridge and [HoneySwap](https://honeyswap.org/#/swap) on xDai.  
+Many articles have been popping up for people wanting to [exchange their Reddit MOONs for Dai ](https://www.reddit.com/r/CryptoCurrency/comments/j1lnc0/if_you_are_not_sure_how_to_convert_moon_to_dai_i/)and other cryptocurrency. This is made possible thanks to a multi-hop bridging \(moving from Rinkeby -&gt; xDai -&gt; Ethereum\) with TokenBridge and [HoneySwap](https://honeyswap.org/#/swap) on xDai.
 
 Just as you can convert MOONs to Dai, you can also convert Dai to MOONs. This allows anyone to purchase MOONs and use them to tip other Redditors and even buy coins for exclusive use in the [https://www.reddit.com/r/CryptoCurrency/](https://www.reddit.com/r/CryptoCurrency/) subreddit.
 
