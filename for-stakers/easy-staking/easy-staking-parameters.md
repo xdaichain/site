@@ -102,7 +102,12 @@
     </tr>
     <tr>
       <td style="text-align:left">LP Distribution Contract</td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0x650c1c650773713e0884be96307fb0aa7f4ab070">0x650c1c650773713e0884be96307fb0aa7f4ab070</a>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li><a href="https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d">0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d</a>
+          </li>
+        </ul>
       </td>
     </tr>
     <tr>
