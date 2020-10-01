@@ -102,7 +102,7 @@ Replace all variables templated with tags \(&lt;&gt;\) with actual values. [Lear
 
  #for bridge erc_to_erc and erc_to_native mode
  #mainnet
- ERC20_TOKEN_ADDRESS=0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
+ ERC20_TOKEN_ADDRESS=0x6b175474e89094c44da98b954eedeac495271d0f
  #kovan
  #ERC20_TOKEN_ADDRESS=0xc4375b7de8af5a38a93548eb8453a498222c4ff2
  #validators
