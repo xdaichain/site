@@ -78,7 +78,8 @@
   * [Dual Token Model](about-xdai/news-and-information/dual-token-model.md)
   * [Interviews & Media Articles](about-xdai/news-and-information/media-articles/README.md)
     * [xDai Chain: Basic Overview Presentation](about-xdai/news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
-* [Roadmap](about-xdai/roadmap.md)
+* [Roadmap](about-xdai/roadmap/README.md)
+  * [Decentralization Planning](about-xdai/roadmap/decentralization-planning.md)
 
 ## For users
 

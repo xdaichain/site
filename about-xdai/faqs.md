@@ -39,7 +39,7 @@ There is a lot to know about xDai, so we've split the website into several secti
 * POSDAO \(Proof-of-Stake\) consensus for selected validators was implemented April 1, 2020. 
 * Decentralized public staking with the STAKE token is coming Q3 2020.
 * More on [xDai'sPast](https://forum.poa.network/t/xdai-the-birth-of-the-stable-chain/2812)
-* More on [xDai's Future](roadmap.md)
+* More on [xDai's Future](roadmap/)
 
 ### Where is xDai?
 

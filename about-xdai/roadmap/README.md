@@ -8,7 +8,7 @@ description: Current & Future Directions for the xDai Stable Chain
 The xDai roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
 {% endhint %}
 
-_Last update: 24.09.2020 \|_ [_Changelog_](roadmap.md#change-log)\_\_
+_Last update: 24.09.2020 \|_ [_Changelog_](./#change-log)\_\_
 
 ## Fiat to xDai Onramp
 
@@ -42,7 +42,7 @@ _Update 4/15/2020: With the impending Sai shutdown, Sai transfers are no longer 
 ✅**Status**: Completed 03/31/2020
 
 {% hint style="success" %}
-Bridge contracts are upgraded and functional. For more on _**`CHAI,`**_ see the [Chai FAQs](../for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md).
+Bridge contracts are upgraded and functional. For more on _**`CHAI,`**_ see the [Chai FAQs](../../for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md).
 {% endhint %}
 
 The new version of the bridge contract supports usage of [the Dai Savings Rate contract](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/dsr) through [the Chai token](https://chai.money/) to earn the interest for tokens deposited on the bridge balance. Dai locked in the bridge contract is converted to Chai, an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch will be used as an additional incentive for stakers **in Phase 2** of the consensus upgrade. 
@@ -58,14 +58,14 @@ Phase 1 of the POSDAO upgrade was successfully activated April 1, 2020.
 
 xDai will upgrade to a Proof of Stake model in several phases. In the first phase, the current validators will receive xDai-based STAKE tokens and to protect the chain. These validators will remain in place to assist in the transition to phase 2.
 
-For more information on this transition, see the [staking roadmap](../for-stakers/stake-and-staking/).
+For more information on this transition, see the [staking roadmap](../../for-stakers/stake-and-staking/).
 
 ## EasyStaking STAKE on Ethereum
 
 🎯 **Target Date**: Q3 2020  
 ✅ **Status**: Completed 08/05/2020
 
-[Easy Staking](../for-stakers/easy-staking/) provides an alternative interest-earning application for [STAKE ](../for-stakers/stake-token/)token holders. Users can deposit STAKE tokens deployed on the Ethereum mainnet and earn a pre-determined interest rate without bridging to xDai and with no minimum STAKE amount requirements. Rewards are split among Liquidity Providers and protocol stakers.
+[Easy Staking](../../for-stakers/easy-staking/) provides an alternative interest-earning application for [STAKE ](../../for-stakers/stake-token/)token holders. Users can deposit STAKE tokens deployed on the Ethereum mainnet and earn a pre-determined interest rate without bridging to xDai and with no minimum STAKE amount requirements. Rewards are split among Liquidity Providers and protocol stakers.
 
 Easy Staking serves to reduce the overall amount of STAKE in active circulation and acts as a mechanism to limit available liquidity and supply. Limited supply in the open market increases security for POSDAO chains such as the xDai stable chain.
 
@@ -74,7 +74,7 @@ Easy Staking serves to reduce the overall amount of STAKE in active circulation 
 🎯 **Target Date**: Q3 2020  
 ☑ **Status:** 75% complete. [Distributions dashboard](https://stake-reward-distribution.xdaichain.com/) done. 
 
-EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the EasyStaking protocol. [Rewards fluctuate based on numerous factors](../for-stakers/easy-staking/#liquidity-pool-lp-participants), and additional analytics and dashboards for LPs will be useful for determining staking strategies, reviewing historical outcomes and viewing current statistics. 
+EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the EasyStaking protocol. [Rewards fluctuate based on numerous factors](../../for-stakers/easy-staking/#liquidity-pool-lp-participants), and additional analytics and dashboards for LPs will be useful for determining staking strategies, reviewing historical outcomes and viewing current statistics. 
 
 We will integrate statistics views on the EasyStaking platform as well as develop additional analytics tools \(currently exploring options like Dune Analytics & Graphana\) for LPs.
 
@@ -88,7 +88,7 @@ Universal mediators will support transfers for virtually any ERC20 token to the 
 ## Bridge Governance Expansion
 
 🎯 **Target Date:** Q3 2020  
-☑ **Status:** Gnosis Safe created with 11 pending representatives. [Progress update here](https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773/12)
+☑ **Status:** Completed on Ethereum side. xDai side in progress. [Progress update here](https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773/12)
 
 Bridge management should be expanded to additional community representatives. These individuals will use a Gnosis Safe to manage bridge operations. A majority must sign to approve operations including:
 
@@ -129,7 +129,7 @@ We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [op
 ## Consensus POSDAO Upgrade: Phase **2**
 
 🎯 **Target Date:** Q2 2021  
-☑ **Status:** In process. UI development and protocol enhancements ongoing, see the [staking roadmap](../for-stakers/stake-and-staking/) for more information.
+☑ **Status:** In process. UI development and protocol enhancements ongoing, see the [staking roadmap](../../for-stakers/stake-and-staking/) for more information.
 
 To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
 
@@ -137,7 +137,7 @@ To increase decentralization and enable a permissionless consensus process,  the
 
 🎯 **Target Date**: Q4 2021
 
-A chain created specifically to leverage [POSDAO](../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../for-stakers/stake-token/)tokens and HBBFT consensus.
+A chain created specifically to leverage [POSDAO](../../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../../for-stakers/stake-token/)tokens and HBBFT consensus.
 
 ## Change Log
 

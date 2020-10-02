@@ -130,5 +130,5 @@ APR emissions may also depend on timing for liquidity providers. If a large stak
 
 From a risk management perspective, Easy Staking involves a single token rather than multiple tokens, and the contracts have been thoroughly audited. 
 
-So the answer is "it depends", and we are excited to see how it plays out in the protocol. We plan to add [additional LP analytics and views ](../../about-xdai/roadmap.md#easystaking-liquidity-pool-analytics)to learn more about APR benefits for both groups.
+So the answer is "it depends", and we are excited to see how it plays out in the protocol. We plan to add [additional LP analytics and views ](../../about-xdai/roadmap/#easystaking-liquidity-pool-analytics)to learn more about APR benefits for both groups.
 
