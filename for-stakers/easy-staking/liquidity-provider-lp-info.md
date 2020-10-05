@@ -18,6 +18,8 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 | 1 | 02.09.2020 | 🎉 Initial distribution was successfully distributed to all 119 providers. |
 | 2 | 14.09.2020 | Distribution to top 100 providers. Round 2 distribution slightly delayed due to EasyStaking update. LP distribution includes LPs participating in [https://sakeswap.finance/\#/swaps/eth\_stake](https://sakeswap.finance/#/swaps/eth_stake)  |
 | 3 | 21.09.2020 | [https://etherscan.io/tx/0xba493e9123c31ff319067eca6e15aafd9a808f4d9fb71348ec90f07e89c4abf8](https://etherscan.io/tx/0xba493e9123c31ff319067eca6e15aafd9a808f4d9fb71348ec90f07e89c4abf8) |
+| 4 | 26.09.2020 | [https://etherscan.io/tx/0x487f31949a480316ec8234760073a782c0b69b9c651f857e33cbc8d7a1268eb1](https://etherscan.io/tx/0x487f31949a480316ec8234760073a782c0b69b9c651f857e33cbc8d7a1268eb1) |
+| 5 | 05.10.2020 | [https://etherscan.io/tx/0x5a21fed8a9f70defd8ff4ecc735806690c5658f1aa1b73f292928fc952cffbdb](https://etherscan.io/tx/0x5a21fed8a9f70defd8ff4ecc735806690c5658f1aa1b73f292928fc952cffbdb) |
 
 * LP Distribution Contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
 * LP Governance: Coming Soon 
