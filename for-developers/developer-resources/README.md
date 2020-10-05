@@ -93,7 +93,7 @@ See the dropdown menu for tutorials related to some of these tools.
 * [TheGraph](https://thegraph.com) supports xDai data indexing, querying and display.
 * [QuikNode](https://www.quiknode.io/) gives users a super-fast Web3 endpoint for accessing or interacting with the xDai chain.
 * [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
-* [CurveGrid](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
+* [Curvegrid MultiBaas](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring with API and SDK tools.
 
