@@ -22,15 +22,13 @@ Additional game params will load, including your home planet
 
 ![](../../.gitbook/assets/2020-10-05_10-09-51.gif)
 
-Once you "check in" with the CLI, the universe begins to populate. You are assigned a home planet.
+Once you "check in" with the CLI, the universe begins to populate and you see your home planet......
 
 {% hint style="info" %}
 Look for a thorough review shortly as we explore dark forest 🌳 
 {% endhint %}
 
-
-
-
+![Dark Forest sneak peak](../../.gitbook/assets/screen-shot-2020-10-05-at-8.06.45-pm.png)
 
   
 
