@@ -36,6 +36,7 @@
   * [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md)
   * [Reality Cards](about-xdai/project-spotlights/reality-cards.md)
   * [Foundation](about-xdai/project-spotlights/foundation.md)
+  * [dark forest](about-xdai/project-spotlights/dark-forest.md)
 * [FAQs](about-xdai/faqs.md)
 * [Comparisons](about-xdai/comparisons/README.md)
   * [Matic](about-xdai/comparisons/matic.md)

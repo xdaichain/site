@@ -39,6 +39,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Foundation](https://foundation.app/): Emerging artist marketplace
 * [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement
 * [POAP](https://www.poap.xyz/):  Proof of Attendance Protocol. [More on xDai integration](https://medium.com/@poap/poap-ethereum-xdai-the-experiment-continues-301e08a472ff).
+* [darkforest](https://zkga.me/): zkSNARK space warfare game
 
 
 
