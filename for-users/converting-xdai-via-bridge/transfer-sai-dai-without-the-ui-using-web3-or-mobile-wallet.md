@@ -51,9 +51,9 @@ This process works the same way, start on the xDai chain and send the amount you
 
 2\) Wait for the transaction confirmation in the xDai chain \(5 seconds\).
 
-3\) Wait for relay confirmation by the bridge validators \(depends on number of validators and the ETH Mainnet network throughput\)
+3\) Copy the transaction hash of the confirmation and connect to the Ethereum mainnet. 
 
-4\) Switch to the mainnet and check your balance on the ETH Mainnet.
+4\) Submit your claim to receive Dai.  
 
 
 
