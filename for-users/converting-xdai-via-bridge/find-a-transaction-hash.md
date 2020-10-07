@@ -6,11 +6,16 @@ description: >-
 
 # Find a Transaction Hash
 
-When completing a transfer from the xDai chain to Ethereum \(converting xDai to Dai\), you claim Dai by submitting the transaction hash containing validator confirmation of the event to Ethereum. This transaction is created on the xDai chain. When completing the process with the Bridge UI, the tx is copied behind the scenes and used with the claim functionality. 
+Completing a transfer from the xDai chain to Ethereum \(converting xDai to Dai\) requires 2 transactions.
 
-In some cases, this second claim function may not go through, or a different method may be used \(such as a direct transfer without the UI or with another UI that does not include this claim functionality\) where the claim must be processed manually.
+1. Initial withdrawal on xDai. Signatures are collected and xDai is burned.
+2. Claim Dai on Ethereum. Submit transaction hash containing validator confirmations.  
 
-In this case, you will click on the **Haven't received your tokens** link and add the transaction hash manually to claim your Dai on Ethereum. A modal will appear to complete this process.
+When transferring with the Bridge UI, the tx from step 1 is copied behind the scenes and used with the claim functionality in step 2.
+
+In some cases, however, step 2 may not process, or a different method may be used \(such as a direct transfer without the UI or with another UI that does not include this claim functionality\) where the claim must be processed manually.
+
+In this case, you will click on the **Haven't received your tokens** link in the Bridge UI on the Ethereum side and add the transaction hash from step 1 manually to claim your Dai on Ethereum. A modal will appear to complete this process. See below for help finding the transaction hash.
 
 ![](../../.gitbook/assets/modal1.jpg)
 
