@@ -43,6 +43,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Unit Protocol](https://unit.xyz/): Decentralized borrowing with multi-token collateral
 * [The Commons Stack](https://cv.commonsstack.org/#/): Conviction voting
 * [Vocdoni](https://vocdoni.io/): Secure digital voting
+* [Akropolis](https://akropolis.io/): DeFi governance with Delphi.
 
 **NFT-based projects**
 
