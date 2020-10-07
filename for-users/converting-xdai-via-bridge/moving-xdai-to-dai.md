@@ -11,7 +11,7 @@ If you are experiencing issues or for personal preference, you can go to [https:
 {% endhint %}
 
 {% hint style="info" %}
-You will need a very small additional amount of xDai to process the transaction.
+You will need a small additional amount of xDai to process the first transaction, and an additional amount of Eth to process the claim transaction on Ethereum.
 {% endhint %}
 
 ![](../../.gitbook/assets/xbridge1.jpg)
@@ -28,19 +28,23 @@ _Note: If you change the dropdown on the page \(xDai Chain\) but not in MetaMask
 
 ![](../../.gitbook/assets/xbridge-2.jpg)
 
-5\) Wait for the transaction to process. The relay confirmation can take additional time \(depending on the number of chain validators and the mainnet network throughput\). 
-
-{% hint style="info" %}
-If your transaction is taking longer than 10 minutes and you want to pay an additional fee to speed it up, [see these instructions](troubleshooting.md#xdai-to-dai). Otherwise, you can wait and it will process eventually.
-{% endhint %}
+5\) Wait for the transaction on xDai to process. 
 
 ![](../../.gitbook/assets/xbridge3.jpg)
 
-6\) Success! xDai has been transferred to Dai and is available for use on the Ethereum mainnet.
+6\) You will see a modal to switch networks in your MetaMask \(or other web3\) to the Ethereum Network.
+
+![](../../.gitbook/assets/1dd.jpg)
+
+7\) Press the **Claim** button and **Confirm** the transaction in MetaMask. You will need some ETH to confirm and complete the transaction.
+
+![](../../.gitbook/assets/2dd.jpg)
+
+8\) Wait for confirmations from validators on Mainnet. Once this is complete, you should see the Success message.  xDai has been transferred to Dai and is available for use on the Ethereum mainnet.
 
 ![](../../.gitbook/assets/xbridge4.jpg)
 
-7\) Click the transaction hex to view your transaction in Etherscan.
+9\) Click the transaction hex to view your transaction in Etherscan.
 
 ![](../../.gitbook/assets/xbridge5.jpg)
 
