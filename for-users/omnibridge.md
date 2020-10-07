@@ -1,4 +1,4 @@
-# OmniBridge
+# OmniBridge \(for all other ERC20 tokens\)
 
 The OmniBridge UI will be released soon to allow users to Bridge any ERC20s between Ethereum and xDai. Stay tuned for details. In the meantime, you can checkout more on the OmniBridge 👇
 
