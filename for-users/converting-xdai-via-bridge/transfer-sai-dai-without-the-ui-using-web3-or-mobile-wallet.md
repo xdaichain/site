@@ -53,7 +53,7 @@ This process works the same way, start on the xDai chain and send the amount you
 
 3\) Copy the transaction hash of the confirmation and connect to the Ethereum mainnet. 
 
-4\) Submit your claim to receive Dai.  
+4\) Submit your claim to receive Dai.  This is best accomplished with the [Bridge UI](https://bridge.xdaichain.com/) by clicking on the **Haven't received your tokens?** link. You will paste in the transaction hash from the xDai side and confirm the transaction to claim your Dai on Ethereum.
 
 
 
