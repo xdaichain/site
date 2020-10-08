@@ -16,8 +16,8 @@ These instructions are copied from the OpenEthereum wiki at [https://openethereu
 
 * **Linux**
   * Download the latest release from the link above
-  * Make the `parity` file executable by running `chmod u+x parity`
-  * Launch Parity Ethereum: `./openethereum --chain xdai --no-warp`
+  * Make the openethereum file executable by running `chmod u+x openethereum`
+  * Launch OpenEthereum: `./openethereum --chain xdai --no-warp`
 
 {% hint style="info" %}
 The `--no-warp` flag is recommended if you want all historical data, but will take much longer to sync. For a faster sync, you do not need to use it. [More information on --no-warp](https://openethereum.github.io/wiki/Getting-Synced)
@@ -26,7 +26,7 @@ The `--no-warp` flag is recommended if you want all historical data, but will ta
 * Mac
   * Download the mac binary.
   * Open a terminal and navigate to the directory using `cd /path/to/binary/folder/`.
-  * Make the binary executable by running `chmod +x parity`.
+  * Make the binary executable by running `chmod +x openethereum`.
   * You can now double click on the binary. 
 * Windows Download the binary and double click on it.
 
