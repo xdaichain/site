@@ -49,6 +49,12 @@ Look for a thorough review shortly as we explore dark forest 🌳
 
 ![Dark Forest sneak peak](../../.gitbook/assets/screen-shot-2020-10-05-at-8.06.45-pm.png)
 
+## Tips & Tricks
+
+{% embed url="https://old.reddit.com/r/DarkForestOnline/comments/j78tru/how\_to\_load\_up\_your\_wallet\_with\_xdai\_to\_play\_more/" %}
+
+
+
   
 
 
