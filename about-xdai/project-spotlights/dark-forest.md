@@ -27,6 +27,8 @@ Dark Forest was inspired by Liu Cixin’s _Three Body Trilogy_ \(三体\), parti
 
 The latest version \(v0.4\) uses a burner wallet and is in production on xDai. This allows for a higher TPS as well as real economic value loaded onto the game. In addition, users are airdropped a small amount of xDai so they can begin gameplay immediately, without any external wallet or need to get xDai to start. Once users are accustomed to gameplay they can add additional xDai if desired.
 
+{% embed url="https://www.youtube.com/watch?v=nwUCccUS75k&feature=youtu.be" %}
+
 ## Get Started
 
 Simply go to [https://zkga.me/](https://zkga.me/) to start \(note that the game is in Beta and you will need a whitelist key to participate\). At the start, a few command line prompts will get things going, and you can create a new burner wallet or use another wallet \(one without too much value, as private keys will be stored in local storage\)
