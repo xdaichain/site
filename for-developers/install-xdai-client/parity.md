@@ -17,7 +17,12 @@ These instructions are copied from the OpenEthereum wiki at [https://openethereu
 * **Linux**
   * Download the latest release from the link above
   * Make the `parity` file executable by running `chmod u+x parity`
-  * Launch Parity Ethereum: `./parity --chain xdai --no-warp`
+  * Launch Parity Ethereum: `./openethereum --chain xdai --no-warp`
+
+{% hint style="info" %}
+The `--no-warp` flag is recommended if you want all historical data, but will take much longer to sync. For a faster sync, you do not need to use it. [More information on --no-warp](https://openethereum.github.io/wiki/Getting-Synced)
+{% endhint %}
+
 * Mac
   * Download the mac binary.
   * Open a terminal and navigate to the directory using `cd /path/to/binary/folder/`.
@@ -42,13 +47,15 @@ For Linux systems:
     $ yum group install "Development Tools"
   ```
 
-## Once Parity is Installed,  Connect and Sync with xDai
+## Once OpenEthereum is Installed,  Connect and Sync with xDai
 
 ```text
-parity --chain xdai --no-warp
+openethereum --chain xdai --no-warp
 ```
 
 #### Optional
+
+`--no-warp` flag is optional: [more information.](https://openethereum.github.io/wiki/Getting-Synced)
 
 _If you would like to limit or choose specific bootnodes, you can obtain the bootnodes.txt file from POA github:_
 
@@ -59,7 +66,7 @@ git clone -b dai https://github.com/poanetwork/poa-chain-spec.git
 enter all supplied enodes for the desired network separated by a comma, no space
 
 ```text
-parity --chain xdai --bootnodes enode://ENODE@IP:PORT,enode://ENODE@IP:PORT
+openethereum --chain xdai --bootnodes enode://ENODE@IP:PORT,enode://ENODE@IP:PORT
 ```
 
 ### Connect to your Node
