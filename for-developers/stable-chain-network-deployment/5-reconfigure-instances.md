@@ -52,10 +52,10 @@ sudo systemctl restart poa-parity && sleep 10 && sudo systemctl restart poa-nets
 
 ## Prepare `Register` & `Certifier` Contracts
 
-1\) Clone [https://github.com/parity-contracts/name-registry](https://github.com/parity-contracts/name-registry) repository
+1\) Clone [https://github.com/openethereum/name-registry](https://github.com/openethereum/name-registry) repository
 
 ```text
-sudo git clone https://github.com/parity-contracts/name-registry
+sudo git clone https://github.com/openethereum/name-registry
 cd name-registry
 ```
 
