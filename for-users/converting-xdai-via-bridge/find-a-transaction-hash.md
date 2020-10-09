@@ -15,6 +15,8 @@ When transferring with the Bridge UI, the tx from step 1 is copied behind the sc
 
 In some cases, however, step 2 may not process, or a different method may be used \(such as a direct transfer without the UI or with another UI that does not include this claim functionality\) where the claim must be processed manually.
 
+## Claim your tokens
+
 In this case, you will click on the **Haven't received your tokens** link in the Bridge UI on the Ethereum side and add the transaction hash from step 1 manually to claim your Dai on Ethereum. A modal will appear to complete this process. See below for help finding the transaction hash.
 
 ![](../../.gitbook/assets/modal1.jpg)

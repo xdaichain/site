@@ -6,8 +6,10 @@ description: Convert xDai back to Dai in the UI
 
 1\) Go to [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/). [Connect your web3 wallet](../wallets/metamask/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **xDai Chain**. Once connected, you will see your address populated in the header, and your xDai and Dai balance displayed on the page. 
 
-{% hint style="success" %}
-If you are experiencing issues or for personal preference, you can go to [https://xdai.io/](https://xdai.io/) and exchange using the burner application.
+{% hint style="warning" %}
+Update Oct 9 2020: The xDai bridge has been updated to give users control over the withdrawal process and prevent bridge drains. More information is here.   
+  
+If you did not use the Bridge UI to process your original bridge request, you may need to [find the first transaction hash](find-a-transaction-hash.md) and use the [claim function on the bridge](find-a-transaction-hash.md#claim-your-tokens) \(click on **Haven't received your tokens**\) to complete your transfer.
 {% endhint %}
 
 {% hint style="info" %}
