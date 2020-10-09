@@ -61,7 +61,7 @@ The main goal of these changes is to provide additional decentralization and con
 
 {% embed url="https://twitter.com/NFT\_hack/status/1314193150785720320" %}
 
-### ✅ POKT Network supports xDai at ETHOnline
+### ✅ Pocket Network supports xDai at ETHOnline
 
 {% embed url="https://twitter.com/POKTnetwork/status/1311799873637883905" %}
 
