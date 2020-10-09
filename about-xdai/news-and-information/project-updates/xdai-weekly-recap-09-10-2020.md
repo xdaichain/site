@@ -25,7 +25,7 @@ Darkforest uses zksnarks to create **the first large-scale, incomplete informati
 New strategies can be employed in this universe that were previously impossible, such as deception, betrayal, coordination etc. This "fog of war" is made possible by zksnark technology.  
 For more on this exciting achievement, see the [Dark Forest blog](https://blog.zkga.me/).
 
-The game uses an incredible amount of resources, and we've been working tirelessly to keep up with the increased load. Tx per day have increased to over 50k, and RPC requests are extremely high. We are seeing xDai scale in real-time with adoption of this games, and it is an excellent test of our chain capacity. We are finding new ways to optimize xDai and working with the Dark Forest team to support this new class of resource-intensive blockchain experience.
+The game uses an incredible amount of resources, and we've been working tirelessly to keep up with the increased load. Tx per day have increased to over 50k, and RPC request volume is extremely high. We are continuing to scale xDai in real-time with adoption of this game, finding new ways to optimize the network and working with the Dark Forest team to support this new class of resource-intensive blockchain experience.
 
 💡 [More info about Dark Forest running on xDai](../../project-spotlights/dark-forest.md)
 
