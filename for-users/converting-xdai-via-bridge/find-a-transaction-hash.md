@@ -19,6 +19,8 @@ In some cases, however, step 2 may not process, or a different method may be use
 
 In this case, you will click on the **Haven't received your tokens** link in the Bridge UI on the Ethereum side and add the transaction hash from step 1 manually to claim your Dai on Ethereum. A modal will appear to complete this process. See below for help finding the transaction hash.
 
+![](../../.gitbook/assets/havent-received.jpg)
+
 ![](../../.gitbook/assets/modal1.jpg)
 
 ## Find Transaction Hash in BlockScout
