@@ -4,6 +4,8 @@ description: October 3- October 9 2020
 
 # ⚔️ xDai Weekly Recap - 09/10/2020
 
+![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2814%29.png)
+
 ## 🎂 xDai turns 2!
 
 The first block on xDai was created on October 8, 2018. We've come a long way since then!
