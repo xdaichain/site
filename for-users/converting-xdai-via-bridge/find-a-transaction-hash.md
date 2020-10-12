@@ -13,11 +13,13 @@ Completing a transfer from the xDai chain to Ethereum \(converting xDai to Dai\)
 
 When transferring with the Bridge UI, the tx from step 1 is copied behind the scenes and used with the claim functionality in step 2.
 
-In some cases, however, step 2 may not process, or a different method may be used \(such as a direct transfer without the UI or with another UI that does not include this claim functionality\) where the claim must be processed manually.
+In some cases, however, step 2 may not process, or a different method may be used \(such as a direct transfer without the UI or with another UI like a burner wallet that does not include this claim functionality\) where the claim must be processed manually.
 
 ## Claim your tokens
 
-In this case, you will click on the **Haven't received your tokens** link in the Bridge UI on the Ethereum side and add the transaction hash from step 1 manually to claim your Dai on Ethereum. A modal will appear to complete this process. See below for help finding the transaction hash.
+In this case, you will click on the **Haven't received your tokens** link in the Bridge UI on the Ethereum side and add the transaction hash from step 1 manually to claim your Dai on Ethereum. A modal will appear to complete this process. Disable any ad blockers or pop-up blockers, and we recommend Chrome + MetaMask.  
+  
+See below for help finding the transaction hash.
 
 ![This link will appear on the ETH Mainnet side of the bridge, it can be on the left or right depending on your chain connection.](../../.gitbook/assets/havent-received.jpg)
 

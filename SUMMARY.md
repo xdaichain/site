@@ -86,8 +86,6 @@
 ## For users
 
 * [Getting xDai tokens](for-users/get-xdai-tokens.md)
-* [Buying xDai with Wyre](for-users/buying-xdai-with-wyre/README.md)
-  * [Buying xDai with Portis via Wyre \(Under Construction\)](for-users/buying-xdai-with-wyre/buying-xdai-with-portis.md)
 * [xDai Bridge: Converting xDai](for-users/converting-xdai-via-bridge/README.md)
   * [Moving Dai to xDai](for-users/converting-xdai-via-bridge/moving-dai-to-xdai.md)
   * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)
@@ -97,6 +95,8 @@
   * [Viewing Inbound \(Dai to xDai\) Transactions](for-users/converting-xdai-via-bridge/viewing-inbound-transactions.md)
   * [Troubleshooting](for-users/converting-xdai-via-bridge/troubleshooting.md)
 * [OmniBridge \(for all other ERC20 tokens\)](for-users/omnibridge.md)
+* [Buying xDai with Wyre](for-users/buying-xdai-with-wyre/README.md)
+  * [Buying xDai with Portis via Wyre \(Under Construction\)](for-users/buying-xdai-with-wyre/buying-xdai-with-portis.md)
 * [Explorers](for-users/explorers/README.md)
   * [BlockScout](for-users/explorers/blockscout.md)
   * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)

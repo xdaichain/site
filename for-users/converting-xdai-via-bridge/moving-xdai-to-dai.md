@@ -4,16 +4,18 @@ description: Convert xDai back to Dai in the UI
 
 # Moving xDai to Dai
 
-1\) Go to [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/). [Connect your web3 wallet](../wallets/metamask/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **xDai Chain**. Once connected, you will see your address populated in the header, and your xDai and Dai balance displayed on the page. 
-
-{% hint style="warning" %}
-**Updated Oct 8, 2020 8:00 pm UTC**: The xDai bridge has been updated to decentralize withdrawals and give users more control when transferring xDai to Dai on Ethereum. [More information is here](https://forum.poa.network/t/important-changes-in-a-user-interaction-with-the-xdai-bridge/3906).   
-  
-If you did not use the Bridge UI to process your original bridge request, you may need to [find the first transaction hash](find-a-transaction-hash.md) and use the [claim function on the bridge](find-a-transaction-hash.md#claim-your-tokens) \(click on **Haven't received your tokens**\) to complete your transfer.
-{% endhint %}
+1\) Go to [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/). [Connect your web3 wallet](../wallets/metamask/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **xDai Chain**. Once connected, you will see your address populated in the header, and your xDai and Dai balance displayed on the page.  
 
 {% hint style="info" %}
+We recommend using Chrome + Metamask + No Ad Blockers to complete the process.  
+  
 You will need a small additional amount of xDai to process the first transaction, and an additional amount of Eth to process the claim transaction on Ethereum.
+{% endhint %}
+
+{% hint style="warning" %}
+**Important Update**: The xDai bridge has been updated to decentralize withdrawals and give users more control when transferring xDai to Dai on Ethereum. [More information is here](https://forum.poa.network/t/important-changes-in-a-user-interaction-with-the-xdai-bridge/3906).   
+  
+If you did not use the Bridge UI to process your original bridge request - for example you used xDai.io, a contract call or another platform, you may need to [**find the first transaction hash**](find-a-transaction-hash.md) ****and use the ****[**claim function on the bridge**](find-a-transaction-hash.md#claim-your-tokens) \(click on **Haven't received your tokens**\) to complete your transfer.
 {% endhint %}
 
 ![](../../.gitbook/assets/xbridge1.jpg)
