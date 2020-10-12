@@ -5,7 +5,9 @@ The OmniBridge UI will be released soon to allow users to Bridge any ERC20s betw
 Note there are 2 bridges to xDai, the xDai - Dai bridge and the Omnibridge. If you want to bridge xDai to Dai or vice versa, use the [xDai Bridge.](converting-xdai-via-bridge/)
 
 {% hint style="warning" %}
-OmniBridge and OmniBridge UI is experimental software in Beta, use at your own risk.
+**OmniBridge and OmniBridge UI are experimental software in Beta, use at your own risk.**
+
+🌉[OmniBridge UI](https://xdai-omnibridge.web.app/)
 {% endhint %}
 
 {% hint style="success" %}
