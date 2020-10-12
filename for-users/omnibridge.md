@@ -1,20 +1,22 @@
 # OmniBridge \(for all other ERC20 tokens\)
 
-The OmniBridge UI will be released soon to allow users to Bridge any ERC20s between Ethereum and xDai. Stay tuned for details. In the meantime, you can checkout more on the OmniBridge 👇
+OmniBridge can be used to bridge any existing ERC20 on Ethereum Mainnet to xDai and back. The first time a token is bridged, a new ERC677 token contract is deployed on xDai and the token name is extended to include "on xDai". If a token has been bridged previously, the previously deployed contract is used. In both cases, the requested amount of tokens is minted and sent to the account that initiated the transfer.
 
-Note there are 2 bridges to xDai, the xDai - Dai bridge and the Omnibridge. If you want to bridge xDai to Dai or vice versa, use the [xDai Bridge.](converting-xdai-via-bridge/)
-
-{% hint style="warning" %}
+{% hint style="info" %}
 **OmniBridge and OmniBridge UI are experimental software in Beta, use at your own risk.**
 
 🌉[OmniBridge UI](https://xdai-omnibridge.web.app/)
 {% endhint %}
 
 {% hint style="success" %}
-Bridged Token List on BlockScout: [https://blockscout.com/poa/xdai/bridged-tokens](https://blockscout.com/poa/xdai/bridged-tokens)
+OMNI Bridged Token List on BlockScout: [https://blockscout.com/poa/xdai/bridged-tokens](https://blockscout.com/poa/xdai/bridged-tokens)
 {% endhint %}
+
+### Additional Information
 
 {% embed url="https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension" %}
 
-
+{% hint style="warning" %}
+Note there are 2 bridges to xDai, the xDai - Dai bridge and the Omnibridge. **If you want to bridge xDai to Dai or vice versa, use the** [**xDai Bridge.**](converting-xdai-via-bridge/)\*\*\*\*
+{% endhint %}
 
