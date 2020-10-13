@@ -93,7 +93,7 @@
   * [Transfer Dai without the UI \(using MetaMask or an Ethereum Wallet\)](for-users/converting-xdai-via-bridge/transfer-sai-dai-without-the-ui-using-web3-or-mobile-wallet.md)
   * [Alternate Receiver \(Send Dai to another xDai address\)](for-users/converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md)
   * [Viewing Inbound \(Dai to xDai\) Transactions](for-users/converting-xdai-via-bridge/viewing-inbound-transactions.md)
-  * [Troubleshooting](for-users/converting-xdai-via-bridge/troubleshooting.md)
+  * [Troubleshooting and FAQs](for-users/converting-xdai-via-bridge/troubleshooting.md)
 * [OmniBridge \(for all other ERC20 tokens\)](for-users/omnibridge.md)
 * [Buying xDai with Wyre](for-users/buying-xdai-with-wyre/README.md)
   * [Buying xDai with Portis via Wyre \(Under Construction\)](for-users/buying-xdai-with-wyre/buying-xdai-with-portis.md)
