@@ -10,7 +10,7 @@ A new bridge decentralization feature means **withdrawals now require 2 steps**.
 * [**Burner Wallet**](troubleshooting.md#i-used-burner-wallet-at-xdai-io) at [xDai.io](https://xdai.io)
 * \*\*\*\*[**xMoon exchange**](troubleshooting.md#i-used-xmoon-exchange) at [https://xmoon.exchange/](https://xmoon.exchange/)
 
-### I used the xDai bridge UI
+## I Used the xDai Bridge UI
 
 When using the xDai bridge, we recommend Chrome and MetaMask. It is also useful to disable ad blockers, as there are popups which guide you through the process.  [A successful transfer process is documented here](moving-xdai-to-dai.md).  
 
@@ -20,13 +20,13 @@ If you submitted a tx on xDai, but not complete the claim process, return to the
 
 ![](../../.gitbook/assets/claim2.jpg)
 
-### I used **Burner Wallet** at xDai.io
+## I Used **Burner Wallet** at xDai.io
 
 If you initiated a transfer from Burner Wallet, it likely is stuck on the Waiting for Bridge message.
 
 ![](../../.gitbook/assets/b1.jpg)
 
-#### I'm connected to the Burner Wallet with MetaMask
+### I'm connected to the Burner Wallet with MetaMask
 
 You can retrieve the pending transaction using the MetaMask interface. [Learn more here.](find-a-transaction-hash.md#find-transaction-hash-in-metamask)
 
@@ -36,7 +36,7 @@ You can retrieve the pending transaction using the MetaMask interface. [Learn mo
 4. Paste in your transaction hash from the xDai transaction.
 5. Press Claim.
 
-#### I'm using a standalone Burner Wallet
+### I'm using a standalone Burner Wallet
 
 In this case, you'll want to export your private key into MetaMask to finish the conversion.
 
@@ -95,9 +95,9 @@ You will need some ETH in your wallet to pay gas fees and finalize the transacti
 
 ![](../../.gitbook/assets/a12.jpg)
 
-###  I used **xMoon.exchange**
+##  I Used **xmoon.exchange**
 
-#### I'm connected to the xMoon.exchange with MetaMask \(or another 3rd party wallet through wallet connect\)
+### I'm connected to the xmoon.exchange with MetaMask \(or another 3rd party wallet through wallet connect\)
 
 You can retrieve the pending transaction using the MetaMask interface. [Learn more here.](find-a-transaction-hash.md#find-transaction-hash-in-metamask)
 
@@ -111,7 +111,7 @@ Once you have copied the transaction on xDai
 
 The claim will process and you can view your Dai on Ethereum with the same wallet you used to initialize the transaction on xMoon.exchange.
 
-#### I'm using the burner wallet with xmoon.exchange \(not connected to any other wallet\)
+### I'm using the burner wallet with xmoon.exchange \(not connected to any other wallet\)
 
 _instructions in process - you will need to retrieve your private key to complete._
 
