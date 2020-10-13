@@ -6,7 +6,7 @@ Bridge transactions can take some time \(hours in extreme cases\) to complete de
 
 A new bridge decentralization feature means **withdrawals now require 2 steps**. You must initiate the bridge transaction on xDai, then claim your Dai on Ethereum. There are currently different bridging UIs, and depending on the UI you may need to take different steps to complete the process.
 
-* \*\*\*\*[**xDai bridg**e](troubleshooting.md#i-used-the-xdai-bridge-ui) at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
+* \*\*\*\*[**xDai bridg**e](troubleshooting.md#i-used-the-xdai-bridge-ui) at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/) \(or [http://dai-bridge.poa.network/](http://dai-bridge.poa.network/) - this is another URL for the same app\)
 * [**Burner Wallet**](troubleshooting.md#i-used-burner-wallet-at-xdai-io) at [xDai.io](https://xdai.io)
 * \*\*\*\*[**xMoon exchange**](troubleshooting.md#i-used-xmoon-exchange) at [https://xmoon.exchange/](https://xmoon.exchange/)
 
