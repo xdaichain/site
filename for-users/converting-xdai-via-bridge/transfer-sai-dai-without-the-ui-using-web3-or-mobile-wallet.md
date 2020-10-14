@@ -41,7 +41,7 @@ TokenBridge addresses for reference \(where you send the asset to transfer\)
 
 ![](../../.gitbook/assets/sdbalance2.png)
 
-### Transfer xDai to DAI from the xDai chain to the Ethereum Mainnet
+## Transfer xDai to DAI from the xDai chain to the Ethereum Mainnet
 
 {% hint style="info" %}
 The following demonstrates interaction with contract methods using BlockScout and Etherscan
