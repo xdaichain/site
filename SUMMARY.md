@@ -90,7 +90,7 @@
   * [Moving Dai to xDai](for-users/converting-xdai-via-bridge/moving-dai-to-xdai.md)
   * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)
   * [Find a Transaction Hash](for-users/converting-xdai-via-bridge/find-a-transaction-hash.md)
-  * [Transfer Dai without the UI \(using MetaMask or an Ethereum Wallet\)](for-users/converting-xdai-via-bridge/transfer-sai-dai-without-the-ui-using-web3-or-mobile-wallet.md)
+  * [Transfer Dai without a UI \(using a web3 wallet and BlockScout / Etherscan\)](for-users/converting-xdai-via-bridge/transfer-sai-dai-without-the-ui-using-web3-or-mobile-wallet.md)
   * [Alternate Receiver \(Send Dai to another xDai address\)](for-users/converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md)
   * [Viewing Inbound \(Dai to xDai\) Transactions](for-users/converting-xdai-via-bridge/viewing-inbound-transactions.md)
   * [Troubleshoot Bridge Txs, UI, xDai.io, xmoon.exchange](for-users/converting-xdai-via-bridge/troubleshooting.md)

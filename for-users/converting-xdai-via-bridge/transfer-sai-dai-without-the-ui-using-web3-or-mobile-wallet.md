@@ -1,4 +1,4 @@
-# Transfer Dai without the UI \(using MetaMask or an Ethereum Wallet\)
+# Transfer Dai without a UI \(using a web3 wallet and BlockScout / Etherscan\)
 
 It is possible to move Dai and xDai using a wallet rather than through the UI. This method is supported by all wallets that support ERC20 transfers \(e.g. [NiftyWallet ](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid?hl=en), [MyEtherWallet.com](http://myetherwallet.com/), [TrustWallet](https://trustwallet.com/), [MetaMask](https://metamask.io/)\). Here we use NiftyWallet.
 
