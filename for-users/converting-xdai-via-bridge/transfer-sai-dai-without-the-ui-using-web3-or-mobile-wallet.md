@@ -43,17 +43,43 @@ TokenBridge addresses for reference \(where you send the asset to transfer\)
 
 ### Transfer xDai to DAI from the xDai chain to the Ethereum Mainnet
 
-{% hint style="success" %}
-This process works the same way, start on the xDai chain and send the amount you would like to transfer to the xDai TokenBridge Address.
+{% hint style="info" %}
+The following demonstrates interaction with contract methods using BlockScout and Etherscan
 {% endhint %}
 
-1\) Connect to the xDai chain. Send xDai to the TokenBridge address`0x7301CFA0e1756B71869E93d4e4Dca5c7d0eb0AA6`
+1\) Send xDai coins to the Token Bridge address `0x7301CFA0e1756B71869E93d4e4Dca5c7d0eb0AA6` on the xDai Сhain using any wallet software.
 
-2\) Wait for the transaction confirmation in the xDai chain \(5 seconds\).
+2\) Wait for the transaction confirmation on the xDai chain \(5 seconds\).
 
-3\) Copy the transaction hash of the confirmation and connect to the Ethereum mainnet. 
+3\) Copy the transaction hash of the confirmation and connect to the Ethereum mainnet.  
+  
+4\)  Visit the helper contract: [https://blockscout.com/poa/xdai/address/0x6A92e97A568f5F58590E8b1f56484e6268CdDC51/read-contract](https://blockscout.com/poa/xdai/address/0x6A92e97A568f5F58590E8b1f56484e6268CdDC51/read-contract)  
+  
+5\) In the `getMessageHash` method field add the following information from your originating transaction and press the Query button. The method will return a hashed message.
 
-4\) Submit your claim to receive Dai.  This is best accomplished with the [Bridge UI](https://bridge.xdaichain.com/) by clicking on the **Haven't received your tokens?** link. You will paste in the transaction hash from the xDai side and confirm the transaction to claim your Dai on Ethereum. You will need some Eth to complete this transaction.
+*  DAI recipient \(typically the transaction sender but may differ if the ‘relayTokens’ functionality is used\)
+* Value \(in **Wei** - do not include fees, only amount sent \(Wei converter at [http://eth-converter.com/](http://eth-converter.com/)\)
+* Originating transaction hash
+
+6\) Copy the message hash and paste into the `getMessage` method. If you receive 0x0 it means either the bridge oracles did not send a confirmation for the withdrawal yet or the data entered in the step 3 is incorrect. Double check the info and if it is correct you will eventually receive the message.
+
+7\) Once you receive the message, use the message hash again this time with the `getSignatures` method. It will return a blob with packed signatures provided by the validator. The method could fail if not enough signatures are collected.
+
+![](../../.gitbook/assets/blockscout1.jpg)
+
+8\) Go to Etherscan and connect a web3 wallet: [https://etherscan.io/address/0x4aa42145aa6ebf72e164c9bbc74fbd3788045016\#writeProxyContract](https://etherscan.io/address/0x4aa42145aa6ebf72e164c9bbc74fbd3788045016#writeProxyContract)
+
+9\) Enter the message \(from `getMessage` method above\) and the signatures blob to the  `executeSignatures` method, press the **Write** button and complete the transaction with a Web3 wallet. If the method reverts, the withdrawal was likely already executed. You can check all input for the recipient here: [https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f?a=0x)..., where the recipient's address follows after “a=“.
+
+![](../../.gitbook/assets/etherscan1.jpg)
+
+Once you have written to the contract method, a View your **transaction** button will appear. Click to view the pending transaction. 
+
+![](../../.gitbook/assets/etherscan3.jpg)
+
+![A completed transaction](../../.gitbook/assets/etherscan2.jpg)
+
+
 
 
 
