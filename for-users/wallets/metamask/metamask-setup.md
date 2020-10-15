@@ -16,7 +16,7 @@ description: Setup your custom RPC to connect to Metamask
 * Symbol: **xDai**
 * Block Explorer URL: [**https://blockscout.com/poa/xdai**](https://blockscout.com/poa/xdai/)\*\*\*\*
 
-Note: MetaMask recently updated the ChainID to be a required field. When you update, you may need to reenter the chain id, and it will be converted to a hexidecimal: **0x64**
+Note: MetaMask recently updated the ChainID to be a required field. When you update, you may need to reenter the chain id 100, and it will be converted to a hexidecimal: **0x64**
 
 ![](../../../.gitbook/assets/mm.jpg)
 
