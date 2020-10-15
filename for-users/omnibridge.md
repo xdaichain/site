@@ -5,9 +5,11 @@ OmniBridge can be used to bridge any existing ERC20 on Ethereum Mainnet to xDai 
 {% hint style="info" %}
 **OmniBridge and OmniBridge UI are experimental software in Beta, use at your own risk.**
 
-🌉[OmniBridge UI](https://xdai-omnibridge.web.app/)
+🌉[OmniBridge UI](https://xdai-omnibridge.web.app/) live link
 
-🌉[Bridging any ERC20 from Ethereum to xDai](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20)
+🌉Instructions to [Bridge any ERC20 from Ethereum to xDai](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20)
+
+🌉[Transaction Monitor](https://alm-xdai.herokuapp.com/): Use it to see updated transaction status.
 {% endhint %}
 
 {% hint style="success" %}
