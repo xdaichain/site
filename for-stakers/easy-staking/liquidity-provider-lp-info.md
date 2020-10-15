@@ -2,7 +2,7 @@
 
 In addition to [rewards provided by Uniswap for participation](https://uniswap.org/docs/v2/advanced-topics/understanding-returns/), **ETH/STAKE liquidity providers receive rewards from EasyStaking**. The distribution contract accumulates STAKE when stakers exit the protocol. Funds are added based on a simple formula: `15 - staker's earned APR`. In addition, the contract receives fees assessed \(2%\) when a staker exits with an instant withdrawal. For examples, see the [EasyStaking page](./).  
   
-**A script runs on average every 5-9 days and provides rewards to the top 100 LP providers**, based on how much STAKE they have placed in the pool. 
+**A script runs on average every 5-10 days and provides rewards to the top 100 LP providers**, based on how much STAKE they have placed in the pool. 
 
 {% hint style="warning" %}
 Participating as an LP carries certain risks, such as the risk of impermanent \(or divergence\) loss where prices in the pool diverge from external market prices. [More info on impermanent/divergence loss.](https://medium.com/@pintail/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2)
@@ -20,10 +20,10 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 | 3 | 21.09.2020 | [https://etherscan.io/tx/0xba493e9123c31ff319067eca6e15aafd9a808f4d9fb71348ec90f07e89c4abf8](https://etherscan.io/tx/0xba493e9123c31ff319067eca6e15aafd9a808f4d9fb71348ec90f07e89c4abf8) |
 | 4 | 26.09.2020 | [https://etherscan.io/tx/0x487f31949a480316ec8234760073a782c0b69b9c651f857e33cbc8d7a1268eb1](https://etherscan.io/tx/0x487f31949a480316ec8234760073a782c0b69b9c651f857e33cbc8d7a1268eb1) |
 | 5 | 05.10.2020 | [https://etherscan.io/tx/0x5a21fed8a9f70defd8ff4ecc735806690c5658f1aa1b73f292928fc952cffbdb](https://etherscan.io/tx/0x5a21fed8a9f70defd8ff4ecc735806690c5658f1aa1b73f292928fc952cffbdb) |
+| 6 | 15.10.2020 | [https://etherscan.io/tx/0x2fe8bf29c421ffca4780171c42d4286fc0b147527fdf7351ef4d7e08d200bf3b](https://etherscan.io/tx/0x2fe8bf29c421ffca4780171c42d4286fc0b147527fdf7351ef4d7e08d200bf3b) |
 
 * LP Distribution Contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
-* LP Governance: Coming Soon 
-* Sakeswap.finance: It is possible to leverage your Uniswap position by [depositing your STAKE-ETH UNI-V2 ](https://sakeswap.finance/#/swaps/eth_stake%20)and earning SAKE in addition to your LP rewards. Just as with any external protocols, do your research and use at your own risk!
+* LP Governance: Coming Soon
 
 ## Adding to the Liquidity Pool
 
@@ -61,7 +61,7 @@ For now there is a single liquidity pool with Uniswap. More pools may be added i
 
 ## Receiving Rewards
 
-Rewards are automatically distributed to your account when the script runs if you are in the top 100 providers. The script runs every 5-9 days.   
+Rewards are automatically distributed to your account when the script runs if you are in the top 100 providers. The script runs every 5-10 days.   
   
 Once a distribution occurs, simply go to your wallet and check your updated STAKE balance. If you need to add STAKE to your wallet, you can Search and Add, or enter in the STAKE contract: [0x0ae055097c6d159879521c384f1d2123d1f195e6](https://etherscan.io/token/0x0ae055097c6d159879521c384f1d2123d1f195e6)
 
