@@ -6,6 +6,8 @@ description: Resolving bridge issues
 
 Bridge transactions can take some time \(hours in extreme cases\) to complete depending on Ethereum mainnet congestion.  Try these actions first if your transaction has been **pending for 10 minutes or more** \(and you don't want to wait any more time\). Actions differ depending on if you are transferring from xDai to Dai or [Dai to xDai](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time).
 
+If you are using OmniBridge for other ERC20 tokens \(not xDai &lt;-&gt; Dai\) please see the [OmniBridge page](../omnibridge.md).
+
 ## I transferred xDai to Dai but it's not working.
 
 A new bridge decentralization feature means **withdrawals now require 2 steps**. You must initiate the bridge transaction on xDai, then claim your Dai on Ethereum. There are currently different bridging UIs, and depending on the UI you may need to take different steps to complete the process.
