@@ -12,9 +12,11 @@ description: Setup your custom RPC to connect to Metamask
 
 * Network Name: **xDai**
 * New RPC URL: [https://rpc.xdaichain.com/](https://rpc.xdaichain.com/)
-* ChainID \(Optional\): **100**
+* ChainID: **100** 
 * Symbol: **xDai**
 * Block Explorer URL: [**https://blockscout.com/poa/xdai**](https://blockscout.com/poa/xdai/)\*\*\*\*
+
+Note: MetaMask recently updated the ChainID to be a required field. When you update, you may need to reenter the chain id, and it will be converted to a hexidecimal: **0x64**
 
 {% hint style="info" %}
 If you'd prefer not to make these changes, [**Nifty Wallet** ](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid)provides a built-in xDai RPC.
