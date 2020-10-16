@@ -32,8 +32,6 @@ The xDai bridge was updated to support user-generated withdrawals from xDai to D
 
 {% embed url="https://twitter.com/xdaichain/status/1317141802474999809" %}
 
-
-
 ### ✅ xDxDao
 
 {% embed url="https://twitter.com/xdaichain/status/1316761135216029697" %}
