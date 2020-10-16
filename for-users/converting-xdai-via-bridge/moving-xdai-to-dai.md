@@ -16,6 +16,8 @@ You will need a small additional amount of xDai to process the first transaction
 **Important Update**: The xDai bridge has been updated to decentralize withdrawals and give users more control when transferring xDai to Dai on Ethereum. [More information is here](https://forum.poa.network/t/important-changes-in-a-user-interaction-with-the-xdai-bridge/3906).   
   
 If you did not use the Bridge UI to process your original bridge request - for example you used xDai.io, a contract call or another platform, you may need to [**find the first transaction hash**](find-a-transaction-hash.md) ****and use the ****[**claim function on the bridge**](find-a-transaction-hash.md#claim-your-tokens) \(click on **Haven't received your tokens**\) to complete your transfer.
+
+If you experience issues, see the [Troubleshooting page](troubleshooting.md).
 {% endhint %}
 
 ![](../../.gitbook/assets/xbridge1.jpg)
