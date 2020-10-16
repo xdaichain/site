@@ -48,7 +48,7 @@ The first Double KickBack sponsored meetup was help by @joonian on KickBack. Par
 
 ### ✅ Dark Forest v0.4 Wrap Up
 
-[Dark Forest \(DF\)](../../project-spotlights/dark-forest.md) is the first large-scale game to use zksnarks, allowing for a mutli player incomplete information game environment. This run of DF resulted in a huge spike in transactions and RPC calls on xDai, many driven by bot activity. The traffic spikes stressed the system at times and we learned a lot about scaling and RPC optimization from over 500 participants and many bots accessing the game.  Look for a postmortem from the DarkForest team soon. 
+[Dark Forest \(DF\)](../../project-spotlights/dark-forest.md) is the first large-scale game to use zksnarks, allowing for a multi-player incomplete information game environment. This run of DF resulted in a huge spike in transactions and RPC calls on xDai, many driven by bot activity. The traffic spikes stressed the system at times and we learned a lot about scaling and RPC optimization from over 500 participants and many bots accessing the game.  Look for a postmortem from the DarkForest team soon. 
 
 We are excited to continue our optimization efforts with the RPC read layer and this test was a great opportunity to highlight xDai features like a Burner wallet with auto-transaction acceptance \(this made the game much more playable\) and micro-tx ability for players. We look forward to the next iteration of DF!  
 
