@@ -39,7 +39,7 @@
   * [Dark Forest](about-xdai/project-spotlights/dark-forest.md)
 * [FAQs](about-xdai/faqs.md)
 * [Comparisons](about-xdai/comparisons/README.md)
-  * [Matic](about-xdai/comparisons/matic.md)
+  * [Matic Network](about-xdai/comparisons/matic.md)
   * [POA Network](about-xdai/comparisons/poa.md)
   * [OMG Network](about-xdai/comparisons/omg-network.md)
   * [STAKE vs MKR](about-xdai/comparisons/stake-vs-mkr.md)
