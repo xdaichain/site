@@ -98,7 +98,7 @@ We are looking at both vertical and horizontal scalability opportunities to ensu
 
 ### What is the TPS \(transactions per second or tx/sec\) for the xDai Chain?
 
-It depends on the type of transaction being sent, for the simplest transactions the xDai chain can process 60 tx/sec. 
+It depends on the type of transaction being sent, for the simplest transactions the xDai chain can process 70 tx/sec. 
 
 ### Why is the xDai bridge / TokenBridge important?
 

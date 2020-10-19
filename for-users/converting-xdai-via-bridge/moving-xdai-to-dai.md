@@ -28,31 +28,35 @@ _Note: If you change the dropdown on the page \(xDai Chain\) but not in MetaMask
 
 3\) A confirmation window will appear. Click **Continue.**
 
-![](../../.gitbook/assets/xcontinue.jpg)
+![](../../.gitbook/assets/1new.jpg)
 
 4\) The web3 wallet window will open with transaction details. Click **Submit or Confirm** \(depending on wallet\) to process the transaction.
 
-![](../../.gitbook/assets/xbridge-2.jpg)
+![](../../.gitbook/assets/2new.jpg)
 
 5\) Wait for the transaction on xDai to process. 
 
-![](../../.gitbook/assets/xbridge3.jpg)
+![](../../.gitbook/assets/3new.jpg)
 
 6\) You will see a modal to switch networks in your MetaMask \(or other web3\) to the Ethereum Network.
 
-![](../../.gitbook/assets/1dd.jpg)
+![](../../.gitbook/assets/4new.jpg)
 
-7\) Press the **Claim** button and **Confirm** the transaction in MetaMask. You will need some ETH to confirm and complete the transaction.
+7\) Press the **Claim** button.
 
-![](../../.gitbook/assets/2dd.jpg)
+![](../../.gitbook/assets/5n32.jpg)
 
-8\) Wait for confirmations from validators on Mainnet. Once this is complete, you should see the Success message.  xDai has been transferred to Dai and is available for use on the Ethereum mainnet.
+8\) **Confirm** the transaction in MetaMask. You will need some ETH to confirm and complete the transaction.
 
-![](../../.gitbook/assets/xbridge4.jpg)
+![](../../.gitbook/assets/6new.jpg)
+
+9\) Wait for confirmations from validators on Mainnet. Once this is complete, you should see the Success message.  xDai has been transferred to Dai and is available for use on the Ethereum mainnet.
+
+![](../../.gitbook/assets/7new.jpg)
 
 9\) Click the transaction hex to view your transaction in Etherscan.
 
-![](../../.gitbook/assets/xbridge5.jpg)
+![](../../.gitbook/assets/8new.jpg)
 
 {% hint style="info" %}
 If you are interested in converting Dai to xDai without the UI see [how to use xDai Bridge without UI](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui) 

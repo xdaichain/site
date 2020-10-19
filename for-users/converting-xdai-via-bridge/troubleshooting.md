@@ -10,7 +10,12 @@ If you are using OmniBridge for other ERC20 tokens \(not xDai &lt;-&gt; Dai\) pl
 
 ## I transferred xDai to Dai but it's not working.
 
-A new bridge decentralization feature means **withdrawals now require 2 steps**. You must initiate the bridge transaction on xDai, then claim your Dai on Ethereum. There are currently different bridging UIs, and depending on the UI you may need to take different steps to complete the process.
+A new bridge decentralization feature means **withdrawals now require 2 steps**. You must 
+
+1. initiate the bridge transaction on xDai
+2. Claim your Dai on Ethereum. 
+
+There are currently different bridging UIs, and depending on the UI you may need to take different steps to complete the process.
 
 * \*\*\*\*[**xDai bridg**e](troubleshooting.md#i-used-the-xdai-bridge-ui) at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/) \(or [http://dai-bridge.poa.network/](http://dai-bridge.poa.network/) - this is another URL for the same app\)
 * [**Burner Wallet**](troubleshooting.md#i-used-burner-wallet-at-xdai-io) at [xDai.io](https://xdai.io)
