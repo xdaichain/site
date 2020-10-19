@@ -18,7 +18,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 * [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
 
-**Infrastructure**
+**Infrastructure & DeFi**
 
 * [1Hive](1hive.md): DAO with a Community Currency & DEX on xDai
   * [Uniswap v1 Fork](https://uniswap.1hive.org/swap): Deployed by 1Hive, provides liquidity with a DEX on xDAI.
@@ -27,6 +27,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * RaidGuild:  
   * [WrapEth](https://wrapeth.com/): xDai wrapper to convert native xDai to wrapped wxDai
   * [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
+* [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
 
 **Community Engagement & Events**
 
