@@ -25,11 +25,39 @@ There are currently different bridging UIs, and depending on the UI you may need
 
 When using the xDai bridge, we recommend Chrome and MetaMask. It is also useful to disable ad blockers, as there are popups which guide you through the process.  [A successful transfer process is documented here](moving-xdai-to-dai.md).  
 
-If you submitted a tx on xDai, but not complete the claim process, return to the Bridge Ui and connect your MetaMask \(MM\) wallet with the account you used previously. Click on **Haven't received your tokens**, switch MM to the ETH Mainnet, and paste in your transaction hash from the xDai transaction. [Need help finding your transaction hash?](find-a-transaction-hash.md) 
+If you submitted a tx on xDai, but not complete the claim process, return to the Bridge Ui and connect your MetaMask \(MM\) wallet with the account you used previously. 
 
-![](../../.gitbook/assets/claim1.jpg)
+1. Switch MM to the ETH Mainnet.
+2. Click on **Haven't received your tokens**
 
-![](../../.gitbook/assets/claim2.jpg)
+![](../../.gitbook/assets/eth1.jpg)
+
+A modal will appear with 2 possible states. You will either see:
+
+1. A list of transactions you have not claimed
+2. A message that says "You don't have tokens to claim. If you have any questions please contact us on social networks."
+
+{% hint style="info" %}
+If your initial transaction from xDai to the bridge was processed recently, wait a few minutes. Typically a transaction will take 6 minutes to display. 
+{% endhint %}
+
+### List of transactions to claim
+
+Click the Claim link to begin the process. MetaMask will ask you to confirm the transaction and pay the gas fees to complete the process.
+
+![](../../.gitbook/assets/claim11%20%281%29.jpg)
+
+### You don't have tokens to claim
+
+This can occur for several reasons. The claim may not yet be processed, or you are claiming with a different address \(for example the initial tx was completed by a contract or another address\). In this case, once the first tx to the bridge is complete, click **Enter transaction hash manually**.
+
+![](../../.gitbook/assets/claim12.jpg)
+
+Enter in the transaction hash from the xDai bridge and press Claim to start the process. More on [finding the transaction hash here.](find-a-transaction-hash.md)
+
+![](../../.gitbook/assets/claim13.jpg)
+
+If for some reason the process continues to present issues, contact the team in [Discord](https://discord.gg/mPJ9zkq).
 
 ## I Used **Burner Wallet** at xDai.io
 
@@ -42,10 +70,12 @@ If you initiated a transfer from Burner Wallet, it likely is stuck on the Waitin
 You can retrieve the pending transaction using the MetaMask interface. [Learn more here.](find-a-transaction-hash.md#find-transaction-hash-in-metamask)
 
 1. Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
-2. Click on **Haven't received your tokens** link under the ETH Mainnet side of the bridge.
-3. Switch your MetaMask wallet to the ETH Mainnet
-4. Paste in your transaction hash from the xDai transaction.
-5. Press Claim.
+2. Switch your MetaMask wallet to the ETH Mainnet
+3. Click on **Haven't received your tokens** link under the ETH Mainnet side of the bridge.
+4. If you see a transaction to claim, press the **Claim** link**.** _\(will not appear until 6+ minutes after the transaction\)_
+5. If not, click on **Enter Transaction Hash Manually** and paste in your transaction hash from the xDai transaction.
+   1. Press Claim.
+6. **Confirm** transaction in MetaMask and wait for tx validation.
 
 ### I'm using a standalone Burner Wallet
 
@@ -69,36 +99,26 @@ In this case, you'll want to export your private key into MetaMask to finish the
 
 ![](../../.gitbook/assets/a4.jpg)
 
-5\)  Copy your wallet address.
+5\) Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
 
-![](../../.gitbook/assets/a5.jpg)
-
-6\) Go to BlockScout at [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai). Paste in your address to find the transaction, then copy the transaction hash.
-
-![](../../.gitbook/assets/a6.jpg)
-
-7\) Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
-
-1. Click on **Haven't received your tokens** link under the ETH Mainnet side of the bridge.
-2. Switch your MetaMask wallet to the ETH Mainnet
-3. Paste in the transaction hash from the xDai transaction \(step 6\)
-4. Press Claim.
+1. Switch your MetaMask wallet to the ETH Mainnet
+2. Click on **Haven't received your tokens** link under the ETH Mainnet side of the bridge.
+3. If you see a transaction to claim, press the **Claim** link _\(will not appear until 6+ minutes after the transaction\)._
+4. If not, click on **Enter Transaction Hash Manually** and paste in your transaction hash from the xDai transaction. [If you need the transaction hash, you can copy your wallet address and find it in Blockscout.](find-a-transaction-hash.md)
+5. Press Claim.
+6. **Confirm** transaction in MetaMask and wait for tx validation.
 
 {% hint style="info" %}
 You will need some ETH in your wallet to pay gas fees and finalize the transaction. You can send from another account.
 {% endhint %}
 
-![](../../.gitbook/assets/a7.jpg)
+ 
 
-8\) Confirm in MetaMask. 
-
-![](../../.gitbook/assets/a8.jpg)
-
-9. You will see a Success message when the transaction is complete.
+6\)  You will see a Success message when the transaction is complete.
 
 ![](../../.gitbook/assets/a9.jpg)
 
-10. Add DAI as a custom token in MetaMask to view your DAI balance in the wallet.
+7\) Add DAI as a custom token in MetaMask to view your DAI balance in the wallet.
 
 ![](../../.gitbook/assets/a10%20%281%29.jpg)
 
@@ -114,11 +134,13 @@ You can retrieve the pending transaction using the MetaMask interface. [Learn mo
 
 Once you have copied the transaction on xDai
 
-1. Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
-2. Click on **Haven't received your tokens** link under the ETH Mainnet side of the bridge.
-3. Switch your MetaMask wallet to the ETH Mainnet
-4. Paste in your transaction hash from the xDai transaction.
-5. Press Claim.
+1.  Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
+   1. Switch your MetaMask wallet to the ETH Mainnet
+   2. Click on **Haven't received your tokens** link under the ETH Mainnet side of the bridge.
+   3. If you see a transaction to claim, press the **Claim** link _\(will not appear until 6+ minutes after the transaction\)._
+   4. If not, click on **Enter Transaction Hash Manually** and paste in your transaction hash from the xDai transaction. [If you need the transaction hash, you can copy your wallet address and find it in Blockscout.](find-a-transaction-hash.md)
+   5. Press Claim.
+   6. **Confirm** transaction in MetaMask and wait for tx validation.
 
 The claim will process and you can view your Dai on Ethereum with the same wallet you used to initialize the transaction on xMoon.exchange.
 

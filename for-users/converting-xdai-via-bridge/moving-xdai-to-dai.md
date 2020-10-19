@@ -26,7 +26,7 @@ _Note: If you change the dropdown on the page \(xDai Chain\) but not in MetaMask
 
 2\) Enter the amount of xDai you would like to transfer to Dai, and click the **Transfer** button. Note the **minimum amount is 10 xDai.**
 
-3\) A confirmation window will appear. Click **Continue.**
+3\) A confirmation modal will appear. Click **Continue.**
 
 ![](../../.gitbook/assets/1new.jpg)
 
