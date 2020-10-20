@@ -14,6 +14,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
   * [Gnosis Protocol](https://docs.gnosis.io/protocol), a top-ten Ethereum DEX by volume
   * [Gnosis Safe Multisig](https://gnosis-safe.io/), a wallet holding more than $1 Billion in assets
+    * [xDai Gnosis Safe Implementation](https://xdai.gnosis-safe.io/app/#/welcome)
   * [Conditional tokens framework](http://docs.gnosis.io/conditionaltokens), built on by prediction markets [Omen](https://omen.eth.link/) and Polymarket
 
 * [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
