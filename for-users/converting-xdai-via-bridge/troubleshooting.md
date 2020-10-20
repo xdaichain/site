@@ -6,7 +6,11 @@ description: Resolving bridge issues
 
 Bridge transactions can take some time \(hours in extreme cases\) to complete depending on Ethereum mainnet congestion.  Try these actions first if your transaction has been **pending for 10 minutes or more** \(and you don't want to wait any more time\). Actions differ depending on if you are transferring from xDai to Dai or [Dai to xDai](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time).
 
-If you are using OmniBridge for other ERC20 tokens \(not xDai &lt;-&gt; Dai\) please see the [OmniBridge page](../omnibridge.md).
+If you are using OmniBridge for other ERC20 tokens \(not xDai &lt;-&gt; Dai\) please see the [OmniBridge page](../omnibridge.md). **This guide only addresses issues with xDai to Dai transfers.**
+
+## Bridge UI is Offline or in Maintenance Mode
+
+We are doing some periodic maintenance and optimization on the Bridge and are now putting the UI into maintenance mode during these times to avoid additional confusion for users. If you started a transaction but it did not complete because of maintenance mode, be assured that funds are safe and will be available once maintenance is complete. If you have questions or concerns during Maintenance, please contact us in [Discord channel ](https://discord.gg/mPJ9zkq)for up-to-date information.
 
 ## I transferred xDai to Dai but it's not working.
 
