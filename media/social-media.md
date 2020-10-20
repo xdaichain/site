@@ -1,8 +1,8 @@
 ---
-description: A list of social media presence for the xDai project
+description: A list of social media channels for the xDai project
 ---
 
-# Social Media
+# Social Media & Community Channels
 
 ## Official channels
 
