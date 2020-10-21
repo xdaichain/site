@@ -14,7 +14,7 @@ We believe in open-source development and code transparency.
 | :--- | :--- | :--- |
 | Igor Barinov  | Product and Operations | [https://github.com/igorbarinov](https://github.com/igorbarinov) |
 | Victor Baranov | BlockScout, Nifty Wallet, Core Development | [https://github.com/vbaranov](https://github.com/vbaranov) |
-| Vadim Arasev | POSDAO, xDai Core protocol development | [https://github.com/poaman](https://github.com/poaman) |
+| Vadim Arasev | POSDAO, xDai Core protocol development | [https://github.com/varasev](https://github.com/varasev) |
 | Alex Kolotov | TokenBridge, Research | [https://github.com/akolotov](https://github.com/akolotov) |
 | Kirill Fedoseev | TokenBridge, Research | [https://github.com/k1rill-fedoseev](https://github.com/k1rill-fedoseev) |
 | Max Alexeenko | Application Development, xDai  | [https://github.com/maxaleks](https://github.com/maxaleks) |
