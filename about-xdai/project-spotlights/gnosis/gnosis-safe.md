@@ -75,7 +75,7 @@ If you choose to use WalletConnect, select the WalletConnect option in the conne
 
 ## Deposit Assets
 
-When sending to your new safe, make sure you are connected to the xDai Chain, copy the safe address, and process as you would any other xDai transaction. For more information, see this tutorial from Gnosis:
+When sending to your new safe, make sure you are connected to the xDai Chain, copy the Safe address, and process as you would any other xDai transaction. For more information, see this tutorial from Gnosis:
 
 {% embed url="https://help.gnosis-safe.io/en/articles/3922053-how-can-i-receive-funds" %}
 
