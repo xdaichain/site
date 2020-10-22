@@ -79,6 +79,34 @@ When sending to your new safe, make sure you are connected to the xDai Chain, co
 
 {% embed url="https://help.gnosis-safe.io/en/articles/3922053-how-can-i-receive-funds" %}
 
+## Connect a DApp with WalletConnect
+
+You can connect to WalletConnect to interact with supported DApps using Gnosis Safe.
+
+1\) Go to APPS in the navigation menu.
+
+![](../../../.gitbook/assets/safewallet1.jpg)
+
+2\) Select the WalletConnect App. In step 2, you will paste in the QR code from the  site you want to connect to.
+
+![Follow instructions on right side to complete the process](../../../.gitbook/assets/safewallet2.jpg)
+
+3\) Visit the application and connect to your wallet. This will differ based on the application \(the DApp must be deployed on xDai\). Here we use Nifty.ink.
+
+![](../../../.gitbook/assets/safewallet3.jpg)
+
+![Click on WalletConnect](../../../.gitbook/assets/safe-walletc.jpg)
+
+![Copy the QR code as an image and save to your clipboard.](../../../.gitbook/assets/safewallet4.jpg)
+
+4\) Return to Gnosis Safe and paste the image into the Paste QR code field. The DApp will now be connected, and you can use the Safe to confirm transactions.
+
+![](../../../.gitbook/assets/safewalletc2.jpg)
+
+
+
+
+
 
 
  
