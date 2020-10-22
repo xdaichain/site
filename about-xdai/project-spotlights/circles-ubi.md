@@ -4,7 +4,7 @@ description: Universal Basic Income
 
 # Circles UBI
 
-Circles is a basic income made to promote local economy. CRC tokens are minted daily on the xDai chain for members who can then use and trade them within their communities.
+Circles is a basic income made to promote local economies. CRC tokens are minted daily on the xDai chain for members who can use and trade them within their communities.
 
 * Learn More at [https://joincircles.net/](https://joincircles.net/)
 * The UBI application is here: [https://circles.garden/](https://circles.garden/)
