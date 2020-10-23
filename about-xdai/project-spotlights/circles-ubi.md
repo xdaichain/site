@@ -8,6 +8,7 @@ Circles is a basic income made to promote local economies. CRC tokens are minted
 
 * Learn More at [https://joincircles.net/](https://joincircles.net/)
 * The UBI application is here: [https://circles.garden/](https://circles.garden/)
+* Article about Circles and xDai: [https://www.coindesk.com/circles-ubi-guide-ethereum-xdai](https://www.coindesk.com/circles-ubi-guide-ethereum-xdai)
 
 {% hint style="info" %}
 Once you create an account you will need 3 people who are already participating in Circles to verify it. This can be a challenge, but as the platform grows it will become easier. It does make sense to ask people you know to verify you, and there are more methods and tips on the Circles Telegram Channel at [https://t.me/CirclesUBI](https://t.me/CirclesUBI)
