@@ -4,6 +4,8 @@ description: October 17 - October 23 2020
 
 # ⚔️ xDai Weekly Recap - 23/10/2020
 
+![Gnosis Safe \* Perpetual Protocol \* Argent \* Foundation \* Dark Forest \* Gitcoin +++ ](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2816%29.png)
+
 ## 👩🚀 Launches on xDai
 
 ### ✅ Gnosis Safe
@@ -12,9 +14,9 @@ Gnosis Safe multi-sig capabilities bring new security and interaction capabiliti
 
 {% embed url="https://twitter.com/gnosisSafe/status/1318563113747292162" %}
 
-### ✅Perpetual Finance
+### ✅Perpetual Protocol
 
-Excited to welcome Perpetual Finance to xDai! They released an excellent post outlining why they selected xDai as a scaling solution.
+Excited to welcome Perpetual Protocol to xDai! They released an excellent post outlining why they selected xDai as a scaling solution.
 
 {% embed url="https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa" %}
 
