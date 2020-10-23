@@ -12,7 +12,15 @@ If you are using OmniBridge for other ERC20 tokens \(not xDai &lt;-&gt; Dai\) pl
 
 We are doing some periodic maintenance and optimization on the Bridge and are now putting the UI into maintenance mode during these times to avoid additional confusion and/or delayed transactions for users. If you started a transaction but it did not complete because of maintenance mode, be assured that funds are safe and will be available once maintenance is complete. If you have questions or concerns during maintenance, please contact us in [Discord channel ](https://discord.gg/mPJ9zkq)for up-to-date information.
 
-## I transferred xDai to Dai but it's not working.
+## I Only See Bridging in 1 Direction
+
+The bridge is dynamic and supports bi-directional bridging. It will shift automatically when you update your web3wallet \(MetaMask\) to the correct chain. When you are on Ethereum Mainnet, you will see the Eth-Mainnet to xDai chain side, and when you are on xDai, you will see the xDai to Eth Mainnet side. You can adjust which side through the Bridge toggle in menu, however to initiate a transfer you will need your wallet set to the correct chain.
+
+![Toggle to switch bridge side in UI - You will also need to adjust MetaMask.](../../.gitbook/assets/toggle1.png)
+
+
+
+## I Transferred xDai to Dai but it's Not Working
 
 A new bridge decentralization feature means **withdrawals now require 2 steps**. You must 
 
@@ -152,13 +160,15 @@ The claim will process and you can view your Dai on Ethereum with the same walle
 
 _instructions in process - you will need to retrieve your private key to complete._
 
-## Dai to xDai transaction is taking a long time
+## Dai to xDai Transaction is Taking a Long Time
 
 8 block confirmations are required to ensure a transaction is final and xDai can be minted to your account. If Ethereum is congested, it may take many more blocks for your transaction to be queued. If your transaction is stuck in pending for a long time, you can opt try to speed it up by selecting the pending transaction in MetaMask, clicking Speed Up, then paying the additional gas to try and get it through more quickly. Otherwise, it will likely be in a pending state until the congestion breaks up.
 
+If it remains in a pending state on MetaMask for a long time, see [Resetting MetaMask ](troubleshooting.md#transaction-not-showing-on-blockscout-or-etherscan-resetting-metamask)below.
+
 ![](../../.gitbook/assets/speedup.jpg)
 
-## Transaction not showing on BlockScout or Etherscan
+## Transaction Not Showing on BlockScout or Etherscan - Resetting MetaMask.
 
 If you initiated a transaction but don't see a pending transaction the Block Explorer \(in either direction, if originating from xDai check [BlockScout](https://blockscout.com/poa/xdai), if Ethereum check [Etherscan](https://etherscan.io/)\) try resetting your MetaMask account to clear your transaction history.
 
