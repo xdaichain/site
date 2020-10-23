@@ -21,6 +21,7 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 | 4 | 26.09.2020 | [https://etherscan.io/tx/0x487f31949a480316ec8234760073a782c0b69b9c651f857e33cbc8d7a1268eb1](https://etherscan.io/tx/0x487f31949a480316ec8234760073a782c0b69b9c651f857e33cbc8d7a1268eb1) |
 | 5 | 05.10.2020 | [https://etherscan.io/tx/0x5a21fed8a9f70defd8ff4ecc735806690c5658f1aa1b73f292928fc952cffbdb](https://etherscan.io/tx/0x5a21fed8a9f70defd8ff4ecc735806690c5658f1aa1b73f292928fc952cffbdb) |
 | 6 | 15.10.2020 | [https://etherscan.io/tx/0x2fe8bf29c421ffca4780171c42d4286fc0b147527fdf7351ef4d7e08d200bf3b](https://etherscan.io/tx/0x2fe8bf29c421ffca4780171c42d4286fc0b147527fdf7351ef4d7e08d200bf3b) |
+| 7 | 23.10.2020 | [https://etherscan.io/tx/0xadb61a2b634755a7c5111cd492c339c0d174efa2af66aad4f981916c89b8ac89](https://etherscan.io/tx/0xadb61a2b634755a7c5111cd492c339c0d174efa2af66aad4f981916c89b8ac89) |
 
 * LP Distribution Contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
 * LP Governance: Coming Soon
