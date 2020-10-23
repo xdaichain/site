@@ -2,7 +2,7 @@
 description: Resolving bridge issues
 ---
 
-# Troubleshoot Bridge Txs, UI, xDai.io, xmoon.exchange
+# Troubleshoot Bridge Txs, UI, xDai.io, xmoon.exchange, MetaMask
 
 Bridge transactions can take some time \(hours in extreme cases\) to complete depending on Ethereum mainnet congestion.  Try these actions first if your transaction has been **pending for 10 minutes or more** \(and you don't want to wait any more time\). Actions differ depending on if you are transferring from xDai to Dai or [Dai to xDai](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time).
 
@@ -158,7 +158,33 @@ _instructions in process - you will need to retrieve your private key to complet
 
 ![](../../.gitbook/assets/speedup.jpg)
 
+## Transaction not showing on BlockScout or Etherscan
 
+If you initiated a transaction but don't see a pending transaction the Block Explorer \(in either direction, if originating from xDai check [BlockScout](https://blockscout.com/poa/xdai), if Ethereum check [Etherscan](https://etherscan.io/)\) try resetting your MetaMask account to clear your transaction history.
+
+This can be useful to clear up:
+
+* A pending transaction which refuses to clear.
+* A transaction fails to show up on Etherscan but is still pending.
+
+{% hint style="warning" %}
+Imported accounts will not repopulate win your wallet with this method, so be sure you have access to a private key or seed phrase to restore these in a reset account.
+{% endhint %}
+
+{% embed url="https://metamask.zendesk.com/hc/en-us/articles/360015488891-Resetting-an-Account" %}
+
+## I'm using a Ledger to Claim tokens on an xDai to Dai Bridge Transfer
+
+To use a Ledger you need to allow contract data in order to interact with smart contracts. We assume that you have installed the [Ethereum app](https://support.ledger.com/hc/en-us/articles/115005200009-Set-up-and-use-MyEtherWallet).
+
+1.  [Update the firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113) to the latest version.
+2. Connect and unlock your Ledger device.
+3. Open the **Ethereum** application.
+4. Press the right button to navigate to **Settings**. Press both buttons to validate.
+5. In the **Contract data** settings, press both buttons to allow contract data in transactions.  The device displays **Allowed**.
+6. Retry your transaction.
+
+For more help with Ledger, please see their [support docs](https://support.ledger.com/hc/en-us).
 
 
 
