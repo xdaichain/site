@@ -6,7 +6,7 @@ description: October 17 - October 23 2020
 
 ![Gnosis Safe \* Perpetual Protocol \* Argent \* Foundation \* Dark Forest \* Gitcoin +++ ](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2816%29.png)
 
-## 👩🚀 Launches on xDai
+## 👩🚀 Launching on xDai
 
 ### ✅ Gnosis Safe
 
