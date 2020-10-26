@@ -241,6 +241,10 @@ Rewards are automatically distributed at the end of a staking epoch to active va
 
 See the [rewards in a dual token environment post](../for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md) for more information. As a validator, you will always receive at least 30% of your pool's rewards, and more if delegators contribute less than 70% to the pool. Rewards are based on how much STAKE is staked in the protocol as well as chain-based activity \(stable rewards come from bridge fees and transactions, as well as Chai based rewards from DAI locked in the bridge\). Staking rewards will accumulate at 15% APR based on the locked amount.
 
+Bridge FAQs
+
+
+
 
 
 
