@@ -39,7 +39,6 @@
   * [Reality Cards](about-xdai/project-spotlights/reality-cards.md)
   * [Galleass.io](about-xdai/project-spotlights/galleass.io.md)
   * [Dark Forest](about-xdai/project-spotlights/dark-forest.md)
-* [FAQs](about-xdai/faqs.md)
 * [Comparisons](about-xdai/comparisons/README.md)
   * [Matic Network](about-xdai/comparisons/matic.md)
   * [POA Network](about-xdai/comparisons/poa.md)
@@ -86,6 +85,13 @@
     * [xDai Chain: Basic Overview Presentation](about-xdai/news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
 * [Roadmap](about-xdai/roadmap/README.md)
   * [Decentralization Planning](about-xdai/roadmap/decentralization-planning.md)
+* [FAQs](about-xdai/faqs/README.md)
+  * [xDai Chain Basics](about-xdai/faqs/xdai-chain-basics.md)
+  * [Ecosystem Tools: Explorer, Wallets, DApps](about-xdai/faqs/ecosystem-tools-explorer-wallets-dapps.md)
+  * [xDai Native Coin/Token](about-xdai/faqs/xdai-native-coin-token.md)
+  * [STAKE Staking Token](about-xdai/faqs/stake-staking-token.md)
+  * [Public Staking \(Validators & Delegators\)](about-xdai/faqs/public-staking-validators-and-delegators.md)
+  * [Bridges: xDai Bridge & OmniBridge](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md)
 
 ## For users
 
