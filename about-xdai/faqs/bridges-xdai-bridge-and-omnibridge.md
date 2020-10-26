@@ -53,11 +53,11 @@ For more on this transition, see the forum proposal: [https://forum.poa.network/
 
 There are currently [4 bridge validators](../../for-validators/for-bridge-validators/), and 3/4 signatures are required for bridge transactions. The validator set can be updated by the Governance Board.
 
-### I completed a transfer of Dai to xDai and see the transaction to lock Dai, but do not see the transaction that "mints" xDai. How does it work?
+### I completed a Dai to xDai transfer and see the transaction to lock Dai, but do not see the transaction that mints xDai. How does it work?
 
 1. Oracles send confirmations of the transaction to the bridge contract. 
-2. After receiving the required number of confirmations, the bridge contract sends a request to the Block Reward contract to schedule emission of new xDai \(the same amount as requested in the bridge tx\).
-3. The Block Reward contract is invoked by the xDai network validator during the last step of block verification, and  account balances are updated in the Block Reward contract. 
+2. After receiving the required number of confirmations, the bridge contract sends a request to the Block Reward contract to schedule emission \(minting\) of new xDai \(the same amount as requested in the bridge tx\).
+3. The Block Reward contract is invoked by the xDai network validator during the last step of block verification, and account balances are updated in the Block Reward contract. 
 
 {% hint style="info" %}
 Example transaction executing a transfer: [https://blockscout.com/poa/xdai/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions](https://blockscout.com/poa/xdai/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions)
@@ -69,7 +69,7 @@ Transactions can be investigated in further detail using [Tenderly](https://tend
 
 ## OmniBridge FAQs
 
-_Coming soon_
+_Coming soon. For more information on OmniBridge, see the_ [_Omnibridge Extension documentation_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)_._
 
 
 
