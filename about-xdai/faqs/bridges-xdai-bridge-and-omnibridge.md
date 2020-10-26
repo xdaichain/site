@@ -17,7 +17,11 @@ The [Optimistic Omnibridge](https://ethresear.ch/t/optimistic-bridge-between-mai
 
 ### Why is the xDai Bridge important?
 
-The bridge is a key element of xDai which allows for interoperability between xDai and the mainnet. The bridge connects the networks and allows tokens to exist on both sides. To mint xDai, Dai is locked in the bridge contract and the equivalent amount of xDai is created on the xDai chain. In order to return this xDai to Dai, xDai is burned and Dai is unlocked.
+The bridge is a key element of xDai, allowing for fast interoperability between xDai and Ethereum. The bridge connects the networks and allows tokens to exist on both sides. To mint xDai, Dai is locked in the bridge contract and the equivalent amount of xDai is created on the xDai chain. In order to return this xDai to Dai, xDai is burned and Dai is unlocked.
+
+### My transaction is still pending, or was not completed. What should I do?
+
+Please check the [Troubleshooting Section](../../for-users/converting-xdai-via-bridge/troubleshooting.md) for common issues and resolutions.
 
 ### What are the transfer limits when using the xDai Bridge?
 
@@ -38,7 +42,7 @@ The proposal was accepted, and governance by means of a multi-signature Gnosis S
 
 At present there are 11 governors who are responsible for managing bridge operations on both sides of the bridge \(contracts are deployed on the Ethereum and xDai side\). 6/11 signatures are required to approve any management proposal. Operations may include:
 
-* Bridge contract updates
+* Bridge contract updates.
 * Contract parameters updates such as bridge limits, finality threshold, gas price fallback etc.
 * Bridge validator parameter updates like changing the validators set or signatures threshold.
 
@@ -80,16 +84,20 @@ You can find a current list on BlockScout at [https://blockscout.com/poa/xdai/br
 
 ### Does the OmniBridge use the same validators / governors as the xDai Bridge?
 
-No, it uses a different set of validators and governors. Currently, there is a 2/3 signature requirement for Omnibridge transfers with plans to increase the number of oracles to 7 and a 5/7 threshold.
+No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a 2/3 signature requirement for Omnibridge transfers with plans to increase the number of oracles to 7 and a 5/7 threshold.
 
 ### What is the minimum number of tokens that can be transferred using OmniBridge?
 
 This can vary by token. The default when a token is first bridged is 1, but this can be changed by bridge governance. To check the minimum for a particular token, query the `minPerTx` method of the omnibridge mediator contract. 
 
 1. Go to [https://blockscout.com/poa/xdai/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy](https://blockscout.com/poa/xdai/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy)
-2. Enter the bridged contract address into the minPerTx field
+2. Enter the bridged contract address into the `minPerTx` field. Convert from wei using [http://eth-converter.com/](http://eth-converter.com/)
 
 ![](../../.gitbook/assets/query1.png)
+
+### Can I use Omnibridge without the UI? 
+
+Yes you can. Instructions are available here: [https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/how-to-transfer-tokens](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/how-to-transfer-tokens)
 
 
 
