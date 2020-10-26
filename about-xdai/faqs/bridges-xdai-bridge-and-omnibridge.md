@@ -32,21 +32,24 @@ The current limits are below. Note that these can be changed by a majority vote 
 
 ### What is the Bridge Governance Board?
 
-The Governance Board is responsible for managing bridge operations on both sides of the bridge \(contracts are deployed on the Ethereum and xDai side\). Management operations may include:
+In response to increased usage and value locked in the xDai bridge, a proposal was introduced to extend security and decision making powers to a wider group of participants \(governors\).   
+  
+The proposal was accepted, and governance by means of a multi-signature Gnosis Safe was put into place initially on the Ethereum side on 2 October, 2020. Once Gnosis Safe was deployed to xDai, updated governance was enacted on the xDai chain on 23 October, 2020. 
+
+At present there are 11 governors who are responsible for managing bridge operations on both sides of the bridge \(contracts are deployed on the Ethereum and xDai side\). 6/11 signatures are required to approve any management proposal. Operations may include:
 
 * Bridge contract updates
-* Bridge validator updates \(changing validator set\)
-* Contract parameters like limits, finality threshold, gas price fallback etc.
-* Bridge validator parameters like changing the validators set or signatures threshold.
+* Contract parameters updates such as bridge limits, finality threshold, gas price fallback etc.
+* Bridge validator parameter updates like changing the validators set or signatures threshold.
 
-All these actions will be managed through Gnosis Safe accounts, one on the Ethereum mainnet for Ethereum contract side operations and one on xDai for xDai contract operations. Currently 6/11 signatures are required to enact a proposal.
+All actions are managed through Gnosis Safe accounts, one on the Ethereum mainnet for Ethereum contract side operations and one on xDai for xDai contract operations. 
 
 * [Current xDai Bridge Governance Board Members](../../for-validators/for-bridge-validators/)
 * Gnosis Safe contract on Ethereum: [https://gnosis-safe.io/app/\#/safes/0x42F38ec5A75acCEc50054671233dfAC9C0E7A3F6/settings](https://gnosis-safe.io/app/#/safes/0x42F38ec5A75acCEc50054671233dfAC9C0E7A3F6/settings)
 * Gnosis Safe contract on xDai: [https://xdai.gnosis-safe.io/app/\#/safes/0x7a48Dac683DA91e4faa5aB13D91AB5fd170875bd/settings](https://xdai.gnosis-safe.io/app/#/safes/0x7a48Dac683DA91e4faa5aB13D91AB5fd170875bd/settings)
 
 {% hint style="info" %}
-For more on this transition, see the forum proposal: [https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773](https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773)
+For more on this transition, see the original forum proposal: [https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773](https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773)
 {% endhint %}
 
 ### Who are the validators of the xDai Bridge?
