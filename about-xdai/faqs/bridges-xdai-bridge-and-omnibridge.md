@@ -72,7 +72,26 @@ Transactions can be investigated in further detail using [Tenderly](https://tend
 
 ## OmniBridge FAQs
 
-_Coming soon. For more information on OmniBridge, see the_ [_Omnibridge Extension documentation_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)_._
+_In Process. For information and details about the OmniBridge, see the_ [_Omnibridge Extension documentation_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)_._
+
+### What tokens have been bridged using OmniBridge?
+
+You can find a current list on BlockScout at [https://blockscout.com/poa/xdai/bridged-tokens](https://blockscout.com/poa/xdai/bridged-tokens)
+
+### Does the OmniBridge use the same validators / governors as the xDai Bridge?
+
+No, it uses a different set of validators and governors. Currently, there is a 2/3 signature requirement for Omnibridge transfers with plans to increase the number of oracles to 7 and a 5/7 threshold.
+
+### What is the minimum number of tokens that can be transferred using OmniBridge?
+
+This can vary by token. The default when a token is first bridged is 1, but this can be changed by bridge governance. To check the minimum for a particular token, query the `minPerTx` method of the omnibridge mediator contract. 
+
+1. Go to [https://blockscout.com/poa/xdai/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy](https://blockscout.com/poa/xdai/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy)
+2. Enter the bridged contract address into the minPerTx field
+
+![](../../.gitbook/assets/query1.png)
+
+
 
 
 
