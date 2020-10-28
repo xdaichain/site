@@ -42,8 +42,11 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
           <li>1K STAKE minimum for delegators</li>
         </ul>
       </td>
-      <td style="text-align:left">Anticipated:
-        <br />Q3-Q4 2020</td>
+      <td style="text-align:left">EasyStaking Completed
+        <br />Q3 2020
+        <br />
+        <br />Public POSDAO Anticipated:
+        <br />Q1 -Q2 2021</td>
     </tr>
     <tr>
       <td style="text-align:left">3) <a href="./#phase-3-honeybadger-bft-consensus-layer-integration">HoneyBadger BFT Consensus Layer Integration</a>
