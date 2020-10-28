@@ -117,7 +117,7 @@ Yes you can. [Instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/mul
 
 ### Can I send an additional TX on Ethereum to unlock a token earlier by supplying the correct data?
 
-Yes, it is possible. You just need to collect the message and the oracles' signatures. There are plans to integrate a button into the ALM for this functionality \(see [https://github.com/poanetwork/tokenbridge/pull/471](https://github.com/poanetwork/tokenbridge/pull/471) if you need to implement this feature immediately\)
+Yes, it is possible, you will need to collect the message and the oracles' signatures. There are plans to integrate a button into the ALM for this functionality \(see [https://github.com/poanetwork/tokenbridge/pull/471](https://github.com/poanetwork/tokenbridge/pull/471) if you need to implement this feature immediately\).
 
 ### Do validators replace transactions that are taking a long time to mine?
 
