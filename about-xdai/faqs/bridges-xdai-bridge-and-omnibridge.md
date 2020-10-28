@@ -8,8 +8,8 @@ The TokenBridge project is responsible for the xDai Bridge, OmniBridge and many 
 
 Different bridges exist to support different operations. Two bridges currently exist on the xDai chain. Additional bridges and/or extensions may be deployed in the future.
 
-* **xDai Bridge**: Convert Dai to xDai and xDai to Dai
-* **OmniBridge**: Convert ERC20 tokens on Mainnet to equivalent ERC677 tokens on the xDai chain
+* **xDai Bridge**: Convert **Dai to xDai** and **xDai to Dai**
+* **OmniBridge**: Convert **any other ERC20 tokens** on Mainnet to equivalent ERC677 tokens on the xDai chain
 
 The [Optimistic Omnibridge](https://ethresear.ch/t/optimistic-bridge-between-mainnet-and-a-pos-chain/7965) is also in development to provide a bridge for trustless transfers from xDai to Ethereum.
 
