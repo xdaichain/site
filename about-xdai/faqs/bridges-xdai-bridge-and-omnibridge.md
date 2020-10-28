@@ -15,7 +15,7 @@ The [Optimistic Omnibridge](https://ethresear.ch/t/optimistic-bridge-between-mai
 
 ## xDai Bridge FAQs
 
-### Why is the xDai Bridge important?
+### Why is the xDai bridge important?
 
 The bridge is a key element of xDai, allowing for fast interoperability between xDai and Ethereum. The bridge connects the networks and allows tokens to exist on both sides. To mint xDai, Dai is locked in the bridge contract and the equivalent amount of xDai is created on the xDai chain. In order to return this xDai to Dai, xDai is burned and Dai is unlocked.
 
@@ -23,7 +23,7 @@ The bridge is a key element of xDai, allowing for fast interoperability between 
 
 Please check the [Troubleshooting Section](../../for-users/converting-xdai-via-bridge/troubleshooting.md) for common issues and resolutions.
 
-### What are the transfer limits when using the xDai Bridge?
+### What are the transfer limits when using the xDai bridge?
 
 The current limits are below. Note that these can be changed by a majority vote from the Governance Board.
 
@@ -56,50 +56,76 @@ All actions are managed through Gnosis Safe accounts, one on the Ethereum mainne
 For more on this transition, see the original forum proposal: [https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773](https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773)
 {% endhint %}
 
-### Who are the validators of the xDai Bridge?
+### Who are the xDai bridge validators?
 
 There are currently [4 bridge validators](../../for-validators/for-bridge-validators/), and 3/4 signatures are required for bridge transactions. The validator set can be updated by the Governance Board.
 
 ### I completed a Dai to xDai transfer and see the transaction to lock Dai, but do not see the transaction that mints xDai. How does it work?
 
+The process requires several steps on the xDai chain.
+
 1. Oracles send confirmations of the transaction to the bridge contract. 
-2. After receiving the required number of confirmations, the bridge contract sends a request to the Block Reward contract to schedule emission \(minting\) of new xDai \(the same amount as requested in the bridge tx\).
+2. After receiving the required number of confirmations, the bridge contract sends a request to the Block Reward contract to schedule emission \(minting\) of new xDai \(the same denomination as requested in the bridge transaction\).
 3. The Block Reward contract is invoked by the xDai network validator during the last step of block verification, and account balances are updated in the Block Reward contract. 
 
 {% hint style="info" %}
-Example transaction executing a transfer: [https://blockscout.com/poa/xdai/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions](https://blockscout.com/poa/xdai/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions)
-{% endhint %}
-
-{% hint style="info" %}
-Transactions can be investigated in further detail using [Tenderly](https://tenderly.co/).
+Example transaction executing a transfer: [https://blockscout.com/poa/xdai/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions](https://blockscout.com/poa/xdai/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions)  
+  
+ 🔎 Transactions can be investigated in further detail using [Tenderly](https://tenderly.co/).  
+  
+ 💁♂ When troubleshooting, check the Coin Balance History in Blockscout for the account in question to find information about balance changes and blocks where these occurred.
 {% endhint %}
 
 ## OmniBridge FAQs
 
-_In Process. For information and details about the OmniBridge, see the_ [_Omnibridge Extension documentation_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)_._
+### I want to learn more about OmniBridge internal functionality and/or developer features
+
+Please see the OmniBridge documentation at [https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension) for additional details.
 
 ### What tokens have been bridged using OmniBridge?
 
 You can find a current list on BlockScout at [https://blockscout.com/poa/xdai/bridged-tokens](https://blockscout.com/poa/xdai/bridged-tokens)
 
-### Does the OmniBridge use the same validators / governors as the xDai Bridge?
+### How do I monitor transactions?
 
-No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a 2/3 signature requirement for Omnibridge transfers with plans to increase the number of oracles to 7 and a 5/7 threshold.
+Use the AMB Live Monitoring application located at [https://alm-xdai.herokuapp.com/](https://alm-xdai.herokuapp.com/). You can enter a transaction originating from either side of the bridge. More information on various [ALM transition states is available here](https://docs.tokenbridge.net/about-tokenbridge/components/amb-live-monitoring-application/alm-transition-states).
 
-### What is the minimum number of tokens that can be transferred using OmniBridge?
+### I don't see the token I bridged in MetaMask - how can I add it?
 
-This can vary by token. The default when a token is first bridged is 1, but this can be changed by bridge governance. To check the minimum for a particular token, query the `minPerTx` method of the omnibridge mediator contract. 
+[Here are some instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20#add-the-new-token-to-metamask).
+
+### Does the OmniBridge use the same validators / governors as the xDai bridge?
+
+No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a 2/3 signature requirement for Omnibridge transfers with plans to increase the number of oracles to 7 with a 5/7 signature threshold.
+
+### What is the minimum number of a certain token that can be transferred using OmniBridge?
+
+This can vary by token. The default setting when a token is first bridged is 1, but this can be changed by bridge governance. To check the minimum for a particular token, query the `minPerTx` method of the omnibridge mediator contract. 
 
 1. Go to [https://blockscout.com/poa/xdai/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy](https://blockscout.com/poa/xdai/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy)
 2. Enter the bridged contract address into the `minPerTx` field. Convert from wei using [http://eth-converter.com/](http://eth-converter.com/)
 
 ![](../../.gitbook/assets/query1.png)
 
+{% hint style="info" %}
+For more details about other OmniBridge parameters, see the[ OmniBridge docs](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension#omnibridge-technical-information-and-extension-parameters).
+{% endhint %}
+
 ### Can I use Omnibridge without the UI? 
 
-Yes you can. Instructions are available here: [https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/how-to-transfer-tokens](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/how-to-transfer-tokens)
+Yes you can. [Instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/how-to-transfer-tokens).
 
+### Can I send an additional TX on Ethereum to unlock a token earlier by supplying the correct data?
 
+Yes, it is possible. You just need to collect the message and the oracles' signatures. There are plans to integrate a button into the ALM for this functionality \(see [https://github.com/poanetwork/tokenbridge/pull/471](https://github.com/poanetwork/tokenbridge/pull/471) if you need to implement this feature immediately\)
+
+### Do validators replace transactions that are taking a long time to mine?
+
+Yes, attempts are made to replace transactions with a higher gas price after 20 minutes. This occurs if it receives a price provided by the gas price oracle, and is repeated every 20 minutes until the transaction is successful. 
+
+### I'm having issues related to Bridging & HoneySwap 🐝 
+
+Honeyswap is a popular application running on xDai and utilizing bridge functionality. They have a forum at [https://forum.1hive.org/](https://forum.1hive.org/) with tons of info, a [Discord ](https://discord.com/invite/NTDBRNz)and [an FAQ](https://about.1hive.org/faq/) that covers basics about bridging, xDai and more.  Please bring any related questions to them. 
 
 
 
