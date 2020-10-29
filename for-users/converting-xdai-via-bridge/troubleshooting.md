@@ -174,11 +174,11 @@ The claim will process and you can view your Dai on Ethereum with the same walle
 
 _instructions in process - you will need to retrieve your private key to complete._
 
-## Gas fees For an Exit Claim are Very High! How can I Reduce Them?
+## Gas fees For an Exit Claim are Very High! How Can I Reduce Them?
 
 You can check current gas prices at [https://ethgas.watch/](https://ethgas.watch/). If they are high at the moment, you may want to wait until later to process your transaction. [https://ethereumprice.org/gas/](https://ethereumprice.org/gas/) can help you plan for the best time of day to make the claim transaction.
 
-If you want to go ahead with the claim, try setting MetaMask to SLOW. This may take longer to process but can save you on tx fees. You can also click on Advanced to see additional metrics and choose an exact gas price for your transaction. [More information is available here](https://metamask.zendesk.com/hc/en-us/articles/360015488771-How-to-Adjust-Gas-Price-and-Gas-Limit-).
+If you want to go ahead with the claim, try setting MetaMask to SLOW. This may take longer to process but can save you on tx fees. You can also click on Advanced to see additional metrics and choose an exact gas price for your transaction. [More information available here](https://metamask.zendesk.com/hc/en-us/articles/360015488771-How-to-Adjust-Gas-Price-and-Gas-Limit-).
 
 ## Dai to xDai Transaction is Taking a Long Time
 
