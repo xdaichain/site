@@ -18,8 +18,6 @@ The bridge is dynamic and supports bi-directional bridging. It will shift automa
 
 ![Toggle to switch bridge side in UI - You will also need to adjust MetaMask.](../../.gitbook/assets/toggle1.png)
 
-
-
 ## I Transferred xDai to Dai but it's Not Working
 
 A new bridge decentralization feature means **withdrawals now require 2 steps**. You must 
@@ -59,6 +57,10 @@ Click the Claim link to begin the process. MetaMask will ask you to confirm the 
 
 ![](../../.gitbook/assets/claim11%20%281%29.jpg)
 
+{% hint style="info" %}
+You may want to [manually set gas prices for a cheaper exit](troubleshooting.md#gas-fees-for-a-claim-are-very-high-how-can-i-reduce-them).
+{% endhint %}
+
 ### You don't have tokens to claim
 
 This can occur for several reasons. The claim may not yet be processed, or you are claiming with a different address \(for example the initial tx was completed by a contract or another address\). In this case, once the first tx to the bridge is complete, click **Enter transaction hash manually**.
@@ -88,6 +90,10 @@ You can retrieve the pending transaction using the MetaMask interface. [Learn mo
 5. If not, click on **Enter Transaction Hash Manually** and paste in your transaction hash from the xDai transaction.
    1. Press Claim.
 6. **Confirm** transaction in MetaMask and wait for tx validation.
+
+{% hint style="warning" %}
+You may want to [manually set gas prices for a cheaper exit](troubleshooting.md#gas-fees-for-a-claim-are-very-high-how-can-i-reduce-them).
+{% endhint %}
 
 ### I'm using a standalone Burner Wallet
 
@@ -119,6 +125,10 @@ In this case, you'll want to export your private key into MetaMask to finish the
 4. If not, click on **Enter Transaction Hash Manually** and paste in your transaction hash from the xDai transaction. [If you need the transaction hash, you can copy your wallet address and find it in Blockscout.](find-a-transaction-hash.md)
 5. Press Claim.
 6. **Confirm** transaction in MetaMask and wait for tx validation.
+
+{% hint style="warning" %}
+You may want to [manually set gas prices for a cheaper exit](troubleshooting.md#gas-fees-for-a-claim-are-very-high-how-can-i-reduce-them).
+{% endhint %}
 
 {% hint style="info" %}
 You will need some ETH in your wallet to pay gas fees and finalize the transaction. You can send from another account.
@@ -154,11 +164,21 @@ Once you have copied the transaction on xDai
    5. Press Claim.
    6. **Confirm** transaction in MetaMask and wait for tx validation.
 
+{% hint style="warning" %}
+You may want to [manually set gas prices for a cheaper exit](troubleshooting.md#gas-fees-for-a-claim-are-very-high-how-can-i-reduce-them).
+{% endhint %}
+
 The claim will process and you can view your Dai on Ethereum with the same wallet you used to initialize the transaction on xMoon.exchange.
 
 ### I'm using the burner wallet with xmoon.exchange \(not connected to any other wallet\)
 
 _instructions in process - you will need to retrieve your private key to complete._
+
+## Gas fees For an Exit Claim are Very High! How can I Reduce Them?
+
+You can check current gas prices at [https://ethgas.watch/](https://ethgas.watch/). If they are high at the moment, you may want to wait until later to process your transaction. [https://ethereumprice.org/gas/](https://ethereumprice.org/gas/) can help you plan for the best time of day to make the claim transaction.
+
+If you want to go ahead with the claim, try setting MetaMask to SLOW. This may take longer to process but can save you on tx fees. You can also click on Advanced to see additional metrics and choose an exact gas price for your transaction. [More information is available here](https://metamask.zendesk.com/hc/en-us/articles/360015488771-How-to-Adjust-Gas-Price-and-Gas-Limit-).
 
 ## Dai to xDai Transaction is Taking a Long Time
 
