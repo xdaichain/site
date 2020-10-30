@@ -31,7 +31,7 @@
   * [1Hive](about-xdai/project-spotlights/1hive.md)
   * [HoneySwap](about-xdai/project-spotlights/honeyswap.md)
   * [Kickback RSVP Platform](about-xdai/project-spotlights/kickback-rsvp-platform.md)
-  * [CLR FUND](about-xdai/project-spotlights/clr-fund.md)
+  * [CLR Fund](about-xdai/project-spotlights/clr-fund.md)
   * [Stakehaus](about-xdai/project-spotlights/stakehaus.md)
   * [DAOHaus](about-xdai/project-spotlights/daohaus.md)
   * [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md)

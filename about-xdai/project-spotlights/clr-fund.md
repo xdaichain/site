@@ -2,7 +2,7 @@
 description: Decentralized public goods funding
 ---
 
-# CLR FUND
+# CLR Fund
 
 [clr.fund](http://clr.fund/) is a protocol for efficiently allocating funds to public goods. Funding is designed to benefit the Ethereum Network based on community preferences.  Their first matching round is now live on xDai. This launch is a primary test of the contracts with a whitelisting feature. Future iterations will include [brightID ](https://www.brightid.org/)and [Kleros](https://kleros.io/) integrations.
 
