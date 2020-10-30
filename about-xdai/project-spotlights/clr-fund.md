@@ -1,8 +1,10 @@
+---
+description: Decentralized public goods funding
+---
+
 # CLR FUND
 
-[clr.fund](http://clr.fund/) is a protocol for efficiently allocating funds to public goods. Funding is designed to benefit the Ethereum Network based on community preferences.  Their first matching round is now live on xDai. This launch is a primary test of the contracts with a whitelisting feature. Future iterations will include brightID and Kleros integrations.
-
-We asked [Auryn Macmillan](https://twitter.com/auryn_macmillan), a primary project contributor, a few questions about the clr.fund 
+[clr.fund](http://clr.fund/) is a protocol for efficiently allocating funds to public goods. Funding is designed to benefit the Ethereum Network based on community preferences.  Their first matching round is now live on xDai. This launch is a primary test of the contracts with a whitelisting feature. Future iterations will include [brightID ](https://www.brightid.org/)and [Kleros](https://kleros.io/) integrations.
 
 {% hint style="info" %}
 **More Info on CLR Fund**
@@ -11,6 +13,8 @@ We asked [Auryn Macmillan](https://twitter.com/auryn_macmillan), a primary proje
 * [Twitter](https://twitter.com/clrfund)
 * [Constitution](https://github.com/clrfund/constitution)
 {% endhint %}
+
+We asked [Auryn Macmillan](https://twitter.com/auryn_macmillan), a primary project contributor, a few questions about the clr.fund. 
 
 ## **Tell us about the clr.fund team**
 
@@ -40,9 +44,9 @@ clr.fund aims to be that protocol.
 
 We're a few days into our first real-money test round. You can check out the contracts on xDai here.
 
-The address for this round is: 0xCF0228760A6da7C77677588314B3f87966cd76D8
+The address for this round is: [0xCF0228760A6da7C77677588314B3f87966cd76D8](https://blockscout.com/poa/xdai/address/0xCF0228760A6da7C77677588314B3f87966cd76D8/transactions)
 
-The address for the matching pool is: 0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61
+The address for the matching pool is: [0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61](https://blockscout.com/poa/xdai/address/0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61/transactions)
 
 And you can find the UI at clr.fund or clrfund.eth.
 
@@ -66,7 +70,7 @@ The rest of the year will involve a series of subsequent test rounds as we roll 
 
 If everything happens super smoothly, we could get to mainnet production rounds by late this year or early next year.
 
-We are planning to migrate back to mainnet for our production rounds, but there are obviously gas implications for which we are yet to implement solutions. That said, there's no reason that the xDai instance can't live on in parallel, perhaps it could transition to supporting xDai public goods once the canonical clr.fund instance migrates back to mainnet.
+We are planning to migrate to mainnet for our production rounds, but there are obviously gas implications for which we are yet to implement solutions. That said, there's no reason that the xDai instance can't live on in parallel, perhaps it could transition to supporting xDai public goods once the canonical clr.fund instance migrates back to mainnet.
 
 ## \*\*\*\*🙏 **Thanks Auryn! We are excited to follow the project and support Ethereum development and funds allocation! Anything else to add?**
 
