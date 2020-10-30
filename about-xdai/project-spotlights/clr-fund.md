@@ -4,7 +4,9 @@ description: Decentralized public goods funding
 
 # CLR Fund
 
-[clr.fund](http://clr.fund/) is a protocol for efficiently allocating funds to public goods. Funding is designed to benefit the Ethereum Network based on community preferences.  Their first matching round is now live on xDai. This launch is a primary test of the contracts with a whitelisting feature. Future iterations will include [brightID ](https://www.brightid.org/)and [Kleros](https://kleros.io/) integrations.
+[clr.fund](http://clr.fund/) is a protocol for efficiently allocating funds to public goods. Funding is designed to benefit the Ethereum Network based on community preferences. 
+
+Their first matching round is now live on xDai! This launch is a primary test of the contracts with a whitelisting feature. Future iterations will include [brightID ](https://www.brightid.org/)and [Kleros](https://kleros.io/) integrations.
 
 {% hint style="info" %}
 **More Info on CLR Fund**
@@ -16,7 +18,7 @@ description: Decentralized public goods funding
 
 We asked [Auryn Macmillan](https://twitter.com/auryn_macmillan), a primary project contributor, a few questions about the clr.fund. 
 
-## **Tell us about the clr.fund team**
+## **Tell us about the clr.fund team.**
 
 Really, it's more of a community than a team.
 
@@ -48,7 +50,7 @@ The address for this round is: [0xCF0228760A6da7C77677588314B3f87966cd76D8](http
 
 The address for the matching pool is: [0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61](https://blockscout.com/poa/xdai/address/0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61/transactions)
 
-And you can find the UI at clr.fund or clrfund.eth.
+![Find the UI at clr.fund or clrfund.eth](../../.gitbook/assets/clr.png)
 
 ## **Who is clr.fund designed for?**
 
@@ -76,5 +78,7 @@ We are planning to migrate to mainnet for our production rounds, but there are o
 
 One last thing I wanted to point out is clr.fund's constitution. It really gives a great overview of what clr.fund is and why we built it.
 
-[https://github.com/clrfund/constitution](https://github.com/clrfund/constitution)
+{% embed url="https://github.com/clrfund/constitution" %}
+
+
 
