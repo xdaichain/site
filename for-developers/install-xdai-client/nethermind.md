@@ -10,7 +10,7 @@ Ethstats: [https://dai-netstat.poa.network/](https://dai-netstat.poa.network/)
 
 Nethermind Launcher is a self-contained app - you do not need to install .NET separately to run it. 
 
-\*\*\*\*📄 **Nethermind Docs**: [https://nethermind.readthedocs.io/en/latest/](https://nethermind.readthedocs.io/en/latest/)
+\*\*\*\*📄 **Nethermind Docs**: [https://docs.nethermind.io/nethermind/first-steps-with-nethermind/getting-started](https://docs.nethermind.io/nethermind/first-steps-with-nethermind/getting-started)
 
 \*\*\*\*📦 **Latest Packages:** [http://downloads.nethermind.io/](http://downloads.nethermind.io/)
 
@@ -18,7 +18,10 @@ Nethermind Launcher is a self-contained app - you do not need to install .NET se
 
 ## **Configuration**
 
-The Nethermind Launcher will present several options on start. Use arrow keys to select options. [See here for available CLI methods](https://nethermind.readthedocs.io/en/latest/cli.html) - CLI supports javascript.
+* [Supported Platforms](https://docs.nethermind.io/nethermind/first-steps-with-nethermind/supported-platforms) \(macOS, Windows, Linux\)
+* [Platform-specific instructions for running the client](https://docs.nethermind.io/nethermind/ethereum-client/running-nethermind/running-the-client)
+* The Nethermind Launcher will present several options on start. Use arrow keys to select options[ Available CLI methods ](https://docs.nethermind.io/nethermind/nethermind-utilities/cli)- CLI supports javascript.
+* [Understanding logs](https://docs.nethermind.io/nethermind/first-steps-with-nethermind/getting-started#explaining-nethermind-logs)
 
 {% hint style="info" %}
 When you start the Launcher choose the following options to sync a node:
@@ -28,70 +31,7 @@ When you start the Launcher choose the following options to sync a node:
 * Select sync: **Fast sync**
 {% endhint %}
 
-### **macOS**
 
-1. Install dependencies: `brew install gmp && brew install snappy && brew install lz4`
-2. Download mac package
-3. Unzip the file
-4. cd into the folder
-5. ./Nethermind.Launcher
-6. Select desired configuration
 
-### **Windows**
-
-1. Download windows package 
-2. Unzip the file
-3. run Nethermind.Launcher.exe
-4. Select desired configuration
-
-### **Linux** \(Ubuntu 16.04 or above\)
-
-1\) Install dependencies: 
-
-```text
-sudo apt update && sudo apt install libsnappy-dev libc6-dev libc6 unzip
-```
-
-2\) Create a new user
-
-```text
-sudo useradd -m -s /bin/bash nethermind
-```
-
-3\) Increase the max number of open files
-
-```text
-sudo bash -c 'echo "nethermind soft nofile 1000000" > /etc/security/limits.d/nethermind.conf'
-sudo bash -c 'echo "nethermind hard nofile 1000000" >> /etc/security/limits.d/nethermind.conf'
-```
-
-4\) Switch to the new user
-
-```text
-sudo su - nethermind
-```
-
-5\) Get Nethermind: download the latest Nethermind \(not NDM\) package \(list is here: [http://downloads.nethermind.io/](http://downloads.nethermind.io/)\) 
-
-```text
-wget [LINUX_PACKAGE_URL]
-```
-
-6\) Extract the files
-
-```text
-unzip [LINUX_PACKAGE_FILENAME] -d nethermind
-```
-
-7\) Switch directories
-
-```text
-cd nethermind
-```
-
-8\) Start the Nethermind Launcher 
-
-```text
-./Nethermind.Launcher
-```
+### \*\*\*\*
 

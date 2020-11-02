@@ -44,3 +44,5 @@ Enter a **STRONG** password to protect the user and you can leave the next 5 fie
 usermod -aG sudo ubuntu
 ```
 
+4\) Follow the process from [ansible playbook instructions](../new-validator-process-flow/prior-node-setup-instructions.md#iii-ansible-playbook-configuration).
+

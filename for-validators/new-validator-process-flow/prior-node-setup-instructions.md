@@ -59,17 +59,17 @@ if not - install using appropriate binary from [here](https://www.python.org/dow
 
 #### **Ansible**
 
-1. Check that you have ansible version &gt;= 2.3 installed
+Check that you have ansible version &gt;= 2.3 installed
 
-   ```bash
-   ansible --version
-   ```
+```bash
+ansible --version
+```
 
-   if not - follow [this guide](http://docs.ansible.com/ansible/latest/intro_installation.html) to install ansible. For example, you can use `pip` to do it:
+if not - follow [this guide](http://docs.ansible.com/ansible/latest/intro_installation.html) to install ansible. For example, you can use `pip` to do it:
 
-   ```bash
-   sudo pip install ansible
-   ```
+```bash
+sudo pip install ansible
+```
 
 #### **Git**
 
