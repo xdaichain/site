@@ -1,5 +1,5 @@
 ---
-description: Universal Basic Income
+description: Universal Basic Income within a community of trust
 ---
 
 # Circles UBI
