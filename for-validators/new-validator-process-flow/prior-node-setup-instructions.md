@@ -1,4 +1,4 @@
-# Prior Node setup instructions
+# Old Instructions: OpenEthereum / Parity Node Setup
 
 {% hint style="danger" %}
 Prior setup steps for a node. These instructions will be updated for POSDAO Validator candidates.
@@ -85,8 +85,8 @@ if not - install it following instructions [here](https://git-scm.com/book/en/v2
 
 Node setup is at your discretion - criteria are included in the following instructions.
 
-* **Non-AWS Instructions:** Create a node yourself with your favorite hosting provider \(e.g. AWS/Azure/OVH/etc\). 
-* **AWS Instructions:** Use our automated playbooks to create a node on AWS \(requires creating an account on AWS\). 
+* \*\*\*\*[**Non-AWS Instructions**](../node-deployment/manual-non-aws-deployment.md)**:** Create a node yourself with your favorite hosting provider \(e.g. AWS/Azure/OVH/etc\). 
+* \*\*\*\*[**AWS Instructions**](../node-deployment/aws-node-deployment-using-playbooks.md)**:** Use our automated playbooks to create a node on AWS \(requires creating an account on AWS\). 
 
 ### III. Ansible Playbook Configuration
 

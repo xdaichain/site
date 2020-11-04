@@ -71,7 +71,7 @@ There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 
 \*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transferring Dai &lt;-&gt; xDai between Ethereum and the xDai chain.
 
-\*\*\*\*[**ETH-xDai Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb): AMB between Ethereum and xDai for data, token and message transfers. Includes the Ominibridge extension for transfer of any ERC20 cross-chain.
+\*\*\*\*[**ETH-xDai Arbitrary Message Bridge**](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb): AMB between Ethereum and xDai for data, token and message transfers. Includes the Ominibridge application for transfer of any ERC20 cross-chain.
 
 #### xDai Bridge Access
 
@@ -81,7 +81,7 @@ There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 
 #### OmniBridge Access 
 
-* UI coming soon. [More information including method calls here.](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
+* [OmniBridge UI](https://xdai-omnibridge.web.app/). More information [including method calls here.](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
 
 ## DApp Management & Developer Tools
 
@@ -96,6 +96,7 @@ See the dropdown menu for tutorials related to some of these tools.
 * [CurveGrid](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring with API and SDK tools.
+* [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout](%20https://blockscout.com/poa/xdai).
 
 ### **Dashboards & Monitoring**
 
