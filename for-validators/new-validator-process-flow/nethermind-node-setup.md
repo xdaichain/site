@@ -30,8 +30,8 @@ See the [Nethermind Docs](https://docs.nethermind.io/nethermind/) for additional
 
 Login to your node to begin. 
 
-* For basic instructions, see the github repo at [https://github.com/xdaichain/validator-node-dockerized/tree/nethermind\#readme](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme
-  )
+For basic instructions, see the github repo at [https://github.com/xdaichain/validator-node-dockerized/tree/nethermind\#readme](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme
+)
 
 ### 1\) Install Docker Engine & Docker Compose
 
@@ -40,44 +40,14 @@ Installation instructions will vary based on OS. Follow the instructions here:
 * [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/) 
 * [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
 
-### 2\) Sync Clock
-
-Enter `timedatectl status` and you should see similar output:
-
-```bash
-Local time: Tue 2020-06-30 17:16:19 UTC
-Universal time: Tue 2020-06-30 17:16:19 UTC
-RTC time: Tue 2020-06-30 17:16:19
-Time zone: Etc/UTC (UTC, +0000)
-System clock synchronized: yes
-systemd-timesyncd.service active: yes
-RTC in local TZ: no
-```
-
-If `System clock synchronized` displays `yes` you are all set, otherwise either:
-
-* [x] synchronize clock with NTP servers \(allow **UDP** port **123** for both incoming and outgoing traffic\)
-* [x] use below script to sync with google.com:
-
-Create `fixtime.sh` script and run it with `watch -n 60` command in a `screen`
-
-```bash
-echo sudo date -s '"$(wget -qSO- --max-redirect=0 google.com 2>&1 | grep Date: | cut -d' ' -f5-8)Z"' > fixtime.sh
-chmod +x fixtime.sh
-screen -S time
-watch -n 60 ./fixtime.sh
-```
-
-Press `Ctrl+A+D` to leave the `screen`
-
-### 3\) Clone the Repo
+### 2\) Clone the Repo
 
 ```bash
 $ git clone -b nethermind https://github.com/xdaichain/validator-node-dockerized
 $ cd validator-node-dockerized
 ```
 
-### 4\) Update .env file
+### 3\) Update .env file
 
 Copy `.env.example` to `.env` and configure the `.env` file.
 
@@ -93,7 +63,7 @@ KEY=[your_private_key_for_mining_address]
 * `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- you will need access to the forum to view, please keep it private\).
 * `KEY` - Your mining address private key \(64 characters long **without leading `0x`**\).
 
-### 5\) Start your node
+### 4\) Start your node
 
 ```text
 $ docker-compose up -d
