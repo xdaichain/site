@@ -5,7 +5,7 @@ description: Instructions for setting up a Nethermind Client Node
 # Nethermind Node Setup
 
 {% hint style="warning" %}
-If you experience any issues during installation, post your questions in the [https://forum.poa.network/c/xdai-chain/validators-support-private](https://forum.poa.network/c/xdai-chain/validators-support-private).
+If you experience any issues during installation, post questions here: [https://forum.poa.network/c/xdai-chain/validators-support-private](https://forum.poa.network/c/xdai-chain/validators-support-private).
 {% endhint %}
 
 {% hint style="info" %}
@@ -20,7 +20,7 @@ If you experience any issues during installation, post your questions in the [ht
 
 ## Validator Node Specs
 
-Nethermind can be supported by a variety of cloud-based providers. Instructions are available here for [UpCloud](https://docs.nethermind.io/nethermind/guides-and-helpers/cloud-providers/upcloud), which can be generalized to other providers. 
+Nethermind can be supported by a variety of cloud-based providers. Instructions are available here for [UpCloud](https://docs.nethermind.io/nethermind/guides-and-helpers/cloud-providers/upcloud), which can be generalized to other providers. If you are already with a provider, we recommend launching a new, clean instance.
 
 ### Minimum specifications:
 
