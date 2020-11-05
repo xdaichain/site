@@ -27,11 +27,10 @@ Nethermind can be supported by a variety of cloud-based providers. Instructions 
 * OS: Ubuntu,  Windows & MacOs. [See supported platforms ](https://docs.nethermind.io/nethermind/first-steps-with-nethermind/supported-platforms)
 * CPU: minimum 2 cores
 * RAM: minimum 4GB
-* Disk: SSD
-* Storage: 50gb
+* Disk: 50gb SSD
 * Open network ports: SSH port \(default 22 TCP\), 30303 UDP/TCP. For security purposes, close other ports.
 * Check that you have git installed `git --version`
-  * if not - install it following instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  * if not, install it following instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 {% hint style="info" %}
 See the [Nethermind Docs](https://docs.nethermind.io/nethermind/) for additional information
