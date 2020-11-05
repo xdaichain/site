@@ -15,7 +15,7 @@ If you experience any issues during installation, post questions here: [https://
 2. Once your new node is prepared, stop your current OE/Parity instance
    1. If using docker, stop with `docker-compose down` 
    2. If using an ansible deploment playbook, uninstall with`sudo pip uninstall --yes ansible` or follow these instructions [https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove](https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove) 
-3. Once you have confirmed your previous node is stopped, proceed with step 5 below and launch the new instance.  Initial sync should take about15 minutes.
+3. Once you have confirmed your previous node is stopped, proceed with step 5 below and launch the new instance.  Initial sync should take about 15 minutes.
 {% endhint %}
 
 ## Validator Node Specs
