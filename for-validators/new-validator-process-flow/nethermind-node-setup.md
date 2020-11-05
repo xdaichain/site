@@ -8,6 +8,16 @@ description: Instructions for setting up a Nethermind Client Node
 If you experience any issues during installation, post your questions in the [https://forum.poa.network/c/xdai-chain/validators-support-private](https://forum.poa.network/c/xdai-chain/validators-support-private).
 {% endhint %}
 
+{% hint style="info" %}
+**If you are migrating from a current OpenEthereum/Parity Node:** 
+
+1. We recommend preparing through step 4 below \(update .env file\) on a clean instance, but **DO NOT launch \( do not proceed to step 5 `docker-compose up -d`\) until you have stopped your current instance**. 
+2. Once your new node is prepared, stop your current OE/Parity instance
+   1. If using docker, stop with `docker-compose down` 
+   2. If using an ansible deploment playbook, uninstall with`sudo pip uninstall --yes ansible` or follow these instructions [https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove](https://howtoinstall.co/en/ubuntu/xenial/ansible?action=remove) 
+3. Once you have confirmed your previous node is stopped, proceed with step 5 below and launch the new instance.  Initial sync should take about15 minutes.
+{% endhint %}
+
 ## Validator Node Specs
 
 Nethermind can be supported by a variety of cloud-based providers. Instructions are available here for [UpCloud](https://docs.nethermind.io/nethermind/guides-and-helpers/cloud-providers/upcloud), which can be generalized to other providers. 
@@ -29,7 +39,7 @@ See the [Nethermind Docs](https://docs.nethermind.io/nethermind/) for additional
 
 ## Node setup
 
-Login to your node to begin. 
+Login to your node to begin.
 
 For basic instructions, see the github repo at [https://github.com/xdaichain/validator-node-dockerized/tree/nethermind\#readme](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme
 )
@@ -120,5 +130,5 @@ To check the logs and verify operations \(look for the `Sealed block` log\).
 docker-compose logs -f nethermind-validator
 ```
 
-![](https://gblobscdn.gitbook.com/assets%2F-LQf-hsMLYBdJYXFr5R0%2F-MB-EyG6yv363iG_CHEH%2F-MB-M2YpmaVRZVZXRJPS%2Fimage.png?alt=media&token=1bf89e64-b061-451d-9bb7-002830a35dc4)
+
 
