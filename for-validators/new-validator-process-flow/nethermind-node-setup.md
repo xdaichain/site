@@ -18,7 +18,8 @@ Nethermind can be supported by a variety of cloud-based providers. Instructions 
 * CPU: minimum 2 cores
 * RAM: minimum 4GB
 * Disk: SSD
-* Open network ports: SSH port \(default 22 TCP\), 30303 UDP. For security purposes, close other ports
+* Storage: 50gb
+* Open network ports: SSH port \(default 22 TCP\), 30303 UDP/TCP. For security purposes, close other ports.
 * Check that you have git installed `git --version`
   * if not - install it following instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
@@ -40,16 +41,54 @@ Installation instructions will vary based on OS. Follow the instructions here:
 * [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/) 
 * [https://docs.docker.com/compose/install/](https://docs.docker.com/compose/install/)
 
-### 2\) Clone the Repo
+### 2\) Sync Clock
+
+Your clock must by synchronized to prevent skipping block sealing.
+
+ Enter`timedatectl status` , you should see similar output:
+
+```bash
+Local time: Tue 2020-06-30 17:16:19 UTC
+Universal time: Tue 2020-06-30 17:16:19 UTC
+RTC time: Tue 2020-06-30 17:16:19
+Time zone: Etc/UTC (UTC, +0000)
+System clock synchronized: yes
+systemd-timesyncd.service active: yes
+RTC in local TZ: no
+```
+
+If **`System clock synchronized`** displays **`yes`**   you are ready to go, proceed to step 3.
+
+If not, you can either:
+
+* [x] synchronize clock with NTP servers \(allow **UDP** port **123** for both incoming and outgoing traffic\) or
+* [x] use the following script to sync with google.com:
+
+Create `fixtime.sh` script and run it with `watch -n 60` command in a `screen`
+
+```bash
+echo sudo date -s '"$(wget -qSO- --max-redirect=0 google.com 2>&1 | grep Date: | cut -d' ' -f5-8)Z"' > fixtime.sh
+chmod +x fixtime.sh
+screen -S time
+watch -n 60 ./fixtime.sh
+```
+
+Press `Ctrl+A+D` to leave the `screen`
+
+### 3\) Clone the Repo
 
 ```bash
 $ git clone -b nethermind https://github.com/xdaichain/validator-node-dockerized
 $ cd validator-node-dockerized
 ```
 
-### 3\) Update .env file
+### 4\) Update .env file
 
-Copy `.env.example` to `.env` and configure the `.env` file.
+{% hint style="info" %}
+You will need your private mining key to proceed
+{% endhint %}
+
+Copy `.env.example` to `.env` and configure the `.env` file. Define the following settings.
 
 ```text
 ETHSTATS_ID=[validator_name]
@@ -58,12 +97,12 @@ ETHSTATS_SECRET=[netstat_secret_key]
 KEY=[your_private_key_for_mining_address]
 ```
 
-* `ETHSTATS_ID` - The displayed name of your validator in [Netstats](https://dai-netstat.poa.network/).
-* `ETHSTATS_CONTACT` - Validator's contact \(e.g., e-mail\).
-* `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- you will need access to the forum to view, please keep it private\).
-* `KEY` - Your mining address private key \(64 characters long **without leading `0x`**\).
+* `ETHSTATS_ID` - The displayed name of your validator in [Netstats](https://dai-netstat.poa.network/)
+* `ETHSTATS_CONTACT` - Validator's contact \(e.g., e-mail\)
+* `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- you will need access to the forum to view, please keep it private\)
+* `KEY` - Your mining address private key \(64 characters long **without leading `0x`**\)
 
-### 4\) Start your node
+### 5\) Start the Node
 
 ```text
 $ docker-compose up -d
@@ -72,6 +111,8 @@ $ docker-compose up -d
 Once docker containers are created, the node will sync with the chain \(may take a while\).
 
 To restart, cd into the  `validator-node-dockerized` directory and use `docker-compose stop` then `docker-compose start`
+
+### 6\) Check Logs
 
 To check the logs and verify operations \(look for the `Sealed block` log\).
 
