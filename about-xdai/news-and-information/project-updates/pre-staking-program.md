@@ -4,8 +4,11 @@ description: Participants can earn a 36.4% APR by participating in pre-staking d
 
 # Pre-Staking Program
 
-Stats from the  [BitMax Pre-staking program ](https://btmx.com/#/staking/details/STAKE-S)  
+{% hint style="info" %}
+Stats from the  [BitMax Pre-staking program.   
+Program ended in August, 2020. ](https://btmx.com/#/staking/details/STAKE-S)  
 _Last Update 02.08.2020_
+{% endhint %}
 
 ![](../../../.gitbook/assets/chart-9-%20%282%29.png)
 
