@@ -8,7 +8,7 @@ description: October 31 - 6 November 2020
 
 ## 🔗 Chainlink + xDai Integration
 
-Ass announced on November 6, 2020, xDai is extremely excited to integrate Chainlink with help from the Protofire team! We will share updates and details as the integration progresses and projects can use the Chainlink decentralized oracles.
+As announced on November 6, 2020, xDai is extremely excited to integrate Chainlink with help from the Protofire team! We will share updates and details as the integration progresses and projects can use the Chainlink decentralized oracles.
 
 > Now through the help of Protofire and Chainlink, we will soon be able to connect xDai applications to the outside world, giving developers access to Chainlink price feeds, a source of provably fair randomness, and virtually any off-chain API they require to build end-to-end applications. This greatly expands what developers can build on xDai while retaining key security properties critical to the value of all blockchain applications.”
 
