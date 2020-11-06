@@ -48,7 +48,13 @@ The xDai Stable Chain enables fast, inexpensive, and stable blockchain transacti
 
 Projects on xDai can leverage a full suite of development tools including exclusive applications like [BlockScout](../../for-users/explorers/blockscout.md), a full-featured, customizable block explorer and [Omnibridge](../../for-users/omnibridge.md), a bridge providing interoperability for any ERC20 token between Ethereum and xDai. This synergy between stability, security, interoperability, and scalability opens the door for many exciting applications and new use cases.
 
-For more, please visit ​[xdaichain.com](https://www.xdaichain.com/) and follow [@xdaichain](https://twitter.com/xdaichain) on Twitter.  
+For more, please visit ​[xdaichain.com](https://www.xdaichain.com/) and follow [@xdaichain](https://twitter.com/xdaichain) on Twitter.
+
+{% hint style="success" %}
+Chainlink integration instructions and tutorials coming soon
+{% endhint %}
+
+  
 
 
   
