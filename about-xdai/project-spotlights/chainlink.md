@@ -1,5 +1,5 @@
 ---
-description: Chainlink xDai integration
+description: Chainlink xDai Integration
 ---
 
 # Chainlink
