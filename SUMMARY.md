@@ -26,6 +26,7 @@
 * [Projects & DApps](about-xdai/project-spotlights/README.md)
   * [Gnosis](about-xdai/project-spotlights/gnosis/README.md)
     * [Gnosis Safe](about-xdai/project-spotlights/gnosis/gnosis-safe.md)
+  * [Chainlink](about-xdai/project-spotlights/chainlink.md)
   * [Foundation](about-xdai/project-spotlights/foundation.md)
   * [Circles UBI](about-xdai/project-spotlights/circles-ubi.md)
   * [1Hive](about-xdai/project-spotlights/1hive.md)
