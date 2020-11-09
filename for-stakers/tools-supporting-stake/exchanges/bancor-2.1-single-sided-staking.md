@@ -43,7 +43,7 @@ The first will grant permissions to the Bancor contract to spend your STAKE, the
 
 ![](../../../.gitbook/assets/bancor5.png)
 
-### 6\) STAKE liquidity is now protected.
+### 5\) STAKE liquidity is now protected.
 
 Your protected STAKE will now appear in the Protection tab \(refresh if needed\) where you can manage your liquidity. 
 
