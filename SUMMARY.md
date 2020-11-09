@@ -151,7 +151,7 @@
   * [EasyStaking FAQ](for-stakers/easy-staking/easystaking-faq.md)
 * [Tools supporting STAKE](for-stakers/tools-supporting-stake/README.md)
   * [Exchanges](for-stakers/tools-supporting-stake/exchanges/README.md)
-    * [Bancor 2.1 single-sided staking](for-stakers/tools-supporting-stake/exchanges/bancor-2.1-single-sided-staking.md)
+    * [Bancor 2.1 Single-Sided Staking](for-stakers/tools-supporting-stake/exchanges/bancor-2.1-single-sided-staking.md)
   * [Loopring Pay](for-stakers/tools-supporting-stake/loopring-pay.md)
   * [Zapper](for-stakers/tools-supporting-stake/zapper.md)
   * [Staking Rewards](for-stakers/tools-supporting-stake/staking-rewards.md)

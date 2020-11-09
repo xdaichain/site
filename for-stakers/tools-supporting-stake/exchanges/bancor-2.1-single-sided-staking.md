@@ -2,7 +2,7 @@
 description: 'Stake is whitelisted in the protocol, allowing for single-sided staking.'
 ---
 
-# Bancor 2.1 single-sided staking
+# Bancor 2.1 Single-Sided Staking
 
 The STAKE token is now whitelisted on Bancor v2.1. This means participants can participate in single-sided staking to earn swap fees while staking with a single asset. Below, we show you how to stake with STAKE and receive protection against [impermanent loss](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22) over time.
 
