@@ -38,6 +38,10 @@ This usually happens due to a MetaMask \(MM\) update and can be fixed by resavin
 
 4\) Check parameters are correct and click **Save** \([ more info on parameters](../../for-users/wallets/metamask/metamask-setup.md)\). If issues persist, try switching to a [different RPC endpoint](../../for-developers/developer-resources/#json-rpc-endpoints) following the same instructions.
 
+{% hint style="info" %}
+Some users have also reported that adding "Mainnet" to the Network Name \(the first field\) can cause issues. In the example below, we just call the network "xDai".
+{% endhint %}
+
 ![](../../.gitbook/assets/mm4.png)
 
 ### \*\*\*\*
