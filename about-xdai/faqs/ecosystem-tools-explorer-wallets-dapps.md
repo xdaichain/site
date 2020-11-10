@@ -18,5 +18,27 @@ The biggest wallet use case is Burner Wallet - as this is really designed for sm
 
 Since xDai is an Ethereum-compatible sidechain, you can use the same tools \(like Truffle\), languages \(Solidity\) and environments you are used to using with Ethereum. With a few quick tweaks, your DApp can also be running on xDai. See [Smart Contract Deployment](../../for-developers/smart-contract-deployment.md) for details.
 
+## MetaMask isn't working, what should I do?
+
+This usually happens due to a MetaMask \(MM\) update and can be fixed by resaving the xDai custom network in MM. If you haven't setup xDai for MM yet, [see these instructions](../../for-users/wallets/metamask/metamask-setup.md).
+
+### Resaving / Resetting xDai on MetaMask
+
+1\) Go to **My Accounts** -&gt; **Settings**.
+
+![](../../.gitbook/assets/mm1%20%282%29.png)
+
+2\) Scroll down and select **Networks**.
+
+![](../../.gitbook/assets/mm2%20%281%29.png)
+
+3\) Scroll and select **xDai**. 
+
+![](../../.gitbook/assets/mm3%20%281%29.png)
+
+4\) Check parameters are correct and click **Save** \([ more info on parameters](../../for-users/wallets/metamask/metamask-setup.md)\). If issues persist, try switching to a [different RPC endpoint](../../for-developers/developer-resources/#json-rpc-endpoints) following the same instructions.
+
+![](../../.gitbook/assets/mm4.png)
+
 ### \*\*\*\*
 

@@ -11,17 +11,9 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 ## LP Resources
 
 * Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7) 
-* LP Distributions Tracker: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/)
+* LP Distributions Tracker: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/) Click on a Round Number to view details in Etherscan
 
-| Round | Date | Details |
-| :--- | :--- | :--- |
-| 1 | 02.09.2020 | 🎉 Initial distribution was successfully distributed to all 119 providers. |
-| 2 | 14.09.2020 | Distribution to top 100 providers. Round 2 distribution slightly delayed due to EasyStaking update. LP distribution includes LPs participating in [https://sakeswap.finance/\#/swaps/eth\_stake](https://sakeswap.finance/#/swaps/eth_stake)  |
-| 3 | 21.09.2020 | [https://etherscan.io/tx/0xba493e9123c31ff319067eca6e15aafd9a808f4d9fb71348ec90f07e89c4abf8](https://etherscan.io/tx/0xba493e9123c31ff319067eca6e15aafd9a808f4d9fb71348ec90f07e89c4abf8) |
-| 4 | 26.09.2020 | [https://etherscan.io/tx/0x487f31949a480316ec8234760073a782c0b69b9c651f857e33cbc8d7a1268eb1](https://etherscan.io/tx/0x487f31949a480316ec8234760073a782c0b69b9c651f857e33cbc8d7a1268eb1) |
-| 5 | 05.10.2020 | [https://etherscan.io/tx/0x5a21fed8a9f70defd8ff4ecc735806690c5658f1aa1b73f292928fc952cffbdb](https://etherscan.io/tx/0x5a21fed8a9f70defd8ff4ecc735806690c5658f1aa1b73f292928fc952cffbdb) |
-| 6 | 15.10.2020 | [https://etherscan.io/tx/0x2fe8bf29c421ffca4780171c42d4286fc0b147527fdf7351ef4d7e08d200bf3b](https://etherscan.io/tx/0x2fe8bf29c421ffca4780171c42d4286fc0b147527fdf7351ef4d7e08d200bf3b) |
-| 7 | 23.10.2020 | [https://etherscan.io/tx/0xadb61a2b634755a7c5111cd492c339c0d174efa2af66aad4f981916c89b8ac89](https://etherscan.io/tx/0xadb61a2b634755a7c5111cd492c339c0d174efa2af66aad4f981916c89b8ac89) |
+![](../../.gitbook/assets/stake-lp.png)
 
 * LP Distribution Contract: [https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d](https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d) 
 * LP Governance: Coming Soon
