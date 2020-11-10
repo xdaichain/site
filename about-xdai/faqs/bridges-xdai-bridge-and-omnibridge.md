@@ -78,6 +78,10 @@ Example transaction executing a transfer: [https://blockscout.com/poa/xdai/tx/0x
 
 ## OmniBridge FAQs
 
+### What is the OmniBridge URL?
+
+[https://omni.xdaichain.com/](https://omni.xdaichain.com/)
+
 ### I want to learn more about OmniBridge internal functionality and/or developer features
 
 Please see the OmniBridge documentation at [https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension) for additional details.

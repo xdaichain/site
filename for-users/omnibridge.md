@@ -7,7 +7,7 @@ OmniBridge can be used to bridge any existing ERC20 on Ethereum Mainnet to xDai 
 
 **Bridge Interfaces**
 
-🌉[OmniBridge UI](https://xdai-omnibridge.web.app/) live link  
+🌉[OmniBridge UI ](https://omni.xdaichain.com/)live link  
   
 🌉[Transaction Monitor](https://alm-xdai.herokuapp.com/): Use it to see updated transaction status.
 {% endhint %}
