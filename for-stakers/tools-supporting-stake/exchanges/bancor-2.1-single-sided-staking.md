@@ -45,9 +45,7 @@ The first will grant permissions to the Bancor contract to spend your STAKE, the
 
 ### 5\) STAKE liquidity is now protected.
 
-Your protected STAKE will now appear in the Protection tab \(refresh if needed\) where you can manage your liquidity. 
-
-Your protected liquidity stake should now appear in the Protection screen. \(If it doesn’t, click refresh\). From the [Protection screen](https://app.bancor.network/eth/protection), you can manage your stake and track returns over time.
+Your protected STAKE will now appear in the [Protection screen](https://app.bancor.network/eth/protection),\(refresh if needed\) where you can manage your liquidity. 
 
 Compare Protected Value to Initial Stake to see accrued value in swap fees over time.
 
