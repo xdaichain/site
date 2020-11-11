@@ -41,6 +41,12 @@ _Update 4/15/2020: With the impending Sai shutdown, Sai transfers are no longer 
 🎯 **Target Date:** Q1 2020  
 ✅**Status**: Completed 03/31/2020
 
+{% hint style="info" %}
+This feature has been deprecated. The governing board may revisit at a later time or look to introduce another mechanism for incentivization.  
+  
+[Proposal and Decision](https://forum.poa.network/t/disable-chai-token-support-to-safe-gas-for-deposit-and-withdrawal-operations/3936)
+{% endhint %}
+
 {% hint style="success" %}
 Bridge contracts are upgraded and functional. For more on _**`CHAI,`**_ see the [Chai FAQs](../../for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md).
 {% endhint %}
