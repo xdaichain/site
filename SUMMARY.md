@@ -48,6 +48,7 @@
   * [STAKE vs MKR](about-xdai/comparisons/stake-vs-mkr.md)
 * [News & Information](about-xdai/news-and-information/README.md)
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
+    * [POSDAO Prep & 40,000 STAKE Burn](about-xdai/news-and-information/project-updates/posdao-prep-and-40-000-stake-burn.md)
     * [Chainlink Integration](about-xdai/news-and-information/project-updates/chainlink-integration.md)
     * [EasyStaking Launch Initiative Update](about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md)
     * [⚔️ xDai Weekly Recap - 06/11/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-06-11-2020.md)
