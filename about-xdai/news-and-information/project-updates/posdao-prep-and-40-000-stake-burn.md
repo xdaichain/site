@@ -12,7 +12,7 @@ In a symbolic show of support for Eth2.0, the **STAKE tokens will be burned by s
 
 Typically tokens are burned by sending them the [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x0000000000000000000000000000000000000000) address, however, to mark the Eth2 transition, 40,000 STAKE will be locked into the deposit contract. The contract does not allow any token withdrawals, so it is an effective way to burn tokens and also signals our commitment to the ETH2 ecosystem going forward.
 
-Once burned, the STAKE circulating supply on Ethereum will be reduced by 40,000 and will be reflected on the  [supply.xdaichain.com](http://supply.xdaichain.com/) endpoint.
+Once burned, the STAKE circulating supply on Ethereum will be reduced by 40,000 and will be reflected on the [supply.xdaichain.com](http://supply.xdaichain.com/) endpoint.
 
 As these consensus transitions take place \(xDai to POSDAO, Eth to ETH2\), xDai remains committed to supporting Ethereum projects and users with a stable, fully-functional and completely interoperable solution. Many projects have migrated completely to xDai, while others are leveraging both chains - using xDai for some functionality and the Ethereum mainnet for others. This synergy will continue as Ethereum gradually moves to Eth2.
 
