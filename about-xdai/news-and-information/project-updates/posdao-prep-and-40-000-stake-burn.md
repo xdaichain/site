@@ -16,7 +16,7 @@ Once burned, the STAKE circulating supply on Ethereum will be reduced by 40,000 
 
 As both consensus transitions take place \(xDai to POSDAO, Eth1 to Eth2\), xDai remains committed to supporting Ethereum projects and users with a stable, fully-functional and completely interoperable solution. Many projects have migrated entirely to xDai, while others are leveraging both chains - splitting functionality between xDai and the Ethereum mainnet and/or providing solutions on both chains simultaneously. This synergy will continue as Ethereum gradually moves to Eth2.
 
-The Eth2 transition will take place in several stages, and xDai will support the ecosystem during each step with bridges, integrations and project support. xDai may eventually be incorporated as a shard or may remain as an Eth1x solution with interoperable \(multi-chain\) capabilities. The details are difficult to predict, but the big picture is not. xDai is excited to be involved and a part of the Eth2 future as blockchain technologies experience unprecedented growth and adoption!
+The Eth2 transition will take place in several stages, and xDai will support the ecosystem every step along the way,  with bridges, integrations and support for projects. xDai may eventually be incorporated as a shard or may remain as an Eth1x solution with interoperable \(multi-chain\) capabilities. The details are difficult to predict, but the big picture is not. xDai is excited to be involved and a part of the Eth2 future as blockchain technologies experience unprecedented growth and adoption!
 
 ## \*\*\*\*🧠 **Nethermind Client**
 
