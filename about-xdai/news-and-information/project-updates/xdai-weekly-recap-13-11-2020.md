@@ -1,5 +1,5 @@
 ---
-description: October 31 - 6 November 2020
+description: 7 November - 13 November 2020
 ---
 
 # ⚔️ xDai Weekly Recap - 13/11/2020
@@ -33,6 +33,11 @@ The STAKE token is now whitelisted on Bancor v2.1. This means participants can p
 {% embed url="https://twitter.com/PrimeDAO\_/status/1325828133422063618" %}
 
 ### ✅Linkdrop Integration
+
+Follow our guides to:
+
+* [Create an airdrop](../../../for-developers/developer-resources/creating-airdrops/creating-airdrops-via-linkdrop.md) using Linkdrop on xDai. 
+* [Claim a Linkdrop airdrop](../../../for-users/getting-airdrops/getting-airdrops-via-linkdrop.md).
 
 {% embed url="https://twitter.com/LinkdropHQ/status/1326860986201083904" %}
 
