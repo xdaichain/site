@@ -1,2 +1,2 @@
-# New Node Deployment
+# New Validator Node Deployment
 
