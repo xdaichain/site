@@ -14,7 +14,7 @@ In a symbolic show of support for Eth2.0, the **STAKE tokens were burned by send
 Burn Transaction: [https://etherscan.io/tx/0x938d3affe655e4b784ed93051116aaab3ddc6a436442f96e92050ff8a6d223c4](https://etherscan.io/tx/0x938d3affe655e4b784ed93051116aaab3ddc6a436442f96e92050ff8a6d223c4)
 {% endhint %}
 
-Typically tokens are burned by sending them the [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x0000000000000000000000000000000000000000) address, however, to mark the Eth2 transition, 40,000 STAKE will be locked into the Eth2 deposit contract. The contract does not allow any token withdrawals, so it is an effective way to burn tokens and also signals xDai's commitment to the Eth2 ecosystem going forward.
+Typically tokens are burned by sending them the [0x0000000000000000000000000000000000000000](https://etherscan.io/address/0x0000000000000000000000000000000000000000) address, however, to mark the Eth2 transition, 40,000 STAKE will be locked into the Eth2 deposit contract. The contract does not allow any token withdrawals, so **it is an effective way to burn tokens and also signals xDai's commitment to the Eth2 ecosystem going forward**.
 
 The STAKE circulating supply on Ethereum has been reduced by 40,000 as reflected at [supply.xdaichain.com](http://supply.xdaichain.com/)
 
@@ -30,7 +30,7 @@ In addition to checks-and-balances, Nethermind also brings some unique features 
 
 ## 🙋♀ Public POSDAO
 
-xDai is preparing for public POSDAO where STAKE holders can become validators and delegators on the network. Step one was completed when xDai moved from [POA consensus to a nominated POSDAO in April, 2020](../../../for-stakers/stake-and-staking/#phase-1-stake-info). Adding Nethermind client nodes is another big step forward, and brings the network much closer to public staking. 
+xDai is preparing for public POSDAO where STAKE holders can become validators and delegators on the network. Step one was completed when xDai moved from [POA consensus to a nominated POSDAO in April, 2020](../../../for-stakers/stake-and-staking/#phase-1-stake-info). Adding Nethermind client validator nodes is another big step forward, and brings the network much closer to public staking. 
 
 Once the public POSDAO transition is complete, stake-weighted governance features will allow for network parameter adjustment, including the amount needed to become a validator or delegator in the network. Pre-public launch, the amount is 20K STAKE on xDai to become a network validator.  
   
