@@ -4,7 +4,7 @@ description: 'November 12, 2020 update'
 
 # POSDAO Prep & 40,000 STAKE Burn
 
-In preparation for the public proof-of-stake POSDAO transition, **the xDai Network has burned 40,000 STAKE tokens on Ethereum and adding 2 new validator nodes on xDai**. Each node receives 20,000 STAKE on xDai, the minimum required to become an initial validator. The nodes will be running on the [Nethermind ](https://www.nethermind.io/)client, providing additional robustness and decentralization to the network.
+In preparation for the public proof-of-stake POSDAO transition, **the xDai Network has burned 40,000 STAKE tokens on Ethereum and added 2 new validator candidate nodes on xDai**. Each node has received 20,000 STAKE on xDai, the minimum required to become an initial validator, and will be upgraded to validator status shortly. The nodes are running on the [Nethermind ](https://www.nethermind.io/)client, providing additional robustness and decentralization to the network.
 
 ## 🔥 **Unique Token Burning**
 
@@ -20,7 +20,7 @@ The STAKE circulating supply on Ethereum has been reduced by 40,000 as reflected
 
 As both consensus transitions take place \(xDai to POSDAO, Eth1 to Eth2\), xDai remains committed to supporting Ethereum projects and users with a stable, fully-functional and completely interoperable solution. Many projects have migrated entirely to xDai, while others are leveraging both chains - splitting functionality between xDai and the Ethereum mainnet and/or providing solutions on both chains simultaneously. This synergy will continue as Ethereum gradually moves to Eth2.
 
-The Eth2 transition will take place in several stages, and xDai will support the ecosystem every step along the way,  with bridges, integrations and support for projects. xDai may eventually be incorporated as a shard or may remain as an Eth1x solution with interoperable \(multi-chain\) capabilities. The details are difficult to predict, but the big picture is not. xDai is excited to be involved and a part of the Eth2 future as blockchain technologies experience unprecedented growth and adoption!
+The Eth2 transition will take place in several stages, and xDai will support the ecosystem every step along the way, with bridges, integrations and support for projects. xDai may eventually be incorporated as a shard or may remain as an Eth1x solution with interoperable \(multi-chain\) capabilities. The details are difficult to predict, but the big picture is not. xDai is excited to be involved and a part of the Eth2 future as blockchain technologies experience unprecedented growth and adoption!
 
 ## \*\*\*\*🧠 **Nethermind Client**
 
