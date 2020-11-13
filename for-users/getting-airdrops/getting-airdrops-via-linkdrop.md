@@ -6,6 +6,10 @@ description: Linkdrop adds tokens right to your wallet.
 
 ### Linkdrop links are a simple way to claim an airdrop.
 
+{% hint style="info" %}
+[See this guide if you want to create a linkdrop airdrop](../../for-developers/developer-resources/creating-airdrops/creating-airdrops-via-linkdrop.md).
+{% endhint %}
+
 1\) Connect your web3 wallet \(like MetaMask\) to the account you wish to receive the airdrop with.
 
 2\) Connect to the xDai network \([instructions for connecting with MetaMask](https://app.gitbook.com/@poa/s/news/~/edit/drafts/-Lr9soY3cGJoyhBcqxRg/for-users/wallets-setup/metamask-setup)\). 
