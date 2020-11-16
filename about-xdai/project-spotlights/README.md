@@ -11,12 +11,11 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 **Primary Partnerships**
 
 * [Gnosis](https://gnosis.io/): With the [xDai-Gnosis partnership](https://blog.gnosis.pm/gnosis-protocol-and-xdai-partnership-1de0e48fb14b), Gnosis is deploying all of their applications to xDai including:
-
   * [Gnosis Protocol](https://docs.gnosis.io/protocol), a top-ten Ethereum DEX by volume
   * [Gnosis Safe Multisig](https://gnosis-safe.io/), a wallet holding more than $1 Billion in assets
     * [xDai Gnosis Safe Implementation](https://xdai.gnosis-safe.io/app/#/welcome)
-  * [Conditional tokens framework](http://docs.gnosis.io/conditionaltokens), built on by prediction markets [Omen](https://omen.eth.link/) and Polymarket
-
+  * [Conditional tokens framework](http://docs.gnosis.io/conditionaltokens), built on by prediction markets [Omen](https://omen.eth.link/) and Polymarket 
+* [Chainlink](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/): Native Oracle Integration 
 * [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
 
 **Infrastructure & DeFi**
@@ -53,7 +52,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 **NFT-based projects**
 
-* [Foundation](https://foundation.app/): Emerging artist marketplace
+* [Foundation](https://foundation.app/): Emerging artist marketplace. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
 * [Shenanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
 
