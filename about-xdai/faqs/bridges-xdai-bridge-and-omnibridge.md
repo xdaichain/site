@@ -76,6 +76,10 @@ Example transaction executing a transfer: [https://blockscout.com/poa/xdai/tx/0x
  💁♂ When troubleshooting, check the Coin Balance History in Blockscout for the account in question to find information about balance changes and blocks where these occurred.
 {% endhint %}
 
+### When claiming a DAI transaction on Ethereum, does the user originating the transaction also need to pay for the claim? 
+
+Anyone can pay the fees to process the claim transaction and receive DAI, but the DAI will always be sent to the account set as the receiver in the initial originating request. This functionality opens the door for projects or other entities to pay for gas fees/subsidize the claims on Ethereum.
+
 ## OmniBridge FAQs
 
 ### What is the OmniBridge URL?
