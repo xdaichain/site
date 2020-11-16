@@ -1,7 +1,7 @@
 # Bridges: xDai Bridge & OmniBridge
 
 {% hint style="info" %}
-The TokenBridge project is responsible for the xDai Bridge, OmniBridge and many other bridges in development for cross-chain interaction. For additional details, see the bridge documentation at [docs.tokenbridge.ne](https://docs.tokenbridge.net/)
+The TokenBridge project is responsible for the xDai Bridge, OmniBridge and many other bridges in development for cross-chain interaction. For additional details, see the bridge documentation at [docs.tokenbridge.net](https://docs.tokenbridge.net/)
 {% endhint %}
 
 ## Why are there Multiple Bridges?
