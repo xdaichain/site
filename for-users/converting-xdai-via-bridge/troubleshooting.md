@@ -8,6 +8,16 @@ Bridge transactions can take some time \(hours in extreme cases\) to complete de
 
 If you are using OmniBridge for other ERC20 tokens \(not xDai &lt;-&gt; Dai\) please see the [OmniBridge page](../omnibridge.md). **This guide only addresses issues with xDai to Dai transfers.**
 
+{% hint style="info" %}
+**Things to know**
+
+* A bridge exit \(moving from xDai to Dai\) requires **2 transactions**, **one to initiate the transfer** on xDai, and a **2nd to claim DAI on Ethereum**.
+* To process the **2nd transaction**, you will need to **switch to Ethereum Mainnet in Metamask** and **you will need Ether to pay gas fees.**
+* The **2nd transaction may take quite a long time**, it is being processed on Ethereum. You can set a higher gas price if you want to speed it up. [**Instructions**](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time)**.**
+* If you closed the UI before starting the 2nd transaction, you can come back and to complete later. [**Instructions**](troubleshooting.md#i-used-the-xdai-bridge-ui)**.**
+* Additional troubleshooting items below.
+{% endhint %}
+
 ## Bridge UI is Offline or in Maintenance Mode
 
 We are doing some periodic maintenance and optimization on the Bridge and are now putting the UI into maintenance mode during these times to avoid additional confusion and/or delayed transactions for users. If you started a transaction but it did not complete because of maintenance mode, be assured that funds are safe and will be available once maintenance is complete. If you have questions or concerns during maintenance, please contact us in [Discord channel ](https://discord.gg/mPJ9zkq)for up-to-date information.
@@ -134,8 +144,6 @@ You may want to [manually set gas prices for a cheaper exit](troubleshooting.md#
 You will need some ETH in your wallet to pay gas fees and finalize the transaction. You can send from another account.
 {% endhint %}
 
- 
-
 6\)  You will see a Success message when the transaction is complete.
 
 ![](../../.gitbook/assets/a9.jpg)
@@ -182,9 +190,13 @@ If you want to go ahead with the claim, try setting MetaMask to SLOW. This may t
 
 ## Dai to xDai Transaction is Taking a Long Time
 
-8 block confirmations are required to ensure a transaction is final and xDai can be minted to your account. If Ethereum is congested, it may take many more blocks for your transaction to be queued. If your transaction is stuck in pending for a long time, you can opt try to speed it up by selecting the pending transaction in MetaMask, clicking Speed Up, then paying the additional gas to try and get it through more quickly. Otherwise, it will likely be in a pending state until the congestion breaks up.
+8 block confirmations are required to ensure a transaction is final and xDai can be minted to your account. If Ethereum is congested, it may take many more blocks for your transaction to be queued. If your transaction is stuck in pending for a long time, you can opt try to speed it up by:
 
-If it remains in a pending state on MetaMask for a long time, see [Resetting MetaMask ](troubleshooting.md#transaction-not-showing-on-blockscout-or-etherscan-resetting-metamask)below.
+1. Selecting the pending transaction in MetaMask.
+2. Clicking Speed Up.
+3. Paying the additional gas to try and get it through more quickly. 
+
+Otherwise, it will likely be in a pending state until the congestion breaks up. If it remains in a pending state on MetaMask for a long time, see [Resetting MetaMask ](troubleshooting.md#transaction-not-showing-on-blockscout-or-etherscan-resetting-metamask)below.
 
 ![](../../.gitbook/assets/speedup.jpg)
 
