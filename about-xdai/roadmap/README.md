@@ -13,7 +13,7 @@ _Last update: 24.09.2020 \|_ [_Changelog_](./#change-log)\_\_
 ## Fiat to xDai Onramp
 
 \*\*\*\*🎯 **Target:** Q4 2019  
- ☑ **Status:** In process. Carbon implementation complete, additional implementations ongoing.
+ ☑ **Status:** Implementations in process.
 
 {% hint style="success" %}
 Wyre integration for xDai is in development.
@@ -84,17 +84,17 @@ EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the
 
 We will integrate statistics views on the EasyStaking platform as well as develop additional analytics tools \(currently exploring options like Dune Analytics & Graphana\) for LPs.
 
-## OmniBridge
+## OmniBridge Phase 1
 
 🎯 **Target Date**: Q3 2020  
-☑ **Status:** In process. Bridge is 100% functional, UI in progress. Learn more here: [https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
+✅ **Status:** [Security Audits Completed 11/6/2020 ](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge)
 
-Universal mediators will support transfers for virtually any ERC20 token to the xDai chain with no additional contract deployment. This will lower the barrier-to-entry for projects and DApps looking to move tokens to xDai and take advantage of low-fee, high-speed transactions. Users will be able to automatically create equivalent tokens on xDai ready for immediate usage. 
+Universal mediators will support transfers for virtually any ERC20 token to the xDai chain with no additional contract deployment. This lowers the barrier-to-entry for projects and DApps looking to move tokens to xDai and take advantage of low-fee, high-speed transactions. Users will be able to automatically create equivalent tokens on xDai ready for immediate usage.  Learn more here: [https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
 
 ## Bridge Governance Expansion
 
 🎯 **Target Date:** Q3 2020  
-☑ **Status:** Completed on Ethereum side. xDai side in progress. [Progress update here](https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773/12)
+✅ **Status:** [Completed for both sides of the bridge 10/23/2020](../faqs/bridges-xdai-bridge-and-omnibridge.md#what-is-the-bridge-governance-board).
 
 Bridge management should be expanded to additional community representatives. These individuals will use a Gnosis Safe to manage bridge operations. A majority must sign to approve operations including:
 
@@ -126,6 +126,13 @@ UMA is a decentralized financial contracts platform built to enable Universal Ma
 
 xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets. We currently have a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. [sUSD example](https://docs.tokenbridge.net/eth-xdai-amb-bridge/susd-bridge-extension/transfer-susd-through-the-bridge-extension).
 
+## OmniBridge Phase 2
+
+🎯 **Target Date**: Q1-Q2 2021  
+☑ **Status:** [Security Audits Completed](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge).
+
+Additional features will be added including bi-directional support \(ability to move tokens minted on xDai to Ethereum\) and additional decentralization mechanisms \(governance, additional validators, user-enabled signature execution\).
+
 ## L2 scalability for token transfers on xDai
 
 🎯 **Target Date**: Q1 2021
@@ -155,6 +162,17 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>18.11.2020</em>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Update OmniBridge status to completed</li>
+          <li>Update Bridge Governance status to completed</li>
+          <li>Add OmniBridge Phase 2</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>24.09.2020</em>
       </td>

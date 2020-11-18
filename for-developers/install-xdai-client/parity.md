@@ -6,7 +6,11 @@ description: xDai with POSDAO runs on OpenEthereum v3.0.0
 
 ## Install OpenEthereum
 
-You can  build from source or download a binary release, see the official [3.0 Releases Page](https://github.com/openethereum/openethereum/releases) for download information for Linux, Mac & Windows.
+{% hint style="warning" %}
+DO NOT use the latest version of OpenEthereum \(3.1+\), as it does not include important POSDAO features needed for xDai. Version 3.0.1 supports xDai, as does 3.0.0 and 2.7.2. Download binaries here for Linux, Mac & Windows: [https://github.com/openethereum/parity-ethereum/releases](https://github.com/openethereum/parity-ethereum/releases)  
+  
+_Note: if binary does not come up, check the url to ensure it includes parity-ethereum rather than forwarding to the new repo._
+{% endhint %}
 
 ### Binary Instructions
 
@@ -71,8 +75,7 @@ openethereum --chain xdai --bootnodes enode://ENODE@IP:PORT,enode://ENODE@IP:POR
 
 ### Connect to your Node
 
-You can use Ethereum's JSON-RPC or a JavaScript console:  
-[https://openethereum.github.io/wiki/Basic-Usage](https://openethereum.github.io/wiki/Basic-Usage)
+You can use [Ethereum's JSON-RPC ](https://openethereum.github.io/JSONRPC)or a JavaScript console.
 
 ### Smart contract development
 

@@ -15,7 +15,7 @@ Rather than depending on oracles to transfer withdrawal requests, users will con
 
 * Target Dates:
   * Bridge Contract on Ethereum Side: **Completed**
-  * Bridge Contract on xDai Side: October 2020
+  * Bridge Contract on xDai Side: **Completed**
 * [More Information](https://forum.poa.network/t/increase-number-of-participants-in-the-xdai-bridge-management-multsigs/3773)
 
 Historically, validators on the xDai Bridge have been entrusted with validating transaction as well as making all governance decisions related to bridge operations. While the current validators will remain \(POA Network, MakerDAO, Giveth and Protofire\), the governor set tasked with making all decisions regarding bridge operations will be expanded. 
