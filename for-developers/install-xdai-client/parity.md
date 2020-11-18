@@ -11,7 +11,7 @@ You can  build from source or download a binary release, see the official [3.0 R
 ### Binary Instructions
 
 {% hint style="info" %}
-These instructions are copied from the OpenEthereum wiki at [https://openethereum.github.io/wiki/Setup](https://openethereum.github.io/wiki/Setup)
+These instructions are copied from the [OpenEthereum wiki.](https://openethereum.github.io/Setup)
 {% endhint %}
 
 * **Linux**
@@ -47,7 +47,7 @@ For Linux systems:
     $ yum group install "Development Tools"
   ```
 
-## Once OpenEthereum is Installed,  Connect and Sync with xDai
+## Once OpenEthereum is Installed, Connect and Sync with xDai
 
 ```text
 openethereum --chain xdai --no-warp
