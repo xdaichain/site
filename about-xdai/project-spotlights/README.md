@@ -28,6 +28,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [WrapEth](https://wrapeth.com/): xDai wrapper to convert native xDai to wrapped wxDai
   * [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
 * [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
+* [ARTIS Bridge:](https://docs.artis.eco/artis-1.0/tools/artis-to-xdai-chain-bridge) A TokenBridge implementation connecting the [ARTIS](https://artis.eco/) and xDai chains.
 
 **Community Engagement & Events**
 
@@ -36,7 +37,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Galt Project](../use-cases/dao-governance.md): DAO governance, UBI
 * [KickBack](https://medium.com/wearekickback/kickback-x-the-three-experimental-new-features-bb75e1149022): Event Management and RSVP accountability
 * [EthicHub](https://ethichub.com/): Loans for small farmers
-* [Coinosis](https://coinosis.co/): Incentivized study groups 
+* [Coinosis](https://coinosis.co/): Incentivized study groups
+* [clr.fund](http://clr.fund/#/): Decentralized Quadratic Funding
 
 **Governance**
 
