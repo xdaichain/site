@@ -51,6 +51,7 @@
     * [POSDAO Prep & 40,000 STAKE Burn](about-xdai/news-and-information/project-updates/posdao-prep-and-40-000-stake-burn.md)
     * [Chainlink Integration](about-xdai/news-and-information/project-updates/chainlink-integration.md)
     * [EasyStaking Launch Initiative Update](about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md)
+    * [⚔️ xDai Weekly Recap - 20/11/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-20-11-2020.md)
     * [⚔️ xDai Weekly Recap - 13/11/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-13-11-2020.md)
     * [⚔️ xDai Weekly Recap - 06/11/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-06-11-2020.md)
     * [⚔️ xDai Weekly Recap - 30/10/2020](about-xdai/news-and-information/project-updates/xdai-weekly-recap-30-10-2020.md)
