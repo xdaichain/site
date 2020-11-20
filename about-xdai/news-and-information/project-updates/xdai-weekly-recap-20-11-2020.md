@@ -4,11 +4,13 @@ description: 14 November - 20 November 2020
 
 # ⚔️ xDai Weekly Recap - 20/11/2020
 
-This week we highlight several crowd-sourced funding projects on xDai. The blockchain community is rallying around projects and building infrastructure from the ground up. Matching funds are helping support smaller projects and developers realize a decentralized future!  
+This week we highlight several crowd-sourced funding platforms on xDai. The blockchain community is rallying around projects and building infrastructure from the ground up. Matching funds are helping smaller projects and developers realize a decentralized future!  
 
 {% hint style="info" %}
-Note that we will skip several weekly updates over the holiday season. We will not publish a weekly update next week: November 21 - 28.
+Note that we will skip several weekly updates over the holiday season. **We will not publish a weekly update next week: November 21 - 28.**
 {% endhint %}
+
+![](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2819%29.png)
 
 ## 💰 Ecosystem Funding
 
