@@ -30,7 +30,7 @@ To learn more about the current validators,[ visit the xDai forum page where val
 
 👩🚒\*\*\*\*[**Burner Wallet**](https://burnerwallet.io/)**:** An application that provides a quick and easy way to carry and exchange small amounts of spending crypto using a mobile browser. The _**`BURNER`**_ Wallet runs on the xDai Chain and uses xDai, taking advantage of low fees and fast transaction times.
 
-👨🔬\*\*\*\*[**Portis**](https://portis.io/)**:** A technology company with a mission to simplify decentralized applications. Their development process is driven by a desire to create simple user interfaces and intuitive onboarding tools for all users.
+👨🔬\*\*\*\*[**Portis**](https://portis.io/) **\(Shapeshift\):** A technology company with a mission to simplify decentralized applications. Their development process is driven by a desire to create simple user interfaces and intuitive onboarding tools for all users.
 
 🦸♂\*\*\*\*[**SyncNode**](https://medium.com/syncnode-validator)**:** A software development company headquartered in Switzerland and Romania. Since 2017 Syncnode has been fully dedicated to the blockchain space where they are involved in building community solutions.
 
