@@ -258,6 +258,8 @@
   * [New Validators: Bridge Node Setup](for-validators/for-bridge-validators/bridge-node-setup.md)
   * [Current Validators: How to Add a New Bridge Validator](for-validators/for-bridge-validators/current-validators-how-to-add-a-new-bridge-validator.md)
   * [xDai Bridge Contracts Management](https://docs.tokenbridge.net/xdai-bridge/xdai-bridge-contracts-management)
+* [For Consensus Validators](for-validators/for-consensus-validators/README.md)
+  * [Transactions Prioritization in AuRa](for-validators/for-consensus-validators/transactions-prioritization-in-aura.md)
 * [Consensus](for-validators/consensus/README.md)
   * [AuRa with POSDAO Consensus](for-validators/consensus/aura-consensus.md)
   * [POSDAO: Proof of Stake Decentralized Autonomous Organization](for-validators/consensus/posdao-proof-of-stake-decentralized-autonomous-organization.md)
