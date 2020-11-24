@@ -1,6 +1,6 @@
-# Buying xDai with Fiat \(in Progress\)
+# Buying xDai with Fiat
 
-{% hint style="danger" %}
-xDai direct purchases are currently under construction.  Purchase Dai on the mainnet and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/), or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](../burner-wallet-functions/exchange-currencies.md).
+{% hint style="info" %}
+xDai direct purchases are now available with [Ramp](ramp-network.md). You can also Purchase Dai on Ethereum and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/).
 {% endhint %}
 

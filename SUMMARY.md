@@ -113,7 +113,7 @@
   * [Viewing Inbound \(Dai to xDai\) Transactions](for-users/converting-xdai-via-bridge/viewing-inbound-transactions.md)
   * [Troubleshoot Bridge Txs, UI, xDai.io, xmoon.exchange, MetaMask](for-users/converting-xdai-via-bridge/troubleshooting.md)
 * [OmniBridge \(for all other ERC20 tokens\)](for-users/omnibridge.md)
-* [Buying xDai with Fiat \(in Progress\)](for-users/buying-xdai-with-wyre/README.md)
+* [Buying xDai with Fiat](for-users/buying-xdai-with-wyre/README.md)
   * [Ramp Network](for-users/buying-xdai-with-wyre/ramp-network.md)
   * [Buying xDai with Portis via Wyre \(Under Construction\)](for-users/buying-xdai-with-wyre/buying-xdai-with-portis.md)
 * [Explorers](for-users/explorers/README.md)
