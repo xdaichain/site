@@ -226,7 +226,7 @@ As a result, both addresses are whitelisted:
 * 0x226621b14f1b1c385cd7e0cc2ef7abe5598c5555
 * 0x885521b14f1b1c385cd7e0cc2ef7abe5598c7777
 
-### 4. Nuances of the prioritization
+### 4. Nuances of prioritization
 
 4.1. If an address sends two transactions with the same `gasPrice` and `nonce`, the transaction with the higher weight will be picked up \(if its destination is prioritized\).
 
