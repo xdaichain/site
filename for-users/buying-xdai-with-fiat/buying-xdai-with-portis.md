@@ -1,14 +1,10 @@
----
-description: >-
-  Portis Wallet provides an option to buy xDai directly from the wallet using
-  the Wyre API.
----
+# Buying xDai via Wyre \(Inactive\)
 
-# Buying xDai with Portis via Wyre \(Under Construction\)
-
-{% hint style="danger" %}
-xDai direct purchases are currently under construction.  Purchase Dai on the mainnet and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/), or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](../burner-wallet-functions/exchange-currencies.md).
+{% hint style="info" %}
+xDai direct purchases with Wyre are currently under construction.  You can use Ramp with Euro integration or purchase Dai on Ethereum and use the [Bridge UI to get xDai](../converting-xdai-via-bridge/).
 {% endhint %}
+
+## Prior Portis Instructions \(not currently active\)
 
 {% hint style="warning" %}
 Billing addresses in the US use the [Wyre](https://www.sendwyre.com/) API to purchase xDai with Portis. US buyers are limited to **$40 per day** and pay a fee of ~3%.  
