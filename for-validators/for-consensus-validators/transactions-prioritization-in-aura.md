@@ -1,3 +1,7 @@
+---
+description: Tx priority and whitelists can be set through on and off-chain methods.
+---
+
 # Transactions Prioritization in AuRa
 
 {% hint style="warning" %}
@@ -6,7 +10,7 @@ Note: Currently this feature is only supported by the [Nethermind](https://nethe
 
 An xDai/AuRa validator can use the prioritization feature to define transaction inclusion rules. Prioritized transactions are included at the top of a block \(over other, non-prioritized, transactions\) created by the validator.
 
-This can be helpful if a network is spam-attacked or heavily loaded by a project: the prioritization helps ensure necessary transactions are included first \(such as bridge transactions, for example\).
+This can be helpful if a network is spam-attacked or heavily loaded by a project: the prioritization helps ensure necessary transactions are included first \(bridge transactions, for example\).
 
 Each validator can set their own prioritization rules that don't depend on the rules of other validators.
 
@@ -15,9 +19,9 @@ There are two independent ways to set prioritization rules:
 1. On-chain \(public\): deploy a [TxPriority](https://github.com/poanetwork/posdao-contracts/blob/master/contracts/TxPriority.sol) smart contract and set the rules accordingly as described in [https://github.com/NethermindEth/nethermind/issues/2300](https://github.com/NethermindEth/nethermind/issues/2300).
 2. Off-chain \(non-public\): create a local, non-public config file with defined rules.
 
-Both methods can be used independently of each other, or can be used in tandem: in this case, the on-chain and off-chain rules are merged together. The off-chain local rules overlap the on-chain ones if they intersect \(except the whitelist of top priority senders, see below for details\).
+Both methods can be used independently of each other, or can be used in tandem: in this case, on-chain and off-chain rules are merged, with off-chain local rules taking precedence over on-chain ones if they intersect \([more details here](transactions-prioritization-in-aura.md#3-combining-both-methods)\).
 
-### 1. Defining priority rules using a smart contract
+### 1. Defining priority rules using a smart contract \(on-chain\) 
 
 To define the rules \(destinations and their weights\), a validator first needs to deploy the [TxPriority contract](https://github.com/poanetwork/posdao-contracts/blob/master/contracts/TxPriority.sol). The constructor accepts the address of the contract's owner. Only the contract's owner can manage it.
 
@@ -112,9 +116,7 @@ To define the config path in your filesystem, use the `Aura/TxPriorityConfigFile
 Note: it is better to use an absolute path to the file.
 {% endhint %}
 
-The TxPriority config file should be JSON formatted. 
-
-Example of the file with different rules:
+The TxPriority config file should be JSON formatted. Example of the file with different rules:
 
 ```text
 {
@@ -170,16 +172,16 @@ The file with empty rules looks like this:
 ```
 
 {% hint style="warning" %}
-The changes in the TxPriority config file take effect immediately without having to restart the node.
+The changes in the TxPriority config file take effect immediately without needing to restart the node.
 {% endhint %}
 
 ### 3. Combining both methods
 
 As mentioned above, both methods \(on-chain and off-chain\) can be used independently of each other, or they can be used at the same time.
 
-When combining on-chain and off-chain rules, they will be merged together. The off-chain local rules overrule the on-chain ones if they intersect. For example:
+Rules are merged when combining on-chain and off-chain rules. In the case of intersecting information, **off-chain local rules overrule the on-chain ones**. For example:
 
-We made the following call:
+We make the following call:
 
 `setPriority(0x443321b14f1b1c385cd7e0cc2ef7abe5598c0000, 0x12345678, 1000)`
 
@@ -205,9 +207,7 @@ The same goes for `minGasPrices` rules.
 
 #### 3.1 Whitelist Rules
 
-Note that `whitelist` rules differ - these rules are combined from both on-chain and off-chain methods.
-
-For example we make the following call:
+Note that `whitelist` rules are combined from both on-chain and off-chain methods. For example we make the following call:
 
 `setSendersWhitelist([0x226621b14f1b1c385cd7e0cc2ef7abe5598c5555])`
 
