@@ -83,7 +83,7 @@ For convenience, a validator can verify their `TxPriority` contract in [Blocksco
 
 #### 1.2 Whitelist of top priority senders
 
-There can be a short whitelist of `from` addresses which receive top priority \(higher than others defined by the `setPriority` contract function\).
+There can be a whitelist of `from` addresses which receive top priority \(higher than others defined by the `setPriority` contract function\).
 
 If there is a transaction with the `from` field matching one of the whitelisted addresses, such a transaction will be prioritized higher than others, including those set by the `setPriority` function.
 
