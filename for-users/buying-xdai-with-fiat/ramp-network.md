@@ -1,5 +1,5 @@
 ---
-description: A Fiat -> xDai gateway
+description: A Fiat -> xDai Gateway
 ---
 
 # Ramp Network
