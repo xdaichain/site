@@ -20,7 +20,11 @@ Visit the [Ramp Network Hosted Gateway](https://ramp.network/buy/?swapAsset=XDAI
 There are 2 options to integrate Ramp network with an application on xDai.
 
 1. **Hosted Mode**: Simply add a redirect to the ramp network - [https://ramp.network/buy/?swapAsset=XDAI](https://ramp.network/buy/?swapAsset=XDAI) - and include any query parameters with the url. [Instructions for hosted mode](https://docs.ramp.network/quick-start-hosted/).
-2. **Embedded Mode**: Use the Ramp SDK, along with `swapAsset: 'XDAI'` to get started. There are [Ramp testing environments ](https://docs.ramp.network/testing-environments)available on Kovan, Gorli and other testnets as well. Instructions for [Embedded Mode & SDK](https://docs.ramp.network/quick-start-embedded/).
+2. **Embedded Mode**: Use the Ramp SDK, along with `swapAsset: 'XDAI'` to get started. There are [Ramp testing environments ](https://docs.ramp.network/testing-environments)available on Kovan, Gorli and other testnets as well. Instructions for [Embedded Mode & SDK](https://docs.ramp.network/quick-start-embedded/). The Ramp widget is optimized for the mobile experience.
+
+[API integration](https://docs.ramp.network/rest-api-reference) is available to customize the user experience and return asset information and prices, events, purchase status and other details.
+
+
 
 
 
