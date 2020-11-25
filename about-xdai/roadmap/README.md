@@ -8,20 +8,16 @@ description: Current & Future Directions for the xDai Stable Chain
 The xDai roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
 {% endhint %}
 
-_Last update: 18.11.2020 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: 25.11.2020 \|_ [_Changelog_](./#change-log)\_\_
 
 ## Fiat to xDai Onramp
 
 \*\*\*\*🎯 **Target:** Q4 2019  
- ☑ **Status:** Implementations in process.
+ ✅**Status:** [Ramp integration](../../for-users/buying-xdai-with-fiat/ramp-network.md) completed 2020. Includes support for 40+ countries, additional integrations and US support will continue to be explored
 
-{% hint style="success" %}
-Wyre integration for xDai is in development.
-{% endhint %}
+In order to offer options for users, xDai should be available for direct purchase. Prior to a fiat gateway, the primary method for users to get xDai is to get Dai first and relay it to xDai via the xDai Bridge. The process can be complicated and time-consuming due when Ethereum is congested.
 
-At the moment, to get xDai, most users have to get Dai first and relay it to xDai via xDai Bridge. The process is complicated and time-consuming due to congestions on the Ethereum networks and the probabilistic nature of Proof of Work consensus. Relayers of the xDai bridge are waiting for eight blocks on Ethereum before they relay Dai to xDai.
-
-The xDai team is working with payment processing companies to enable Fiat to xDai onramp. To facilitate the integration of xDai fiat onramp into wallets, the team started "xDai Adoption Fund" [https://www.xdaichain.com/for-developers/grants\#xdai-adoption-fund](https://www.xdaichain.com/for-developers/grants#xdai-adoption-fund)
+The xDai team is working with payment processing companies to enable one or several Fiat to xDai onramps. 
 
 ## **Multi-Collateral Dai &lt;-&gt; xDai Bridge**
 
@@ -162,6 +158,16 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>25.11.2020</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Update Fiat -&gt; xDai gateway status to completed.</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>18.11.2020</em>
       </td>
