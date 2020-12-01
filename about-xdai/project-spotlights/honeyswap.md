@@ -11,5 +11,3 @@ The xDai team ❤ projects that deploy on our chain, but we can't provide projec
 * xMoons on HoneySwap: [https://decrypt.co/43078/heres-how-to-sell-reddits-crypto-tokens-for-cash](https://decrypt.co/43078/heres-how-to-sell-reddits-crypto-tokens-for-cash)
 * [HoneyLand](https://about.1hive.org/blog/honey-land/)
 
-
-
