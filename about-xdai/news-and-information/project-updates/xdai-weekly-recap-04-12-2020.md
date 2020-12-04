@@ -10,6 +10,8 @@ This week we continued our work on public staking, welcomed the new Ramp direct 
 Note that we will skip several weekly updates over the holiday season. **We did not publish a recap last week, and will skip several weeks at the end of the month.** 
 {% endhint %}
 
+![December 04, 2020 Weekly Update](../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2821%29.png)
+
 ## \*\*\*\*💶 **Ramp Fiat -&gt; xDai** 
 
 Although this announcement occurred last week, we did not include in a weekly update and wanted to highlight this important milestone. A direct fiat-to-xDai onramp has been on our [Roadmap for a long time](../../roadmap/#fiat-to-xdai-onramp)! We had previously worked with other providers without success, and were excited this collaboration with [Ramp Network](https://ramp.network/) could come to fruition. Ramp is currently only available for EU customers, however they plan to integrate US customers in the near future. Their simple SDK or hosted option allows projects to easily add direct xDai purchases to their apps. We look forward to these integrations, removing one more obstacle for users and creating a seamless crypto experience.
