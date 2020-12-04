@@ -62,7 +62,7 @@ Telegram users can now easily track STAKE trades across multiple DEXS, including
 
 ### Protofire 
 
-Protofire is an original xDai chain validator, and has also received a grant to spearhead the xDai chainlink integration. In the previous week Manu Garcia, CTO of Protofire, presented at the Ethereum Buenos Aires meetup on the features and future of xDai.
+Protofire is an original xDai chain validator, and has also received a [grant to spearhead the xDai chainlink integration](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/). In the previous week Manu Garcia, CTO of Protofire, presented at the Ethereum Buenos Aires meetup on the features and future of xDai.
 
 {% embed url="https://twitter.com/rmgarciap/status/1332149809889894401" %}
 
