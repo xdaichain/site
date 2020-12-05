@@ -14,7 +14,7 @@ Note that we will skip several weekly updates over the holiday season. **We did 
 
 ## \*\*\*\*💶 **Ramp Fiat -&gt; xDai** 
 
-Although this announcement occurred last week, we did not include in a weekly update and wanted to highlight this important milestone. A direct fiat-to-xDai onramp has been on our [Roadmap for a long time](../../roadmap/#fiat-to-xdai-onramp)! We had previously worked with other providers without success, and were excited this collaboration with [Ramp Network](https://ramp.network/) could come to fruition. Ramp is currently only available for EU customers, however they plan to integrate US customers in the near future. Their simple SDK or hosted option allows projects to easily add direct xDai purchases to their apps. We look forward to these integrations, removing one more obstacle for users and creating a seamless crypto experience.
+Although this announcement occurred last week, we did not include in a weekly update and wanted to highlight this important milestone. A direct fiat-to-xDai onramp has been on our [Roadmap for a long time](../../roadmap/#fiat-to-xdai-onramp)! We had previously worked with other providers without success, and were excited this collaboration with [Ramp Network](https://ramp.network/) could come to fruition. Ramp is currently [available in many countries](https://support.ramp.network/en/article/what-countries-do-you-support-1ua7sn1/), and they plan to integrate US customers in the near future. Their simple SDK or hosted option allows projects to easily add direct xDai purchases to their apps. We look forward to these integrations, removing one more obstacle for users and creating a seamless crypto experience.
 
 {% embed url="https://twitter.com/xdaichain/status/1331631434973458435" %}
 
