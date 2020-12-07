@@ -1,8 +1,22 @@
 # Claim Stake
 
+
+
 {% hint style="warning" %}
-POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
+POSDAO Public Staking is not here yet but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
 {% endhint %}
+
+## Claim STAKE Rewards
+
+Rewards are available to claim once a staking epoch is complete. If your stake was active during previous epochs you can claim using the Claim Button in BlockScout. 
+
+{% embed url="https://youtu.be/5d4pnEOH9GE" %}
+
+{% hint style="warning" %}
+If you receive an error when claiming, try to specify separate epochs, the **Tx Gas Limit** may be too high to process all epochs at once.
+{% endhint %}
+
+## Claim Ordered Withdrawals
 
 Stake ordered for withdrawal is available to claim once the staking epoch in which the claim was ordered is complete. See the **important note below** related to actions that can cause a claim delay.
 
