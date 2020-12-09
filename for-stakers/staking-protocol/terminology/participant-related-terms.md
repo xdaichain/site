@@ -1,7 +1,7 @@
 # Participant Related Terms
 
 {% hint style="warning" %}
-POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
+POSDAO Public Staking is not here yet but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
 {% endhint %}
 
 {% tabs %}
@@ -89,7 +89,7 @@ They receive block rewards as well as transaction and bridge fees in exchange fo
 
 Validators may increase their stake amounts at any time by selecting their own pool in the list of pools and adding STAKE to that pool. This pending stake does not influence current rewards, but is used during the validator selection process for the next staking epoch.
 
-Validators can also remove their pool from selection consideration to the next epoch with the Remove My Pool functionality.
+Validators can also remove their pool from selection consideration to the next epoch with the Remove My Pool functionality. This button is active in the header for eligible pools.
 
 ### Validator Pool
 
@@ -101,5 +101,5 @@ Additional pending stake may be placed on the validator pool during a staking ep
 
 The validator set is the current group of validators participating in consensus. The maximum number of validators in a set is 19, and a new validator set is chosen for each staking epoch. Members are selected based on the total amount of stake in their pool relative to the total deposited stake \(stake ratio\), along with a random number that adds variation to the process. A higher stake ratio results in a higher likelihood of selection, but it does not guarantee selection, as every active candidate has a chance to be selected to the next set.
 
-If a validator in the set is removed for malicious behavior, a new validator set \(containing the current set minus the malicious validator\) is installed into the protocol. This modified set completes the current staking epoch, and rewards are distributed equally among the modified set.
+If a validator in the set is removed for malicious behavior \(banned\), a new validator set containing the current set minus the malicious validator is installed into the protocol. This modified set containing 1 less validator completes the current staking epoch, and rewards are distributed equally among the modified set.
 
