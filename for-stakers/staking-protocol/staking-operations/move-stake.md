@@ -22,7 +22,7 @@ You must either retain the minimum amount of stake in the pool \(to remain in th
 
 ## Move STAKE Instructions
 
-1\) Locate the pool you would like to **move stake from**, and click the move stake icon. This icon will only appear if moving stake is a current option.
+1\) Locate the pool you would like to **move stake from** \(the source pool\), and click the move stake icon. This icon will only appear if moving stake is a current option.
 
 ![](../../../.gitbook/assets/withdraw1%20%282%29.png)
 
