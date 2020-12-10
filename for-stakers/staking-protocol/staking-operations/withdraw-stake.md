@@ -44,6 +44,10 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 
 ### Ordered Withdrawal Instructions
 
+{% embed url="https://youtu.be/CgER1v2xZqs" %}
+
+
+
 1\) Check that your [web3 wallet is connected with the correct address](https://forum.poa.network/t/staking-with-a-web3-wallet-metamask-nifty-wallet/2995) and you have enough [xDai](https://forum.poa.network/t/acquire-dpos-and-xdai/2994) to process the transaction.
 
 2\) Click the Withdraw icon next to the active validator pool you would like to withdraw from. The icon will only appear if a withdrawal of some type is possible.

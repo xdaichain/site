@@ -16,6 +16,10 @@ If you receive an error when claiming, try to specify separate epochs, the **Tx 
 
 ## Claim Ordered Withdrawals
 
+{% embed url="https://youtu.be/CgER1v2xZqs" %}
+
+
+
 Stake ordered for withdrawal is available to claim once the staking epoch in which the claim was ordered is complete. See the **important note below** related to actions that can cause a claim delay.
 
 1. Check that your web3 wallet is connected with the correct address and you have enough xDai to process the transaction. 
