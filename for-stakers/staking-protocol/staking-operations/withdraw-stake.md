@@ -1,5 +1,5 @@
 ---
-description: How to withdraw available stake and order stake for withdrawal
+description: How to withdraw available stake and order active stake for withdrawal
 ---
 
 # Withdraw Stake
@@ -25,7 +25,7 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 \*_**Note:**_ _You cannot add, move or withdraw stake when the staking window is closed. This occurs at the very end of each staking epoch \(~ the final 6 hours\), where all staking actions are inactive._
 {% endhint %}
 
-### Immediate Withdrawal Instructions \(Withdraw Now\):
+### Immediate Withdrawal Instructions \(Available Now\):
 
 1\) Check that your [web3 wallet is connected with the correct address](https://forum.poa.network/t/staking-with-a-web3-wallet-metamask-nifty-wallet/2995) and you have enough [xDai](../../../for-users/get-xdai-tokens.md) to process the transaction.
 
@@ -42,7 +42,7 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 
 4\) Once the transaction is processed, the withdrawn amount will be immediately reflected in your balance.
 
-### Ordered Withdrawal Instructions
+### Ordered Withdrawal Instructions \(You Can Order\)
 
 {% embed url="https://youtu.be/CgER1v2xZqs" %}
 
