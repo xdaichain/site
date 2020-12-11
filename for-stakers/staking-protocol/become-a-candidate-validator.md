@@ -14,15 +14,15 @@ Once phase 2 begins, additional validators and delegators will have the ability 
 If you do not want to become a validator, but are interested in placing stake on other validators, see Become a Delegator
 {% endhint %}
 
-## Instructions &lt;in process&gt;
+## Instructions
 
-{% hint style="info" %}
-If you have any questions or concerns about becoming a candidate or validator, please contact us in [Discord](https://discord.com/invite/mPJ9zkq) or [our forum](https://forum.poa.network/c/xdai-chain/validators-intro/42).
+{% hint style="warning" %}
+If you have any questions or concerns about becoming a candidate or validator, or experience any issues during setup, please contact us in [Discord](https://discord.com/invite/mPJ9zkq) or [our forum](https://forum.poa.network/c/xdai-chain/validators-intro/42).
 {% endhint %}
 
-1\) You will need the minimum candidate stake amount of STAKE \(currently 20,000 STAKE\) and a small amount of xDAI deposited to your address on the xDai chain. Deposit these to your staking address - this is the address you will use to access the protocol. 
+1\) You will need the minimum candidate stake amount of STAKE \(currently 20,000 STAKE\) and a small amount of xDAI deposited to your address on the xDai chain. Deposit these to **your staking address** \(an 0x external address\). You will use to access the protocol. 
 
-2\) In addition to your regular staking address, you will need a separate mining address which will be configured to an OpenEthereum or Nethermind node. Generate and save the json keystore file \(and be sure to save the password in a safe place!\)
+2\) In addition to your regular staking address, you will need a **separate mining address.** This ****will be configured to an OpenEthereum or Nethermind node. Generate and save the JSON keystore file \(and be sure to save the password in a safe place!\)
 
 _**OpenEthereum Notes:**_ 
 

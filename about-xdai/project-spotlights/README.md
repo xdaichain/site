@@ -76,6 +76,12 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Reality Cards](https://realitycards.io/): NFTs for prediction voting
 * Omen Prediction Market: Coming soon.
 
+**Analytics**
+
+* [Dappquery](https://dappquery.com/): Smart Contract dashboards, metrics and visualizations
+* [Tenderly](https://tenderly.co/): xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
+* [Chainbeat](https://chainbeat.io/): Monitoring and analytics tools for DApp developers.
+
 **Games**
 
 * [Darkforest](https://zkga.me/): zkSNARK space warfare game
