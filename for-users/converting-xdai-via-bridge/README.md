@@ -10,6 +10,7 @@ description: Dai is converted to xDai through the TokenBridge
 * [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
 * Additional bridge documentation is [available here](https://docs.tokenbridge.net/xdai-bridge/about).
 * ❓ Having issues? See our [troubleshooting guide](troubleshooting.md).
+* Quick video tutorial: [https://youtu.be/IG9Lz-M8UFQ](https://youtu.be/IG9Lz-M8UFQ)
 {% endhint %}
 
 {% hint style="info" %}

@@ -8,6 +8,10 @@ The xDai staking UI is currently under construction.  It will be incorporated di
 
 ## Video Sneak Peek
 
+{% hint style="warning" %}
+This was the initial walkthrough. The application has undergone UX revisions since that time, though many of the features are still the same.
+{% endhint %}
+
 In 3 minutes we click through a few functions to give you a sense of the upcoming UI, including: 
 
 * Tooltip Displays
@@ -49,8 +53,4 @@ Just include the amount to place stake. It will not become active until the foll
 You are able to claim rewards after every staking epoch you participated in. You can claim all, or specify a range to claim from.
 
 ![](../../.gitbook/assets/claim-reward.png)
-
-{% hint style="info" %}
-We will include more screens and a thorough run through of features as we get closer to the public POSDAO launch.
-{% endhint %}
 

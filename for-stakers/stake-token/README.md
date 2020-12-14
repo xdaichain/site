@@ -22,9 +22,9 @@ Users \(stakers\) provide STAKE as collateral when participating in the consensu
 
 ### Staking STAKE
 
-When xDai public staking starts \(**scheduled for Q4 2020 - Q1 2021**\), individuals who own STAKE tokens can place them into the protocol through a user friendly interface. Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.
+When xDai public staking starts \(**scheduled for Q4 2020 - Q1 2021**\), individuals who own STAKE tokens on xDai can place them into the protocol through a user friendly interface. Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) with the [OmniBridge U](../../for-users/omnibridge.md)I which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.
 
-In addition, exchanges may offer the opportunity to provide delegator staking directly from the exchange. Typically, this means STAKE holders select the option to stake the token, and the exchange processes the request \(determining which validator to stake on, aggregating rewards and other tasks for a small percentage fee\). Staking functionality is initiated by the participating exchange. 
+In addition, exchanges may offer the opportunity to provide delegator staking on Ethereum directly from the exchange. Typically, this means STAKE holders select the option to stake the token, and the exchange processes the request \(determining which validator to stake on, aggregating rewards and other tasks for a small percentage fee\). Staking functionality is initiated by the participating exchange. 
 
 Validator candidates must meet certain requirements before placing STAKE \(the ability to run a functional node and minimum STAKE amounts\).  Delegators can place additional STAKE on candidates and receive rewards when the candidates they have placed STAKE on are chosen as validators.
 
@@ -32,7 +32,7 @@ When STAKE is locked in the protocol, rewards for sealing blocks are generated i
 
 ### STAKE Total Supply 
 
-The STAKE circulating supply is **8,537,500 tokens** \(once all tokens are unlocked in the protocol\).
+The STAKE circulating supply is **8,537,500 tokens** \(once all tokens are unlocked in the protocol\). Emissions will increase this value by a maximum of 15% annually.
 
 ###  STAKE Governance
 

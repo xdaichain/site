@@ -46,7 +46,7 @@ For more on the STAKE token, see [https://www.staketoken.net/](https://www.stake
         <br />Q3 2020
         <br />
         <br />Public POSDAO Anticipated:
-        <br />Q1 -Q2 2021</td>
+        <br />Q4 2020 -Q1 2021</td>
     </tr>
     <tr>
       <td style="text-align:left">3) <a href="./#phase-3-honeybadger-bft-consensus-layer-integration">HoneyBadger BFT Consensus Layer Integration</a>
@@ -107,7 +107,8 @@ The EasyStaking application will be deployed to the Ethereum Mainnet, and will a
 ### POSDAO Staking on xDai
 
 * Validator Candidate: 20,000 STAKE Minimum
-* Delegator: 1,000 STAKE Minimum
+* Delegator: 1,000 STAKE Minimum 
+  * Minimums may be changes with a governance proposal.
 * STAKE reward % will vary based on role \(validator or delegator\) and amount of total STAKE locked in the protocol. The APR may be adjusted from phase 1 \(15%\). For more details, see the [reward distribution section of the POSDAO whitepaper](https://forum.poa.network/t/posdao-white-paper/2208).
 * The STAKE bridge will open bi-directionally, allowing STAKE to flow freely from the Ethereum mainnet to the xDai chain and back. 
 
@@ -121,7 +122,6 @@ The EasyStaking application will be deployed to the Ethereum Mainnet, and will a
 | Enable staking for new validator candidates | TBD  |
 | Enable public delegation | TBD  |
 | Enable bridge exit reward \(additional STAKE reward\) | TBD |
-| Enable xDai Chai-based reward | TBD  |
 
 ### Public Staking Details
 

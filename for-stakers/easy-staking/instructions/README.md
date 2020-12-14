@@ -5,7 +5,7 @@ description: Basic Instructions
 # Instructions
 
 {% hint style="success" %}
-* Easy Staking is now available for stakers at [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/)
+* Easy Staking for **STAKE on Ethereum** is now available for stakers at [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/)
 * Launch details: [https://t.me/xdai\_official/160](https://t.me/xdai_official/160)
 * Mobile ready to use use with [Alpha Wallet](https://alphawallet.com/), [Trust Wallet](https://trustwallet.com/), [Coinbase Wallet](https://www.coinbase.com/mobile), [Status](../../../for-users/wallets/status-wallet.md), [Opera Browser](https://www.opera.com/crypto) and other Ethereum mobile wallets with browsing capabilities.
 {% endhint %}

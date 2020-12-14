@@ -14,7 +14,7 @@ a\) Click on the top left Menu 三  then press **Add token**
 
 b\)  Click the  **Custom Token** item and enter in the STAKE Token address. The remaining details will autopopulate. Click **Next**.  
 
-* STAKE Token Address: [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
+* STAKE Token Address on Ethereum: [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
 
 ![](../../../.gitbook/assets/mm2.png)
 
