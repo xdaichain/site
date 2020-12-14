@@ -26,7 +26,7 @@ While each validator pool receives the same reward during a staking epoch, rewar
 
 5\) Find a candidate pool you would like to place stake on. You can view **current validator pools** on the **Validators Tab**, and **all active pools** in the **Active Tab** \(_this includes validators as well as pools which are not currently validating but are eligible to become validators_\). 
 
-Click on the pool address to see current pool statistics to help guide your decision. Staking into a candidate with a smaller pool size will result in higher reward percentages, however, candidates with smaller pools have a lower likelihood of selection to the validator set \(assuming 20+ active pools\). Stake on the candidate\(s\) you believe will provide the most benefits for the network; this will benefit you as well.
+Click on the pool address to see current pool statistics to help guide your decision. Staking into a candidate with a smaller pool size will result in higher reward percentages, however, candidates with smaller pools have a lower likelihood of selection to the validator set \(assuming 20+ active pools\). Stake on the candidate\(s\) you believe will provide the most benefits for the network; this will benefit you as well. You can also learn more about validators at [https://dai-netstat.poa.network/](https://dai-netstat.poa.network/)
 
 6\) Once decided, click the stake icon next to the pool you would like to stake on.
 
@@ -51,10 +51,10 @@ Click on the pool address to see current pool statistics to help guide your deci
 1. **Add additional stake**: Any additional stake added during an epoch will not accrue rewards for the current epoch, but will be added to the pool size which will influence selection in the next epoch. If the pool is chosen as a validator again, this added stake will be included in the next epoch’s rewards calculations.  
 
 
-   \*\*\*\*💎 **Instruction** To add additional stake on a candidate or validator, click the stake icon and enter the additional amount. You can add in any increment, as long as the total stake is more than a minimal required amount. Follow the web3 wallet prompts to complete the transaction.  
+   \*\*\*\*💎 **Instruction** To add additional stake on a candidate or validator, click the stake icon and enter the additional amount. You can add in any increment, as long as the total stake is more than a minimal required amount. Follow the web3 wallet prompts to complete the transaction. [More Info](staking-operations/add-stake.md)  
 
 2. **Order stake for withdrawal**. You may order a withdrawal of your stake, which will be available after the current epoch ends. Ordering a withdrawal will also influence total pool size for the next epoch’s selection process.To order a withdrawal, click the withdrawal icon and enter the amount to order. You must either keep the minimum delegation stake amount OR order the entire amount for withdrawal. You cannot have an amount below the minimum, but you may withdraw your total amount.  
 
 
-   \*\*\*\*💎 **Instruction** Enter the amount and click Order Withdrawal. You can enter the whole amount to remove yourself as a delegator, or you can remove a portion as long as you maintain a minimum of 1000 STAKE.The transaction should process through the web3 wallet interface. Once the staking epoch is complete, the amount will be available to claim. Click on the claim icon and follow the instructions.
+   \*\*\*\*💎 **Instruction** Enter the amount and click Order Withdrawal. You can enter the whole amount to remove yourself as a delegator, or you can remove a portion as long as you maintain a minimum of 1000 STAKE.The transaction should process through the web3 wallet interface. Once the staking epoch is complete, the amount will be available to claim. Click on the claim icon and follow the instructions. [More Info](staking-operations/withdraw-stake.md#ordered-withdrawal)
 

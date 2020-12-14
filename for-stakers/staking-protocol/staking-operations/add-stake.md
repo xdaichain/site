@@ -10,9 +10,9 @@ POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gather
 
 To add stake for the first time, you can either [Become a Candidate](../become-a-candidate-validator.md) or [Become a Delegator](../become-a-delegator.md), depending on whether you want to create your own pool \(become a candidate\) or stake into an existing pool \(become a delegator\).
 
-**To add additional stake:**
+**Add More Stake:**
 
-1\) Ensure you have enough STAKE to stake and xDai to complete a transaction. Once you have become a candidate or delegator, you can stake any amount, as long as the total remains above the minimum STAKE amount.
+1\) Ensure you have STAKE on xDai and a small amount of xDai to complete a transaction. Once you have become a candidate or delegator, you can stake any amount, as long as the total remains above the minimum STAKE amount.
 
 2\) To add, click on the stake icon 
 
