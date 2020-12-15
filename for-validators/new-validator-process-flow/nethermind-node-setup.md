@@ -52,7 +52,7 @@ Installation instructions will vary based on OS. Follow the instructions here:
 
 ### 2\) Sync Clock
 
-Your clock must by synchronized to prevent skipping block sealing.
+Your clock should by synchronized to prevent skipping block sealing.
 
  Enter`timedatectl status` , you should see similar output:
 
@@ -91,10 +91,10 @@ $ git clone -b nethermind https://github.com/xdaichain/validator-node-dockerized
 $ cd validator-node-dockerized
 ```
 
-### 4\) Update .env file
+### 4\) Update .env File
 
 {% hint style="info" %}
-You will need your private mining key to proceed
+You will need your private mining key to proceed \([see step 3 here to retrieve a key string using MetaMask](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme)\)
 {% endhint %}
 
 Copy `.env.example` to `.env` and configure the `.env` file. Define the following settings.
@@ -104,12 +104,14 @@ ETHSTATS_ID=[validator_name]
 ETHSTATS_CONTACT=[contact_email]
 ETHSTATS_SECRET=[netstat_secret_key]
 KEY=[your_private_key_for_mining_address]
+SEQAPIKEY=[seq_api_key]
 ```
 
 * `ETHSTATS_ID` - The displayed name of your validator in [Netstats](https://dai-netstat.poa.network/)
 * `ETHSTATS_CONTACT` - Validator's contact \(e.g., e-mail\)
-* `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- you will need access to the forum to view, please keep it private\)
+* `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- request access to the forum to view - please keep it private\)
 * `KEY` - Your mining address private key \(64 characters long **without leading `0x`**\)
+* `SEQAPIKEY` - An API key for [Seq](https://datalust.co/seq) log collector \(should be provided by xDai team, please, request it\).
 
 ### 5\) Start the Node
 
@@ -119,15 +121,17 @@ $ docker-compose up -d
 
 Once docker containers are created, the node will sync with the chain \(may take a while\).
 
+### 6\) Remove Private Key from .env File \(optional but recommended\)
+
+After your docker container is created and started, it doesn't need the key anymore, so the key can be removed from `.env` for security reasons. **But note, that if you `down` your container, you will need to specify the key again before you `up` \(recreate\) the docker container.**
+
 To restart, cd into the  `validator-node-dockerized` directory and use `docker-compose stop` then `docker-compose start`
 
-### 6\) Check Logs
+### 7\) Check Logs
 
 To check the logs and verify operations \(look for the `Sealed block` log\).
 
 ```text
-docker-compose logs -f nethermind-validator
+docker-compose logs -f nethermind
 ```
-
-
 

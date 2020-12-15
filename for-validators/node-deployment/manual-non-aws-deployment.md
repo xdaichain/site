@@ -44,5 +44,5 @@ Enter a **STRONG** password to protect the user and you can leave the next 5 fie
 usermod -aG sudo ubuntu
 ```
 
-4\) Follow the process from [ansible playbook instructions](../new-validator-process-flow/prior-node-setup-instructions.md#iii-ansible-playbook-configuration).
+Follow the New Validator Process Flow to setup an [OpenEthereum](../new-validator-process-flow/openethereum-node-instructions.md) or [Nethermind](../new-validator-process-flow/nethermind-node-setup.md) Node.
 

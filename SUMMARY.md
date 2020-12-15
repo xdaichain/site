@@ -253,7 +253,7 @@
 * [POSDAO Whitepaper](for-validators/posdao-whitepaper.md)
 * [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
   * [Nethermind Node Setup](for-validators/new-validator-process-flow/nethermind-node-setup.md)
-  * [Old Instructions: OpenEthereum / Parity Node Setup](for-validators/new-validator-process-flow/prior-node-setup-instructions.md)
+  * [OpenEthereum / Parity Node Setup](for-validators/new-validator-process-flow/openethereum-node-instructions.md)
 * [New Validator Node Deployment](for-validators/node-deployment/README.md)
   * [Manual \(Non-AWS\) Deployment](for-validators/node-deployment/manual-non-aws-deployment.md)
   * [AWS Node Deployment using Playbooks](for-validators/node-deployment/aws-node-deployment-using-playbooks.md)
