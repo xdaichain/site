@@ -74,7 +74,7 @@ $ cd validator-node-dockerized
 
 ### 4\) Save Mining address and Key
 
- Name your JSON keystore file as `key` and save it in the `validator-node-dockerized` directory. Save the keystore's password to a `password` file. 
+ Generate an external \(0x\) address and name your JSON keystore file as `key` and save it in the `validator-node-dockerized` directory. Save the keystore password to a `password` file. 
 
 ### 4\) Update .env File
 
@@ -92,19 +92,19 @@ ACCOUNT=[mining_address]
 * `ETHSTATS_CONTACT` - Validator's contact \(e.g., e-mail\)
 * `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- you will need access to the forum to view, please keep it private\)
 * `EXT_IP` -  External IP address of the current server
-* `ACCOUNT` - Your mining address private key \(64 characters long **with leading `0x`**\)
+* `ACCOUNT` - Your mining address private key \(64 characters **including the** **leading `0x`**\)
 
-### 5\) Start the Node & Netstat
+### 5\) Start the Node & Netstat Service
 
 ```text
 $ docker-compose up -d
 ```
 
-Once docker containers are created, the node will sync with the chain \(may take a while\).
+Once docker containers are created, the node will sync with the chain \(this may take a while\).
 
 To restart, cd into the  `validator-node-dockerized` directory and use `docker-compose stop` then `docker-compose start`
 
-### 6\) Check NetStat
+### 6\) Check NetStats
 
 Open [https://dai-netstat.poa.network](https://dai-netstat.poa.network) and check that your node appears on the list and has &gt;0 peers. Wait until it synchronizes with the rest of the blockchain \(block number and block hash should match the rest of the network\).
 
