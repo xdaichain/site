@@ -16,6 +16,9 @@ While each validator pool receives the same reward during a staking epoch, rewar
 
 1\) You will need the minimum delegator stake amount of STAKE \(currently 1000 STAKE\) and a small amount of xDAI \(.1 is plenty\) deposited to your address on the xDai chain.
 
+* [Move DAI to xDai](../../for-users/converting-xdai-via-bridge/)
+* Video: [Move Stake from Ethereum to xDai with the OmniBridge](https://youtu.be/qbuBqur9lcE).
+
 2\) Go to [blockscout.com](http://blockscout.com/) and change the network to the xDai network.
 
 3\) After you have switched to xDai, select an item from the Stakes dropdown.
