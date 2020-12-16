@@ -255,7 +255,7 @@
   * [Nethermind Node Setup](for-validators/new-validator-process-flow/nethermind-node-setup.md)
   * [OpenEthereum / Parity Node Setup](for-validators/new-validator-process-flow/openethereum-node-instructions.md)
 * [New Validator Node Deployment](for-validators/node-deployment/README.md)
-  * [Manual \(Non-AWS\) Deployment](for-validators/node-deployment/manual-non-aws-deployment.md)
+  * [Manual Deployment](for-validators/node-deployment/manual-deployment.md)
   * [AWS Node Deployment using Playbooks](for-validators/node-deployment/aws-node-deployment-using-playbooks.md)
 * [For Bridge Validators](for-validators/for-bridge-validators/README.md)
   * [New Validators: Bridge Node Setup](for-validators/for-bridge-validators/bridge-node-setup.md)

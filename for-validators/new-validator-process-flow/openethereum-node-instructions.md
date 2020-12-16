@@ -92,7 +92,7 @@ ACCOUNT=[mining_address]
 * `ETHSTATS_CONTACT` - Validator's contact \(e.g., e-mail\)
 * `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- you will need access to the forum to view, please keep it private\)
 * `EXT_IP` -  External IP address of the current server
-* `ACCOUNT` - Your public mining address \(64 characters **including the** **leading `0x`**\)
+* `ACCOUNT` - Your public mining address \(40 characters **including the** **leading `0x`**\)
 
 ### 5\) Start the Node & Netstat Service
 

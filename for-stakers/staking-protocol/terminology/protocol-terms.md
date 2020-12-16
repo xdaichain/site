@@ -105,7 +105,7 @@ The STAKE token is subject to limited distribution, and the hard cap describes t
 
 ### Node
 
-Candidates and validators are responsible for maintaining a node capable of verifying transactions and storing the entirety of the chain. [A node must meet the technical requirements of the protocol](../../../for-validators/node-deployment/manual-non-aws-deployment.md).  A node must keep their version of the Blockchain client up-to-date and monitor the health of the node regularly. xDai with POSDAO will be supported by 2 clients, [OpenEthereum ](../../../for-developers/install-xdai-client/parity.md)and [Nethermind](../../../for-developers/install-xdai-client/nethermind.md).
+Candidates and validators are responsible for maintaining a node capable of verifying transactions and storing the entirety of the chain. [A node must meet the technical requirements of the protocol](../../../for-validators/node-deployment/manual-deployment.md).  A node must keep their version of the Blockchain client up-to-date and monitor the health of the node regularly. xDai with POSDAO will be supported by 2 clients, [OpenEthereum ](../../../for-developers/install-xdai-client/parity.md)and [Nethermind](../../../for-developers/install-xdai-client/nethermind.md).
 
 ### Reward Distribution Rules
 

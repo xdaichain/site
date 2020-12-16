@@ -2,7 +2,7 @@
 description: Manually with your favorite hosting provider (AWS/Azure/OVH/etc)
 ---
 
-# Manual \(Non-AWS\) Deployment
+# Manual Deployment
 
 ## Node requirements
 

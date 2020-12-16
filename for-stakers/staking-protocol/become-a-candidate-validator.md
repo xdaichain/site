@@ -37,7 +37,7 @@ openethereum account new --keys-path <path_to_save_json_keystore>
 
 * [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md)
 * [OpenEthereum: AWS](../../for-validators/node-deployment/aws-node-deployment-using-playbooks.md)
-* [OpenEthereum: Non-AWS \(Manual setup\)](../../for-validators/node-deployment/manual-non-aws-deployment.md)
+* [OpenEthereum: Non-AWS \(Manual setup\)](../../for-validators/node-deployment/manual-deployment.md)
 
 4\) Once your node is setup and ready, go to BlockScout and select Validators from the Apps dropdown menu.
 
