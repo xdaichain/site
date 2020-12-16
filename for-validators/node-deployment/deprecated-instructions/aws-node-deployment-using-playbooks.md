@@ -5,7 +5,7 @@ description: Using automated playbooks to create a node on AWS (requires AWS acc
 # AWS Node Deployment using Playbooks
 
 {% hint style="warning" %}
-The following instructions use previously developed ansible playbooks which are not currently maintained by the xDai team. Use at your own risk. We recommend following the manual process for [Nethermind](../new-validator-process-flow/nethermind-node-setup.md) or [OpenEtherum](../new-validator-process-flow/openethereum-node-instructions.md) validator node deployment.
+The following instructions use previously developed ansible playbooks which are not currently maintained by the xDai team. Use at your own risk. We recommend following the manual process for [Nethermind](../../new-validator-process-flow/nethermind-node-setup.md) or [OpenEtherum](../../new-validator-process-flow/openethereum-node-instructions.md) validator node deployment.
 {% endhint %}
 
 {% hint style="info" %}
