@@ -258,6 +258,7 @@
   * [Manual Deployment](for-validators/node-deployment/manual-deployment.md)
   * [Deprecated Instructions](for-validators/node-deployment/deprecated-instructions/README.md)
     * [AWS Node Deployment using Playbooks](for-validators/node-deployment/deprecated-instructions/aws-node-deployment-using-playbooks.md)
+    * [Parity/Ansible Playbook Instructions](for-validators/node-deployment/deprecated-instructions/parity-ansible-playbook-instructions.md)
 * [For Bridge Validators](for-validators/for-bridge-validators/README.md)
   * [New Validators: Bridge Node Setup](for-validators/for-bridge-validators/bridge-node-setup.md)
   * [Current Validators: How to Add a New Bridge Validator](for-validators/for-bridge-validators/current-validators-how-to-add-a-new-bridge-validator.md)
