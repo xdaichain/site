@@ -102,16 +102,11 @@
     </tr>
     <tr>
       <td style="text-align:left">LP Distribution Contract</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li><a href="https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d">0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d</a>
-          </li>
-        </ul>
+      <td style="text-align:left"><a href="https://etherscan.io/address/0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d">0x34fcb7f4edfd95761e6cbcf0fa34d19afd13089d</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">STAKE Token Contract</td>
+      <td style="text-align:left">STAKE Token Contract on Ethereum</td>
       <td style="text-align:left"><a href="https://etherscan.io/token/0x0ae055097c6d159879521c384f1d2123d1f195e6">0x0ae055097c6d159879521c384f1d2123d1f195e6</a>
       </td>
     </tr>

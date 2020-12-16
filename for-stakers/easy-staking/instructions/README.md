@@ -34,15 +34,15 @@ Access withdrawals by clicking on details for any deposit.
 
 There are two types of withdrawals - Instant and Scheduled. Select the type you would like and confirm in your web3 wallet.
 
-1. A **scheduled withdrawal** is processed in 2 transactions. With the first transaction, you schedule the withdrawal. It will be available to withdraw after 12 hours, and for a limited 12 hour time frame once it is available. Scheduled withdrawals do not incur a % fee \(but gas fees are assessed for both transactions\). More details are available here
-2. An **instant withdrawal** is processed immediately and you are assessed a small fee \(2%\) to withdraw.
+1. A **scheduled withdrawal** is processed in 2 transactions. With the first transaction, you schedule the withdrawal. It will be available to withdraw after 12 hours, and for a limited 12 hour time frame once it is available. Scheduled withdrawals do not incur a percentage-based fee \(but gas fees are assessed for both transactions\).
+2. An **instant withdrawal** is processed immediately and you are assessed a small fee \(2%\) to withdraw. The fee is sent to LP Providers in the STAKE/ETH pool.
 
 ![](../../../.gitbook/assets/deets2.png)
 
 ## Liquidity Providers
 
 {% hint style="warning" %}
-LP incentives are distributed on average every 7 days - the exact distribution date is randomized. 
+LP incentives are distributed to the top 100 providers on average every 7 days - the exact distribution date is randomized. 
 {% endhint %}
 
 If you are interested in supplying Liquidity in the form of STAKE / ETH and earning staking rewards as an LP,  you can add liquidity to the 🦄 Uniswap pool here: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
