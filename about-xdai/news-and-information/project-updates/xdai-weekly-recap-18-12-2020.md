@@ -34,7 +34,7 @@ Bonus for US residents - mint a token and get a FREE SWEATSHIRT with your design
 
 ### Perpetual Protocol
 
-Perpetual Protocol is officially live and running on xDai! Perpetual Protocol uses a streamlined system to allow traders to gain the benefits of xDai scaling without having to set up your wallet or exchange tokens.
+Perpetual Protocol mainnet is now live and running on xDai! Perpetual Protocol uses a streamlined system to allow traders to gain the benefits of xDai scaling without having to set up your wallet or exchange tokens.
 
 {% embed url="https://twitter.com/perpprotocol/status/1339206204107571200" %}
 
@@ -64,7 +64,7 @@ GP Protocol continues their testing rounds along with incentives for new users.
 
 ## 🌳 Gitcoin GR8 Hackathon Ends
 
-Several projects submitted entries to the hackathon. We will be looking them over  in the coming weeks and selecting the best projects deployed on xDai. [https://gitcoin.co/issue/xdaichain/site/9/100024347](https://gitcoin.co/issue/xdaichain/site/9/100024347)
+Several projects submitted entries to the hackathon. We will be looking them over in the coming weeks and selecting the best projects deployed on xDai to receive bounties for their efforts. [https://gitcoin.co/issue/xdaichain/site/9/100024347](https://gitcoin.co/issue/xdaichain/site/9/100024347)
 
 xDai-related projects including the Nethermind Client, Buidl Guidl, Nifty Ink, KickBack and others will also receive matching funds through the GR8 Grants Program. [https://gitcoin.co/grants/?keyword=xdai](https://gitcoin.co/grants/?keyword=xdai)
 
