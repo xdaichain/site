@@ -176,6 +176,7 @@
     * [Unlock Dates & Circulating Supply](for-stakers/stake-token/stake-token-distribution/unlock-dates-and-circulating-supply.md)
     * [Token release schedule](for-stakers/stake-token/stake-token-distribution/token-release-schedule.md)
 * [STAKE Reward Mechanics](for-stakers/stake-reward-mechanics/README.md)
+  * [Staking Rewards Comparison](for-stakers/stake-reward-mechanics/staking-rewards-comparison.md)
   * [Rewards in a Dual Token Environment](for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md)
   * [xDai Rewards \(via Chai\)](for-stakers/stake-reward-mechanics/xdai-rewards/README.md)
     * [Chai FAQs](for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md)
