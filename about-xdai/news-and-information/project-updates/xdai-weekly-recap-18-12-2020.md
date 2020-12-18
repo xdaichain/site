@@ -58,7 +58,7 @@ ZeroAlpha art market launced on xDai Chain!
 
 ### Gnosis Protocol
 
-GP Protocol continues their testing rounds along with incentives for new users.
+GP continues their testing rounds along with incentives for new users.
 
 {% embed url="https://twitter.com/koeppelmann/status/1338496914040492032?s=19" %}
 
@@ -68,7 +68,7 @@ Several projects submitted entries to the hackathon. We will be looking them ove
 
 xDai-related projects including the Nethermind Client, Buidl Guidl, Nifty Ink, KickBack and others will also receive matching funds through the GR8 Grants Program. [https://gitcoin.co/grants/?keyword=xdai](https://gitcoin.co/grants/?keyword=xdai)
 
-## 🐥 Twitter Update
+## Twitter Update
 
 The xDaiChain official Twitter account was suspended for unknown reasons on Tuesday, December 15.  We have contacted Twitter and have not heard anything back from their team regarding reasons for the suspension or steps for remediation.  They are reporting delays for reviews and responses of accounts at the moment. We hope to hear back from them soon. 
 
