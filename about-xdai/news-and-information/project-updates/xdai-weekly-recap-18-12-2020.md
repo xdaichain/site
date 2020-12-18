@@ -70,7 +70,7 @@ xDai-related projects including the Nethermind Client, Buidl Guidl, Nifty Ink, K
 
 ## Twitter Update
 
-The xDaiChain official Twitter account was suspended for unknown reasons on Tuesday, December 15.  We have contacted Twitter and have not heard anything back from their team regarding reasons for the suspension or steps for remediation.  They are reporting delays for reviews and responses of accounts at the moment. We hope to hear back from them soon. 
+The xDai Chain official Twitter account was suspended for unknown reasons on Tuesday, December 15.  We have contacted Twitter and have not heard anything back from their team regarding reasons for the suspension or steps for remediation.  They are reporting delays for reviews and responses of accounts at the moment. We hope to hear back from them soon. 
 
 In the meantime we will post updates on our Telegram Announcement Channel [https://t.me/xdai\_official](https://t.me/xdai_official) as well as relevant tweets from other xDai related domains \([BlockScout](https://twitter.com/blockscoutcom) and [TokenBridge](https://twitter.com/_tokenbridge)\). 
 
