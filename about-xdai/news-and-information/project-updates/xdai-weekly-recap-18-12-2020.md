@@ -6,13 +6,15 @@ description: 12 December - 18 December 2020
 
 ## POSDAO Staking Updates
 
-We are very excited to be nearing the launch of public staking and delegation on xDai. We are completing our final rounds of testing and have been releasing videos on how to complete basic processes such as bridging STAKE, delegating STAKE, and claiming rewards. See the [Become a Delegator](../../../for-stakers/staking-protocol/become-a-delegator.md) section for a basic overview, and the [Staking Operations](../../../for-stakers/staking-protocol/staking-operations/) section for details on using the Staking DApp.
+We are very excited to be closing in on the public launch of staking and delegation on xDai. We are completing our final rounds of testing and have been releasing videos on how to complete basic processes such as bridging STAKE, delegating STAKE, and claiming rewards. 
 
-We've also created an example reward scenario which compares potential staking rewards for EasyStaking, LP Providers, POSDAO delegators and POSDAO validators.
+See the [Become a Delegator](../../../for-stakers/staking-protocol/become-a-delegator.md) section for a basic overview, and the [Staking Operations](../../../for-stakers/staking-protocol/staking-operations/) section for details on using the Staking DApp.
+
+We've also drafted an [example reward scenario which compares potential staking rewards ](../../../for-stakers/stake-reward-mechanics/staking-rewards-comparison.md)for EasyStaking, LP Providers, POSDAO delegators and POSDAO validators.
 
 ##  👷 BlockScout Smart Contract Verification
 
-BlockScout added a new feature with devs in mind to the xDai instance. Now smart contracts can be verified in 2 ways. It is still possible to use a flattener, but the new method is designed for ease of verification. Devs can simply upload all contract source files and JSON metadata, and the contract can be verified. This method leverages \*\*\*, and makes verification easier than ever.
+BlockScout added a new feature with devs in mind to the xDai block explorer instance. Now smart contracts can be verified in 2 ways. It is still possible to use a flattener, but the new method is designed for ease of verification. Devs can simply upload all contract source files and JSON metadata, and the contract can be verified. This feature leverages [Sourcify](https://sourcify.dev/), and makes verification easier than ever.
 
 {% embed url="https://twitter.com/blockscoutcom/status/1339631851644719104" %}
 
