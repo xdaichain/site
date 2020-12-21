@@ -166,6 +166,7 @@
   * [Pre-Staking Program](for-stakers/stake-and-staking/pre-staking-program.md)
   * [Public POSDAO UI Preview](for-stakers/stake-and-staking/ui-preview.md)
 * [STAKE Governance and StakingToken](for-stakers/stake-token/README.md)
+  * [STAKE weighted voting](for-stakers/stake-token/stake-weighted-voting.md)
   * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
     * [Claim STAKE: Private Investors & Advisors](for-stakers/stake-token/get-stake/claim-stake.md)
     * [Manual Instructions - Private Investors](for-stakers/stake-token/get-stake/manual-instruction-private-investors.md)
