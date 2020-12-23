@@ -8,7 +8,7 @@ description: Current & Future Directions for the xDai Stable Chain
 The xDai roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
 {% endhint %}
 
-_Last update: 25.11.2020 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: 23.12.2020 \|_ [_Changelog_](./#change-log)\_\_
 
 ## Fiat to xDai Onramp
 
