@@ -1,5 +1,7 @@
 ---
-description: Earn 36.4% APR on STAKE by participating in StakeVault
+description: >-
+  In this expired program users earned 36.4% APR on STAKE by participating in
+  StakeVault
 ---
 
 # Pre-Staking Program

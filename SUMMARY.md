@@ -165,7 +165,6 @@
   * [Staking Rewards](for-stakers/tools-supporting-stake/staking-rewards.md)
 * [POSDAO Staking Roadmap](for-stakers/stake-and-staking/README.md)
   * [Pre-Staking Program](for-stakers/stake-and-staking/pre-staking-program.md)
-  * [Public POSDAO UI Preview](for-stakers/stake-and-staking/ui-preview.md)
 * [STAKE Governance and StakingToken](for-stakers/stake-token/README.md)
   * [STAKE weighted voting](for-stakers/stake-token/stake-weighted-voting.md)
   * [How to get STAKE Tokens](for-stakers/stake-token/get-stake/README.md)
