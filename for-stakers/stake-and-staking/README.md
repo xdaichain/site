@@ -16,46 +16,11 @@ For more on POSDAO, see the [POSDAO Whitepaper](../../for-validators/posdao-whit
 For more on the STAKE token, see [https://www.staketoken.net/](https://www.staketoken.net/)
 {% endhint %}
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Phase</th>
-      <th style="text-align:left">General</th>
-      <th style="text-align:left">Date</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">1) <a href="./#phase-1-preparation-and-permissioned-posdao">Preparation and Permissioned POSDAO</a>
-      </td>
-      <td style="text-align:left">POSDAO transition for current xDai validators only</td>
-      <td style="text-align:left">Completed:
-        <br />04/01/2020</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">2) <a href="./#phase-2-public-staking-and-reward-expansion">EasyStaking, Public Staking &amp; Reward Expansion</a>
-      </td>
-      <td style="text-align:left">
-        <p>POSDAO open to public participation.</p>
-        <ul>
-          <li>20k STAKE minimum for validator candidates</li>
-          <li>1K STAKE minimum for delegators</li>
-        </ul>
-      </td>
-      <td style="text-align:left">EasyStaking Completed
-        <br />Q3 2020
-        <br />
-        <br />Public POSDAO Anticipated:
-        <br />Q4 2020 -Q1 2021</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">3) <a href="./#phase-3-honeybadger-bft-consensus-layer-integration">HoneyBadger BFT Consensus Layer Integration</a>
-      </td>
-      <td style="text-align:left">New consensus integration - details TBD</td>
-      <td style="text-align:left">TBD</td>
-    </tr>
-  </tbody>
-</table>
+| Phase | General | Date |
+| :--- | :--- | :--- |
+| 1\) [Preparation and Permissioned POSDAO](./#phase-1-preparation-and-permissioned-posdao) | POSDAO transition for current xDai validators only | Completed: 04/01/2020 |
+| 2\) [EasyStaking, Public Staking & Reward Expansion](./#phase-2-public-staking-and-reward-expansion) | POSDAO open to public participation. | EasyStaking Completed  Q3 2020   Public POSDAO Completed  Q4 2020 |
+| 3\) [HoneyBadger BFT Consensus Layer Integration](./#phase-3-honeybadger-bft-consensus-layer-integration) | New consensus integration - details TBD | TBD |
 
 ## ✅ Phase 1: Preparation and Permissioned POSDAO
 
@@ -87,11 +52,11 @@ POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewar
 
 ## Phase 2: Easy Staking, Public Staking & Reward Expansion
 
-{% hint style="info" %}
-In progress
+{% hint style="success" %}
+Completed 12/23/2020
 {% endhint %}
 
-After the STAKE public listing is complete and POSDAO is running as expected with the current validator set, staking on xDai will start with EasyStaking and then open up to all public STAKE holders.  Dates for the following upgrades are subject to the STAKE listing date and are currently TBD. In the interim, token holders can participate as mock delegators in the [pre-staking initiative offered by BitMax](pre-staking-program.md). 
+After the STAKE public listing is complete and POSDAO is running as expected with the current validator set, staking on xDai will start with EasyStaking and then open up to all public STAKE holders. 
 
 ### ✅ EasyStaking on Ethereum
 
@@ -106,9 +71,9 @@ The EasyStaking application will be deployed to the Ethereum Mainnet, and will a
 
 ### POSDAO Staking on xDai
 
-* Validator Candidate: 20,000 STAKE Minimum
-* Delegator: 1,000 STAKE Minimum 
-  * Minimums may be changes with a governance proposal.
+* Minimums may be changed with a governance proposal. Initial staking requirements:
+  * Validator Candidate: 20,000 STAKE Minimum
+  * Delegator: 1,000 STAKE Minimum 
 * STAKE reward % will vary based on role \(validator or delegator\) and amount of total STAKE locked in the protocol. The APR may be adjusted from phase 1 \(15%\). For more details, see the [reward distribution section of the POSDAO whitepaper](https://forum.poa.network/t/posdao-white-paper/2208).
 * The STAKE bridge will open bi-directionally, allowing STAKE to flow freely from the Ethereum mainnet to the xDai chain and back. 
 
@@ -118,28 +83,28 @@ The EasyStaking application will be deployed to the Ethereum Mainnet, and will a
 | :--- | :--- |
 | [Pre-staking on BitMax](https://btmx.com/#/staking/details/STAKE-S) | 05/05/2020 |
 | [EasyStaking](../easy-staking/) | 05/08/2020 |
-| Open bi-directional STAKE bridge | TBD |
-| Enable staking for new validator candidates | TBD  |
-| Enable public delegation | TBD  |
-| Enable bridge exit reward \(additional STAKE reward\) | TBD |
+| Open bi-directional STAKE bridge \(OmniBridge\) | 08/08/2020 |
+| Enable staking for new validator candidates | 12/23/2020 |
+| Enable public delegation | 12/23/2020 |
+| Enable bridge exit reward \(to be determined by community vote\) | TBD |
 
 ### Public Staking Details
 
 Public participation will open in phase 2. Individuals can acquire STAKE on the mainnet \([how to get STAKE](../stake-token/get-stake/)\) and 
 
 1. Immediately stake it into the EasyStaking application \(see [EasyStaking](../easy-staking/) for more info\)
-2.  Bridge it to the xDai chain. Here, it can be used in the protocol to secure the chain and earn staking rewards. STAKE actions on xDai will be intuitive and easy to perform through the staking UI.
+2.  Bridge it to the xDai chain. Here, it can be used in the protocol to secure the chain and earn staking rewards. STAKE actions on xDai are intuitive and easy to perform through the staking UI.
 
 **POSDAO Staking on xDai** 
 
-Individuals with enough STAKE \(20k minimum\) and the ability to run a node may register as validator candidates. STAKE can also be delegated on validator candidates, forming a pool. Candidate pools with the most STAKE will have the greatest chance of selection to the next validator set \(if there are more than 19 validator pools. If 19 or less all candidates become validators\). 
+Individuals with the minimum required STAKE and the ability to run a node may register as validator candidates. STAKE can also be delegated on validator candidates, forming a pool. Candidate pools with the most STAKE will have the greatest chance of selection to the next validator set \(if there are more than 19 validator pools. If 19 or less all candidates become validators\). 
 
 Validator sets will update after each staking epoch, initially set at 1 week intervals.
 
-With public participation, additional rewards will be added to the protocol.
+With public participation, additional rewards may be added to the protocol.
 
 1. A fee will be charged when xDai is converted to Dai through the xDai bridge \(moved from the xDai chain to the Ethereum mainnet\). This fee \(% TBD\) will be distributed to validator pools active when the conversion occurs.
-2. Interest earned from Chai locked in the bridge will be distributed as xDai to active validator pools. Additional Dai may be added to the bridge and converted to Chai to increase the interest reward at the team's discretion.
+2. Interest earned from Chai locked in the bridge will be distributed as xDai to active validator pools. Additional Dai may be added to the bridge and converted to Chai to increase the interest reward at the team's discretion. _\(this features is on indefinite hold due to the 0 Dai Savings Rate\)_
 
 ## Phase 3: HoneyBadger BFT Consensus Layer Integration
 

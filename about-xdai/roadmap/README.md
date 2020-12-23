@@ -98,6 +98,13 @@ Bridge management should be expanded to additional community representatives. Th
 * Extending the set of bridge validators
 * Updating bridge parameters like number of block confirmations, transactions limits,  bridge fees etc.
 
+## Consensus POSDAO Upgrade: Phase **2**
+
+🎯 **Target Date:** Q2 2021  
+✅**Status:** Completed Q4 2020. 
+
+To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
+
 ## **Privacy Preserving Transactions**
 
 🎯 **Target Date:** Q4 2020  
@@ -135,13 +142,6 @@ Additional features will be added including bi-directional support \(ability to 
 
 We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers \(up to 1000x\) for native tokens and synthetic tokens on top of xDai. 
 
-## Consensus POSDAO Upgrade: Phase **2**
-
-🎯 **Target Date:** Q2 2021  
-☑ **Status:** In process. UI development and protocol enhancements ongoing, see the [staking roadmap](../../for-stakers/stake-and-staking/) for more information.
-
-To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
-
 ## POSDAO Phase 3
 
 🎯 **Target Date**: Q4 2021
@@ -158,6 +158,16 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>23.12.2020</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Update POSDAO Phase 2 to completed.</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>25.11.2020</em>
       </td>
