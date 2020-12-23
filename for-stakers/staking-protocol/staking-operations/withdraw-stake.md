@@ -4,10 +4,6 @@ description: How to withdraw available stake and order active stake for withdraw
 
 # Withdraw Stake
 
-{% hint style="warning" %}
-POSDAO Public Staking is not here yet, but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
-{% endhint %}
-
 Stake can be withdrawn from a pool and deposited back to your web3 wallet address. You can withdraw the entire amount to exit a pool, or withdraw a portion as long as the minimum required stake remains in the pool. Funds are either available for immediate withdraw or ordered withdrawal depending on the circumstances.
 
 #### Immediate withdrawal:

@@ -1,9 +1,5 @@
 # Move Stake
 
-{% hint style="warning" %}
-POSDAO Public Staking is not here yet, but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
-{% endhint %}
-
 Stake can be moved to change which candidate you are delegating to, or to spread your STAKE to different validator pools. 
 
 You must either retain the minimum amount of stake in the pool \(to remain in the pool\), or move the entire amount. This will cause you to exit the current source pool and shift your stake to a new target pool. 

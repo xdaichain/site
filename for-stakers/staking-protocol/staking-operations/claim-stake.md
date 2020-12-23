@@ -1,9 +1,5 @@
 # Claim Stake
 
-{% hint style="warning" %}
-POSDAO Public Staking is not here yet but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
-{% endhint %}
-
 ## Claim STAKE Rewards
 
 Rewards are available to claim once a staking epoch is complete. If your stake was active during previous epochs you can claim using the Claim Button in BlockScout. 

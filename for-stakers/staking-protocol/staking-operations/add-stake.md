@@ -4,10 +4,6 @@ description: How to add stake for your own pool or a pool you are delegating on
 
 # Add Stake
 
-{% hint style="warning" %}
-POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
-{% endhint %}
-
 To add stake for the first time, you can either [Become a Candidate](../become-a-candidate-validator.md) or [Become a Delegator](../become-a-delegator.md), depending on whether you want to create your own pool \(become a candidate\) or stake into an existing pool \(become a delegator\).
 
 **Add More Stake:**

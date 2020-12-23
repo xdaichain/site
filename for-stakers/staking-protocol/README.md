@@ -1,14 +1,10 @@
 ---
-description: Public staking is coming soon to xDai!
+description: Public staking on xDai!
 ---
 
 # Staking Protocol / Tutorials
 
 {% embed url="https://youtu.be/ekfQzIcBEp0" caption="Preview of the public staking application in BlockScout " %}
-
-{% hint style="warning" %}
-POSDAO Public Staking is coming soon and we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../easy-staking/)
-{% endhint %}
 
 1. Tokens: You will need [STAKE tokens ](../stake-token/)on xDai for staking and xDai for any staking transactions \(such as placing, moving or withdrawing stake\) or other on-chain transactions.
 2. [Become a Delegator](become-a-delegator.md)**.** Stake on current candidates and validators.

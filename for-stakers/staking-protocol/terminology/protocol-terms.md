@@ -1,9 +1,5 @@
 # Protocol Related Terms
 
-{% hint style="warning" %}
-POSDAO Public Staking is not here yet but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction. For staking available now, see [EasyStaking](../../easy-staking/)
-{% endhint %}
-
 {% tabs %}
 {% tab title="Protocol " %}
 * [Aura Algorithm](protocol-terms.md#aura-algorithm)

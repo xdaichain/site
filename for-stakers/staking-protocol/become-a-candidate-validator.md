@@ -1,11 +1,5 @@
 # Become a Candidate / Validator
 
-{% hint style="warning" %}
-POSDAO Public Staking is not here yet \(anticipated Q4 2020\), but we are gathering documentation related to the xDai staking processes. All pages in this section are currently under construction.  POSDAO is currently in[ phase 1, permissioned staking](../stake-and-staking/), and the current group of validators are functioning within this system.  
-  
-For staking available now, see [EasyStaking](../easy-staking/)
-{% endhint %}
-
 Validators are responsible for securing the xDai stable chain. Validator responsibilities include maintaining a functional node with constant uptime, providing STAKE as collateral, and providing decentralization to the protocol. In exchange for this service, validators receive block rewards and transaction fees.
 
 Once phase 2 begins, additional validators and delegators will have the ability to onboard. To become a validator on the xDai stable chain, you must first become a candidate. Each staking epoch, 19 candidate pools are chosen to act as validators for that epoch. If there are 19 or fewer active candidates, then all active pools are selected. If there are more than 19, selection is based on total stake in the pool + a random number. [See this article for more info on weighting and randomness](https://forum.poa.network/t/reliable-randomness-bringing-on-chain-entropy-to-the-xdai-stable-chain/3015).
