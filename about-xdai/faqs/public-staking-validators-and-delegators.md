@@ -1,9 +1,5 @@
 # Public Staking \(Validators & Delegators\)
 
-{% hint style="info" %}
-Public Staking is not yet available on xDai. The chain currently runs on a Proof of Stake consensus called POSDAO with nominated validators. The transition to public validators is scheduled to start in Q4 2020 - Q1 202.
-{% endhint %}
-
 ## What is a validator?
 
 A validator runs a node that verifies transactions and finalizes blocks on the xDai chain. Each validator must provide the minimum STAKE collateral \(20K STAKE\) into their pool and setup a functional node to participate. They start as candidates, and have the chance to become validators each week when a new validator set is chosen.
@@ -30,7 +26,7 @@ A staking epoch is 1 week.
 
 ## How does a participant \(validator, candidate or delegator\) add/withdraw/claim STAKE?
 
-A UI is in process that will allow delegators and validators to easily manage their STAKE tokens. For more info, see the [Staking Operations](../../for-stakers/staking-protocol/staking-operations/) section.
+A UI integrated with BlockScout lets delegators and validators easily manage their STAKE tokens. For more info, see the [Staking Operations](../../for-stakers/staking-protocol/staking-operations/) section.
 
 ## How do I get STAKE rewards as a validator/delegator?
 
