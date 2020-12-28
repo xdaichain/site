@@ -22,7 +22,7 @@ If there are more than 19 suitable candidates, the top 19 are chosen based on th
 
 ## What is a delegator?
 
-A delegator is a STAKE holder who places STAKE in a validator candidates pool. If that candidate becomes a validator, the delegator also receives rewards. By placing STAKE, delegators vote on the candidates they think will make the best validators. 1K minimum delegation per validator candidate.
+A delegator is a STAKE holder who places STAKE in a validator candidates pool. If that candidate becomes a validator, the delegator also receives rewards. By placing STAKE, delegators vote on the candidates they think will make the best validators. 200 minimum delegation per validator candidate.
 
 ## How long is a staking epoch?
 
