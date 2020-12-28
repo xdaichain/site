@@ -6,8 +6,6 @@ description: Convert xDai back to Dai in the UI
 
 {% embed url="https://youtu.be/oKdh2cOOqUs?t=105" caption="xDai - Dai transfers begin at 1:45" %}
 
-
-
 {% hint style="info" %}
 We recommend using Chrome + Metamask + No Ad Blockers to complete the process.  
   
