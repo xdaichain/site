@@ -6,7 +6,7 @@ description: Convert xDai back to Dai in the UI
 
 {% embed url="https://youtu.be/oKdh2cOOqUs?t=105" caption="xDai - Dai transfers begin at 1:45" %}
 
-1\) Go to [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/). [Connect your web3 wallet](../wallets/metamask/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **xDai Chain**. Once connected, you will see your address populated in the header, and your xDai and Dai balance displayed on the page.  
+
 
 {% hint style="info" %}
 We recommend using Chrome + Metamask + No Ad Blockers to complete the process.  
@@ -22,13 +22,19 @@ If you did not use the Bridge UI to process your original bridge request - for e
 If you experience issues, see the [Troubleshooting page](troubleshooting.md).
 {% endhint %}
 
-![](../../.gitbook/assets/xbridge1.jpg)
+1\) Go to [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/). [Connect your web3 wallet](../wallets/metamask/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **xDai Chain**. Once connected, you will see your address populated in the header, and your xDai and Dai balance displayed on the page.  
 
 _Note: If you change the dropdown on the page \(xDai Chain\) but not in MetaMask, the interface will shift but your wallet will not auto-connect to the chain. Switching chains in MM will automatically shift the interface._
+
+![](../../.gitbook/assets/xdai-to-mainnet.png)
 
 2\) Enter the amount of xDai you would like to transfer to Dai, and click the **Transfer** button. Note the **minimum amount is 10 xDai.**
 
 3\) A confirmation modal will appear. Click **Continue.**
+
+{% hint style="info" %}
+New screenshots coming soon to reflect the updated Bridge UI
+{% endhint %}
 
 ![](../../.gitbook/assets/1new.jpg)
 
