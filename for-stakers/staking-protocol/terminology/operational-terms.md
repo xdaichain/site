@@ -76,7 +76,7 @@ Stake ordered for withdrawal is available to claim once the staking epoch in whi
 A pool must contain at least the minimum amount of stake from a candidate in order to become active. Minimum stake requirements exist for validator candidates as well as for delegators. The minimum stake amount for delegators is much lower. The following amounts are subject to change based on chain governance. These are the current minimums as of Dec 9, 2020.
 
 * Validator candidates: 20000 STAKE.
-* Delegators: 1000 STAKE per candidate. Stake may be placed on multiple candidates, but at least 1000 STAKE must be placed on each candidate/validator.
+* Delegators: 200 STAKE per candidate. Stake may be placed on multiple candidates, but at least 200 STAKE must be placed on each candidate/validator.
 
 If a candidate tries to place an amount of stake that does not meet the minimum stake requirements, their pool is not created.
 

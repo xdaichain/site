@@ -36,7 +36,7 @@ Public staking is scheduled to start in Q4 2020.
 The current projected minimum amounts needed to validate or delegate on the xDai chain. 
 
 * **Validators:** 20K STAKE
-* **Delegators:** 1K STAKE
+* **Delegators:** 200 STAKE\* \(Initial amount was 1K, reduced to 200 through community proposal\)
 
 ## What is the STAKE Marketcap?
 

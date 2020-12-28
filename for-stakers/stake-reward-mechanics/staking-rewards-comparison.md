@@ -9,7 +9,7 @@ Below is a basic breakdown of the different staking methods followed by an [exam
 |  | **EasyStaking** | **Liquidity Provider \(Uniswap\)** | **xDai Delegator** | **xDai Validator** |
 | :--- | :--- | :--- | :--- | :--- |
 | **Chain** | Ethereum | Ethereum | xDai | xDai |
-| **Minimum staking requirement** | 0 | 0 | 1000 STAKE\* \(\*subject to change\) | 20000 STAKE\* \(\*subject to change\) |
+| **Minimum staking requirement** | 0 | 0 | 200 STAKE\* \(\*subject to change\) | 20000 STAKE\* \(\*subject to change\) |
 | **Withdrawals** | Instant \(with 2% fee\) or scheduled \(no fee\) | Instant | Instant if not active, ordered withdrawals if active | Instant if not active, ordered withdrawals if active |
 | **Ethereum gas fees** | Deposit and Withdrawal costs | Deposit and Withdrawal costs | Costs to bridge STAKE from Eth -&gt; xDai | Costs to bridge STAKE from Eth -&gt; xDai |
 | **Bridge fee rewards** | No | No | Possible | Possible |
