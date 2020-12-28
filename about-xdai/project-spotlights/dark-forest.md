@@ -17,6 +17,14 @@ description: zkSNARK space warfare
 
 BlockScout block explorer for dark forest has been themed to match the game!  Stay within the universe while exploring transactions. [https://blockscout.com/poa/xdai/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions](https://blockscout.com/poa/xdai/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions)
 
+## Dark Forest Update
+
+{% hint style="success" %}
+Version v.05 is running and optimized on xDai as of 25.12.2020. 
+{% endhint %}
+
+{% embed url="https://twitter.com/darkforest\_eth/status/1343285550870978560" %}
+
 ## About Dark Forest
 
 Using [zkSNARKS](https://blog.zkga.me/intro-to-zksnarks), dark forest is able to create an incomplete information game, so that user locations can be obscured while still submitting verifiable transactions.
@@ -25,7 +33,7 @@ Dark Forest was inspired by Liu Cixin’s _Three Body Trilogy_ \(三体\), parti
 
 {% embed url="https://blog.zkga.me/announcing-darkforest" %}
 
-The latest version \(v0.4\) uses a burner wallet and is in production on xDai. This allows for a higher TPS as well as real economic value loaded onto the game. In addition, users are airdropped a small amount of xDai so they can begin gameplay immediately, without any external wallet or need to get xDai to start. Once users are accustomed to gameplay they can add additional xDai if desired.
+Version v0.4 uses a burner wallet and is in production on xDai. This allows for a higher TPS as well as real economic value loaded onto the game. In addition, users are airdropped a small amount of xDai so they can begin gameplay immediately, without any external wallet or need to get xDai to start. Once users are accustomed to gameplay they can add additional xDai if desired.
 
 ### More about the game from the developers themselves
 
