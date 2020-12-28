@@ -1,7 +1,7 @@
-# xDai Rewards \(via Chai\)
+# xDai Rewards \(via Chai - currently deprecated\)
 
 {% hint style="warning" %}
-Update October 08 2020: Chai conversion has been disabled through a governance vote. It was costing extra fees for users and the savings rate was set to 0 for a prolonged period. The governors may revisit at a later time or look to introduce another mechanism for incentivization.  
+Update October 08 2020: **Chai conversion has been disabled through a governance vote. It was costing extra fees for users and the savings rate was set to 0 for a prolonged period. The governors may revisit at a later time or look to introduce another mechanism for incentivization.**  
   
 [Proposal and Decision](https://forum.poa.network/t/disable-chai-token-support-to-safe-gas-for-deposit-and-withdrawal-operations/3936)
 {% endhint %}
