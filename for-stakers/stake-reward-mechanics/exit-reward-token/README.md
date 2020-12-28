@@ -2,7 +2,7 @@
 description: Synthetic stable token
 ---
 
-# EXIT Token
+# EXIT Token \(in research phase\)
 
 ## **EXIT** Token
 

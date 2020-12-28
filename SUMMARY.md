@@ -181,7 +181,7 @@
   * [Rewards in a Dual Token Environment](for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md)
   * [xDai Rewards \(via Chai - currently deprecated\)](for-stakers/stake-reward-mechanics/xdai-rewards/README.md)
     * [Chai FAQs](for-stakers/stake-reward-mechanics/xdai-rewards/chai-faqs.md)
-  * [EXIT Token](for-stakers/stake-reward-mechanics/exit-reward-token/README.md)
+  * [EXIT Token \(in research phase\)](for-stakers/stake-reward-mechanics/exit-reward-token/README.md)
     * [EXIT FAQs](for-stakers/stake-reward-mechanics/exit-reward-token/exit-faqs.md)
 * [Staking Protocol / Tutorials](for-stakers/staking-protocol/README.md)
   * [Terminology](for-stakers/staking-protocol/terminology/README.md)
