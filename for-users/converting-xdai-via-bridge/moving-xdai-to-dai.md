@@ -4,12 +4,14 @@ description: Convert xDai back to Dai in the UI
 
 # Moving xDai to Dai
 
+{% embed url="https://youtu.be/oKdh2cOOqUs?t=105" caption="xDai - Dai transfers begin at 1:45" %}
+
 1\) Go to [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/). [Connect your web3 wallet](../wallets/metamask/metamask-setup.md) \(MetaMask, Nifty Wallet\) to the **xDai Chain**. Once connected, you will see your address populated in the header, and your xDai and Dai balance displayed on the page.  
 
 {% hint style="info" %}
 We recommend using Chrome + Metamask + No Ad Blockers to complete the process.  
   
-You will need a small additional amount of xDai to process the first transaction, and an additional amount of Eth to process the claim transaction on Ethereum.
+You will need a **small additional amount of xDai** to process the first transaction, and an **additional amount of Eth** to process the claim transaction on Ethereum.
 {% endhint %}
 
 {% hint style="warning" %}
