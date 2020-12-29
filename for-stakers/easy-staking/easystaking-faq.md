@@ -29,6 +29,12 @@ For context, compare this to the circulating supply, which is available on CoinG
 
 Yes, [Quantstamp](https://quantstamp.com/) conducted a full security audit on the EasyStaking contracts. We addressed and resolved all high, medium & low risk issues. [See more information and the full report here](../../for-developers/security-audits.md#easystaking-audit-by-quantstamp).
 
+### Can I withdraw just my accrued emissions?
+
+No. Accrued emissions are calculated as a contract function on withdrawal and added to your withdrawal amount \(emissions are also sent to LP providers on withdrawal\).  
+  
+For example if you remove 1/2 of your staked amount from a deposit, 1/2 of your accrued emission will be automatically added to your STAKE withdrawal and sent to your address when the tx is processed.
+
 ### How do I participate as a Liquidity Provider \(LP\)?
 
 Simply add STAKE and ETH to the following Uniswap pool. [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
