@@ -17,6 +17,12 @@ With the EasyStaking application you can withdraw any amount. To completely unst
 If you are staking with Bitmax, you can undelegate instantly for a 2% fee, or schedule a withdrawal and withdraw after 24 hours with no fee.   
 💡[More information](https://bitmax.io/#/staking/investment-product-details/STAKE-S)
 
+### Can I withdraw just my accrued emissions?
+
+No. Accrued emissions are calculated as a contract function on withdrawal and added to your withdrawal amount \(emissions are also sent to LP providers on withdrawal\).  
+  
+For example if you remove 1/2 of your staked amount from a deposit, 1/2 of your accrued emission will be automatically added to your STAKE withdrawal and sent to your address when the tx is processed.
+
 ### How much STAKE is in the EasyStaking Contract?
 
 Easy View: [https://etherscan.io/tokenholdings?a=0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad](https://etherscan.io/tokenholdings?a=0xecbcd6d7264e3c9eac24c7130ed3cd2b38f5a7ad)
@@ -28,12 +34,6 @@ For context, compare this to the circulating supply, which is available on CoinG
 ### Is EasyStaking Audited?
 
 Yes, [Quantstamp](https://quantstamp.com/) conducted a full security audit on the EasyStaking contracts. We addressed and resolved all high, medium & low risk issues. [See more information and the full report here](../../for-developers/security-audits.md#easystaking-audit-by-quantstamp).
-
-### Can I withdraw just my accrued emissions?
-
-No. Accrued emissions are calculated as a contract function on withdrawal and added to your withdrawal amount \(emissions are also sent to LP providers on withdrawal\).  
-  
-For example if you remove 1/2 of your staked amount from a deposit, 1/2 of your accrued emission will be automatically added to your STAKE withdrawal and sent to your address when the tx is processed.
 
 ### How do I participate as a Liquidity Provider \(LP\)?
 
