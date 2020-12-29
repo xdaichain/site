@@ -26,8 +26,6 @@ We are doing some periodic maintenance and optimization on the Bridge and are no
 
 The bridge is dynamic and supports bi-directional bridging. It will shift automatically when you update your web3wallet \(MetaMask\) to the correct chain. When you are on Ethereum Mainnet, you will see the Eth-Mainnet to xDai chain side, and when you are on xDai, you will see the xDai to Eth Mainnet side. You can adjust which side through the Bridge toggle in menu, however to initiate a transfer you will need your wallet set to the correct chain.
 
-![Toggle to switch bridge side in UI - You will also need to adjust MetaMask.](../../.gitbook/assets/toggle1.png)
-
 ## I Transferred xDai to Dai but it's Not Working
 
 A new bridge decentralization feature means **withdrawals now require 2 steps**. You must 

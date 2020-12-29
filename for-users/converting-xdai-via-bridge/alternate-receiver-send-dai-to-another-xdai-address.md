@@ -4,7 +4,85 @@ The new feature _Alternative Receiver_ has integrated in the contracts of the xD
 
 Due to different nature of tokens on two sides of the xDai bridge the operations to transfer assets to an alternative receiver from one chain to another differ as well.
 
-## Dai to xDai
+## Alternative Receiver in Bridge UI
+
+The latest bridge UI upgrade incorporates the Alternative Receiver functionality. The transfer requires 2 transactions, one to unlock the contract and a second to process the transaction. _Manual methods are described below this section._
+
+### Dai to xDai
+
+1\) Go to [bridge.xdaichain.com](https://bridge.xdaichain.com/) and connect your MetaMask Wallet.
+
+![](../../.gitbook/assets/bridge-1.png)
+
+2\) Determine **Single Tx Unlock** or **Infinite Tx Unlock**.  You may want to approve the transfer for a single transaction, or approve the contract to make unlimited transfers from this address to many other addresses. For a Single TX Unlock, proceed directly to step 3 below. For infinite TX unlock, complete the following.
+
+2a\) Go to Settings:
+
+![](../../.gitbook/assets/settings1%20%281%29.png)
+
+2b\) Toggle Infinite Unlock and save. Close the modal and proceed to step 3.
+
+![](../../.gitbook/assets/settings2%20%281%29.png)
+
+3\) Click on **Advanced** and add the Recipients Address and the amount to Dai to transfer to xDai. Press **Unlock.**
+
+![](../../.gitbook/assets/2020-12-29_09-23-17.gif)
+
+4\) Confirm the Unlock transaction in MetaMask.
+
+![](../../.gitbook/assets/confirm-1.png)
+
+![](../../.gitbook/assets/confirm-2.png)
+
+5\) Click to Transfer and Confirm the transaction.
+
+![](../../.gitbook/assets/confirm-3.png)
+
+6\) Once the initial transaction is successful, you will see consecutive Transfer Pending notifications with:
+
+1. 8 of 8 block confirmations.....
+2. Countdown with continue until 1 block confirmation is left.
+3. Waiting for execution on xDai Chain side.
+4. Transfer Complete.
+
+![](../../.gitbook/assets/tx-order%20%281%29.png)
+
+7\) The transfer is complete. Check the balance of the new account by clicking on the BlockScout link or accessing the address on xDai.
+
+### xDai to Dai
+
+With xDai to Dai transfers you do not need to use the Unlock feature. Connect to the xDai Chain in MetaMask.
+
+1. Click on Advanced.
+2. Enter the Address that will receive Dai.
+3. Enter Amount.
+4. Click Request.
+
+![](../../.gitbook/assets/xdaidai1.png)
+
+2\) Click Confirm to acknowledge you will need to perform 2 transactions.
+
+![](../../.gitbook/assets/2020-12-29_10-32-51.png)
+
+3\) Confirm the first tx in MetaMask.
+
+![](../../.gitbook/assets/xdaidai3.png)
+
+4\) Wait for 8 Block Confirmations on xDai.
+
+![](../../.gitbook/assets/xdai4.png)
+
+5\) Switch to **Ethereum Mainnet** in MetaMask. The Claim button will appear. Click **Claim**.
+
+![](../../.gitbook/assets/xdai5.png)
+
+![](../../.gitbook/assets/xdai6.png)
+
+6\) **Confirm** the second claim transaction in MetaMask. Once processed, the Dai should be available for the alternative receiver on Ethereum.
+
+![](../../.gitbook/assets/xdai7.png)
+
+## Dai to xDai \(Manual, Non-UI Method\)
 
 1. Open MetaMask and choose the Ethereum Mainnet.
 
@@ -50,7 +128,7 @@ Due to different nature of tokens on two sides of the xDai bridge the operations
 
 8. The xDai bridge will take some time to relay the deposit request to the xDai chain. Once complete, the balance of the `_receiver`account will increase with the corresponding amount of xDai.
 
-### xDai to Dai
+## xDai to Dai \(Non-UI Method\)
 
 {% hint style="warning" %}
 Since Etherscan does not currently support xDai, we use MyEtherWallet for this example. You may also try Nifty Wallet.  
