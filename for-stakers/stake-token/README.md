@@ -6,10 +6,9 @@ STAKE is a flexible asset, meaning it may be used in a variety of contexts. The 
 
 {% hint style="success" %}
 STAKE token address on Ethereum [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
-{% endhint %}
 
-{% hint style="warning" %}
-STAKE will protect the xDai consensus in phase 2 of POSDAO - See the [Roadmap](../stake-and-staking/#phase-2-easy-staking-public-staking-and-reward-expansion) for details.
+STAKE token address on xDai  
+[0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e](https://blockscout.com/poa/xdai/tokens/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers)
 {% endhint %}
 
 STAKE is a new ERC20-type \([implemented as an ERC677](https://github.com/ethereum/EIPs/issues/677)\) token designed to secure the on-chain payment layer and provide a mechanism for validators to receive multiple POS incentives. It is an ERC20-based staking token with a market driven value. 
@@ -22,7 +21,7 @@ Users \(stakers\) provide STAKE as collateral when participating in the consensu
 
 ### Staking STAKE
 
-When xDai public staking starts \(**scheduled for Q4 2020 - Q1 2021**\), individuals who own STAKE tokens on xDai can place them into the protocol through a user friendly interface. Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) with the [OmniBridge U](../../for-users/omnibridge.md)I which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.
+Individuals who own STAKE tokens on xDai can place them into the protocol through a [user friendly interface on BlockScout](https://blockscout.com/poa/xdai/validators). Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) with the [OmniBridge U](../../for-users/omnibridge.md)I which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.
 
 In addition, exchanges may offer the opportunity to provide delegator staking on Ethereum directly from the exchange. Typically, this means STAKE holders select the option to stake the token, and the exchange processes the request \(determining which validator to stake on, aggregating rewards and other tasks for a small percentage fee\). Staking functionality is initiated by the participating exchange. 
 
@@ -37,6 +36,8 @@ The STAKE circulating supply is **8,537,500 tokens** \(once all tokens are unloc
 ###  STAKE Governance
 
 As the ecosystem matures, STAKE will be used for chain governance, giving holders a chance to update network parameters for optimal performance. This will include items such as validator/delegator minimums, fees, and other aspects of the xDai chain. 
+
+Community members can [submit governance proposals and vote with STAKE through Snapshot](stake-weighted-voting.md).
 
 In future iterations, holders will have the opportunity to use STAKE in a micro-governance context to determine things like transaction sequencing and priority on a per-block basis, giving a true community voice to the txs written directly to the chain.  Value capture related to this concept, known as [Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788), will give STAKE an intrinsic and important purpose when Eth 2.0 is ready for production.
 
