@@ -47,17 +47,19 @@ When using the xDai bridge, we recommend Chrome and MetaMask. It is also useful 
 
 If you submitted a tx on xDai, but not complete the claim process, return to the Bridge Ui and connect your MetaMask \(MM\) wallet with the account you used previously. 
 
-1\) Switch MM to the ETH Mainnet.
+1\) Switch MetaMask to the ETH Mainnet. If you have unclaimed txs you should see the following popup. Click on **History**.
 
-2\) Click on **History.** 
+![](../../.gitbook/assets/xmodal1.png)
 
-img1
+2\) If you are in the Bridge UI, you can also click on **History to view.**
 
-3. Filter by Unclaimed Transactions and click the **Claim** button to begin the process. MetaMask will ask you to confirm the transaction and pay the gas fees to complete the process.
+![](../../.gitbook/assets/history-1.png)
 
-img2
+3. **Filter by Unreceived Transactions** and click the **Claim** button to begin the process. MetaMask will ask you to confirm the transaction and pay the gas fees to complete the process.
 
-img3
+![](../../.gitbook/assets/history2.png)
+
+![](../../.gitbook/assets/history3.png)
 
 {% hint style="info" %}
 You may want to [manually set gas prices for a cheaper exit](troubleshooting.md#gas-fees-for-a-claim-are-very-high-how-can-i-reduce-them).

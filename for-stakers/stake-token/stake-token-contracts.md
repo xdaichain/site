@@ -4,7 +4,7 @@
 
 Contracts corresponding to STAKE and distribution roles have been deployed to the Ethereum Mainnet. All contracts are verified in Etherscan. Funds in contracts below are available according to the release schedule \(e.g. a certain % is released each day\). 
 
-The Distribution Contract is called with the corresponding number value below \(e.g. 3 for private offering\) to prepare/initialize funds for withdrawal. Once initialized, fund participants can pull available amounts to their wallets. See Private Investor claiming and Advisor claiming for details.
+The Distribution Contract is called with the corresponding number value below \(e.g. 3 for private offering\) to prepare/initialize funds for withdrawal. Once initialized, fund participants can pull available amounts to their wallets. See Private Investor claiming and Advisor claiming for details. All contracts below are on Ethereum mainnet with the exception of STAKE Token on xDai provided for reference purposes.
 
 <table>
   <thead>
@@ -15,9 +15,15 @@ The Distribution Contract is called with the corresponding number value below \(
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>STAKE Token</b>
+      <td style="text-align:left"><b>STAKE Token on Ethereum</b>
       </td>
       <td style="text-align:left"><a href="https://etherscan.io/address/0x0Ae055097C6d159879521C384F1D2123D1f195e6">0x0Ae055097C6d159879521C384F1D2123D1f195e6</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>STAKE Token on xDai</b>
+      </td>
+      <td style="text-align:left"><a href="https://blockscout.com/poa/xdai/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions">0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e</a>
       </td>
     </tr>
     <tr>

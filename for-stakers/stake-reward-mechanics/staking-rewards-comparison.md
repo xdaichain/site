@@ -1,6 +1,6 @@
 # Staking Rewards Comparison
 
-There are several ways to earn STAKE staking rewards. Each method has tradeoffs, costs and benefits. Your staking strategy can depend on the amount staked in each protocol, your desire to stay on Ethereum and moderate STAKE supply or to operate on xDai and directly protect the protocol, and many other factors.  
+There are several ways to earn STAKE staking rewards. Each method has tradeoffs, costs, and benefits. Your staking strategy can depend on the amount staked in each protocol, your desire to stay on Ethereum and moderate STAKE supply or to operate on xDai and directly protect the protocol, and many other factors.  
 
 Below is a basic breakdown of the different staking methods followed by an [example reward scenario](staking-rewards-comparison.md#example-reward-scenario).
 

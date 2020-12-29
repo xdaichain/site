@@ -9,7 +9,7 @@ POSDAO is implemented on xDai with a dual token structure.
 1. **xDai** is the transactional stable coin, used for txs and fees.
 2. **STAKE** is the volatile staking coin used to protect consensus.
 
-To participate in POSDAO consensus, validator candidates must provide collateral in the form of STAKE. 20K minimum STAKE is required to create a validator pool. Delegators may place additional STAKE collateral \(1K minimum\) into any pool\(s\) they would like to support. Validator pools with a higher amount of STAKE have a higher probability of selection to the next validator set. 
+To participate in POSDAO consensus, validator candidates must provide collateral in the form of STAKE. 20K minimum STAKE is required to create a validator pool. Delegators may place additional STAKE collateral \(200 is current minimum\) into any pool\(s\) they would like to support. Validator pools with a higher amount of STAKE have a higher probability of selection to the next validator set. 
 
 While the amount of STAKE in a validator pool influences the chances of selection to a validator set, it does not influence the reward amount validator's receive for sealing blocks. Rules are as follows: 
 
