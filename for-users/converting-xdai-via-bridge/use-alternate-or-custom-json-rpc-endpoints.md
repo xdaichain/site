@@ -1,4 +1,4 @@
-# Use alternate or custom JSON RPC Endpoints
+# Use alternate or custom JSON RPC endpoints
 
 If you are experiencing an issue with an Ethereum or xDai RPC endpoint when trying to bridge you can easily set your own endpoint.
 

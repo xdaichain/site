@@ -1,5 +1,5 @@
 ---
-description: Convert xDai back to Dai in the UI
+description: Convert xDai  to Dai in the UI
 ---
 
 # Moving xDai to Dai
@@ -26,43 +26,31 @@ _Note: If you change the dropdown on the page \(xDai Chain\) but not in MetaMask
 
 ![](../../.gitbook/assets/xdai-to-mainnet.png)
 
-2\) Enter the amount of xDai you would like to transfer to Dai, and click the **Transfer** button. Note the **minimum amount is 10 xDai.**
+2\) Enter the amount of xDai you would like to transfer to Dai, and click the **Request** button. Note the **minimum amount is 10 xDai.**
 
-3\) A confirmation modal will appear. Click **Continue.**
+3\) Confirm that you will need to perform 2 transactions, and will need xDai and Eth to complete the transfer.
 
-{% hint style="info" %}
-New screenshots coming soon to reflect the updated Bridge UI
-{% endhint %}
+![](../../.gitbook/assets/2020-12-29_10-32-51.png)
 
-![](../../.gitbook/assets/1new.jpg)
+4\) The web3 wallet window will open with transaction details. Click **Confirm** to process the transaction on xDai.
 
-4\) The web3 wallet window will open with transaction details. Click **Submit or Confirm** \(depending on wallet\) to process the transaction.
+![](../../.gitbook/assets/xdaidai3.png)
 
-![](../../.gitbook/assets/2new.jpg)
+5\) Wait for 8 block confirmations. You will see several popups with block confirmation info.
 
-5\) Wait for the transaction on xDai to process. 
+![](../../.gitbook/assets/xdai4.png)
 
-![](../../.gitbook/assets/3new.jpg)
+6\) You will see a modal instructing you switch networks in your MetaMask \(or other web3\) to the Ethereum Network.
 
-6\) You will see a modal to switch networks in your MetaMask \(or other web3\) to the Ethereum Network.
+![](../../.gitbook/assets/xdai5.png)
 
-![](../../.gitbook/assets/4new.jpg)
+7\) After you switch networks the **Claim** button will appear. Press to proceed.
 
-7\) Press the **Claim** button.
+![](../../.gitbook/assets/xdai6.png)
 
-![](../../.gitbook/assets/5n32.jpg)
+8\) **Confirm** the second claim transaction in MetaMask \(you will need some Eth for gas fees\). Once processed, the Dai should be available in your wallet.
 
-8\) **Confirm** the transaction in MetaMask. You will need some ETH to confirm and complete the transaction.
-
-![](../../.gitbook/assets/6new.jpg)
-
-9\) Wait for confirmations from validators on Mainnet. Once this is complete, you should see the Success message.  xDai has been transferred to Dai and is available for use on the Ethereum mainnet.
-
-![](../../.gitbook/assets/7new.jpg)
-
-9\) Click the transaction hex to view your transaction in Etherscan.
-
-![](../../.gitbook/assets/8new.jpg)
+![](../../.gitbook/assets/xdai7.png)
 
 {% hint style="info" %}
 If you are interested in converting Dai to xDai without the UI see [how to use xDai Bridge without UI](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui) 
