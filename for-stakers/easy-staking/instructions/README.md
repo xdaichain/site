@@ -39,6 +39,10 @@ There are two types of withdrawals - Instant and Scheduled. Select the type you 
 
 ![](../../../.gitbook/assets/deets2.png)
 
+{% hint style="info" %}
+Accrued emissions are calculated/added from the contract side and automatically added to your wallet based on your withdrawal amount. For example, if you remove 1/2 of your deposited STAKE, 1/2 of your accrued emissions will also be sent to your wallet.
+{% endhint %}
+
 ## Liquidity Providers
 
 {% hint style="warning" %}
