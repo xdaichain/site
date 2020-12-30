@@ -23,6 +23,7 @@
     * [EthWaterloo II](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethwaterloo.md)
     * [EthCC Afterparty](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethcc-afterparty.md)
     * [Pony Purse \(Conference & Event Wallet\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet.md)
+* [Untitled](about-xdai/untitled.md)
 * [Projects & DApps](about-xdai/project-spotlights/README.md)
   * [Gnosis](about-xdai/project-spotlights/gnosis/README.md)
     * [Gnosis Safe](about-xdai/project-spotlights/gnosis/gnosis-safe.md)
