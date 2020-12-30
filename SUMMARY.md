@@ -112,7 +112,7 @@
   * [Moving Dai to xDai](for-users/converting-xdai-via-bridge/moving-dai-to-xdai.md)
   * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)
   * [Alternate Receiver \(Send Dai to another xDai address\)](for-users/converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md)
-  * [Use alternate or custom JSON RPC endpoints](for-users/converting-xdai-via-bridge/use-alternate-or-custom-json-rpc-endpoints.md)
+  * [Use Alternate or Custom JSON RPC Endpoints](for-users/converting-xdai-via-bridge/use-alternate-or-custom-json-rpc-endpoints.md)
   * [Find a Transaction Hash](for-users/converting-xdai-via-bridge/find-a-transaction-hash.md)
   * [Transfer Dai without a UI \(using a web3 wallet and BlockScout / Etherscan\)](for-users/converting-xdai-via-bridge/transfer-sai-dai-without-the-ui-using-web3-or-mobile-wallet.md)
   * [View Inbound \(Dai to xDai\) Transactions](for-users/converting-xdai-via-bridge/viewing-inbound-transactions.md)

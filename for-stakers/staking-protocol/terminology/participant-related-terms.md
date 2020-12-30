@@ -18,15 +18,15 @@
 
 Active pools consist of all candidate and validator pools eligible to join the next staking epoch as members of the validator set. At the end of a staking epoch, the new validator set is constructed from this list. 
 
-Active pools with higher stake have a higher likelihood of selection to the next epoch, but all active pools have a chance to be selected \(randomness introduces variation in selection\).
+Active pools with higher stake have a higher likelihood of selection to the next epoch, but all active pools have a chance \(randomness introduces variation in selection\).
 
-Random selection is not applicable if there are 19 or fewer candidates/validators. If there are fewer than 20 candidates, every candidate becomes a validator.
+Random selection does not happen if there are 19 or fewer candidates/validators. If there are fewer than 20 candidates, every candidate becomes a validator.
 
 To be considered active, a pool must contain at least the minimum stake amount \(currently 20K STAKE\) and be in good standing \(not banned\).
 
 All active pools are listed in the active pools tab, arranged from highest stakes ratio to lowest stakes ratio. Delegators may add or move stake to and from active pools during a staking window. However, **if the active pool is a current validator, the change in stake amounts will not take effect until the next staking epoch**. 
 
-A withdrawal from a validating pool is limited to the amount staked during the current staking epoch. However, any delegator in the validator’s pool \(including the validator themselves\) can order a withdrawal and remove their stake during subsequent staking epochs.
+An instant withdrawal from a validating pool is limited to the amount staked during the current staking epoch. However, any delegator in the validator’s pool \(including the validator themselves\) can order a withdrawal and remove their stake during subsequent staking epochs.
 
 ### Candidate
 
@@ -43,7 +43,7 @@ When the next staking epoch begins, candidates are selected as validators based 
 
 Candidates who are not selected remain in the active pool list, and can attempt to attract more stake to increase their selection chances in the next epoch if they choose to do so.
 
-Every current validator can also be thought of as a potential candidate for the next validator set. Delegators can place stake on currently active validators, and this pending delegation stake \(along with the previous placed stake\) will be considered during selection for the next staking epoch.
+Every current validator can also be thought of as a potential candidate for the next validator set. Delegators can place stake on current active validators, and this pending delegation stake \(along with the previous placed stake\) will be considered during selection for the next staking epoch.
 
 ### Candidate Pool
 
@@ -51,7 +51,7 @@ The candidate pool is the total amount of STAKE currently placed on a candidate.
 
 ### Delegator
 
-Delegators are participants who provide additional stake to protect the chain, but are not validators themselves. They do not need to run a node, and do not assume responsibility for consensus. To delegate, a participant must have both bridged STAKE and xDai, and place at least the minimum amount of delegator stake \(currently 1K STAKE, subject to change\) on a candidate pool. Delegators can place stake on multiple candidates, move stake from one candidate to another, or withdraw stake from candidates at any time.
+Delegators are participants who provide additional stake to protect the chain, but are not validators themselves. They do not need to run a node, and do not assume responsibility for consensus. To delegate, a participant must have both bridged STAKE and xDai, and place at least the minimum amount of delegator stake \(currently 200 STAKE, [can be changed through governance](../../stake-token/stake-weighted-voting.md)\) on a candidate pool. Delegators can place stake on multiple candidates, move stake from one candidate to another, or withdraw stake from candidates at any time.
 
 Delegators place stake on candidates they believe will make good validators. Once a candidate becomes a validator, the delegator’s stake is activated and may not be withdrawn or removed during the current staking epoch. However, active stake can be ordered for withdrawal, and additional stake can be placed on an active validator \(within the staking window\) in anticipation of the next staking epoch.
 

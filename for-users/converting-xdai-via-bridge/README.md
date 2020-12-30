@@ -10,14 +10,14 @@ description: Dai is converted to xDai through the TokenBridge
 * [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
 * Additional bridge documentation is [available here](https://docs.tokenbridge.net/xdai-bridge/about).
 * ❓ Having issues? See our [troubleshooting guide](troubleshooting.md).
-* Quick video tutorial: [https://youtu.be/IG9Lz-M8UFQ](https://youtu.be/IG9Lz-M8UFQ)
+* Quick video tutorial: [https://youtu.be/oKdh2cOOqUs](https://youtu.be/oKdh2cOOqUs)
 {% endhint %}
 
 {% hint style="info" %}
 There are currently 2 bridges on xDai with different purposes.
 
 1. The xDai Bridge for converting xDai to Dai. This section covers this bridge
-2.  The OmniBridge for bridging all other types of ERC20s. [Omnibridge section here](../omnibridge.md).
+2.  The OmniBridge for bridging all other types of ERC20s. [Omnibridge section](../omnibridge.md).
 {% endhint %}
 
 ## What is the xDai Bridge
