@@ -93,7 +93,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [0xMonero](https://0xmonero.com/): Privacy tokens with zk-SNARKs and 0xMixer
 * [Dollarcake](https://dollarcake.com/): Youtube crypto rewards
 * [LinkDrop](https://linkdrop.io/): Airdrops & new user onboarding
-* [Etherrisc](https://etherisc.com/): Decentralized Insurance
+* [Etherisc](https://etherisc.com/): Decentralized Insurance
 
 
 
