@@ -12,19 +12,21 @@ A stable coin means peace of mind. Predictable currencies allow buyers and selle
 
 The xDai chain provides a vital public utility for users - the ability to transfer stable value free of speculative concerns, volatility, or FUD \(fear, uncertainty & doubt\). xDai is an independent network, built to support transactions that hold value. When DAI is bridged to xDai, it moves to a platform with a clear, transparent purpose; secure & stable transactions on a fast, neutral network.
 
-xDai’s value is not determined by crypto-market forces, removing much of the drama that permeates the blockchain space. Open governance, open access, and token stability create a trusted environment for users as well as applications built on top of xDai.
+Open governance, open access, and token stability create a trusted environment for users as well as applications built on top of xDai.
 
 ## On-Chain Randomness
 
 Using a RANDAO-based Random Number Generator, validators on xDai produce random numbers used for validator selection. These random seeds are also available for usage by contracts deployed to xDai. This allows for true on-chain randomness, eliminating the need to rely on a centralized service or 3rd party application. More information on how the xDai RNG works is [available here](../for-developers/on-chain-random-numbers/).
 
-## DPOS Consensus
+## POSDAO Consensus
 
-To move to a permissionless structure, the xDai Stable Chain will adopt a delegated Proof of Stake \(DPOS\) consensus mechanism. Private POS consensus is already underway, and phase 2 will bring public staking to the xDai chain. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol, called POSDAO consensus, including a complete overview of the theory, rationale, security, and a detailed implementation section.
+The xDai Stable Chain uses a delegated Proof of Stake \(DPOS\) consensus mechanism called POSDAO. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol including a complete overview of the theory, rationale, security, and a detailed implementation section.
 
-## Multi-Chain Staking Token
+## STAKE: A Multi-Chain Staking & GovernanceToken
 
-The STAKE token will be used by validators and delegators to secure the xDai chain. Users will have the opportunity to participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. While participants will place STAKE to secure the chain, they will receive rewards in both STAKE and xDai thanks to unique reward mechanics.
+The STAKE token on xDai is used by validators and delegators to secure the xDai chain. Users may participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. Participants place STAKE to secure the chain, and receive rewards in both STAKE and xDai \(for validators\) thanks to[ unique reward mechanics](../for-stakers/stake-reward-mechanics/).
+
+STAKE also serves in a governance capacity. Community members can [create and vote on proposals](../for-stakers/stake-token/stake-weighted-voting.md) to change or update the protocol. These changes are then taken into consideration by the xDai validators and team.
 
 Additional sidechains will also have the opportunity to use STAKE to secure their chains, making this the first multi-chain enabled staking token.
 
