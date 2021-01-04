@@ -12,5 +12,7 @@ View current xDai validators \(change network dropdown to xDai Stable Chain\): [
 
 ### Additional Information on AuRa:
 
-{% embed url="https://wiki.parity.io/Aura" %}
+{% embed url="https://openethereum.github.io/Aura" %}
+
+
 

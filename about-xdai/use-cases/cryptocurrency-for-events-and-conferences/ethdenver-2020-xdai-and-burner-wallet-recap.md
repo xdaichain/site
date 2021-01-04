@@ -100,7 +100,7 @@ Edge cases like these were uncovered several times during the event, and then fi
 
 ## Burner Wallet + <a id="burner-wallet"></a>
 
-In addition to introducing new bugs, many new features also ended up working really well :\). An integration with [Gas Station Network](https://gasstation.network/) allowed users to submit transactions without paying any transaction costs. The previous year, each Burner wallet was airdropped several cents worth of xDai to cover costs, and an enterprising hacker found a way to drain some of these funds. This year, no gas was needed, and the relay network was amazingly robust.
+In addition to introducing new bugs, many new features also ended up working really well :\). An integration with Gas Station Network allowed users to submit transactions without paying any transaction costs. The previous year, each Burner wallet was airdropped several cents worth of xDai to cover costs, and an enterprising hacker found a way to drain some of these funds. This year, no gas was needed, and the relay network was amazingly robust.
 
 The Burner Connect functionality also worked well - the wallet could connect to DAOStack and transfer XP tokens to the DAOStack environment without sharing private keys. This was a big step forward for Burner Wallet security as private keys could be kept private when interacting with other applications!
 

@@ -13,7 +13,7 @@ You will also need a [small amount of xDai ](../for-users/get-xdai-tokens.md)to 
 
 ## Truffle Based Tutorial
 
-[This tutorial on Kauri ](https://kauri.io/article/549b50d2318741dbba209110bb9e350e/v12/poa-part-1-develop-and-deploy-a-smart-contract)shows how to deploy a DApp to the POA Sokol test network. It can be adapted to the xDai network with a few minor tweaks.
+[This tutorial on Kauri](https://kauri.io/#collections/POA%20Tutorial%20series/poa-part-1-develop-and-deploy-a-smart-contract/) shows how to deploy a DApp to the POA Sokol test network. It can be adapted to the xDai network with a few minor tweaks.
 
 1\) For xDai, edit the truffle.js file to the following:
 

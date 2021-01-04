@@ -8,7 +8,7 @@ Remember, Burner Wallets are meant for carrying around small amounts of cash \(x
 Take care when exiting your browser, especially if you have privacy settings enabled, as your wallet may be easily lost. It is recommended to transfer funds out of Burner Wallet once you are finished using it and burn the keys, or to store your private key somewhere safe before exiting.
 {% endhint %}
 
-## To start, simply visit [https://xdai.org](https://xdai.org)
+## To start, simply visit [https://xdai.io](https://xdai.io)
 
 This will open a fresh burner wallet \(or a previous burner if keys are still saved in local storage\). 
 

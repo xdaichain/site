@@ -4,6 +4,12 @@ description: 'Use the exchange page to move ETH -> DAI -> xDai, or to send ETH o
 
 # Exchange Currencies
 
+{% hint style="warning" %}
+ xDai to Dai exchange requires an extra step where tokens must be claimed on Ethereum. The bridge at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/) is the recommended method for this exchange.
+
+If you have used the Burner Wallet to exchange currencies and have not received, go to the xDai bridge and connect with your burner account to claim your Dai. [More troubleshooting info is available here](../converting-xdai-via-bridge/troubleshooting.md).
+{% endhint %}
+
 You can transfer currencies directly within the wallet interface - from ETH -&gt; DAI and DAI -&gt; xDai, or in the reverse direction from xDai -&gt; DAI and DAI -&gt; ETH.  This all-in-one interface makes it easy to initiate and complete transfers.
 
 To start, Click **Exchange.**

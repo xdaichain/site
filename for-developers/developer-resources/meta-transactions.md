@@ -56,7 +56,7 @@ A user can then claim a link. **Claiming a link uses meta transactions**. Here w
 
 Below is an example claim meta transaction where you can follow the details on encoded messages, logs, internal transactions, and a raw trace of the transaction.
 
-{% embed url="https://blockscout.com/poa/xdai/tx/0xaa0ad5d6ed4ce7a5f606b631f0f0a50405db66669327bdd0d4c31db39d3f74e4/internal\_transactions" %}
+{% embed url="https://blockscout.com/poa/xdai/tx/0xaa0ad5d6ed4ce7a5f606b631f0f0a50405db66669327bdd0d4c31db39d3f74e4/internal-transactions" %}
 
 ## Implementation details
 
