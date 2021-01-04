@@ -29,31 +29,41 @@ $ yarn global add @graphprotocol/graph-cli
 
 ```
 
-4\) Make a directory \(or choose an existing one\) and scaffold the project:
+4\) The following command creates a subgraph that indexes all events of an existing contract. It attempts to fetch the contract ABI from BlockScout and falls back to requesting a local file path. If any of the optional arguments are missing, it takes you through an interactive form.  
+  
+_\*Note: The interactive form does not currently include xDai in the dropdown of networks, so using the following flags is useful for an xDai deployment_
 
 ```text
-graph init
+graph init \
+  --from-contract <CONTRACT_ADDRESS> \
+  [--network xdai ] \
+  [--abi <FILE>] \
+  <GITHUB_USER>/<SUBGRAPH_NAME> [<DIRECTORY>]
 ```
 
-5\) Enter your subgraph details at the prompts:
+--from-contract `<CONTRACT_ADDRESS>` is the address of your existing contract. `<`
 
-* **Subgraph name**: &lt;github\_username&gt;/&lt;graph-name&gt;  _Chose the subgraph name created in step 2 as lowercase-hypenated_ 
-* **Directory to create**: Choose a directory name
-* **Ethereum Network**: Select **xdai**
-* **Contract address**: Address of the contract you want to use. If [verified in BlockScout](https://docs.blockscout.com/for-users/smart-contract-interaction/verifying-a-smart-contract), the graph will grab the ABI, otherwise you will need manually add the ABI
-*  **ABI file \(path\):** path-to-abi.json _You can save the abi from BlockScout or by running `truffle compile` or `solc` on a public project._ [_More info available here_](https://thegraph.com/docs/define-a-subgraph#the-subgraph-manifest)_._
+--abi `<FILE>` is a local path to a contract ABI file \(optional, If [verified in BlockScout](https://docs.blockscout.com/for-users/smart-contract-interaction/verifying-a-smart-contract), the graph will grab the ABI, otherwise you will need manually add the ABI. _You can save the abi from BlockScout or by running `truffle compile` or `solc` on a public project._ [_More info available here_](https://thegraph.com/docs/define-a-subgraph#the-subgraph-manifest)_.\)_
 
-6\)  Authenticate with the hosted service
+The `<GITHUB_USER>` is your github user or organization name, `<SUBGRAPH_NAME>` is the name for your subgraph, and `<DIRECTORY>` is the optional name of the directory where `graph init` will put the example subgraph manifest. 
+
+* _Chose the subgraph name created in step 2 as lowercase-hypenated_ 
+
+{% hint style="info" %}
+More details are here: [https://thegraph.com/docs/define-a-subgraph\#create-a-subgraph-project](https://thegraph.com/docs/define-a-subgraph#create-a-subgraph-project)
+{% endhint %}
+
+5\)  Authenticate with the hosted service
 
 ```text
 graph auth https://api.thegraph.com/deploy/ <your-access-token>
 ```
 
-7\) cd to the directory you created and start defining the subgraph. Information on creating a subgraph is available in the Graph Docs.
+6\) cd to the directory you created and start defining the subgraph. Information on creating a subgraph is available in the Graph Docs.
 
 {% embed url="https://thegraph.com/docs/define-a-subgraph" %}
 
-8\) When you are ready, deploy your subgraph. You can always test and redeploy as needed. 
+7\) When you are ready, deploy your subgraph. You can always test and redeploy as needed. 
 
 ```text
 yarn deploy
