@@ -4,15 +4,16 @@
 
 {% embed url="https://easy-staking.xdaichain.com/" %}
 
+{% hint style="info" %}
+EasyStaking is for staking STAKE on Ethereum. If you want to stake on xDai directly with POSDAO, see the [Staking Protocol and Tutorials](../staking-protocol/) section.
+{% endhint %}
+
 {% hint style="success" %}
 * [Instructions](instructions/) on how to use the EasyStaking application.
 * [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
 * Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md).
 * View reward scenarios and other metrics at [stakingrewards.com](https://www.stakingrewards.com/earn/xdai/calculate%20) 
-{% endhint %}
-
-{% hint style="info" %}
-If you want to stake on xDai directly with POSDAO, see the [Staking Protocol and Tutorials](../staking-protocol/) section.
+* See a [reward comparison with different staking methods](../stake-reward-mechanics/staking-rewards-comparison.md) \(EasyStaking, LP Provider, Delegation & Validation\)
 {% endhint %}
 
 ## What is Easy Staking?
