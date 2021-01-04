@@ -11,6 +11,10 @@
 * View reward scenarios and other metrics at [stakingrewards.com](https://www.stakingrewards.com/earn/xdai/calculate%20) 
 {% endhint %}
 
+{% hint style="info" %}
+If you want to stake on xDai directly with POSDAO, see the [Staking Protocol and Tutorials](../staking-protocol/) section.
+{% endhint %}
+
 ## What is Easy Staking?
 
 Easy Staking allows users to place STAKE into a contract and receive STAKE emissions on Ethereum. It provides an accessible staking mechanism for users and increases STAKE utility and DeFi composability. EasyStaking also:
