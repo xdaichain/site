@@ -41,7 +41,7 @@ graph init \
   <GITHUB_USER>/<SUBGRAPH_NAME> [<DIRECTORY>]
 ```
 
---from-contract `<CONTRACT_ADDRESS>` is the address of your existing contract. `<`
+--from-contract `<CONTRACT_ADDRESS>` is the address of your existing contract.
 
 --abi `<FILE>` is a local path to a contract ABI file \(optional, If [verified in BlockScout](https://docs.blockscout.com/for-users/smart-contract-interaction/verifying-a-smart-contract), the graph will grab the ABI, otherwise you will need manually add the ABI. _You can save the abi from BlockScout or by running `truffle compile` or `solc` on a public project._ [_More info available here_](https://thegraph.com/docs/define-a-subgraph#the-subgraph-manifest)_.\)_
 
