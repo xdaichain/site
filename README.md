@@ -14,7 +14,7 @@ The **xDai Chain** is a stable payments blockchain designed for fast and inexpen
 
 **STAKE** is a multi-chain staking token designed to secure the payment layer. Staking allows block producers \(validators and their delegators\) to provide transaction consensus and receive staking incentives for honest block production. **STAKE is not required for everyday chain transactions or users**, it is only required for consensus providers. STAKE is also not stable, it is a volatile token whose value is determined by the marketplace. 
 
-See the [dual token model](about-xdai/news-and-information/dual-token-model.md) for more on this innovative approach.
+See the [dual token model](for-stakers/stake-reward-mechanics/dual-token-model.md) for more on this innovative approach.
 {% endtab %}
 
 {% tab title="For developers" %}
@@ -67,7 +67,7 @@ STAKE is also used for voting purposes, where [community members can create and 
 * ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
 * ✅[STAKE token](for-stakers/stake-token/) allows community consensus participation and incentives. 
-* ✅Wide-ranging Community Support \(see [xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators.md)\).
+* ✅Wide-ranging Community Support \(see [xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators/)\).
 * ✅Outstanding energy efficiency.
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet.md) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md) and more.

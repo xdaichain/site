@@ -1,3 +1,7 @@
+---
+description: End of Year Overview
+---
+
 # 2020 Year in Review
 
 ![](../../../.gitbook/assets/blue-and-orange-bold-stars-new-year-facebook-cover.png)

@@ -8,7 +8,74 @@ description: Current & Future Directions for the xDai Stable Chain
 The xDai roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
 {% endhint %}
 
-_Last update: 23.12.2020 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: 04.01.2021 \|_ [_Changelog_](./#change-log)\_\_
+
+## ☑ 2021 Preliminary Roadmap
+
+The roadmap for 2021 is still in review with additional items to be added and priorities adjusted as needed.
+
+![](../../.gitbook/assets/5-year-roadmap.png)
+
+## EasyStaking Liquidity Pool Analytics
+
+🎯 **Target Date**: Q1 2021  
+☑ **Status:** 75% complete. [Distributions dashboard](https://stake-reward-distribution.xdaichain.com/) done. 
+
+EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the EasyStaking protocol. [Rewards fluctuate based on numerous factors](../../for-stakers/easy-staking/#liquidity-pool-lp-participants), and additional analytics and dashboards for LPs will be useful for determining staking strategies, reviewing historical outcomes and viewing current statistics. 
+
+We will integrate statistics views on the EasyStaking platform as well as develop additional analytics tools \(currently exploring options like Dune Analytics & Graphana\) for LPs.
+
+## **Privacy Preserving Transactions**
+
+🎯 **Target Date:** Q2 2021  
+☑ **Status:** In process, defining requirements and exploring approaches
+
+Implementation of additional zero-knowledge protocols and private transactions into xDai.
+
+Since xDai is a stable token, the primary use of the chain is peer-to-peer payments. Just as with cash, privacy and anonymity should be an option when exchanging money or paying vendors for services. 
+
+Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure Dai anonymity. Dai can be used with tornado.cash before and after bridging to xDai to ensure transaction anonymity.
+
+We also plan to implement privacy preserving transactions on xDai directly. Additionally, we plan to enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum.
+
+We have invested in several [different approaches ](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)to implement different ZK protocols into xDai based applications and wallets.
+
+## Synthetic Assets on xDai based on UMA protocol
+
+🎯 **Target Date**: Q2 2021  
+☑ **Status:** In process. 50% implementation
+
+UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
+
+xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets. We currently have a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. [sUSD example](https://docs.tokenbridge.net/eth-xdai-amb-bridge/susd-bridge-extension/transfer-susd-through-the-bridge-extension).
+
+## OmniBridge Phase 2
+
+🎯 **Target Date**: Q1-Q2 2021  
+☑ **Status:** [Security Audits Completed](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge).
+
+Additional features will be added including bi-directional support \(ability to move tokens minted on xDai to Ethereum\) and additional decentralization mechanisms \(governance, additional validators, user-enabled signature execution\).
+
+## Universal NFT Bridge
+
+🎯 **Target Date**: Q1-Q2 2021  
+☑ **Status:** In process
+
+An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers.
+
+## L2 scalability for token transfers on xDai
+
+🎯 **Target Date**: Q2 2021
+
+We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers \(up to 1000x\) for native tokens and synthetic tokens on top of xDai. 
+
+## POSDAO Phase 3
+
+🎯 **Target Date**: Q4 2021
+
+A chain created specifically to leverage [POSDAO](../../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../../for-stakers/stake-token/)tokens and HBBFT consensus.
+
+## ✅ Completed 2020
 
 ## Fiat to xDai Onramp
 
@@ -71,15 +138,6 @@ For more information on this transition, see the [staking roadmap](../../for-sta
 
 Easy Staking serves to reduce the overall amount of STAKE in active circulation and acts as a mechanism to limit available liquidity and supply. Limited supply in the open market increases security for POSDAO chains such as the xDai stable chain.
 
-## EasyStaking Liquidity Pool Analytics
-
-🎯 **Target Date**: Q3 2020  
-☑ **Status:** 75% complete. [Distributions dashboard](https://stake-reward-distribution.xdaichain.com/) done. 
-
-EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the EasyStaking protocol. [Rewards fluctuate based on numerous factors](../../for-stakers/easy-staking/#liquidity-pool-lp-participants), and additional analytics and dashboards for LPs will be useful for determining staking strategies, reviewing historical outcomes and viewing current statistics. 
-
-We will integrate statistics views on the EasyStaking platform as well as develop additional analytics tools \(currently exploring options like Dune Analytics & Graphana\) for LPs.
-
 ## OmniBridge Phase 1
 
 🎯 **Target Date**: Q3 2020  
@@ -105,49 +163,6 @@ Bridge management should be expanded to additional community representatives. Th
 
 To increase decentralization and enable a permissionless consensus process,  the broader community will have the opportunity to participate as validators and/or delegators in the consensus process. 
 
-## **Privacy Preserving Transactions**
-
-🎯 **Target Date:** Q4 2020  
-☑ **Status:** In process, defining requirements and exploring approaches
-
-Implementation of additional zero-knowledge protocols and private transactions into xDai.
-
-Since xDai is a stable token, the primary use of the chain is peer-to-peer payments. Just as with cash, privacy and anonymity should be an option when exchanging money or paying vendors for services. 
-
-Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure Dai anonymity. Dai can be used with tornado.cash before and after bridging to xDai to ensure transaction anonymity.
-
-We also plan to implement privacy preserving transactions on xDai directly. Additionally, we plan to enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum.
-
-We have invested in several [different approaches ](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)to implement different ZK protocols into xDai based applications and wallets.
-
-## Synthetic Assets on xDai based on UMA protocol
-
-🎯 **Target Date**: Q4 2020  
-☑ **Status:** In process. 50% implementation
-
-UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
-
-xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets. We currently have a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. [sUSD example](https://docs.tokenbridge.net/eth-xdai-amb-bridge/susd-bridge-extension/transfer-susd-through-the-bridge-extension).
-
-## OmniBridge Phase 2
-
-🎯 **Target Date**: Q1-Q2 2021  
-☑ **Status:** [Security Audits Completed](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge).
-
-Additional features will be added including bi-directional support \(ability to move tokens minted on xDai to Ethereum\) and additional decentralization mechanisms \(governance, additional validators, user-enabled signature execution\).
-
-## L2 scalability for token transfers on xDai
-
-🎯 **Target Date**: Q1 2021
-
-We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers \(up to 1000x\) for native tokens and synthetic tokens on top of xDai. 
-
-## POSDAO Phase 3
-
-🎯 **Target Date**: Q4 2021
-
-A chain created specifically to leverage [POSDAO](../../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../../for-stakers/stake-token/)tokens and HBBFT consensus.
-
 ## Change Log
 
 <table>
@@ -158,6 +173,18 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>04.01.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Organize 2020 items to completed, add preliminary 2021 Items</li>
+          <li>Adjust target dates for some 2021 items</li>
+          <li>Add NFT bridge</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>23.12.2020</em>
       </td>

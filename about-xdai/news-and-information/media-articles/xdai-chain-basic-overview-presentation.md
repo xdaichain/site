@@ -10,11 +10,11 @@ We have presented to communities interested in learning what xDai is all about, 
 
 ![](https://lh4.googleusercontent.com/5ddbhzDl3xzkEs08lPIkwdjMZQIuzIEwXYmgpo0GkQVSlVCh2SQaZDz4VW6fyNINsHiPIZzi3ZJln9CrhYEuIX5H20g0Rus0WBRJ9QtYfkHeFjJxLZkkb-YmVCPIeA8LawtLTh5g)
 
-DeFi and Stablecoins are big trending topics in the blockchain industry today. New tools for trading, derivatives, lending and more are constantly being developed. Many of these are designed for stable value transfer. While this is happening on a large & institutional scale, small scale payment platforms have not kept up.
+DeFi and stablecoins are big trending topics in the blockchain industry today. New tools for trading, derivatives, lending and more are constantly being developed. Many of these are designed for stable value transfer. While this is happening on a large & institutional scale, small scale payment platforms have not kept up.
 
-What we are talking about here is platforms for simple payments - like purchasing food from a food stand, sending a \(digital\) cash payment to a friend, or providing payment for services.  The future of cryptocurrency for everyday people performing everyday tasks.
+Simple-payment platforms for activities like purchasing food from a food stand, sending a \(digital\) cash payment to a friend, or providing payment for services are still lagging behind.  This is the future of cryptocurrency for everyday people performing everyday tasks.
 
-While big DeFi continues to grow, we need an infrastructure for simple payments. This is where the xDai Chain comes in.
+Big DeFi continues to grow, and we need an infrastructure for simple payments.  xDai chain is well positioned to lead this effort.
 
 We set out to build a reliable chain for stable payments, based on our past experience with Ethereum sidechains and interoperability bridges. The result is the xDai chain.
 
@@ -30,7 +30,7 @@ We set out to build a reliable chain for stable payments, based on our past expe
 
 ![](../../../.gitbook/assets/photo_2020-09-07-12.05.42.jpeg)
 
-The initial list of validators on the xDai chain includes POA Network, Giveth, Portis, MakerDAO, BurnerWallet, SyncNode, AnyBlock Analytics, Nethermind, Protofire, Gnosis and Galt Project. To date, these validators have subsidized their nodes in order to provide a stable chain for users.
+The initial list of validators on the xDai chain includes POA Network, Giveth, Portis, MakerDAO, BurnerWallet, SyncNode, AnyBlock Analytics, Nethermind, Protofire, Gnosis and Galt Project. To bootstrap the network, these validators subsidized their nodes to provide a stable chain for users. Now, with [public POSDAO](../project-updates/public-posdao-announcement.md) the broader community can participate in the consensus process.
 
 In addition to the support from influential validators, companies like Splunk have supported the xDai chain by creating back-end data analysis tools and using xDai for their developer conferences. TheGraph, Terminal, Pocket Network, Tenderly, Chainbeat and more have all created compatible network tooling.
 
@@ -42,7 +42,7 @@ Support extends to the greater Ethereum Community. Many thought leaders and infl
 
 xDai has been used by 1000s of individuals at conferences, communities in Kenya, and as a payment chain for small gatherings across the globe. User-friendly tools like the Burner Wallet make this possible. We invite you to explore the [use-cases section of our website ](../../use-cases/)to see how xDai adoption is real and growing every day. 
 
-xDai has been a success story so far. But to move forward, it is vital that we transition to a permissionless, decentralized consensus. With the transition to delegated Proof-of-Stake, xDai will become a truly decentralized platform for stable payments.
+xDai has been a success story so far. But to move forward, it is vital that we transition to a permissionless, decentralized consensus. With the transition to delegated Proof-of-Stake, xDai is a truly decentralized platform for stable payments.
 
 ## xDai Phase 2: POSDAO & STAKE
 
@@ -50,13 +50,11 @@ POSDAO is a delegated Proof-of-Stake algorithm implemented as a DAO \(Decentrali
 
 POSDAO opens up the consensus process to the greater community. An easy-to-use interface allows anyone with STAKE to participate in consensus and earn incentives for their participation. 
 
-We have already rolled out phase 1 of POSDAO, where the current validators are placing STAKE and receiving rewards. Phase 2 is planned for a Q3 2020 release. This will allow public participants to become validator candidates, and allow public delegators to place stake on current validators.
-
 ## Public POSDAO Validator Selection
 
 ![](https://lh6.googleusercontent.com/KZ03UYK99IENZj_TH1Knc6huKj87iIP26-1FCyAMH5SYWsm5zNHEko7H2Khmb1lprE0wMDN4f6l2bwAOsn_2dsKdxar4l_VG9xJK7qMMXQUMy01bWi_hNQDeohL1Rp-DZNhQ5_xq)
 
-A collection of smart contracts power the protocol, enabling staking, rewards, and validator management. When public staking begins, new validators will declare themselves as candidates by placing the minimum amount of STAKE required \(20,000\) into the protocol and preparing a node. Delegators will have the option to place additional STAKE on candidates in order to increase the size of their total STAKE amount \(known as a pool\). The minimum delegation amount is 1000 STAKE.
+A collection of smart contracts power the protocol, enabling staking, rewards, and validator management. New validators declare themselves as candidates by placing the minimum amount of STAKE required \(20,000\) into the protocol and preparing a node. Delegators will have the option to place additional STAKE on candidates in order to increase the size of their total STAKE amount \(known as a pool\). The minimum delegation amount is currently 200 STAKE.
 
 Each week, known as a staking epoch, a new group of Validators is selected to secure the protocol. Up to 19 validators can comprise a group. Selection to the group is based on the total amount of STAKE in a pool, as well as an on-chain generated random number \(if there are more than 19 candidates\). 
 
@@ -78,7 +76,6 @@ Validators always receive at least 30% of the total pool reward, and may receive
 * **Transaction fees in xDai**: Sent to validator that seals the block containing the transactions.
 * **STAKE rewards from sealing blocks**: STAKE placed in the protocol generates a 15% APR which is distributed to validator pools
 * **Bridge Fees \(STAKE & xDai\)**: Fees assessed when Dai is bridged to xDai, and when xDai is bridged to Dai. 
-* **Chai interest \(xDai\)**: Dai placed in the protocol is locked as Chai, an interest bearing Dai derivative. Interest is distributed in xDai among validator pools.
 
 ## xDai Bridge
 
@@ -88,6 +85,6 @@ STAKE is also bridged from the Ethereum mainnet to the xDai chain, and follows a
 
 ![](https://lh3.googleusercontent.com/xNvmQT7okbzHlUNN0tnj99-JUEY3sZLykbb62oA4-NcaMRo5aQl-ZSXxUe18PaFUUPkDWOLMCVmJpux_WtFzF3wjvJvBxytLapJFlrAcVYyIyg20IbsXYikXI1e4-sgMdDUMJ7nZ)
 
-That covers the very basics of where we are headed with POSDAO and the STAKE token. We are excited for public staking and believe that the decentralization it brings will help move xDai into the mainstream as a stable payments blockchain platform.  
+That covers the very basics of the xDai network, consensus and bridges. We look forward to new use cases as xDai moves into the mainstream as a stable payments blockchain platform.   
 
 

@@ -1,5 +1,7 @@
 ---
-description: xDai Foundation will dedicate 100% of token unlocks through end of year
+description: >-
+  July 2020: xDai Foundation will dedicate 100% of token unlocks through end of
+  year
 ---
 
 # EasyStaking Launch Initiative Update

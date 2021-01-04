@@ -10,6 +10,10 @@ description: >-
 When transaction fees and speeds are a known quantity, developers can plan and execute accordingly, and players can be onboarded quickly with low barriers to entry.
 {% endhint %}
 
+{% hint style="info" %}
+Also see the [DarkForest Project](../project-spotlights/dark-forest.md) for an in-depth overview of a cutting-edge blockchain game on xDai.
+{% endhint %}
+
 ## Games Case Study:  DAOG
 
 DAOG, by Austin Griffith, is a browser based game where players can explore DAO membership and on-chain governance while playing a game in a massive multi-player environment. Emojis are used to represent rule-based smart contracts which can be created by any player and voted on by the group. This makes each game unique and open-ended as the players decide on the rules of play. 

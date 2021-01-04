@@ -27,15 +27,15 @@ Because it is minted 1-for-1 from locked Dai, **xDai inherits the stability feat
 
 ## **STAKE Tokens**
 
-STAKE tokens are used to protect the xDai chain. The POSDAO protocol emits STAKE which  provides incentives for honest validators and their delegators and punishes those \(bans and freezes their STAKE amounts\) who do not follow the protocol rules. 
+STAKE tokens are used to protect the xDai chain. The POSDAO protocol emits STAKE which provides incentives for honest validators and their delegators and punishes those \(bans and freezes their STAKE amounts\) who do not follow the protocol rules. 
 
-Token holders can commit STAKE into the protocol and receive emission-based STAKE rewards \(with a maximum 15% target, effective emissions will be lower\). Individuals who commit a minimum of 20K STAKE are eligible to run a node and become a validator candidate \(a validator is a node that seals blocks and maintains blockchain consensus\).  Delegators can place a minimum of 1K STAKE on validators they believe will best serve the network.\* 
+Token holders can commit STAKE into the protocol and receive emission-based STAKE rewards \(with a maximum 15% target\). Individuals who commit a minimum of 20K STAKE are eligible to run a node and become a validator candidate \(a validator is a node that seals blocks and maintains blockchain consensus\).  Delegators can place a minimum of 200 STAKE on validators they believe will best serve the network.\* 
 
 {% hint style="info" %}
-\*Parameters are subject to change prior to [Phase 2 launch](../../for-stakers/stake-and-staking/#phase-2-public-staking-and-reward-expansion).
+\*Parameters subject to change.
 {% endhint %}
 
-Delegating STAKE on a validator candidate is akin to placing a vote on that candidate.  The more STAKE \(votes\) a candidate pool receives, the more likely they are to become a validator in the next staking round. Governance \(validator selection\) is provided through on-chain STAKE allocation rather than a defined voting process.
+Delegating STAKE on a validator candidate is akin to placing a vote on that candidate.  The more STAKE \(votes\) a candidate pool receives, the more likely they are to become a validator in the next staking round. Governance \(validator selection\) is provided through on-chain STAKE allocation rather than a defined voting process. However, a [snapshot integration allows STAKE holders to create and vote on protocol-related proposals](../../for-stakers/stake-token/stake-weighted-voting.md). Results of these votes signal the direction of the protocol, and may be enacted by validators and xDai devs.
 
 Delegates and validators are rewarded with STAKE emissions for successful block creation and consensus participation. Delegators are incentivized to select the best validators for the job, and validators are incentivized to maintain their nodes, produce correct blocks, and report on the system.
 

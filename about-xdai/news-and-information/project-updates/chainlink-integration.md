@@ -1,3 +1,7 @@
+---
+description: 'November 6, 2020'
+---
+
 # Chainlink Integration
 
 **Announced Nov 6, 2020.** Chainlink will be natively integrated with the xDai chain.  

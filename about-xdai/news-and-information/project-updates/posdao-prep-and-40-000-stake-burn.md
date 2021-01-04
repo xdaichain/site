@@ -1,5 +1,5 @@
 ---
-description: 'November 13, 2020 update'
+description: 'November 13, 2020'
 ---
 
 # POSDAO Prep & 40,000 STAKE Burn
