@@ -12,6 +12,8 @@ The POSDAO staking algorithm introduces many concepts and terms. Find links to c
 
 **Operational:** Terms related to actions a participant might take when adding, moving or removing stake. Also relates to terminology in the UI such as stakes ratio and balances. 
 
+
+
 {% tabs %}
 {% tab title="Protocol " %}
 * [Aura Algorithm](protocol-terms.md#aura-algorithm)

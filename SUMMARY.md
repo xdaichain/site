@@ -49,6 +49,7 @@
   * [STAKE vs MKR](about-xdai/comparisons/stake-vs-mkr.md)
 * [News & Information](about-xdai/news-and-information/README.md)
   * [Project Updates](about-xdai/news-and-information/project-updates/README.md)
+    * [GR8 Hackathon Results](about-xdai/news-and-information/project-updates/gr8-hackathon-results.md)
     * [2020 Year in Review](about-xdai/news-and-information/project-updates/2020-year-in-review.md)
     * [Public POSDAO Announcement](about-xdai/news-and-information/project-updates/public-posdao-announcement.md)
     * [POSDAO Prep & 40,000 STAKE Burn](about-xdai/news-and-information/project-updates/posdao-prep-and-40-000-stake-burn.md)
