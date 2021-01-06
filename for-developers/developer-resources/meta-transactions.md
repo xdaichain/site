@@ -16,7 +16,7 @@ The link functionality is a process where a current BW user creates a link \(or 
 
 ##  Meta Transaction Components
 
-Meta transactions can be accomplished in different ways. In this example we use components from [OpenZeppelin's Gas Station Network](https://docs.opengsn.org/learn/index.html) . Generally speaking, this process requires a User/Dapp to sign a message, Relayers, a Relay Hub, and a Recipient Contract. 
+Meta transactions can be accomplished in different ways. In this example we use components from [OpenZeppelin's Gas Station Network](https://docs.opengsn.org/). Generally speaking, this process requires a User/Dapp to sign a message, Relayers, a Relay Hub, and a Recipient Contract. 
 
 ![](../../.gitbook/assets/presentation1.png)
 
@@ -75,5 +75,5 @@ Example transaction:_ [_https://blockscout.com/poa/xdai/tx/0xf968e16b7c9ffc57622
 In many instances you may want to run your own GSN relayers which interface with the xDai chain. This provides redundancy if a relayer is not functional, expands capacity, and ensures availability if relayers were removed for some reason from the OpenZeppelin implementation.
 
 * David Mihal created a [Docker Image which makes it easy to run on xDai.](https://hub.docker.com/repository/docker/dmihal/gsn-relay-xdai)
-* Additional information about launching your own relayer is [available in the GSN docs](https://docs.opengsn.org/gsn-provider/running-own-relay.html). 
+* Additional information about launching your own relayer is [available in the GSN docs](https://docs.opengsn.org/tutorials/relay.html#introduction). 
 
