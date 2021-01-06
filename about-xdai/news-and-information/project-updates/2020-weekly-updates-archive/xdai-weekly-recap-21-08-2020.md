@@ -34,7 +34,7 @@ The xDai Chain continues to receive coverage from Twitter influencers this week.
 
 ### ✅ BKEX
 
-[BKEX](https://www.bkex.co/) exchange is now listing $STAKE/USDT
+[BKEX](https://www.bkex.com/) exchange is now listing $STAKE/USDT
 
 {% embed url="https://twitter.com/ComBkex/status/1295965529916633088" %}
 
