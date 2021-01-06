@@ -4,7 +4,7 @@ The GitCoin GR8 hackathon was held in December 2020, with judging completed on J
 
 ## Winners:
 
-### 1\)🥇 Crosschain Arbitrage Graph by [@makoto\_inoue](https://mobile.twitter.com/makoto_inoue) 
+### 1\)🥇 Crosschain Arbitrage Graph by [@makoto\_inoue ](https://twitter.com/makoto_inoue)
 
 The Crosschain Arbitrage Graph gives users data they need to find arbitrage opportunities and view historical price margins of ERC20s between HoneySwap on xDai and Uniswap on Mainnet.
 
@@ -20,7 +20,7 @@ The Smart Giveaway platform lets users setup a customizable twitter giveaway the
 * Site: [http://smartgiveaway.surge.sh/\#/dashboard](http://smartgiveaway.surge.sh/#/dashboard)
 * Code: [https://github.com/abdelhamidbakhta/smartgiveaway](https://github.com/abdelhamidbakhta/smartgiveaway)
 
-### 3\) 🥉 Buck Social by [@LucasMoskun](https://mobile.twitter.com/LucasMoskun)
+### 3\) 🥉 Buck Social by [@LucasMoskun](https://twitter.com/LucasMoskun)
 
 Buck Social is a simple $1 dollar betting platform built on xDai where users can verifiably "shake" on a bet. A notification system was added to the platform to increase usability. Users can add comments about bets, and are informed about new bets and bet status updates. 
 
