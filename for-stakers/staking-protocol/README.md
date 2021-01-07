@@ -2,7 +2,7 @@
 description: Public staking on xDai!
 ---
 
-# Staking Protocol / Tutorials
+# Public Staking on xDai & Tutorials
 
 {% embed url="https://youtu.be/ekfQzIcBEp0" caption="Preview of the public staking application in BlockScout " %}
 
