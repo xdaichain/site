@@ -6,13 +6,13 @@
 
 There are currently 2 ways to add STAKE to the EasyStaking protocol.
 
-1. Go to [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/) and connect your web3wallet. 💡 [More instructions](instructions/)
+1. Go to [https://easy-staking.xdaichain.com/](https://easy-staking.xdaichain.com/) and connect your web3wallet. 💡 [More instructions](../../for-stakers/easy-staking/instructions/)
 2. Stake through [BitMax](https://bitmax.io/#/staking/investment-product-details/STAKE-S). 
 
 ### How do I unstake STAKE?
 
 With the EasyStaking application you can withdraw any amount. To completely unstake, withdraw your full amount. You can do this instantly and pay a 2% fee, or schedule a withdrawal and withdraw after 12 hours.   
-💡[Instructions](instructions/#initiate-a-withdrawal)
+💡[Instructions](../../for-stakers/easy-staking/instructions/#initiate-a-withdrawal)
 
 If you are staking with Bitmax, you can undelegate instantly for a 2% fee, or schedule a withdrawal and withdraw after 24 hours with no fee.   
 💡[More information](https://bitmax.io/#/staking/investment-product-details/STAKE-S)
@@ -39,7 +39,7 @@ Yes, [Quantstamp](https://quantstamp.com/) conducted a full security audit on th
 
 Simply add STAKE and ETH to the following Uniswap pool. [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
 
-You will receive rewards based on the [LP distribution contract](./#stake-lp-distribution-script). The top 100 liquidity providers will split the rewards based on the percentage of STAKE they have contributed to the pool.
+You will receive rewards based on the [LP distribution contract](../../for-stakers/easy-staking/#stake-lp-distribution-script). The top 100 liquidity providers will split the rewards based on the percentage of STAKE they have contributed to the pool.
 
 ### I was staking on BitMax during the promotional period. Do I need to do anything to start EasyStaking?
 
@@ -56,7 +56,7 @@ _Note: Moving funds and staking independently will incur gas fees. Staking throu
 Both use the EasyStaking system, but the rules are slightly different. 
 
 * [Bitmax staking parameters](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360052047914)
-* [EasyStaking staking parameters](easy-staking-parameters.md)
+* [EasyStaking staking parameters](../../for-stakers/easy-staking/easy-staking-parameters.md)
 
 |  | Independent \(EasyStaking\) | BitMax |
 | :--- | :--- | :--- |
@@ -110,7 +110,7 @@ Liquidity providers receive their APR accordingly:`15 - ( EasyStaking time APR +
 
 * For example, if a staker withdraws with a 2.011% time APR and a 2.196% supply APR, the LP contract receives 15 - \(2.011 + 2.196\) = 10.793%.  This amount is distributed amongst the top 100 LP providers based on how much STAKE they have in the LP contract. 
 * LP providers also split the 2% instant withdrawal/unbonding fee when instant withdrawals are processed.
-* Rewards to LPs are distributed based on the [LP distribution script](./#stake-lp-distribution-script).
+* Rewards to LPs are distributed based on the [LP distribution script](../../for-stakers/easy-staking/#stake-lp-distribution-script).
 
 ### I heard I will earn 15% APR. Why is it lower than that?
 
@@ -136,5 +136,5 @@ APR emissions may also depend on timing for liquidity providers. If a large stak
 
 From a risk management perspective, Easy Staking involves a single token rather than multiple tokens, and the contracts have been thoroughly audited. 
 
-So the answer is "it depends", and we are excited to see how it plays out in the protocol. We plan to add [additional LP analytics and views ](../../about-xdai/roadmap/#easystaking-liquidity-pool-analytics)to learn more about APR benefits for both groups.
+So the answer is "it depends", and we are excited to see how it plays out in the protocol. We plan to add [additional LP analytics and views ](../roadmap/#easystaking-liquidity-pool-analytics)to learn more about APR benefits for both groups.
 

@@ -1,4 +1,4 @@
-# EasyStaking
+# EasyStaking on Ethereum
 
 ## EasyStaking
 

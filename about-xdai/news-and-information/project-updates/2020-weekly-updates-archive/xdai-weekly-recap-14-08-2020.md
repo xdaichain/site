@@ -24,7 +24,7 @@ Easy Staking launched on Wednesday, August 5. BitMax has now incorporated EasySt
 
 We added an FAQ for questions we've received so far about EasyStaking and STAKE. Look for additional questions to be added in the future.
 
-💡[EasyStaking FAQs](../../../../for-stakers/easy-staking/easystaking-faq.md)
+💡[EasyStaking FAQs](../../../faqs/easystaking-faq.md)
 
 ## 👷♀ Dev & Project Updates
 

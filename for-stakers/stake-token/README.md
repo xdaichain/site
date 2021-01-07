@@ -1,4 +1,4 @@
-# STAKE Governance and StakingToken
+# STAKE Governance and Staking Token
 
 {% hint style="info" %}
 STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai, however STAKE may be used for staking \(or other purposes\) by other blockchain networks. 
@@ -17,7 +17,7 @@ The initial supply of 8.5375M STAKE tokens will be released over time. Additiona
 
 Users \(stakers\) provide STAKE as collateral when participating in the consensus process. In exchange for providing STAKE \(and supporting a node\), users receive multiple rewards. The primary reward is in the form of additional STAKE tokens.
 
-* **STAKE rewards**: STAKE is minted as a reward based on the amount of STAKE placed in the protocol. The final emission rate is TBD through a risk assessment and community review. Target range: ~15% APR.   A STAKE transfer fee is also assessed when a user removes their STAKE from the xDai chain \(using an [AMB bridge](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) extension\). This fee is distributed as a reward to participating stakers. 
+* **STAKE rewards**: STAKE is minted as a reward based on the amount of STAKE placed in the protocol. The final emission rate is TBD through a risk assessment and community review. Target range: ~15% APR.   A STAKE transfer fee is also assessed when a user removes their STAKE from the xDai chain \(using an [AMB bridge](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) extension\). This fee is distributed as a reward to participating stakers.
 
 ### Staking STAKE
 
