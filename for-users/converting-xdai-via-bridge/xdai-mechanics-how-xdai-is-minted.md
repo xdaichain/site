@@ -2,7 +2,7 @@
 
 The xDai token is minted when Dai is transferred from Ethereum to the xDai chain using the xDai Bridge. During the transfer process, a block reward contract is invoked to mint xDai to a user's account. Because contract calls are made from the consensus engine to create xDai tokens, balance updates are more difficult to trace than simple value transfers. 
 
-Here is the basic process:
+**Basic process:**
 
 1. A user sends a transaction to the [bridge contract](https://etherscan.io/address/0x4aa42145Aa6Ebf72e164C9bBC74fbD3788045016#code) on Ethereum to initiate a transfer.
 2. The transfer is approved on the Ethereum side and the user's Dai balance is reduced accordingly.
@@ -18,9 +18,8 @@ It is possible to use the log produced by the block reward contract to view xDai
 
 ### More Information
 
-To view these transactions from an account that received xDai, you can [find the block and subsequent transaction through the coin history tab in BlockScout](viewing-inbound-transactions.md). 
-
-More information on the [OpenEthereum Block Reward contract is available here](https://openethereum.wiki/Block-Reward-Contract).
+* To view xDai minting transactions from an account that received xDai, you can [find the block and subsequent transaction using the coin history tab in BlockScout](viewing-inbound-transactions.md). 
+* More information on the [OpenEthereum Block Reward contract is available here](https://openethereum.wiki/Block-Reward-Contract).
 
 
 
