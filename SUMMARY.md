@@ -119,6 +119,7 @@
   * [Find a Transaction Hash](for-users/converting-xdai-via-bridge/find-a-transaction-hash.md)
   * [Transfer Dai without a UI \(using a web3 wallet and BlockScout / Etherscan\)](for-users/converting-xdai-via-bridge/transfer-sai-dai-without-the-ui-using-web3-or-mobile-wallet.md)
   * [View Inbound \(Dai to xDai\) Transactions](for-users/converting-xdai-via-bridge/viewing-inbound-transactions.md)
+  * [xDai mechanics: How xDai is minted](for-users/converting-xdai-via-bridge/xdai-mechanics-how-xdai-is-minted.md)
   * [Troubleshoot Bridge Txs, UI, xDai.io, xmoon.exchange, MetaMask](for-users/converting-xdai-via-bridge/troubleshooting.md)
 * [OmniBridge \(for all other ERC20 tokens\)](for-users/omnibridge.md)
 * [Buying xDai with Fiat](for-users/buying-xdai-with-fiat/README.md)
