@@ -11,7 +11,7 @@ The xDai token is minted when Dai is transferred from Ethereum to the xDai chain
 5. The block reward contract records the receiver\(s\) and amount\(s\) of xDai to mint. There may be more than 1 bridge transaction per block.
 6. The block reward contract is called by the AuRa consensus engine to update the EVM state and update the user's xDai balance.
 
-It is possible to use the log produced by the block reward contract to view xDai minting events. The log is emitted when the executeAffirmation event registers the address that will receive xDai and contains the following:  
+It is possible to use the log produced by the block reward contract to view xDai minting events. The log is emitted when the `executeAffirmation` event registers the address that will receive xDai. It contains the following:  
  `AddedReceiver(uint256 amount, address indexed receiver, address indexed bridge)`
 
 **Example transaction:** [https://blockscout.com/poa/xdai/tx/0x5892a695860f6087a2d93140f05e6365142ff77fd7128e39dbc03128d5797ac4/logs.](https://blockscout.com/poa/xdai/tx/0x5892a695860f6087a2d93140f05e6365142ff77fd7128e39dbc03128d5797ac4/logs.)
