@@ -19,6 +19,10 @@ Users \(stakers\) provide STAKE as collateral when participating in the consensu
 
 * **STAKE rewards**: STAKE is minted as a reward based on the amount of STAKE placed in the protocol. The final emission rate is TBD through a risk assessment and community review. Target range: ~15% APR.   A STAKE transfer fee is also assessed when a user removes their STAKE from the xDai chain \(using an [AMB bridge](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) extension\). This fee is distributed as a reward to participating stakers.
 
+### Getting STAKE
+
+There are [several ways to get STAKE](get-stake/) either on Ethereum or directly on xDai.
+
 ### Staking STAKE
 
 Individuals who own STAKE tokens on xDai \(bridged from STAKE on Ethereum\) can place them into the protocol through a [user friendly interface on BlockScout](https://blockscout.com/poa/xdai/validators). Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) with the [OmniBridge U](../../for-users/omnibridge.md)I which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.

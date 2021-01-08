@@ -6,6 +6,8 @@ description: 01 January - 08 January 2020
 
 We're excited to welcome in a new year with public POSDAO in production, STAKE governance and many exciting integrations on the horizon. We'll be updating our [2021 Roadmap](../../../roadmap/) over the next few weeks with additional development and project goals for the year. 
 
+![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2823%29.png)
+
 ## ⛓ Chain Usage Updates
 
 xDai usage has already hit milestones in 2021! **Since Jan 2 xDai has handled over 100K Tx/day.**
