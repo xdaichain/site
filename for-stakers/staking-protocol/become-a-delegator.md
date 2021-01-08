@@ -8,7 +8,7 @@ While each validator pool receives the same reward during a staking epoch, rewar
 
 {% embed url="https://youtu.be/DVSqVaut\_Vc" caption="How to Delegate STAKE using BlockScout" %}
 
-![New Menu for accessing public Staking DApp on xDai](../../.gitbook/assets/new-menu.png)
+![New menu for accessing public Staking DApp on xDai](../../.gitbook/assets/new-menu.png)
 
 ## **Delegating STAKE**
 
