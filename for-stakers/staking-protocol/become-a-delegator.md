@@ -8,6 +8,8 @@ While each validator pool receives the same reward during a staking epoch, rewar
 
 {% embed url="https://youtu.be/DVSqVaut\_Vc" caption="How to Delegate STAKE using BlockScout" %}
 
+![New Menu for accessing public Staking DApp on xDai](../../.gitbook/assets/new-menu.png)
+
 ## **Delegating STAKE**
 
 1\) You will need the minimum delegator stake amount of STAKE \([currently 200 STAKE as  proposed by community governance](https://snapshot.page/#/xdaistake.eth/proposal/QmW87yvqQ64t97wj4woee1dBtX1uQSeED8pCqoW2yk5qWs)\) and a small amount of xDAI \(.1 is plenty\) deposited to your address on the xDai chain.

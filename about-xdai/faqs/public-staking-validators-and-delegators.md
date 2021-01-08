@@ -4,7 +4,7 @@
 
 The app is located in the xDai instance of BlockScout, available at [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai). Go to the Apps dropdown and select either Validators, Active Pools, or Inactive Pools to access.
 
-![](../../.gitbook/assets/validator-app.png)
+![](../../.gitbook/assets/new-menu.png)
 
 Once you are in the DApp, connect your web3wallet \(like MetaMask\) to participate. [The Staking Operations section](../../for-stakers/staking-protocol/staking-operations/) details various actions you can take to Stake, claim rewards etc.
 

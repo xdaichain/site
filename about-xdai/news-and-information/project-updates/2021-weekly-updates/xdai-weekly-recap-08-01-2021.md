@@ -29,7 +29,7 @@ Public Staking on POSDAO continues to gain traction, with close to 100 delegator
 BlockScout incorporated a new Apps Menu which includes links to Staking, EasyStaking and more.  
 
 
-![](../../../../.gitbook/assets/new-menu.png)
+![](../../../../.gitbook/assets/new-menu%20%281%29.png)
 
 ## 🦋 New Projects
 

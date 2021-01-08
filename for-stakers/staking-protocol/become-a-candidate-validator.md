@@ -35,7 +35,7 @@ openethereum account new --keys-path <path_to_save_json_keystore>
 
 4\) Once your node is setup and ready, go to BlockScout and select Validators from the Apps dropdown menu.
 
-![](../../.gitbook/assets/validators1.png)
+![](../../.gitbook/assets/new-menu.png)
 
 5\) Set your web3wallet \(Metamask/Nifty\) account to your Staking address and connect to the app. Once connected, you should see your address and STAKE balance in the site banner. If you are a delegator, you will also see information related to any STAKE already in use \(staked or ordered for withdrawal\).
 
