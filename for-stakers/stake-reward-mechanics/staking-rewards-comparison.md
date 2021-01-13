@@ -1,6 +1,6 @@
 # Staking Rewards Comparison
 
-There are several ways to earn STAKE staking rewards. Each method has tradeoffs, costs, and benefits. Your staking strategy can depend on the amount staked in each protocol, your desire to stay on Ethereum and moderate STAKE supply or to operate on xDai and directly protect the protocol, and many other factors.  
+There are several ways to earn STAKE staking rewards. Each method has tradeoffs, costs, and benefits. Your staking strategy can depend on the amount staked in each protocol, your desire to stay on Ethereum and moderate STAKE supply or to operate on xDai and directly protect the protocol, and risks including possibly losing rewards if your chosen validator is inactive.
 
 Below is a basic breakdown of the different staking methods followed by an [example reward scenario](staking-rewards-comparison.md#example-reward-scenario).
 
@@ -17,6 +17,14 @@ Below is a basic breakdown of the different staking methods followed by an [exam
 | **Possible STAKE freeze?** | No | No | Possible 90 day freeze \(no withdrawal allowed or interest earned\)  if associated validator pool displays malicious behavior. | Possible 90 day freeze \(ban - no withdrawals allowed or interest earned\) if node displays malicious behavior \(too many skips, etc.\) |
 | **Unique Benefits** | Easy, keep STAKE on Ethereum, reduces available supply. | LP rewards from Uniswap, large potential rewards from EasyStaking withdrawals. | Higher rewards, help decide xDai validators, can earn additional fee-based rewards. | Protect protocol, higher rewards, can earn additional fees. |
 | **Unique Risks** | Ethereum fees,  contract risks, iff supply decreases rewards are lowered. | Impermanent loss, no rewards if not in top 100 pools. | New staking protocol, STAKE freeze possible, bridging costs, must order a withdrawal for active STAKE. | Large deposit, STAKE freeze for misbehavior, node maintenance and validator responsibilities. |
+
+{% hint style="warning" %}
+Staking carries inherent risk relative to expected rewards. [EasyStaking contracts are audited ](../../for-developers/security-audits.md#easystaking-audit-by-quantstamp)and rewards are not dependent on validator actions. However, rewards are typically lower than with POSDAO. 
+
+POSDAO rewards are generally ****higher, but depend on the validator's uptime and behavior. If a validator behaves correctly, rewards are higher. If not, rewards may be negligible along with possibility of frozen assets for a period of 90 days. 
+
+**Weigh your comfort with possible risks with rewards when deciding your optimal staking strategy.**
+{% endhint %}
 
 ## **Example Reward Scenario**
 
