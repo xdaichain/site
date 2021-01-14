@@ -64,5 +64,31 @@ In all likelihood you are looking at the app during the final blocks of a stakin
 
 See the [rewards in a dual token environment post](../../for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md) for more information. As a validator, you will always receive at least 30% of your pool's rewards, and more if delegators contribute less than 70% to the pool. Rewards are based on how much STAKE is staked in the protocol as well as chain-based activity \(stable rewards come from bridge fees and transactions\). Staking rewards will accumulate at 15% APR based on the locked amount.
 
-## 
+## What is an Inactive Pool?
+
+A pool becomes inactive when a candidate/validator elects to stop participating in the consensus process. This is different from a ban, where a malicious validator is immediately removed from consensus.
+
+If you see a current validator's pool status as inactive, the validator will exit the validator set once the current staking epoch is complete. Prior to the end of the epoch, the validator will continue with their responsibilities, and any delegators will receive rewards once the staking epoch is finished. Rewards may be diminished if the validator's participation was limited during that epoch.
+
+Inactive pools are not considered for the next validator set, and will not become validators again unless the pool is reactivated by the validator.
+
+## If I am a delegator on a validator pool that is inactivated, will I receive a reward? And how much?
+
+Yes, rewards will still be distributed. If a pool is inactivated during a staking epoch, rewards for the current staking epoch will be accrued as usual.
+
+The reward amount depends on how long the validator has been working during the staking epoch: the reward corresponds to the validator's participation in consensus during the staking epoch. 
+
+For example, if the validator was working fine, didn’t disconnect their node, and produced all blocks they should have produced \(went through all AuRa rounds during the epoch\), its pool will receive 100% of the possible pool’s reward.
+
+However, if the validator skipped half of the staking epoch \(only produced 50% of blocks they should have produced\), their pool will receive 50% of max possible pool’s reward. If a validator was malicious and was removed by the system for misbehavior, its pool won’t receive rewards. Pool rewards also depend on how much other participants staked into other pools. [Read more about reward distributions](../../for-stakers/staking-protocol/terminology/protocol-terms.md#reward-distribution-rules).
+
+## Why did a pool become inactive, and who made the decision?
+
+Pool inactivation is the pool validator's decision. They can inactivate themselves through the interface, or they may be inactivated if serious performance issues are not addressed. In the current implementation, a pool can be inactivated through a governance multisignature process in exceptional cases where there are too many block skips or if a node is too weak and works too slowly \(i.e. if the validator significantly degrades network performance\). This is only implemented if a deficient node significantly impacts chain stability. 
+
+In the future a governance mechanism will enable validators to vote on the inactivation process and remove nodes that are negatively impacting chain performance. We plan to implement a monitoring tool which will provide insights into the performance of each validator pool. 
+
+## What can I do if the pool I delegated to became inactive during a staking epoch?
+
+Once the current staking epoch finishes, you can claim your reward and withdraw your staked amount \(or move the stake to another validator pool\). Due to POSDAO protocol rules, it is not possible withdraw STAKE immediately if a pool becomes inactive during a staking epoch. You must wait until a new epoch starts to move or withdraw your stake.
 
