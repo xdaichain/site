@@ -19,7 +19,7 @@ To start you will need **200 STAKE on xDai** \(video shows 1000, was previous mi
 * [Move DAI to xDai](../../for-users/converting-xdai-via-bridge/)
 * Get STAKE on xDai
   * Bridge from Ethereum with OmniBridge: [Move Stake from Ethereum to xDai with the OmniBridge](https://youtu.be/qbuBqur9lcE)
-  * Purchase STAKE on xDai directly with [Honeyswap](https://honeyswap.org/#/swap).
+  * Purchase STAKE on xDai directly with [Honeyswap](https://honeyswap.org/#/swap). 1Hive also offers [easy-to-follow bridging tutorials](https://honeyswap.org/xdai-bridges).
 
 2\) Go to [blockscout.com](http://blockscout.com/) and change the network to the xDai network.
 
