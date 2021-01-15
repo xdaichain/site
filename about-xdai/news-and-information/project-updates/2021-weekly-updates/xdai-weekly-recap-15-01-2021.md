@@ -4,7 +4,7 @@ description: 09 January - 15 January 2021
 
 # ⚔️ xDai Weekly Recap - 15/01/2021
 
-![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2826%29.png)
+![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2827%29.png)
 
 ## 👩🏫 POSDAO Updates
 
