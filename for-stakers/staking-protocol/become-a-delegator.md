@@ -6,6 +6,8 @@ Delegators can place stake on multiple candidates, move stake between active can
 
 While each validator pool receives the same reward during a staking epoch, rewards within a pool are split between the validators and delegators. This split is based on how much stake a delegator has placed relative to the total pool stake \([delegators split up to 70% of the pool](../../about-xdai/faqs/)\). The reward percent is updated each staking epoch in the Delegators modal, which is accessed by clicking on the number of Delegators for any Pool.
 
+To start you will need **200 STAKE on xDai** \(video shows 1000, was previous minimum\). See below for how to get STAKE to xDai.
+
 {% embed url="https://youtu.be/DVSqVaut\_Vc" caption="How to Delegate STAKE using BlockScout" %}
 
 ![New menu for accessing public Staking DApp on xDai](../../.gitbook/assets/new-menu.png)
