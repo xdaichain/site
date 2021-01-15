@@ -53,6 +53,7 @@
     * [GR8 Hackathon Results](about-xdai/news-and-information/project-updates/gr8-hackathon-results.md)
     * [2021 Weekly Updates](about-xdai/news-and-information/project-updates/2021-weekly-updates/README.md)
       * [⚔️ xDai Weekly Recap - 08/01/2021](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-08-01-2021.md)
+      * [⚔️ xDai Weekly Recap - 15/01/2021](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-15-01-2021.md)
     * [2020 Year in Review](about-xdai/news-and-information/project-updates/2020-year-in-review.md)
     * [Public POSDAO Announcement](about-xdai/news-and-information/project-updates/public-posdao-announcement.md)
     * [POSDAO Prep & 40,000 STAKE Burn](about-xdai/news-and-information/project-updates/posdao-prep-and-40-000-stake-burn.md)
