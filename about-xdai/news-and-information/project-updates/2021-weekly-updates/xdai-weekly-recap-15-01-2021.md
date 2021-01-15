@@ -4,6 +4,8 @@ description: 09 January - 15 January 2021
 
 # ⚔️ xDai Weekly Recap - 15/01/2021
 
+![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2826%29.png)
+
 ## 👩🏫 POSDAO Updates
 
 [Staking Epoch 40 is now active with 14 validator pools and ~121 delegators](https://blockscout.com/poa/xdai/validators). During epoch 39 a validator pool was inactivated \(mining address[ 0xb76756f95A9fB6ff9ad3E6cb41b734c1bd805103](https://blockscout.com/poa/xdai/address/0xb76756f95A9fB6ff9ad3E6cb41b734c1bd805103/transactions)\) due to excessive downtime.
@@ -30,7 +32,7 @@ After nearly a month, the [xDai twitter account](https://twitter.com/xdaichain) 
 
 {% embed url="https://twitter.com/xdaichain/status/1348664686913478656" %}
 
-## 👨🍳 MakerDAO Collateral Meeting
+## 🧺 MakerDAO Collateral Meeting
 
 Igor and Andrew along with special guest Patricio from [POAP](https://www.poap.xyz/) participated in a Maker Protocol Collateral Onboarding call. They presented on xDai and STAKE basics and answered questions from the community. It was an interesting discussion and Patricio in particular highlighted the benefits xDai offers to projects who need scalability now. 
 
