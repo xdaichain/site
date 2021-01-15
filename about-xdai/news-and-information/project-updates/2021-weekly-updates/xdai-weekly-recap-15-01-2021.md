@@ -54,7 +54,9 @@ We are creating some dashboards with Dune Analytics. The EasyStaking dashboard o
 
 ### Dark Forest
 
-The latest DarkForest competitive round has wrapped up, although community gameplay is ongoing. We will provide updated stats from the latest round of play soon. 
+The latest DarkForest competitive round has wrapped up, although community gameplay is ongoing. 
+
+v0.5 Winners Announcement: [https://blog.zkga.me/v5-winners](https://blog.zkga.me/v5-winners)
 
 {% embed url="https://twitter.com/darkforest\_eth/status/1348946562391580673?s=19" %}
 
