@@ -9,7 +9,7 @@ description: >-
 ### Prediction Market Case Study
 
 {% hint style="info" %}
-Unfortunately, the Helena project is no longer operational. We keep this information for historical purposes, with the idea that this case-study can inform new future prediction market platforms on xDai.
+Unfortunately, the Helena project is no longer operational. We keep this information for historical purposes, with the idea that this case-study can inform new future prediction market platforms on xDai. 
 {% endhint %}
 
 The [Helena Network](https://media.consensys.net/prediction-markets-platform-becomes-first-dapp-on-xdai-sidechain-f26e6d691799) was a prediction market running on the xDai Chain. Daily transactions are conducted on the xDai chain to keep gas fees low, and data is synced with the Ethereum mainnet on a regular basis. 

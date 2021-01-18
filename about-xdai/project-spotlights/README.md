@@ -6,6 +6,10 @@ description: Projects and applications migrating and/or deploying to xDai
 
 xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Contract or DApp deployed on Ethereum can also be deployed on xDai with minimal changes. Developers and projects are realizing they can easily deploy and/or migrate to xDai to realize big cost savings and escape congestion.  Forks of popular projects can also deploy on xDai to take advantage of stable network mechanics, speed and low transaction costs. Applications can move completely to xDai, or live on multiple networks at once, serving different audiences and experimenting with different modes of operation and interoperability.
 
+{% hint style="info" %}
+A list of applications using xDai is catalogued below. For more details on specific apps, we highlight some in this Projects & DApps section. See the site menu for more.
+{% endhint %}
+
 ## 3rd Party Projects/Dapps Deployed on xDai Include:
 
 **Primary Partnerships**
