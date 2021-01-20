@@ -40,7 +40,7 @@ In response to increased usage and value locked in the xDai bridge, a proposal w
   
 The proposal was accepted, and governance by means of a multi-signature Gnosis Safe was put into place initially on the Ethereum side on 2 October, 2020. Once Gnosis Safe was deployed to xDai, updated governance was enacted on the xDai chain on 23 October, 2020. 
 
-At present there are 11 governors who are responsible for managing bridge operations on both sides of the bridge \(contracts are deployed on the Ethereum and xDai side\). 6/11 signatures are required to approve any management proposal. Operations may include:
+At present there are 13 governors who are responsible for managing bridge operations on both sides of the bridge \(contracts are deployed on the Ethereum and xDai side\). 7/13 signatures are required to approve any management proposal. Operations may include:
 
 * Bridge contract updates.
 * Contract parameters updates such as bridge limits, finality threshold, gas price fallback etc.
@@ -58,7 +58,7 @@ For more on this transition, see the original forum proposal: [https://forum.poa
 
 ### Who are the xDai bridge validators?
 
-There are currently [4 bridge validators](../../for-validators/for-bridge-validators/), and 3/4 signatures are required for bridge transactions. The validator set can be updated by the Governance Board.
+There are currently [5 bridge validators](../../for-validators/for-bridge-validators/), and 3/5 signatures are required for bridge transactions. The validator set can be updated by the Governance Board.
 
 ### I completed a Dai to xDai transfer and see the transaction to lock Dai, but do not see the transaction that mints xDai. How does it work?
 
@@ -78,7 +78,28 @@ Example transaction executing a transfer: [https://blockscout.com/poa/xdai/tx/0x
 
 ### When claiming a DAI transaction on Ethereum, does the user originating the transaction also need to pay for the claim? 
 
-Anyone can pay the fees to process the claim transaction and receive DAI, but the DAI will always be sent to the account set as the receiver in the initial originating request. This functionality opens the door for projects or other entities to pay for gas fees/subsidize the claims on Ethereum.
+No, anyone can pay the fees to process the claim transaction and receive DAI, but the DAI will always be sent to the account set as the receiver in the initial originating request. This functionality opens the door for projects or other entities to pay for gas fees/subsidize the claims on Ethereum.
+
+### I didn't claim my Dai on Ethereum yet \(completed 1st transaction on xDai but not the claim transaction\). Is there a time limit to claim my Dai?
+
+No. The amount will remain locked in the contract until you decide to claim it. If gas prices are high, you may want to wait to execute the claim transaction when prices are more in your favor. 
+
+**Ethereum Gas Stats**
+
+* Etherscan gas tracker: [https://etherscan.io/gasTracker](https://etherscan.io/gasTracker)
+* Gas Stats Dune Dashboard: [https://www.duneanalytics.com/kroeger0x/gas-prices](https://www.duneanalytics.com/kroeger0x/gas-prices)
+
+If you have an unclaimed amount, you will see a message once you connect your web3 wallet to the application.
+
+![](../../.gitbook/assets/claim1.png)
+
+Click on the History button to see your transactions, then click the Claim button in the history section to claim the transaction. You will need Eth to complete your claim.
+
+![](../../.gitbook/assets/claim2.png)
+
+### I decided I don't want to bridge my xDai to Ethereum, but already processed the first transaction. Can I revert?
+
+No, this is not possible.  Once the first transaction is complete,  xDai is burned on the xDai chain. If you want to return the amount back to the xDai chain, you must finalize the transfer \(claim\) on Ethereum and then send back to the xDai chain via the bridge to mint xDai once again.
 
 ## OmniBridge FAQs
 
@@ -104,7 +125,7 @@ Use the AMB Live Monitoring application located at [https://alm-xdai.herokuapp.c
 
 ### Does the OmniBridge use the same validators / governors as the xDai bridge?
 
-No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a 2/3 signature requirement for Omnibridge transfers with plans to increase the number of oracles to 7 with a 5/7 signature threshold.
+No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a 4/6 signature requirement for Omnibridge transfers with plans to increase the number of oracles to 7 with a 5/7 signature threshold.
 
 ### What is the minimum number of a certain token that can be transferred using OmniBridge?
 

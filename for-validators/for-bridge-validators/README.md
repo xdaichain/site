@@ -1,6 +1,6 @@
 # For Bridge Validators
 
-Bridge validators are separate from chain validators, and currently composed of a subset of xDai validators. The current settings require 3 of 4 signatures to process a bridge transaction. This is a dynamic set, as a governance group can vote to increase the current set as well as propose and vote on other bridge related measures. Organizations are represented by an individual within that organization who is responsible for node operation & validation duties and/or participation in governance.
+Bridge validators are separate from chain validators, and currently composed of a subset of xDai validators. The current settings require 3 of 5 signatures to process an xDai bridge transaction. This is a dynamic set, as a governance group can vote to increase the current set as well as propose and vote on other bridge related measures. Organizations are represented by an individual within that organization who is responsible for node operation & validation duties and/or participation in governance.
 
 {% hint style="info" %}
 **Instructions for Bridge Validators**
@@ -12,18 +12,19 @@ Bridge validators are separate from chain validators, and currently composed of 
 
 ## Basic Info
 
-### Current Bridge Validators
+### Current xDai Bridge Validators
 
-Requires 3/4 signatures.
+Requires 3/5 signatures.
 
 * POA Network
 * Protofire
 * Giveth
 * MakerDAO
+* SyncNode
 
-### Current Bridge Governors
+### Current xDai Bridge Governors
 
-Requires 6/11 signatures to pass a proposal. 
+Requires 7/13 signatures to pass a proposal. 
 
 * Gnosis
 * Metacartel
@@ -36,6 +37,15 @@ Requires 6/11 signatures to pass a proposal.
 * Anyblock Analytics
 * xDai Team
 * Giveth
+* Syncnode
+* M Conti
+
+### Current AMB Bridge Validators
+
+* xDai 
+* Giveth
+* Protofire
+* SyncNode
 
 ### Governance Management Operations
 
