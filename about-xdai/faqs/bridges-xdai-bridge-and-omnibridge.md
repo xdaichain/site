@@ -99,7 +99,7 @@ Click on the History button to see your transactions, then click the Claim butto
 
 ### I decided I don't want to bridge my xDai to Ethereum, but already processed the first transaction. Can I revert?
 
-No, this is not possible.  Once the first transaction is complete,  xDai is burned on the xDai chain. If you want to return the amount back to the xDai chain, you must finalize the transfer \(claim\) on Ethereum and then send back to the xDai chain via the bridge to mint xDai once again.
+No, this is not possible.  When the first transaction is complete,  the requested amount of xDai is burned on the xDai chain. If you want to return the amount back to the xDai chain, you must finalize the transfer \(claim\) on Ethereum and then send back to the xDai chain via the bridge to mint xDai once again.
 
 ## OmniBridge FAQs
 
