@@ -11,7 +11,9 @@ Different bridges exist to support different operations. Two bridges currently e
 * **xDai Bridge**: Convert **Dai to xDai** and **xDai to Dai**
 * **OmniBridge**: Convert **any other ERC20 tokens** on Mainnet to equivalent ERC677 tokens on the xDai chain
 
-The [Optimistic Omnibridge](https://ethresear.ch/t/optimistic-bridge-between-mainnet-and-a-pos-chain/7965) is also in development to provide a bridge for trustless transfers from xDai to Ethereum.
+An NFT Bridge is currently in active development.
+
+The [Optimistic Omnibridge](https://ethresear.ch/t/optimistic-bridge-between-mainnet-and-a-pos-chain/7965) is also in R&D as an option to provide a bridge for trustless transfers from xDai to Ethereum.
 
 ## xDai Bridge FAQs
 
@@ -82,12 +84,7 @@ No, anyone can pay the fees to process the claim transaction and receive DAI, bu
 
 ### I didn't claim my Dai on Ethereum yet \(completed 1st transaction on xDai but not the claim transaction\). Is there a time limit to claim my Dai?
 
-No. The amount will remain locked in the contract until you decide to claim it. If gas prices are high, you may want to wait to execute the claim transaction when prices are more in your favor. 
-
-**Ethereum Gas Stats**
-
-* Etherscan gas tracker: [https://etherscan.io/gasTracker](https://etherscan.io/gasTracker)
-* Gas Stats Dune Dashboard: [https://www.duneanalytics.com/kroeger0x/gas-prices](https://www.duneanalytics.com/kroeger0x/gas-prices)
+No. The amount will remain locked in the contract until you decide to claim it. If gas prices are high, you may want to wait to execute the claim transaction when prices are more in your favor. For more on dealing with high gas fees for claims, [see this troubleshooting question.](../../for-users/converting-xdai-via-bridge/troubleshooting.md#gas-fees-for-an-exit-claim-are-very-high-how-can-i-reduce-them)
 
 If you have an unclaimed amount, you will see a message once you connect your web3 wallet to the application.
 
