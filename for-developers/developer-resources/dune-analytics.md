@@ -36,12 +36,12 @@ All other processes are the same. See the [Dune Documentation](https://hackmd.io
 
 ![](../../.gitbook/assets/gnosis-protocol.png)
 
-### Gnosis xDai Safe Dashboard
+### Perpetual Protocol
 
-* Safe statistics including number of safes created, xDai stored in safes and other metrics.
-* Link: [https://www.duneanalytics.com/tschubotz/gnosis-safe---xdai](https://www.duneanalytics.com/tschubotz/gnosis-safe---xdai)
+* Displays USDC Trading Volume by Day with more stats coming soon.
+* Link: [https://duneanalytics.com/yenwen/perpetual-protocol\_2](https://duneanalytics.com/yenwen/perpetual-protocol_2)
 
-![](../../.gitbook/assets/gnosis-safe.png)
+![](../../.gitbook/assets/perpetual-on-dune.png)
 
 ### xDai Staking Dashboard
 
