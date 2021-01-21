@@ -14,6 +14,7 @@ EasyStaking is for staking STAKE on Ethereum. If you want to stake on xDai direc
 * Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md).
 * View reward scenarios and other metrics at [stakingrewards.com](https://www.stakingrewards.com/earn/xdai/calculate%20) 
 * See a [reward comparison with different staking methods](../stake-reward-mechanics/staking-rewards-comparison.md) \(EasyStaking, LP Provider, Delegation & Validation\)
+* View latest stats and analytics for EasyStaking and POSDAO with the 📊 [Dune Analytics Staking Dashboard](https://www.duneanalytics.com/maxaleks/xdai-staking).
 {% endhint %}
 
 ## What is Easy Staking?
