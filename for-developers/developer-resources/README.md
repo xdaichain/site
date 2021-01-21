@@ -100,8 +100,9 @@ See the dropdown menu for tutorials related to some of these tools.
 
 ### **Dashboards & Monitoring**
 
+* [Dune Analytics](https://www.duneanalytics.com/): Dune supports xDai for data queries and custom dashboards. Visualize and compare data between contracts and chains \(xDai and Ethereum support\)
 * [Tenderly](https://tenderly.co/) dashboard supports xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
-*  [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
+* [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
 * [Dappquery](https://dappquery.com/) analytics dashboard, customizable visualizations, smart contract alerts and scalable GraphQL API.
 
 ###  **Token Faucets**
