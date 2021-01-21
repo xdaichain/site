@@ -15,8 +15,8 @@ Dune Analytics offers native support for contracts deployed to xDai. Create and 
 3\) Once in the app, you can create a custom query.
 
 1. Switch the data source to xDai.
-2. Write your query
-3. Execute the query \(execution can take some time depending on query complexity\)
+2. Write your query.
+3. Execute the query \(execution can take some time depending on query complexity\).
 4. Query results appear once complete. From here you can create visualizations with data on xDai.
 
 ![](../../.gitbook/assets/dune4.png)
