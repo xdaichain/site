@@ -55,7 +55,7 @@ Dune Analytics announced an integration with xDai, providing devs with analytics
 
 Remix is a popular Ethereum environment for testing, deploying and interacting with smart contracts. Remix also supports xDai with ease!
 
-{% embed url="https://twitter.com/xdaichain/status/1352346225920499713" %}
+{% embed url="https://twitter.com/EthereumRemix/status/1352254874197495813" %}
 
 ## 🦋 Project Updates
 
