@@ -9,7 +9,7 @@ description: >-
 Ways to acquire xDai stable tokens:
 
 * From another user on the xDai Chain
-* Converting Dai to xDai using the [xDai Bridge](https://www.xdaichain.com/for-users/converting-xdai-via-bridge)
+* Converting Dai to xDai using the [xDai Bridge](converting-xdai-via-bridge/)
 * Purchase directly with fiat using [Ramp.Network](https://ramp.network/buy/?swapAsset=XDAI)
 
 {% hint style="info" %}
