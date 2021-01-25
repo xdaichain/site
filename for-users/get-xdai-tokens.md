@@ -6,10 +6,11 @@ description: >-
 
 # Getting xDai tokens
 
-Main ways to acquire xDai stable tokens:
+Ways to acquire xDai stable tokens:
 
 * From another user on the xDai Chain
-* Converting Dai to xDai using the [xDai Bridge](https://www.xdaichain.com/for-users/converting-xdai-via-bridge) 
+* Converting Dai to xDai using the [xDai Bridge](https://www.xdaichain.com/for-users/converting-xdai-via-bridge)
+* Purchase directly with fiat using [Ramp.Network](https://ramp.network/buy/?swapAsset=XDAI)
 
 {% hint style="info" %}
 xDai direct purchases \(Carbon or Wyre\) are currently under construction.  Purchase Dai on the mainnet and use the bridge to get xDai, or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](burner-wallet-functions/exchange-currencies.md).
