@@ -6,7 +6,7 @@ description: Mobile Wallet with built-in DApp browser
 
 **Wallet Type**: [iOs](https://apple.co/2OQRS7c) and [Android Mobile Wallet](https://play.google.com/store/apps/details?id=io.stormbird.wallet&hl=en_SG).
 
-**Description**: [AlphaWallet](https://alphawallet.com/) is a mobile wallet available on iOS and Android. It supports [TokenScript](http://tokenscript.org/) which transforms existing tokens into "smart tokens." This gives issuers the ability to add rich features directly to a token card in real time. AlphaWallet also contains a DApp browser**;** Ethereum-based DApps function natively within the wallet.
+**Description**: [AlphaWallet](https://alphawallet.com/) is a mobile wallet available on iOS and Android. It supports [TokenScript](http://tokenscript.org/) which transforms existing tokens into "smart tokens." This gives issuers the ability to add rich features directly to a token card in real time. AlphaWallet also contains a DApp browser**;** Ethereum and xDai DApps function natively within the wallet. Alpha works with [WalletConnect](https://walletconnect.org/) on xDai.
 
 ![AlphaWallet on Android 10](../../../.gitbook/assets/alpha1%20%281%29.png)
 

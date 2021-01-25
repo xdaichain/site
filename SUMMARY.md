@@ -138,6 +138,7 @@
 * [Wallets](for-users/wallets/README.md)
   * [Alpha Wallet](for-users/wallets/alpha-wallet/README.md)
     * [Importing an existing account to Alpha Wallet](for-users/wallets/alpha-wallet/importing-an-existing-account-to-alpha-wallet.md)
+    * [Using WalletConnect with Alpha Wallet](for-users/wallets/alpha-wallet/using-walletconnect-with-alpha-wallet.md)
   * [Burner Wallet](for-users/wallets/burner-wallet.md)
   * [Burner Wallet 2](for-users/wallets/burner-wallet-2.md)
   * [DEX Wallet](for-users/wallets/dex-wallet.md)
