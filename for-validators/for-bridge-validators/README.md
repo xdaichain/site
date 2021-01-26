@@ -46,6 +46,7 @@ Requires 7/13 signatures to pass a proposal.
 * Giveth
 * Protofire
 * SyncNode
+* M Conti
 
 ### Governance Management Operations
 

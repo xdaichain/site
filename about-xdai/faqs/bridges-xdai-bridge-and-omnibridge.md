@@ -122,7 +122,7 @@ Use the AMB Live Monitoring application located at [https://alm-xdai.herokuapp.c
 
 ### Does the OmniBridge use the same validators / governors as the xDai bridge?
 
-No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a 4/6 signature requirement for Omnibridge transfers with plans to increase the number of oracles to 7 with a 5/7 signature threshold.
+No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a [4/7 signature requirement ](../../for-validators/for-bridge-validators/#current-amb-bridge-validators)for Omnibridge transfers.
 
 ### What is the minimum number of a certain token that can be transferred using OmniBridge?
 
