@@ -8,7 +8,7 @@ description: Current & Future Directions for the xDai Stable Chain
 The xDai roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
 {% endhint %}
 
-_Last update: 04.01.2021 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: 26.01.2021 \|_ [_Changelog_](./#change-log)\_\_
 
 ## ☑ 2021 Preliminary Roadmap
 
@@ -16,14 +16,18 @@ The roadmap for 2021 is still in review with additional items to be added and pr
 
 ![](../../.gitbook/assets/5-year-roadmap.png)
 
-## EasyStaking Liquidity Pool Analytics
+## EasyStaking, POSDAO and Liquidity Pool Analytics
 
 🎯 **Target Date**: Q1 2021  
-☑ **Status:** 75% complete. [Distributions dashboard](https://stake-reward-distribution.xdaichain.com/) done. 
+  **✅Status:** MVP Complete. Additions and improvements ongoing. 
 
-EasyStaking rewards Liquidity Pool \(LP\) participants as well as stakers in the EasyStaking protocol. [Rewards fluctuate based on numerous factors](../../for-stakers/easy-staking/#liquidity-pool-lp-participants), and additional analytics and dashboards for LPs will be useful for determining staking strategies, reviewing historical outcomes and viewing current statistics. 
+* Dune Analytics [Staking Dashboard](https://www.duneanalytics.com/maxaleks/xdai-staking) \(includes EasyStaking & POSDAO; additional metrics ongoing\)
+* LP [Distributions dashboard](https://stake-reward-distribution.xdaichain.com/)
+* DappQuery [EasyStaking Dashboard](https://dappquery.com/dapp/easystaking-10047)
 
-We will integrate statistics views on the EasyStaking platform as well as develop additional analytics tools \(currently exploring options like Dune Analytics & Graphana\) for LPs.
+Analytics or EasyStaking rewards Liquidity Pool \(LP\) participants, stakers in the EasyStaking protocol and POSDAO stakers. [Rewards fluctuate based on numerous factors](../../for-stakers/easy-staking/#liquidity-pool-lp-participants), and additional analytics and dashboards for LPs will be useful for determining staking strategies, reviewing historical outcomes and viewing current statistics. 
+
+We will integrate statistics views for the EasyStaking platform and POSDAO as well as develop additional analytics tools \(currently exploring options like Dune Analytics\). We will continue to add stats and views for stakers on all platforms.
 
 ## **Privacy Preserving Transactions**
 
@@ -52,7 +56,7 @@ xDai will leverage UMA protocol to create derivatives on fiat currencies and ena
 ## OmniBridge Phase 2
 
 🎯 **Target Date**: Q1-Q2 2021  
-☑ **Status:** [Security Audits Completed](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge).
+☑ **Status:** [Security Audit](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge) for Phase 2 in process.
 
 Additional features will be added including bi-directional support \(ability to move tokens minted on xDai to Ethereum\) and additional decentralization mechanisms \(governance, additional validators, user-enabled signature execution\).
 
@@ -173,6 +177,16 @@ To increase decentralization and enable a permissionless consensus process,  the
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>26.01.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Update EasyStaking, POSDAO and Liquidity Pool Analytics to Complete</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>04.01.2021</em>
       </td>
