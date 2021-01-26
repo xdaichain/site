@@ -13,7 +13,7 @@ OpenEthereum can be supported by a variety of cloud-based providers. If you are 
 * OS: Ubuntu Linux 16.04 LTS with root or sudo-user access over ssh
 * CPU: minimum 2 cores
 * RAM: minimum 4GB
-* Disk: SSD
+* Disk: 50gb SSD 
   * Open network ports: SSH port \(default 22 TCP\), 30303 UDP. For security purposes, close other ports
 * Check that you have git installed `git --version`
   * if not, install it following instructions [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
