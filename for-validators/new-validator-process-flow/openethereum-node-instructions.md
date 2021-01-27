@@ -4,6 +4,12 @@
 If you experience any issues during installation, post your questions in the [https://forum.poa.network/c/xdai-chain/validators-support-private](https://forum.poa.network/c/xdai-chain/validators-support-private).
 {% endhint %}
 
+## Process
+
+{% hint style="info" %}
+To become a new validator, you will run a node using a mining address and connect to it with a separate staking address. For details, see the [Become a Candidate](../../for-stakers/staking-protocol/become-a-candidate-validator.md) instructions, and proceed to these instructions following step 4.
+{% endhint %}
+
 ## Validator Node Specs
 
 OpenEthereum can be supported by a variety of cloud-based providers. If you are already with a provider, we recommend launching a new, clean instance. 
@@ -76,6 +82,17 @@ $ cd validator-node-dockerized
 
  Generate an external \(0x\) address and name your JSON keystore file as `key` and save it in the `validator-node-dockerized` directory. Save the keystore password to a `password` file. 
 
+You can generate a key with the following OpenEthereum's CLI command:
+
+```text
+openethereum account new --keys-path <path_to_save_json_keystore>
+```
+
+Alternately, you can use the MEW CX Google Chrome extension or MyCrypto desktop application to generate a keystore file for an existing account.
+
+* [MEW keystore file directions](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/)
+* [MyCrypto instructions](https://support.mycrypto.com/)
+
 ### 4\) Update .env File
 
 Copy `.env.example` to `.env` and configure the `.env` file. Define the following settings.
@@ -107,6 +124,10 @@ To restart, cd into the  `validator-node-dockerized` directory and use `docker-c
 ### 6\) Check NetStats
 
 Open [https://dai-netstat.poa.network](https://dai-netstat.poa.network) and check that your node appears on the list and has &gt;0 peers. Wait until it synchronizes with the rest of the blockchain \(block number and block hash should match the rest of the network\).
+
+### 7\) Access Staking DApp
+
+Once the node is operational, proceed to [Becoming a Candidate instructions step 5](../../for-stakers/staking-protocol/become-a-candidate-validator.md#proceed-to-step-5-after-mining-node-is-configured-and-functional). Here you will access the staking DApp using your staking address in order to fund the mining node.
 
 
 
