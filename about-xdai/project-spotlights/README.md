@@ -63,6 +63,7 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Shenanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
+* [Eporio](https://epor.io/): NFT Marketplace
 
 **Exchanges**
 

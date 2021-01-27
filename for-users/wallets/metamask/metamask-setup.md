@@ -4,6 +4,15 @@ description: Setup your custom RPC to connect to Metamask
 
 # Metamask Setup
 
+{% hint style="warning" %}
+Note: Sending tokens to exchanges or other addresses you do not control \(like exchange addresses\) may result in a loss of funds. **Especially** when sent from the xDai chain to an exchange or contract on the Ethereum network. **Always bridge to your address first, then transfer!**
+
+* **xDai - Dai Bridge:** [http://bridge.xdaichain.com/](http://bridge.xdaichain.com/)
+* **OmniBridge \(for all other ERC20 Tokens\):** [https://omni.xdaichain.com/](https://omni.xdaichain.com/)
+{% endhint %}
+
+## Setting up MetaMask for xDai
+
 1\) Open Metamask, and select "Custom RPC" from the Network Dropdown.
 
 ![](../../../.gitbook/assets/custom-rpc.png)
