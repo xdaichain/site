@@ -55,7 +55,7 @@ The STAKE token is separate from xDai and is used to protect chain consensus. Va
 
 Other community members can also delegate, or place STAKE on validators they would like to see running nodes in the network. Validators are selected each week based on how much STAKE is in their pools \(STAKE they have provided as well as STAKE delegators have provided\) as well as a random number, which makes sure the selection process is fair. 
 
-STAKE is also used for voting purposes, where [community members can create and vote on proposals](for-stakers/stake-token/stake-weighted-voting.md) about the xDai protocol \(for example changing fee amounts, delegation amounts etc.\)
+STAKE is also used for voting purposes, where [community members can create and vote on proposals](for-stakers/stake-token/stake-weighted-voting/) about the xDai protocol \(for example changing fee amounts, delegation amounts etc.\)
 {% endtab %}
 {% endtabs %}
 

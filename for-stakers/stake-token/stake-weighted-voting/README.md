@@ -16,19 +16,19 @@ Snapshot uses your STAKE balance on Ethereum as well as STAKE locked in EasyStak
 
 2\) Connect your wallet to Ethereum using MetaMask or another application. This wallet should include STAKE you want to use for voting purposes \(or the connected wallet used for EasyStaking, the balances will be combined for your weighted vote\).
 
-![](../../.gitbook/assets/snapshot1.png)
+![](../../../.gitbook/assets/snapshot1.png)
 
 3\) Click to select the proposal you would like to vote on.
 
-![](../../.gitbook/assets/snapshot2.png)
+![](../../../.gitbook/assets/snapshot2.png)
 
 4\) Read the proposal and scroll to the bottom. Cast your vote by selecting a vote and clicking the vote button.
 
-![](../../.gitbook/assets/snapshot3.png)
+![](../../../.gitbook/assets/snapshot3.png)
 
 5\) Sign the transaction in your web3 wallet. A vote does not require ETH.
 
-![](../../.gitbook/assets/snapshot4.png)
+![](../../../.gitbook/assets/snapshot4.png)
 
 6\) You can switch your vote by choosing another selection and voting again.
 
@@ -40,7 +40,7 @@ Community members can create a proposal for a vote. This is the first step in su
 
 2\) Click on New Proposal.
 
-![](../../.gitbook/assets/snapshotb1.png)
+![](../../../.gitbook/assets/snapshotb1.png)
 
 3\) Fill in all relevant details and Publish. Include the following:
 
@@ -50,15 +50,15 @@ Community members can create a proposal for a vote. This is the first step in su
 4. Start and End Dates for the Proposal \* _\(start and end dates use a calendar pop-up which may be off by 1 day. Adjust accordingly.\)_
 5. Click Publish.
 
-![](../../.gitbook/assets/snapshotb2.png)
+![](../../../.gitbook/assets/snapshotb2.png)
 
 4\) Sign the transaction. 
 
-![](../../.gitbook/assets/snapshotb3.png)
+![](../../../.gitbook/assets/snapshotb3.png)
 
 5\) Your proposal will appear in the Community section with the suggested parameters \*_Note: spam proposals will be deleted._
 
-![](../../.gitbook/assets/snapshotb4.png)
+![](../../../.gitbook/assets/snapshotb4.png)
 
 \_\_
 

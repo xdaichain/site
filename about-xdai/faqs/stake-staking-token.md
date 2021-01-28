@@ -2,7 +2,7 @@
 
 ## If I only need xDai coins for transactions, what is STAKE used for?
 
-STAKE is a volatile token used as a staking token to protect the xDai chain. It enables delegated staking and community participation in xDai consensus. It is also used for [STAKE weighted proposal initiation and voting](../../for-stakers/stake-token/stake-weighted-voting.md).
+STAKE is a volatile token used as a staking token to protect the xDai chain. It enables delegated staking and community participation in xDai consensus. It is also used for [STAKE weighted proposal initiation and voting](../../for-stakers/stake-token/stake-weighted-voting/).
 
 You do not need STAKE to use the xDai chain for regular transactions. You only need STAKE if you want to be a validator or delegator on the xDai chain.
 
@@ -48,7 +48,7 @@ Public staking is [now active on xDai](../news-and-information/project-updates/p
 The current projected minimum amounts needed to validate or delegate on the xDai chain. 
 
 * **Validators:** 20K STAKE
-* **Delegators:** 200 STAKE\* \(Initial amount was 1K, reduced to 200 [through a community proposal](../../for-stakers/stake-token/stake-weighted-voting.md)\)
+* **Delegators:** 200 STAKE\* \(Initial amount was 1K, reduced to 200 [through a community proposal](../../for-stakers/stake-token/stake-weighted-voting/)\)
 
 ## What is the STAKE Marketcap?
 

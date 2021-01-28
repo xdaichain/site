@@ -35,7 +35,7 @@ Token holders can commit STAKE into the protocol and receive emission-based STAK
 \*Parameters subject to change.
 {% endhint %}
 
-Delegating STAKE on a validator candidate is akin to placing a vote on that candidate.  The more STAKE \(votes\) a candidate pool receives, the more likely they are to become a validator in the next staking round. Governance \(validator selection\) is provided through on-chain STAKE allocation rather than a defined voting process. However, a [snapshot integration allows STAKE holders to create and vote on protocol-related proposals](../../for-stakers/stake-token/stake-weighted-voting.md). Results of these votes signal the direction of the protocol, and may be enacted by validators and xDai devs.
+Delegating STAKE on a validator candidate is akin to placing a vote on that candidate.  The more STAKE \(votes\) a candidate pool receives, the more likely they are to become a validator in the next staking round. Governance \(validator selection\) is provided through on-chain STAKE allocation rather than a defined voting process. However, a [snapshot integration allows STAKE holders to create and vote on protocol-related proposals](../../for-stakers/stake-token/stake-weighted-voting/). Results of these votes signal the direction of the protocol, and may be enacted by validators and xDai devs.
 
 Delegates and validators are rewarded with STAKE emissions for successful block creation and consensus participation. Delegators are incentivized to select the best validators for the job, and validators are incentivized to maintain their nodes, produce correct blocks, and report on the system.
 

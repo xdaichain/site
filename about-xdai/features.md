@@ -26,7 +26,7 @@ The xDai Stable Chain uses a delegated Proof of Stake \(DPOS\) consensus mechani
 
 The STAKE token on xDai is used by validators and delegators to secure the xDai chain. Users may participate in chain consensus, either as validators running xDai nodes, or delegators placing stake on those nodes. Participants place STAKE to secure the chain, and receive rewards in both STAKE and xDai \(for validators\) thanks to[ unique reward mechanics](../for-stakers/stake-reward-mechanics/).
 
-STAKE also serves in a governance capacity. Community members can [create and vote on proposals](../for-stakers/stake-token/stake-weighted-voting.md) to change or update the protocol. These changes are then taken into consideration by the xDai validators and team.
+STAKE also serves in a governance capacity. Community members can [create and vote on proposals](../for-stakers/stake-token/stake-weighted-voting/) to change or update the protocol. These changes are then taken into consideration by the xDai validators and team.
 
 Additional sidechains will also have the opportunity to use STAKE to secure their chains, making this the first multi-chain enabled staking token.
 
