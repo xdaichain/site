@@ -6,7 +6,7 @@ description: Using STAKE in a Multisig Gnosis Safe for voting on snapshot
 
 STAKE held in an EOA \(externally owned address\) on Ethereum and [staked on EasyStaking](https://easy-staking.xdaichain.com/deposits) can be used for [stake weighted voting with snapshot](https://snapshot.page/#/xdaistake.eth). STAKE held in a Gnosis Safe multisig account cannot be directly used from that account for voting purposes. However, it can be delegated to an EOA and then used for stake weighted voting. The delegated amount is added to any additional STAKE held in a wallet or in EasyStaking, providing a total signaling weight for voting purposes. 
 
-1\) Go to Snapshot [https://snapshot.page/\#/xdaistake.eth](https://snapshot.page/#/xdaistake.eth) and Connect wallet with Wallet Connect.
+1\) Go to Snapshot [https://snapshot.page/\#/xdaistake.eth](https://snapshot.page/#/xdaistake.eth) and **Connect wallet** with Wallet Connect.
 
 ![](../../../.gitbook/assets/gnosis-safe1.png)
 
@@ -14,7 +14,7 @@ STAKE held in an EOA \(externally owned address\) on Ethereum and [staked on Eas
 
 ![](../../../.gitbook/assets/gnosis-qr.png)
 
-3\) Login to your Gnosis Safe and Go to Apps, Wallet Connect.
+3\) Login to your Gnosis Safe and Go to Apps -&gt; Wallet Connect.
 
 ![](../../../.gitbook/assets/gnosis-apps-wallet-connect.png)
 
@@ -22,7 +22,7 @@ STAKE held in an EOA \(externally owned address\) on Ethereum and [staked on Eas
 
 ![](../../../.gitbook/assets/gnosis-pasted-code.png)
 
-![](../../../.gitbook/assets/connected.png)
+![Gnosis Safe is now connected with Wallet Connect](../../../.gitbook/assets/connected.png)
 
 5\) Return to Snapshot and go to the delegate page at [https://snapshot.page/\#/delegate](https://snapshot.page/#/delegate). Enter in the address you would like to delegate to and click confirm. 
 
@@ -49,7 +49,7 @@ STAKE held in an EOA \(externally owned address\) on Ethereum and [staked on Eas
 ![](../../../.gitbook/assets/votingpower2.png)
 
 {% hint style="info" %}
-More info in Gnosis Governance Tutorial: [https://blog.gnosis.pm/gnosisdao-governance-tutorial-8257f5a1adb4\#7c45](https://blog.gnosis.pm/gnosisdao-governance-tutorial-8257f5a1adb4#7c45)
+More info inthe  Gnosis Governance Tutorial: [https://blog.gnosis.pm/gnosisdao-governance-tutorial-8257f5a1adb4\#7c45](https://blog.gnosis.pm/gnosisdao-governance-tutorial-8257f5a1adb4#7c45)
 
 **Important**: For a delegated address to be effective when signaling on a Snapshot poll, the address has to have been delegated to by the block number set on the Snapshot poll.
 
