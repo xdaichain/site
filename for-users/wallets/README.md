@@ -14,4 +14,5 @@ For $STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum
 * [Portis Wallet](portis-wallet.md)
 * [Saturn Wallet](saturn-wallet.md)
 * [Status Wallet](status-wallet.md)
+* [Torus Wallet](https://toruswallet.io/)
 
