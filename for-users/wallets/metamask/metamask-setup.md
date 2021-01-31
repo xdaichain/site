@@ -39,6 +39,10 @@ Note: MetaMask recently updated the ChainID to be a required field. When you upd
 If you'd prefer not to make these changes, [**Nifty Wallet** ](https://chrome.google.com/webstore/detail/nifty-wallet/jbdaocneiiinmjbjlgalhcelgbejmnid)provides a built-in xDai RPC.
 {% endhint %}
 
+{% hint style="success" %}
+Once you add the xDai network, you will need xDai to pay for transactions. See [Getting xDai](../../get-xdai-tokens.md) for more information.
+{% endhint %}
+
 ## Connecting to a Hardware Wallet
 
 Instructions for using MetaMask with a Ledger or Trezor: [https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
