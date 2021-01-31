@@ -4,6 +4,8 @@ description: 'Instructions for public investors, private investor and advisors'
 
 # How to get STAKE Tokens
 
+STAKE exists on both the Ethereum Mainnet and the xDai chain. See below for ways to acquire on both chains.
+
 ## STAKE on Ethereum
 
 {% hint style="success" %}
@@ -20,14 +22,17 @@ Additional exchanges listing STAKE are shown on the [CoinGecko page](https://www
 
 ### DEX \(Decentralized Exchanges\)
 
-* IDEX [https://idex.market/eth/stake](https://idex.market/eth/stake)
 * Uniswap [https://uniswap.exchange/swap](https://uniswap.exchange/swap/0x0ae055097c6d159879521c384f1d2123d1f195e6)
 * Balancer Pool [https://pools.balancer.exchange/\#/pool/0x834fb8276B4E8a24010e2108fDd7F8417C8922bD](https://pools.balancer.exchange/#/pool/0x834fb8276B4E8a24010e2108fDd7F8417C8922bD)
 * 1inch.exchange DEX aggregator [https://1inch.exchange/\#/ETH/STAKE](https://1inch.exchange/#/ETH/STAKE)
+* IDEX [https://idex.market/eth/stake](https://idex.market/eth/stake)
 
-### Investors and Advisors
+### Bridge
 
-[Private Investors](claim-stake.md) and [Advisors](manual-instructions-advisors.md) can claim tokens according to the claiming STAKE tokens instructions for each group.
+You can bridge STAKE on xDai to STAKE on Ethereum with the Omnibridge.
+
+* OmniBridge url: [https://omni.xdaichain.com/](https://omni.xdaichain.com/)
+* Video: [Move STAKE with the OmniBridge](https://youtu.be/qbuBqur9lcE)
 
 ## STAKE on xDai
 
