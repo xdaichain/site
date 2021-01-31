@@ -6,18 +6,16 @@ description: >-
 
 # Getting xDai tokens
 
+xDai tokens are used to pay for gas and transactions on the xDai chain. They are a stable token \(worth ~ 1 USD\) created from locked Dai. 
+
 Ways to acquire xDai stable tokens:
 
 * From another user on the xDai Chain
 * Converting Dai to xDai using the [xDai Bridge](converting-xdai-via-bridge/)
 * Purchase directly with fiat using [Ramp.Network](https://ramp.network/buy/?swapAsset=XDAI)
 
-{% hint style="info" %}
-xDai direct purchases \(Carbon or Wyre\) are currently under construction.  Purchase Dai on the mainnet and use the bridge to get xDai, or for an all-in-one exchange process you can use the[ Burner Wallet Exchange](burner-wallet-functions/exchange-currencies.md).
-{% endhint %}
-
 {% hint style="warning" %}
-The xDai ecosystem supports 2 tokens, the xDAI stable token and the STAKE governance token. [Learn More about STAKE](../about-xdai/faqs/stake-staking-token.md).
+The xDai ecosystem is a [dual token environment](../for-stakers/stake-reward-mechanics/dual-token-model.md) with the xDai stable token and the STAKE governance token. [Learn more about STAKE and how to get STAKE](../for-stakers/stake-token/get-stake/).
 {% endhint %}
 
 
