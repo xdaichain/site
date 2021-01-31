@@ -4,8 +4,10 @@ description: 'Instructions for public investors, private investor and advisors'
 
 # How to get STAKE Tokens
 
-STAKE exists on both the Ethereum Mainnet and the xDai chain. See below for ways to acquire on both chains.
+STAKE exists on both the Ethereum Mainnet and the xDai chain \(with a different token address on each chain\). See below for ways to acquire depending on the chain.
 
+{% tabs %}
+{% tab title="STAKE on Ethereum" %}
 ## STAKE on Ethereum
 
 {% hint style="success" %}
@@ -33,7 +35,9 @@ You can bridge STAKE on xDai to STAKE on Ethereum with the Omnibridge.
 
 * OmniBridge url: [https://omni.xdaichain.com/](https://omni.xdaichain.com/)
 * Video: [Move STAKE with the OmniBridge](https://youtu.be/qbuBqur9lcE)
+{% endtab %}
 
+{% tab title="STAKE on xDai" %}
 ## STAKE on xDai
 
 {% hint style="success" %}
@@ -47,7 +51,13 @@ Move STAKE from Ethereum to xDai using the OmniBridge.
 * OmniBridge url: [https://omni.xdaichain.com/](https://omni.xdaichain.com/)
 * Video: [Move STAKE with the OmniBridge](https://youtu.be/qbuBqur9lcE)
 
-### DEX
+### **DEX**
 
 Use [Honeyswap](../../../about-xdai/project-spotlights/honeyswap.md) to acquire STAKE directly on xDai.
+{% endtab %}
+{% endtabs %}
+
+### 
+
+### 
 
