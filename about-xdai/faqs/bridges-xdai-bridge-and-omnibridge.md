@@ -149,11 +149,11 @@ Yes, it is possible, you will need to collect the message and the oracles' signa
 
 Yes, attempts are made to replace transactions with a higher gas price after 20 minutes. This occurs if it receives a price provided by the gas price oracle, and is repeated every 20 minutes until the transaction is successful. 
 
-### MetaMask is showing very high fees to claim a transaction on Ethereum \(tokens bridged from xDai to Ethereum\). Are these accurate?
+### MetaMask is showing very high fees to claim a transaction on Ethereum \(tokens bridged from xDai to Ethereum\). Is this estimate accurate?
 
 Generally, the MetaMask gas limit estimates are high. In the following example, the gas limit was 1,036,275 but the gas spent for the execution was 208,805, **5 times lower than estimated**. [https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778](https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778)
 
-When you first confirm a transfer, you will see a note with information about a claim transfer. This is a more accurate assessment of the estimated cost at the time to execute the transaction. You can always process the first tx on xDai, then wait until gas prices are lower on Ethereum to execute the 2nd claim transaction.
+When you first confirm a transfer, you will see a note with information about a claim transfer. This is a more accurate estimate of cost \(although it is a hardcoded value as it is impossible to get an accurate estimate prior to sending a tx to the bridge oracles\). You can always process the first tx on xDai, then wait until gas prices are lower on Ethereum to execute the 2nd claim transaction.
 
 ![](../../.gitbook/assets/confirm-transfer.png)
 
