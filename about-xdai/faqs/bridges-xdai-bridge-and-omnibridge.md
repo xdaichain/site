@@ -149,11 +149,23 @@ Yes, it is possible, you will need to collect the message and the oracles' signa
 
 Yes, attempts are made to replace transactions with a higher gas price after 20 minutes. This occurs if it receives a price provided by the gas price oracle, and is repeated every 20 minutes until the transaction is successful. 
 
+### MetaMask is showing very high fees to claim a transaction on Ethereum \(tokens bridged from xDai to Ethereum\). Are these accurate?
+
+Generally, the MetaMask gas limit estimates are high. In the following example, the gas limit was 1,036,275 but the gas spent for the execution was 208,805, **5 times lower than estimated**. [https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778](https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778)
+
+When you first confirm a transfer, you will see a note with information about a claim transfer. This is a more accurate assessment of the estimated cost at the time to execute the transaction. You can always process the first tx on xDai, then wait until gas prices are lower on Ethereum to execute the 2nd claim transaction.
+
+![](../../.gitbook/assets/confirm-transfer.png)
+
+
+
+### I completed the first transaction but decided I don't want to complete the 2nd \(claim\). Can I revert?
+
+Unfortunately not, once you have started the transfer process it is non-reversible.  The only way to complete is to claim the token on Ethereum. If too expensive, you can wait until gas fees come down. There is not a time limit to claim the transaction.
+
 ### I'm having issues related to Bridging & HoneySwap 🐝 
 
 Honeyswap is a popular application running on xDai and utilizing bridge functionality. They have a forum at [https://forum.1hive.org/](https://forum.1hive.org/) with tons of info, a [Discord ](https://discord.com/invite/NTDBRNz)and [an FAQ](https://about.1hive.org/faq/) that covers basics about bridging, xDai and more.  Please bring any related questions to them. 
-
-
 
 
 
