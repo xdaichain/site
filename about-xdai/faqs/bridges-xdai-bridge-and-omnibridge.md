@@ -157,8 +157,6 @@ When you first confirm a transfer, you will see a note with information about a 
 
 ![](../../.gitbook/assets/confirm-transfer.png)
 
-
-
 ### I completed the first transaction but decided I don't want to complete the 2nd \(claim\). Can I revert?
 
 Unfortunately not, once you have started the transfer process it is non-reversible.  The only way to complete is to claim the token on Ethereum. If too expensive, you can wait until gas fees come down. There is not a time limit to claim the transaction.
