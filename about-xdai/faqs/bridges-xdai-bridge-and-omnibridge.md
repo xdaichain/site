@@ -151,9 +151,27 @@ Yes, attempts are made to replace transactions with a higher gas price after 20 
 
 ### MetaMask is showing very high fees to claim a transaction on Ethereum \(tokens bridged from xDai to Ethereum\). Is this estimate accurate?
 
-Generally, the MetaMask gas limit estimates are high. In the following example, the gas limit was 1,036,275 but the gas spent for the execution was 208,805, **5 times lower than estimated**. [https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778](https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778)
+Generally, the MetaMask gas limit estimates are high for OmniBridge tokens. In the following example, the gas limit was 1,036,275 but the gas spent for the execution was 208,805, **5 times lower than estimated**. [https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778](https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778)
 
-When you first confirm a transfer, you will see a note with information about a claim transfer. This is a more accurate estimate of cost \(although it is a hardcoded value as it is impossible to get an accurate estimate prior to sending a tx to the bridge oracles\). You can always process the first tx on xDai, then wait until gas prices are lower on Ethereum to execute the 2nd claim transaction.
+Each token has unique parameters, and it is not possible to provide an accurate estimate before the tx is sent to the bridge oracles.  Here are a few examples to provide an idea of the gas costs when transferring tokens from xDai to Ethereum.
+
+| Token | Min Gas to Execute | Max Gas to Execute |
+| :--- | :--- | :--- |
+| USDC | 209,312 | 239,396 |
+| STAKE | 206,499 | 236,559 |
+| WETH | 203761 | 233,821 |
+
+{% hint style="info" %}
+_Notes:_
+
+* Max Gas may be higher for a given tx, data is taken from a small sample size.
+* Some bridged tokens may have a much higher cost depending on the contract internals. For example, plDai max was 494,794.
+* We are working to provide more accurate estimates on a per-token basis, starting with higher volume bridged tokens.
+{% endhint %}
+
+When confirming a transfer, you will see a note with information about a claim transfer. This is a semi-accurate estimate of cost \(although it is a hardcoded value as it is impossible to get an accurate estimate prior to sending a tx to the bridge oracles\). 
+
+You always have the option to process the first tx on xDai, then wait until gas prices are lower on Ethereum to execute the 2nd claim transaction.
 
 ![](../../.gitbook/assets/confirm-transfer.png)
 
