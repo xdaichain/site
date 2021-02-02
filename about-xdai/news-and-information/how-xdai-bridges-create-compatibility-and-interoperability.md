@@ -1,4 +1,4 @@
-# How xDai Bridges Create Compatibility and Interoperability
+# xDai Bridges: Compatibility and Interoperability
 
 The xDai chain is designed for **complete compatible operation** with the Ethereum mainnet and other Ethereum-based chains. It is the only stablechain in production, and is designed to support and enhance the ecosystem as a whole. Users and applications are assured that transaction prices are low and predictable - unaffected by chain usage or market volatility.
 

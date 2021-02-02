@@ -8,7 +8,7 @@ description: Validators secure the xDai chain
 The xDai chain is currently functioning in a permissioned POSDAO-based consensus, where selected validators use xDai-based STAKE tokens to secure the chain. xDai will transition to public POSDAO in the coming months, where community members can become validator candidates as well as delegate STAKE to candidates and validators. 
 {% endhint %}
 
-The xDai Stable Chain is protected by a select group of validators well known in the Ethereum space. [See this post for a list of current validators.](../../about-xdai/news-and-information/current-xdai-validators/)
+The xDai Stable Chain is protected by a select group of validators well known in the Ethereum space. [See this post for a list of current validators.](current-xdai-validators/)
 
 ![Current xDai Validators list ](../../.gitbook/assets/validators_1.png)
 

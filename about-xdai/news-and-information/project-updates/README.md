@@ -1,2 +1,2 @@
-# Project Updates
+# Updates, Integrations and Weekly News
 

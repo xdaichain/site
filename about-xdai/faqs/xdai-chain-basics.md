@@ -3,7 +3,7 @@
 ## Who is xDai?
 
 * The [xDai development team](https://www.xdaichain.com/media/xdai-dev-team) is made up of an experienced group of long-time blockchain & sidechain developers. 
-* Collaborators include [initial validators ](../news-and-information/current-xdai-validators/)like MakerDAO, Gnosis, and SyncNode & [projects that support the ecosystem](../../for-developers/developer-resources/#dapp-management-and-developer-tools) like theGraph, Tenderly and AnyBlock Analytics. 
+* Collaborators include [initial validators ](../../for-validators/about-xdai-validators/current-xdai-validators/)like MakerDAO, Gnosis, and SyncNode & [projects that support the ecosystem](../../for-developers/developer-resources/#dapp-management-and-developer-tools) like theGraph, Tenderly and AnyBlock Analytics. 
 * Users are worldwide, from crypto veterans to first-time users.
 
 ## What is xDai? 

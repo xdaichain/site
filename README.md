@@ -67,7 +67,7 @@ STAKE is also used for voting purposes, where [community members can create and 
 * ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
 * ✅[STAKE token](for-stakers/stake-token/) allows community consensus participation and incentives. 
-* ✅Wide-ranging Community Support \(see [xDai Validator Organizations](about-xdai/news-and-information/current-xdai-validators/)\).
+* ✅Wide-ranging Community Support \(see [xDai Validator Organizations](for-validators/about-xdai-validators/current-xdai-validators/)\).
 * ✅Outstanding energy efficiency.
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet.md) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md) and more.

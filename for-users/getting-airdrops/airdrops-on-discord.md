@@ -6,11 +6,11 @@ description: How to receive and withdraw airdrops via tip.cc bot on Discord
 
 ### Receive an Airdrop
 
-1\) Go to Discord \([https://discordapp.com/](https://discordapp.com/)\) and open the **POA and xDai** discord server. If you have not visited before, the invite link is [https://discord.gg/mPJ9zkq](https://discord.gg/mPJ9zkq)
+1\) Go to Discord \([https://discordapp.com/](https://discordapp.com/)\) and open the **xDai and Friends** Discord server. If you have not visited before, the invite link is [https://discord.gg/mPJ9zkq](https://discord.gg/mPJ9zkq)
 
-2\) Visit the **\#**🍸 **drops** channel under the **Games** heading.
+2\) Visit the **\#**🍸 air**drops** channel.
 
-![Visit the \#drops channel to look for airdrops](../../.gitbook/assets/drops.png)
+![Visit the \#airdrops channel to look for airdrops](../../.gitbook/assets/drops.png)
 
 3\) When an airdrop appears, claim a portion by responding with the 🎉 icon. Depending on the airdrop parameters, the drop will last for a variable period of time and may include a different amount or type of currency.
 
@@ -18,9 +18,9 @@ description: How to receive and withdraw airdrops via tip.cc bot on Discord
 
 ### Withdraw an Airdrop
 
-1\) Go to Discord \([https://discordapp.com/](https://discordapp.com/)\) and open the **POA and xDai** discord server. 
+1\) Go to Discord \([https://discordapp.com/](https://discordapp.com/)\) and open the **xDai and Friends** discord server. 
 
-2\) Create a direct message with the [tip.cc bot](https://top.gg/bot/617037497574359050). You will see the bot in the top right of the web interface \(if not, activate member list above\). **Right click** and select **Message** to start a direct message.
+2\) Create a direct message with the [**tip.cc bot**](https://top.gg/bot/617037497574359050)**.** You will see the bot in the top right of the web interface \(if not, activate member list above\). **Right click** and select **Message** to start a direct message.
 
 ![To message the bot directly, Right Click -&amp;gt; Message](../../.gitbook/assets/bot2.png)
 
