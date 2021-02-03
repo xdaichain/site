@@ -4,7 +4,7 @@ description: >-
   participation
 ---
 
-# Platform for Prediction Markets
+# Prediction Markets
 
 ### Prediction Market Case Study
 

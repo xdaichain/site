@@ -4,14 +4,12 @@ description: >-
   are achievable in a stable ecosystem.
 ---
 
-# Platform for Blockchain Games
+# Blockchain Games
+
+When transaction fees and speeds are a known quantity, developers can plan and execute accordingly, and players can be onboarded quickly with low barriers to entry.
 
 {% hint style="success" %}
-When transaction fees and speeds are a known quantity, developers can plan and execute accordingly, and players can be onboarded quickly with low barriers to entry.
-{% endhint %}
-
-{% hint style="info" %}
-Also see the [DarkForest Project](../project-spotlights/dark-forest.md) for an in-depth overview of a cutting-edge blockchain game on xDai.
+**See the** [**DarkForest Project**](../project-spotlights/dark-forest.md) **for an in-depth overview of a cutting-edge blockchain game on xDai.**
 {% endhint %}
 
 ## Games Case Study:  DAOG
