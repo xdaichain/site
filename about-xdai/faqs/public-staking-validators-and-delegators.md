@@ -54,7 +54,7 @@ You will need to wait until the staking epoch ends to claim your withdrawal. The
 2. Wait until the staking epoch ends
 3. After the epoch ends, a claim icon will appear. You will process this transaction and your ordered STAKE will be added to your wallet.
 
-This page details the process along with a video tutorial. https://www.xdaichain.com/for-stakers/staking-protocol/staking-operations/claim-stake\#claim-ordered-withdrawals
+[This page details the process along with a video tutorial](../../for-stakers/staking-protocol/staking-operations/claim-stake.md#claim-ordered-withdrawals). 
 
 ## I don't see any icons to withdraw or add STAKE. Why not?
 
@@ -62,7 +62,40 @@ In all likelihood you are looking at the app during the final blocks of a stakin
 
 ## What rewards can I expect as a participant?
 
-See the [rewards in a dual token environment post](../../for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md) for more information. As a validator, you will always receive at least 30% of your pool's rewards, and more if delegators contribute less than 70% to the pool. Rewards are based on how much STAKE is staked in the protocol as well as chain-based activity \(stable rewards come from bridge fees and transactions\). Staking rewards will accumulate at 15% APR based on the locked amount.
+See the [rewards in a dual token environment post](../../for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md) for more information. As a validator, you will always receive at least 30% of your pool's rewards, and more if delegators contribute less than 70% to the pool. Rewards are based on how much STAKE is staked in the protocol as well as chain-based activity \(stable rewards come from bridge fees and transactions\). Staking rewards accumulate based on the locked amount, number of delegators, and validator performance.
+
+## What is APY \(Annual Percentage Yield\)? 
+
+APY is the current annual yield a pool and delegator are receiving on their staked amounts. While 15% is accrued by pools for all active STAKE in the protocol, other factors contribute to individual pool and delegator rewards.
+
+APY is a dynamic number which adjusts often based on the number of delegators in a pool, the number of blocks skipped by a validator, and rewards from bridge fees. All of these can have an impact on the expected APY. The percentage of stake held by delegators typically has the largest influence. Pools with a lower Stakes Ratio typically have a higher APY, but have a lower likelihood to be selected as validators once there are more than 19 total validators.
+
+The APY listed is the expected APY if all staking ratios remained as they are currently. **It is not a long-term expected APY**. The system is constantly changing \(skipped blocks, bridge fees, stakes added and removed\) and the APY adjusts accordingly.
+
+## How do I find the APY
+
+You can quickly find this number through the delegation popup.
+
+* **1** is the current APY \(17.98%\)
+* **2** is the expected reward payout for the epoch \(~17.87 STAKE\). Multiplying this number by 52 gets the expected yearly payout assuming the current staking ratios. In this case, it is ~929.24.
+* **3** is the current working STAKE amount. 929.24/5,165.17 gives you the approximate current expected APY for your STAKE \(.1799 or 17.99%\*\) _\*Figure is slightly different due to epochs/year calculation and rounded numbers in the example. See_ [_How is APY calculated_ ](public-staking-validators-and-delegators.md#how-is-apy-calculated)_for exact formula._
+
+![](../../.gitbook/assets/delegator-apr.png)
+
+## How is APY calculated?
+
+The following formula is used by the contracts to dynamically calculate the current APY for a pool and for each individual delegator.  
+  
+**APY = `Reward Share` \* `Pool Reward` / `Stake Amount` \* `100` \* `Epochs Per Year`**
+
+* **`Reward Share`**: Generally **`Stake Amount` / `Total Stake Amount`**. However, this is adjusted if delegators have staked more than 70% of the total stake amount in the pool. Validators always receive a minimum 30% of the share.
+  * **`Stake Amount`**: Amount of tokens staked \(_does not include pending stake_\)
+  * **`Total Stake Amount`**: Amount of tokens staked by a validator and all delegators in a pool \(d_oes not include pending stake_\) 
+* **`Pool Reward`**: **`Total Reward`** \* **`Blocks Created by Pool Validator`** / **`Total Blocks in Epoch`**
+  * **`Total Reward`:** Total Reward for all pools \(non-pending stake sum for all validator pools \* 15% APY + Bridge Fees\)
+  * **`Blocks Created by Pool Validator`**: Number of blocks created by the current pool validator during the staking epoch
+  * **`Total Blocks in Epoch`**: Total blocks created by all pool validators in the epoch. 
+* **`Epochs Per Year`**: **`31536000`** \(seconds/yr\) / **`Current Average Block Time`** / **`120992`** \(current blocks/epoch\)
 
 ## What is an Inactive Pool?
 
@@ -70,17 +103,17 @@ A pool becomes inactive when a candidate/validator elects to stop participating 
 
 If you see a current validator's pool status as inactive, the validator will exit the validator set once the current staking epoch is complete. Prior to the end of the epoch, the validator will continue with their responsibilities, and any delegators will receive rewards once the staking epoch is finished. Rewards may be diminished if the validator's participation was limited during that epoch.
 
-Inactive pools are not considered for the next validator set, and will not become validators again unless the pool is reactivated by the validator.
+Inactive pools are not considered for the next validator set, and will not become validators again unless the pool is reactivated by the validator. Delegators who remain in an inactive pool for the next epoch will not receive any staking rewards for that epoch.
 
 ## If I am a delegator on a validator pool that is inactivated, will I receive a reward? And how much?
 
-Yes, rewards will still be distributed. If a pool is inactivated during a staking epoch, rewards for the current staking epoch will be accrued as usual.
+Yes, rewards will still be distributed iff a pool is inactivated during a staking epoch. Rewards for the current staking epoch will be accrued as usual.
 
-The reward amount depends on how long the validator has been working during the staking epoch: the reward corresponds to the validator's participation in consensus during the staking epoch. 
+The reward amount depends on how long the validator has been working, and the reward corresponds to the validator's participation in consensus during the staking epoch. 
 
 For example, if the validator was working fine, didn’t disconnect their node, and produced all blocks they should have produced \(went through all AuRa rounds during the epoch\), its pool will receive 100% of the possible pool’s reward.
 
-However, if the validator skipped half of the staking epoch \(only produced 50% of blocks they should have produced\), their pool will receive 50% of max possible pool’s reward. If a validator was malicious and was removed by the system for misbehavior, its pool won’t receive rewards. Pool rewards also depend on how much other participants staked into other pools. [Read more about reward distributions](../../for-stakers/staking-protocol/terminology/protocol-terms.md#reward-distribution-rules).
+However, if the validator skipped half the staking epoch \(only produced 50% of blocks they should have produced\), their pool will receive 50% of th max possible pool’s reward. If a validator was malicious and was removed by the system for misbehavior, its pool won’t receive rewards. Pool rewards also depend on how much other participants staked into other pools. [Read more about reward distributions](../../for-stakers/staking-protocol/terminology/protocol-terms.md#reward-distribution-rules).
 
 ## Why did a pool become inactive, and who made the decision?
 
