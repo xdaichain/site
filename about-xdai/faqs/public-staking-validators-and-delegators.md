@@ -78,7 +78,7 @@ You can quickly find the current APY through the delegation popup.
 
 * **1** is the current APY \(17.98%\)
 * **2** is the expected reward payout for the epoch \(~17.87 STAKE\). Multiplying this number by 52 gets the expected yearly payout assuming the current staking ratios. In this case, it is ~929.24.
-* **3** is the current working STAKE amount. You can divide 929.24 by 5,165.17 to get an approximate expected APY, but it will not be completely accurate and may vary from current APY depending on the makeup of the pool. _See_ [_How is APY calculated_ ](public-staking-validators-and-delegators.md#how-is-apy-calculated)_below for the exact formula._ 
+* **3** is the current working STAKE amount. You can divide 929.24 by 5,165.17 to get an approximate expected APY, but it may not  match the current APY depending on the makeup of the pool and rounded numbers. _See_ [_How is APY calculated_ ](public-staking-validators-and-delegators.md#how-is-apy-calculated)_below for the exact formula._ 
 
 ![](../../.gitbook/assets/delegator-apr.png)
 
