@@ -226,6 +226,7 @@
   * [Curvegrid Smart Contract Interaction](for-developers/developer-resources/curvegrid-smart-contract-interaction.md)
   * [Dune Analytics](for-developers/developer-resources/dune-analytics.md)
   * [TheGraph Data Indexing](for-developers/developer-resources/thegraph-data-indexing.md)
+  * [DappQuery Visual Contract Analytics](for-developers/developer-resources/dappquery-visual-contract-analytics.md)
   * [Creating airdrops](for-developers/developer-resources/creating-airdrops/README.md)
     * [Creating airdrops via Linkdrop](for-developers/developer-resources/creating-airdrops/creating-airdrops-via-linkdrop.md)
     * [Creating Airdrops with Token MultiSender](for-developers/developer-resources/creating-airdrops/creating-airdrops-with-token-multisender.md)
