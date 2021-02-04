@@ -59,12 +59,13 @@ A list of applications using xDai is catalogued below. For more details on speci
 
 **NFT-based projects**
 
-* [Foundation](https://foundation.app/): Emerging artist marketplace. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
+* [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
 * [Shenanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
 * [Eporio](https://epor.io/): NFT Marketplace
+* [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
 
 **Exchanges**
 
