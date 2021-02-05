@@ -1,4 +1,4 @@
-# DappQuery Visual Contract Analytics
+# Dappquery Smart Contract Analytics & Visualizations
 
 Dappquery is a community driven analytics tool for xDai Dapps which includes the following features:
 
