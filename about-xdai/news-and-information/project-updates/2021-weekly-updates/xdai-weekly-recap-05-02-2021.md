@@ -22,7 +22,7 @@ Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://du
 
 ### ✅ APY View added to BlockScout POSDAO Staking DApp
 
-The POSDOA staking APY is dynamic and varies from pool-to-pool based on the number of delegators, the number of blocks skipped by a validator, and rewards from bridge fees.  Current estimated APY varies from ~7.9% to almost 22% depending on the validator pool.  
+The POSDAO staking APY is dynamic and varies from pool-to-pool based on the number of delegators, the number of blocks skipped by a validator, and rewards from bridge fees.  Current estimated APY varies from ~7.9% to almost 22% depending on the validator pool.  
   
 [Learn more about how staking APY is calculated for different pools.](https://www.xdaichain.com/about-xdai/faqs/public-staking-validators-and-delegators#what-is-apy-annual-percentage-yield)
 
