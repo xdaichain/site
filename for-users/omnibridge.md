@@ -1,5 +1,11 @@
 # OmniBridge \(for all other ERC20 tokens\)
 
+{% hint style="warning" %}
+**Note: Transfers are non-reversible**. If you initiate and complete the first rquest transaction, you will need to complete the 2nd claim transaction at some time to receive your tokens on chain. This can be very expensive on Ethereum Mainnet. You can wait for gas prices to drop and claim at a later time if you like. In addition, MetaMask cost estimates may be inaccurate.   
+  
+[**See this post for more information on the claims process and costs to claim**](https://forum.poa.network/t/request-and-claim-to-transfer-assets-from-xdai-chain/4495) **when transferring tokens from xDai to Ethereum using the OmniBridge.**
+{% endhint %}
+
 OmniBridge can be used to bridge any existing ERC20 on Ethereum Mainnet to xDai and back. The first time a token is bridged, a new ERC677 token contract is deployed on xDai and the token name is extended to include "on xDai". If a token has been bridged previously, the previously deployed contract is used. In both cases, the requested amount of tokens is minted and sent to the account that initiated the transfer.
 
 {% hint style="info" %}
