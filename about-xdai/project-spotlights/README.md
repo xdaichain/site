@@ -12,7 +12,7 @@ A list of applications using xDai is catalogued below. For more details on speci
 
 ## 3rd Party Projects/Dapps Deployed on xDai Include:
 
-**Primary Partnerships**
+### **Primary Partnerships**
 
 * [Gnosis](https://gnosis.io/): With the [xDai-Gnosis partnership](https://blog.gnosis.pm/gnosis-protocol-and-xdai-partnership-1de0e48fb14b), Gnosis is deploying all of their applications to xDai including:
   * [Gnosis Protocol](https://docs.gnosis.io/protocol), a top-ten Ethereum DEX by volume
@@ -22,20 +22,23 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Chainlink](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/): Native Oracle Integration 
 * [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
 
-**Infrastructure & DeFi**
+### **Infrastructure & DeFi**
 
 * [1Hive](1hive.md): DAO with a Community Currency & DEX on xDai
-  * [Uniswap v1 Fork](https://uniswap.1hive.org/swap): Deployed by 1Hive, provides liquidity with a DEX on xDAI.
-  * [Uniswap v2 Fork](https://honeyswap.org/#/) - Honeyswap
   * [Aragon Connect](https://1hive.org/): Deployed by 1Hive, provides DAO governance and proposal functionality.
 * RaidGuild:  
   * [WrapEth](https://wrapeth.com/): xDai wrapper to convert native xDai to wrapped wxDai
   * [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
-* [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
-* [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface.
 * [ARTIS Bridge:](https://docs.artis.eco/artis-1.0/tools/artis-to-xdai-chain-bridge) A TokenBridge implementation connecting the [ARTIS](https://artis.eco/) and xDai chains.
 
-**Community Engagement & Events**
+### DeFi
+
+* [Honeyswap](https://honeyswap.org/): xDai Dex \(Uniswap fork\)
+* [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
+* [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface.
+* [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
+
+### **Community Engagement & Events**
 
 * [POAP](https://www.poap.xyz/):  Proof of Attendance Protocol. [More on xDai integration](https://medium.com/@poap/poap-ethereum-xdai-the-experiment-continues-301e08a472ff).
 * [Grassroots Economics](../use-cases/community-currencies.md):  Community Currencies in Kenya
@@ -45,7 +48,7 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Coinosis](https://coinosis.co/): Incentivized study groups
 * [clr.fund](http://clr.fund/#/): Decentralized Quadratic Funding
 
-**Governance**
+### **Governance**
 
 * [PowerPool](https://powerpool.finance/): Pooling governance tokens
 * [Unit Protocol](https://unit.xyz/): Decentralized borrowing with multi-token collateral
@@ -53,11 +56,11 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Vocdoni](https://vocdoni.io/): Secure digital voting
 * [Akropolis](https://akropolis.io/): DeFi governance with Delphi
 
-**Universal Basic Income \(UBI\)**
+### **Universal Basic Income \(UBI\)**
 
 * [Circles](https://circles.garden/welcome): A basic income on the blockchain
 
-**NFT-based projects**
+### **NFT-based projects**
 
 * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
@@ -67,12 +70,12 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Eporio](https://epor.io/): NFT Marketplace
 * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
 
-**Exchanges**
+### **Exchanges**
 
+* [HoneySwap](https://honeyswap.org/#/swap): Uniswap with HNY
 * [xMoon Exchange](https://xmoon.exchange/): A DEX for Reddit MOON liquidity \(xMoon to xDai\)
-* [HoneySwap](https://honeyswap.org/#/swap): Uniswap clone with HNY
 
-**DAOs**
+### **DAOs**
 
 * [DAOhaus](https://xdai.daohaus.club/): DAO community organization
 * [FacebookFly](https://fbfly.xyz/): Bringing DAOs to Facebook
@@ -80,13 +83,14 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Stakehaus](stakehaus.md): By and For the xDai Community
 * [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement
 
-**Prediction Markets**
+### **Prediction Markets**
 
 * [Reality Cards](https://realitycards.io/): NFTs for prediction voting
 * Omen Prediction Market: Coming soon.
 
-**Analytics**
+### **Analytics**
 
+* [DuneAnalytics](https://www.duneanalytics.com/): Cross-chain dashboard creator
 * [Dappquery](https://dappquery.com/): Smart Contract dashboards, metrics and visualizations
 * [Tenderly](https://tenderly.co/): xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 * [Chainbeat](https://chainbeat.io/): Monitoring and analytics tools for DApp developers.
