@@ -118,7 +118,8 @@
 
 ## For users
 
-* [Getting xDai tokens](for-users/get-xdai-tokens.md)
+* [Getting xDai tokens](for-users/get-xdai-tokens/README.md)
+  * [xDai Faucet](for-users/get-xdai-tokens/xdai-faucet.md)
 * [xDai Bridge: Converting xDai](for-users/converting-xdai-via-bridge/README.md)
   * [Moving Dai to xDai](for-users/converting-xdai-via-bridge/moving-dai-to-xdai.md)
   * [Moving xDai to Dai](for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)

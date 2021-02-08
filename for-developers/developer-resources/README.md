@@ -110,7 +110,7 @@ See the dropdown menu for tutorials related to some of these tools.
 
 **xDai Faucet**
 
-* [https://xdai-faucet.top/](https://xdai-faucet.top/) An xDai faucet to quickly get .01 xDai and start using the chain right away! Code here: [https://github.com/Luigy-Lemon/1hive-xDAI\_Faucet](https://github.com/Luigy-Lemon/1hive-xDAI_Faucet)
+* [https://blockscout.com/poa/xdai/faucet](https://blockscout.com/poa/xdai/faucet) An xDai faucet to quickly get .01 xDai and start using the chain right away! 
 
 **Test Token Faucets**
 

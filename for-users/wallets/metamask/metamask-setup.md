@@ -40,7 +40,7 @@ If you'd prefer not to make these changes, [**Nifty Wallet** ](https://chrome.go
 {% endhint %}
 
 {% hint style="success" %}
-Once you add the xDai network, you will need xDai to pay for transactions. See [Getting xDai](../../get-xdai-tokens.md) for more information.
+Once you add the xDai network, you will need xDai to pay for transactions. See [Getting xDai](../../get-xdai-tokens/) for more information.
 {% endhint %}
 
 ## Connecting to a Hardware Wallet
