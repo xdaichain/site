@@ -32,15 +32,15 @@ xDai runs on public POSDAO and [delegated Proof of Stake](for-stakers/staking-pr
 {% tab title="ELI5" %}
 xDai is the name of a blockchain AND the stable cryptocurrency used on the chain. Each xDai token is worth ~ 1 US dollar.
 
-The xDai blockchain is a sidechain of the Ethereum blockchain. This means it has the same properties as Ethereum, but uses a different method to make sure transactions are valid and consistent across all nodes in the distributed network \(consensus\). To do this, validators transmit and verify blocks every 5 seconds. Transactions can be completed quickly and fees for transactions can be minimized. 
+The xDai blockchain is a sidechain of the Ethereum blockchain. This means it has the same properties as Ethereum, but uses a different method to make sure transactions are valid and consistent across all nodes in the distributed network \(consensus\). To do this, validators take turns transmitting and verify blocks every 5 seconds. Transactions can be completed quickly and fees for transactions are very small. 
 
 xDai consensus uses public staking where community members can also be validator nodes that add transactions to the xDai chain. See below for more on STAKE, the token that is used for Proof of Stake consensus.
 
 ### xDai Native Token
 
-xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card](for-users/buying-xdai-with-fiat/ramp-network.md)\) but behind the scenes it is always created from Dai, and the value of xDai always corresponds 1:1 with Dai. 
+xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card](for-users/buying-xdai-with-fiat/ramp-network.md)\) but behind the scenes it is always created from Dai, and the value of xDai corresponds 1:1 with Dai. 
 
-Here's how xDai is created:
+**Here's how xDai is created:**
 
 1. Dai is locked into a smart contract on Ethereum. This means it must remain in that contract and cannot be moved until the contract receives a verified signal to unlock it.
 2. Using a bridge mechanism called the [TokenBridge](https://docs.tokenbridge.net), data about the locked Dai is transmitted to a smart contract on the xDai chain.
