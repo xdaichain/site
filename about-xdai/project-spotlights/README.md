@@ -18,7 +18,7 @@ A list of applications using xDai is catalogued below. For more details on speci
   * [Gnosis Protocol](https://docs.gnosis.io/protocol), a top-ten Ethereum DEX by volume
   * [Gnosis Safe Multisig](https://gnosis-safe.io/), a wallet holding more than $1 Billion in assets
     * [xDai Gnosis Safe Implementation](https://xdai.gnosis-safe.io/app/#/welcome)
-  * [Conditional tokens framework](http://docs.gnosis.io/conditionaltokens), built on by prediction markets [Omen](https://omen.eth.link/) and Polymarket 
+  * [Conditional tokens framework](http://docs.gnosis.io/conditionaltokens), built on by prediction markets [Omen](https://omen.eth.link/) and Polymarket. 
 * [Chainlink](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/): Native Oracle Integration 
 * [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
 
@@ -47,6 +47,11 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [EthicHub](https://ethichub.com/): Loans for small farmers
 * [Coinosis](https://coinosis.co/): Incentivized study groups
 * [clr.fund](http://clr.fund/#/): Decentralized Quadratic Funding
+
+### **Prediction Markets**
+
+* [Omen Prediction Market](https://xdai.omen.eth.link/) \(need web3 wallet enabled, or use a mobile wallet like Alpha or Status\): Bet on existing markets or create new ones with xDai or STAKE.
+* [Reality Cards](https://realitycards.io/): NFTs for prediction voting
 
 ### **Governance**
 
@@ -83,11 +88,6 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Stakehaus](stakehaus.md): By and For the xDai Community
 * [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement
 
-### **Prediction Markets**
-
-* [Reality Cards](https://realitycards.io/): NFTs for prediction voting
-* Omen Prediction Market: Coming soon.
-
 ### **Analytics**
 
 * [DuneAnalytics](https://www.duneanalytics.com/): Cross-chain dashboard creator
@@ -95,19 +95,20 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Tenderly](https://tenderly.co/): xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 * [Chainbeat](https://chainbeat.io/): Monitoring and analytics tools for DApp developers.
 
-**Games**
+### **Games**
 
 * [Darkforest](https://zkga.me/): zkSNARK space warfare game
 * [Galleass](galleass.io.md): Decentralized resource management game
 * [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game
 
-**More**
+### **More**
 
 * [0xMonero](https://0xmonero.com/): Privacy tokens with zk-SNARKs and 0xMixer
 * [Dollarcake](https://dollarcake.com/): Youtube crypto rewards
 * [LinkDrop](https://linkdrop.io/): Airdrops & new user onboarding
 * [Etherisc](https://etherisc.com/): Decentralized Insurance
 * [MintGate](https://mintgate.app/): Tokenized Content Protection
+* [RealT](https://realt.co/): fractionalized real estate investing
 
 
 
