@@ -188,7 +188,7 @@ With the example in the question above, the MetaMask estimate tx fee was 0.109 E
 
 Unfortunately not, once you have started the transfer process it is non-reversible.  The only way to complete is to claim the token on Ethereum. If too expensive, you can wait until gas fees come down. There is not a time limit to claim the transaction.
 
-### Can I claim transactions manually
+### Can I claim transactions manually?
 
 Yes, it is possible to use BlockScout and Etherscan to interact with the contracts and submit manually, or if you are familiar with the contract interaction through a Web3 provider, you can  importing the contract's ABI to your application. [This post details how](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb/submit-confirmations-manually).
 
