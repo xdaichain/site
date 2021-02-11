@@ -178,9 +178,19 @@ You always have the option to process the first tx on xDai, then wait until gas 
 
 ![](../../.gitbook/assets/confirm-transfer.png)
 
+### If the cost to claim less than the MetaMask estimate, do I still need the full amount of estimated ETH to start the claim process?
+
+Yes, you will need that much in your wallet to initiate the claim transaction. However, only the amount used for gas fees will actually be deducted from your balance. 
+
+With the example in the question above, the MetaMask estimate tx fee was 0.109 ETH/$200 worth of ETH at the time. The user needed to have that amount to start the tx, but the final cost was only 0**.**0218 ETH/$40.  It is also useful to [check the current gas price](https://www.ethgasstation.info/) and possibly adjust your gas price \(amount you are willing to pay per unit of gas\)  but **DO NOT adjust the gas limit \(the max amount of gas spent for the claim\)**.
+
 ### I completed the first transaction but decided I don't want to complete the 2nd \(claim\). Can I revert?
 
 Unfortunately not, once you have started the transfer process it is non-reversible.  The only way to complete is to claim the token on Ethereum. If too expensive, you can wait until gas fees come down. There is not a time limit to claim the transaction.
+
+### Can I claim transactions manually
+
+Yes, it is possible to use BlockScout and Etherscan to interact with the contracts and submit manually, or if you are familiar with the contract interaction through a Web3 provider, you can  importing the contract's ABI to your application. [This post details how](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb/submit-confirmations-manually).
 
 ### I'm having issues related to Bridging & HoneySwap 🐝 
 
