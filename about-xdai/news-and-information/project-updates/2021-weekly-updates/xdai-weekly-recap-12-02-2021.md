@@ -35,7 +35,7 @@ Note: You need a web3 enabled wallet like MetaMask to access, or access directly
 
 ### Component
 
-[Component](https://component.finance/) is a flexible AMM protocol now on xDai. They have created a pool with USDP/WxDAI/USDC, and the pool's liquidity providers will participate in the reward distribution in line with liquidity providers to current pools. 
+[Component](https://component.finance/) is a flexible stable coin swap protocol now on xDai. They have created a pool with USDP/WxDAI/USDC, and the pool's liquidity providers will participate in the reward distribution in line with liquidity providers to current pools. 
 
 {% embed url="https://twitter.com/componentx/status/1360224531944771586" %}
 
@@ -50,6 +50,10 @@ Note: You need a web3 enabled wallet like MetaMask to access, or access directly
 ### 🚰 xDai Faucet
 
 A [new faucet incorporated into BlockScout](https://blockscout.com/poa/xdai/faucet) allows users to easily request $0.01 xDai. This is enough for several hundred transactions, and provides new users and applications an easy way to onboard without having to acquire xDai through the bridge or an exchange. The amount can be requested by an address once every 24 hours, effectively making transactions on xDai free.
+
+{% embed url="https://twitter.com/xdaichain/status/1358819378855313419" %}
+
+
 
 ### 🥩 POSDAO Updates
 
