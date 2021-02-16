@@ -9,9 +9,9 @@ The Binance Smart Chain \(BSC\) Omnibridge allows users to move ERC20 tokens bet
 
 **Bridge Interfaces**
 
-🌉BSC [OmniBridge UI ](https://omni.xdaichain.com/)live link  
+🌉BSC [OmniBridge UI ](https://bsc-to-xdai-omnibridge.web.app/)live link  
   
-🌉BSC [Transaction Monitor](https://alm-xdai.herokuapp.com/): Use it to see updated transaction status.
+🌉BSC [Transaction Monitor](https://alm-bsc-xdai.herokuapp.com/): Use it to see updated transaction status.
 
 🌉[BSC tokens list](https://blockscout.com/poa/xdai/bridged-tokens/bsc)
 {% endhint %}
