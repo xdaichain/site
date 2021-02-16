@@ -73,7 +73,7 @@ The EasyStaking application will be deployed to the Ethereum Mainnet, and will a
 
 * Minimums may be changed with a governance proposal. Initial staking requirements:
   * Validator Candidate: 20,000 STAKE Minimum
-  * Delegator: 1,000 STAKE Minimum 
+  * Delegator: 200 STAKE Minimum 
 * STAKE reward % will vary based on role \(validator or delegator\) and amount of total STAKE locked in the protocol. The APR may be adjusted from phase 1 \(15%\). For more details, see the [reward distribution section of the POSDAO whitepaper](https://forum.poa.network/t/posdao-white-paper/2208).
 * The STAKE bridge will open bi-directionally, allowing STAKE to flow freely from the Ethereum mainnet to the xDai chain and back. 
 
