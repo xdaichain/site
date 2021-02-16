@@ -33,7 +33,7 @@ STAKE listed by HBTC. Additional listings can be found at [CoinMarketCap](https:
 
 ### ✅ BlockScout Bridged Tokens List
 
-A new BlockScout feature shows tokens bridged using the [OmniBridge extension](../../../../for-users/omnibridge.md). This can be any ERC20 token bridged by anyone to xDai. Once the token is bridged over, users can send and trade within the xDai ecosystem for extremely low fees.
+A new BlockScout feature shows tokens bridged using the [OmniBridge extension](../../../../for-users/bridges/omnibridge.md). This can be any ERC20 token bridged by anyone to xDai. Once the token is bridged over, users can send and trade within the xDai ecosystem for extremely low fees.
 
 {% embed url="https://blockscout.com/poa/xdai/bridged-tokens" %}
 

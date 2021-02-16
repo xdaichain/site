@@ -99,7 +99,7 @@ contract ConditionalPayment {
 
 * [Use Cases](./)
 * [Consensus](../../for-validators/consensus/posdao-proof-of-stake-decentralized-autonomous-organization.md)
-* [Fiat Gateway](../../for-users/buying-xdai-with-fiat/ramp-network.md)
+* [Fiat Gateway](../../for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md)
 * [Current Validators](../../for-validators/about-xdai-validators/current-xdai-validators/)
 * [Incentives](../../for-stakers/stake-token/)
 * [Block Explorer](https://blockscout.com/poa/xdai/)

@@ -15,7 +15,7 @@ Need xDai to get started and process a few transactions for free?  [Get .01 xDai
 **Ways to acquire xDai stable tokens:**
 
 * From another user on the xDai Chain.
-* Converting Dai to xDai using the [xDai Bridge](../converting-xdai-via-bridge/).
+* Converting Dai to xDai using the [xDai Bridge](../bridges/converting-xdai-via-bridge/).
 * Purchase directly on [BitMax with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).
 * Purchase directly with fiat using [Ramp.Network](https://ramp.network/buy/?swapAsset=XDAI).
 * Trading on [Honeyswap](https://honeyswap.org/) \(you will need a small amount of xDai to start trading\).

@@ -16,7 +16,7 @@ To start you will need **200 STAKE on xDai** \(video shows 1000, was previous mi
 
 1\) You will need the minimum delegator stake amount of STAKE \([currently 200 STAKE as  proposed by community governance](https://snapshot.page/#/xdaistake.eth/proposal/QmW87yvqQ64t97wj4woee1dBtX1uQSeED8pCqoW2yk5qWs)\) and a small amount of xDAI \(.1 is plenty\) deposited to your address on the xDai chain.
 
-* [Move DAI to xDai](../../for-users/converting-xdai-via-bridge/)
+* [Move DAI to xDai](../../for-users/bridges/converting-xdai-via-bridge/)
 * Get STAKE on xDai
   * Bridge from Ethereum with OmniBridge: [Move Stake from Ethereum to xDai with the OmniBridge](https://youtu.be/qbuBqur9lcE)
   * Purchase STAKE on xDai directly with [Honeyswap](https://honeyswap.org/#/swap). 1Hive also offers [easy-to-follow bridging tutorials](https://honeyswap.org/xdai-bridges).

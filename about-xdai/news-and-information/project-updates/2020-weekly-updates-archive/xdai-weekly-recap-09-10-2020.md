@@ -51,7 +51,7 @@ A proposal was approved by xDai Bridge Governors \(6 of 11 required for approval
 
 ### ✅ xDai exit increased decentralization by enabling user controlled claims on Ethereum
 
-The main goal of these changes is to provide additional decentralization and control for bridge users – users no longer need to rely on bridge oracles to relay confirmations on the xDai chain side to the Ethereum Mainnet. [The new process is detailed here](../../../../for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md).
+The main goal of these changes is to provide additional decentralization and control for bridge users – users no longer need to rely on bridge oracles to relay confirmations on the xDai chain side to the Ethereum Mainnet. [The new process is detailed here](../../../../for-users/bridges/converting-xdai-via-bridge/moving-xdai-to-dai.md).
 
 {% embed url="https://forum.poa.network/t/important-changes-in-a-user-interaction-with-the-xdai-bridge/3906" %}
 

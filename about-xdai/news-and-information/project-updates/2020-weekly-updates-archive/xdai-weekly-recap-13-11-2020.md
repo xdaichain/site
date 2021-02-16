@@ -37,7 +37,7 @@ The STAKE token is now whitelisted on Bancor v2.1. This means participants can p
 Follow our guides to:
 
 * [Create an airdrop](../../../../for-developers/developer-resources/creating-airdrops/creating-airdrops-via-linkdrop.md) using Linkdrop on xDai. 
-* [Claim a Linkdrop airdrop](../../../../for-users/getting-airdrops/getting-airdrops-via-linkdrop.md).
+* [Claim a Linkdrop airdrop](../../../../for-developers/developer-resources/getting-airdrops/getting-airdrops-via-linkdrop.md).
 
 {% embed url="https://twitter.com/LinkdropHQ/status/1326860986201083904" %}
 

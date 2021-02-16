@@ -38,7 +38,7 @@ xDai consensus uses public staking where community members can also be validator
 
 ### xDai Native Token
 
-xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card](for-users/buying-xdai-with-fiat/ramp-network.md)\) but behind the scenes it is always created from Dai, and the value of xDai corresponds 1:1 with Dai. 
+xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card](for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md)\) but behind the scenes it is always created from Dai, and the value of xDai corresponds 1:1 with Dai. 
 
 **Here's how xDai is created:**
 
@@ -69,7 +69,7 @@ STAKE is also used for voting purposes, where [community members can create and 
 * ✅[STAKE token](for-stakers/stake-token/) allows community consensus participation and incentives. 
 * ✅Wide-ranging Community Support \(see [xDai Validator Organizations](for-validators/about-xdai-validators/current-xdai-validators/)\).
 * ✅Outstanding energy efficiency.
-* ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet.md) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
+* ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet/) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md) and more.
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!

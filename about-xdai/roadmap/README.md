@@ -84,7 +84,7 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
 ## Fiat to xDai Onramp
 
 \*\*\*\*🎯 **Target:** Q4 2019  
- ✅**Status:** [Ramp integration](../../for-users/buying-xdai-with-fiat/ramp-network.md) completed 2020. Includes support for 40+ countries, additional integrations and US support will continue to be explored
+ ✅**Status:** [Ramp integration](../../for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md) completed 2020. Includes support for 40+ countries, additional integrations and US support will continue to be explored
 
 In order to offer options for users, xDai should be available for direct purchase. Prior to a fiat gateway, the primary method for users to get xDai is to get Dai first and relay it to xDai via the xDai Bridge. The process can be complicated and time-consuming due when Ethereum is congested.
 

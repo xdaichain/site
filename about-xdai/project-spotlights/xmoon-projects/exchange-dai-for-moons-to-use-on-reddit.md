@@ -9,7 +9,7 @@ The steps use the same process as the MOON -&gt; Dai conversion, though mostly i
 1\) **Grab some Dai on Ethereum.** You can get it from a CEX, a DEX,  [Uniswap](https://app.uniswap.org/#/swap), a friend or a myriad of other ways.
 
 2\) **Bridge your Dai to xDai.** Go to [https://bridge.xdaichain.com](https://bridge.xdaichain.com/%20), connect your MetaMask to the Mainnet, pay a little Eth in gas and go.  
-[_Instructions if needed_](../../../for-users/converting-xdai-via-bridge/moving-xdai-to-dai.md)_._
+[_Instructions if needed_](../../../for-users/bridges/converting-xdai-via-bridge/moving-xdai-to-dai.md)_._
 
 ![](../../../.gitbook/assets/rbridge1.jpg)
 
