@@ -9,15 +9,20 @@ description: Dai is converted to xDai through the TokenBridge
 {% hint style="success" %}
 * [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
 * Additional bridge documentation is [available here](https://docs.tokenbridge.net/xdai-bridge/about).
-* ❓ Having issues? See our [troubleshooting guide](troubleshooting.md) or [FAQs](../../../about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) for more.
 * Quick video tutorial: [https://youtu.be/oKdh2cOOqUs](https://youtu.be/oKdh2cOOqUs)
+* ❓ Having issues? See our [troubleshooting guide](troubleshooting.md) or [FAQs](../../../about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) for more.
 {% endhint %}
 
 {% hint style="info" %}
-There are currently 2 bridges on xDai with different purposes.
+There are currently multiple bridges on xDai with different purposes.
 
 1. The xDai Bridge for converting xDai to Dai. This section covers this bridge
 2.  The OmniBridge for bridging all other types of ERC20s. [Omnibridge section](../omnibridge.md).
+3. The [xDai - BSC Omnibridge](../binance-smart-chain-omnibridge/) for moving assets between these chains.
+{% endhint %}
+
+{% hint style="warning" %}
+**Note: Transfers are non-reversible**. If you initiate and complete the first request transaction, you will need to complete the 2nd claim transaction at some time to receive your tokens on chain. This can be very expensive on Ethereum Mainnet. There is no time limit to complete the 2nd transaction - you can wait for gas prices to drop and claim at any time.
 {% endhint %}
 
 ## What is the xDai Bridge

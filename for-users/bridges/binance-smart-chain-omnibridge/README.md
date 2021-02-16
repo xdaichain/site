@@ -22,6 +22,8 @@ Tokens bridged cross-chain are appended with the "on xDai" or "on BSC". There ar
 Double bridging also can result in multiple instances of the same token on a single chain. For example, USDT can be bridged to xDai from Ethereum and also bridged to xDai from BSC. This will result in 2 separate USDT token instances on xDai. These tokens cannot be merged into a single instance after they are minted. We are working on steps to address this issue in a decentralized manner without requiring prior approval to bridge. **Look for more details soon**.
 {% endhint %}
 
+![Example of Tether Bridged from ETH &amp; Tether Bridged from BSC](../../../.gitbook/assets/tether-tether.png)
+
 ### Additional Information
 
 {% embed url="https://docs.tokenbridge.net/bsc-xdai-amb/omnibridge-extension" %}
