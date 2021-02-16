@@ -81,6 +81,7 @@ A list of applications using xDai is catalogued below. For more details on speci
 
 * [HoneySwap](https://honeyswap.org/#/swap): Uniswap with HNY
 * [xMoon Exchange](https://xmoon.exchange/): A DEX for Reddit MOON liquidity \(xMoon to xDai\)
+* BaoFinance: Coming Soon
 
 ### **DAOs**
 
@@ -111,6 +112,7 @@ A list of applications using xDai is catalogued below. For more details on speci
 * [Etherisc](https://etherisc.com/): Decentralized Insurance
 * [MintGate](https://mintgate.app/): Tokenized Content Protection
 * [RealT](https://realt.co/): fractionalized real estate investing
+* [MtPerelin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management 
 
 
 
