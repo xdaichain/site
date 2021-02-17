@@ -229,7 +229,7 @@
       * [Airdrop tokens to an address set](for-developers/developer-resources/burner-wallet-factory/address-sets/airdrop-tokens-to-an-address-set.md)
       * [Distribute Paper Wallets](for-developers/developer-resources/burner-wallet-factory/address-sets/distribute-paper-wallets.md)
   * [Chainbeat Smart Contract Dashboard](for-developers/developer-resources/smart-contract-dashboard.md)
-  * [Curvegrid Smart Contract Interaction](for-developers/developer-resources/curvegrid-smart-contract-interaction.md)
+  * [Curvegrid MultiBaas Smart Contract Interaction](for-developers/developer-resources/curvegrid-smart-contract-interaction.md)
   * [Dune Analytics](for-developers/developer-resources/dune-analytics.md)
   * [TheGraph Data Indexing](for-developers/developer-resources/thegraph-data-indexing.md)
   * [Dappquery Smart Contract Analytics & Visualizations](for-developers/developer-resources/dappquery-visual-contract-analytics.md)

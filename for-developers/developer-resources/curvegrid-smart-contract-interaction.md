@@ -1,4 +1,4 @@
-# Curvegrid Smart Contract Interaction
+# Curvegrid MultiBaas Smart Contract Interaction
 
 The Curvegrid MultiBass UI provides an interface and dashboard for smart contract deployment, updates and interaction on the xDai chain.
 
