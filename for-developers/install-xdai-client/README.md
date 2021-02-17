@@ -2,7 +2,7 @@
 description: Running a full node synced to the xDai Chain
 ---
 
-# Install xDai Client
+# Install xDai Client - Run a Non-Validator Node
 
 xDai is currently supported by OpenEthereum and Nethermind clients.
 
