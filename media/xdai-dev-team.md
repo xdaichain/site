@@ -17,7 +17,7 @@ We believe in open-source development and code transparency.
 | Vadim Arasev | POSDAO, xDai Core protocol development | [https://github.com/varasev](https://github.com/varasev) |
 | Alex Kolotov | TokenBridge, Research | [https://github.com/akolotov](https://github.com/akolotov) |
 | Kirill Fedoseev | TokenBridge, Research | [https://github.com/k1rill-fedoseev](https://github.com/k1rill-fedoseev) |
-| Max Alexeenko | Application Development, xDai  | [https://github.com/maxaleks](https://github.com/maxaleks) |
+| Max Alekseenko | Application Development, xDai  | [https://github.com/maxaleks](https://github.com/maxaleks) |
 | Andrew Gross | Technical Writer | [https://github.com/andogro](https://github.com/andogro) |
 
 ## The History behind xDai 
