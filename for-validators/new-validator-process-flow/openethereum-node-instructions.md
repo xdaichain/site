@@ -82,7 +82,7 @@ $ cd validator-node-dockerized
 
 Generate an external \(0x\) address and name your JSON keystore file as `key` and save it in the `validator-node-dockerized` directory. Save the keystore password to a `password` file. 
 
-You can use a tool made by [Peppersec.com](https://peppersec.com/) [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json) 
+You can use the [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)  tool made by [Peppersec.com](https://peppersec.com/) to generate and save.
 
 Example:
 
@@ -102,8 +102,8 @@ openethereum account new --keys-path <path_to_save_json_keystore>
 ```
 
 * Use the MEW CX Google Chrome extension or MyCrypto desktop application to generate a keystore file for an existing account.
-* [MEW keystore file directions](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/)
-* [MyCrypto instructions](https://support.mycrypto.com/)
+  * [MEW keystore file directions](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/)
+  * [MyCrypto instructions](https://support.mycrypto.com/)
 
 ### 4\) Update .env File
 
