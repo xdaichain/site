@@ -12,7 +12,7 @@ See regular updates and details on the [Pre-Staking Program](../pre-staking-prog
 
 Follow the latest stats on Bitmax Twitter - [https://twitter.com/BitMax\_Official](https://twitter.com/BitMax_Official)
 
-![](../../../../.gitbook/assets/stake-staked%20%282%29.png)
+![](../../../../.gitbook/assets/stake-staked%20%282%29%20%281%29.png)
 
 ## 📰 Media
 

@@ -43,7 +43,7 @@ Version v0.4 uses a burner wallet and is in production on xDai. This allows for 
 
 Simply go to [https://zkga.me/](https://zkga.me/) to start \(note that the game is in Beta and you will need a whitelist key to participate\). At the start, a few command line prompts will get things going, and you can create a new burner wallet or use another wallet \(one without too much value, as private keys will be stored in local storage\)
 
-![](../../.gitbook/assets/df1.jpg)
+![](../../.gitbook/assets/df1%20%281%29.jpg)
 
 Additional game params will load, including your home planet
 

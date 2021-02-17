@@ -10,7 +10,7 @@ Sending & Receiving is intuitive, and is based around QR codes for mobile. You c
 
 1\) Click the Receive button.
 
-![](../../../../.gitbook/assets/bw-receive-1%20%281%29.png)
+![](../../../../.gitbook/assets/bw-receive-1%20%281%29%20%281%29.png)
 
 2\) The Sender can scan the QR, or you can copy the address and send manually. 
 

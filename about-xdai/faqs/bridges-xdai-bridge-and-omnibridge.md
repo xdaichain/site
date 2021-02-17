@@ -176,7 +176,7 @@ When confirming a transfer, you will see a note with information about a claim t
 
 You always have the option to process the first tx on xDai, then wait until gas prices are lower on Ethereum to execute the 2nd claim transaction.
 
-![](../../.gitbook/assets/confirm-transfer.png)
+![](../../.gitbook/assets/confirm-transfer%20%281%29.png)
 
 ### If the cost to claim less than the MetaMask estimate, do I still need the full amount of estimated ETH to start the claim process?
 

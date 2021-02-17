@@ -128,7 +128,7 @@ You will need some ETH in your wallet to pay gas fees and finalize the transacti
 
 ![](../../../.gitbook/assets/a10%20%281%29.jpg)
 
-![](../../../.gitbook/assets/a11%20%281%29.jpg)
+![](../../../.gitbook/assets/a11%20%282%29%20%281%29.jpg)
 
 ![](../../../.gitbook/assets/a12.jpg)
 

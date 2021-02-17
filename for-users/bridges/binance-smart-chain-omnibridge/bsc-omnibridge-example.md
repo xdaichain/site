@@ -50,7 +50,7 @@ Here we show the bridging steps to transfer STAKE on xDai to STAKE on BSC. The c
 
 5a\) If using ALM, click on the Execute Button to finalize the claim.
 
-![](../../../.gitbook/assets/alm1.png)
+![](../../../.gitbook/assets/alm1%20%281%29.png)
 
 ![](../../../.gitbook/assets/alm2.png)
 

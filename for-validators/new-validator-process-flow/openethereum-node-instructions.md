@@ -12,7 +12,7 @@ To become a new validator, you will run a node using a mining address and connec
 
 ## Validator Node Specs
 
-OpenEthereum can be supported by a variety of cloud-based providers. If you are already with a provider, we recommend launching a new, clean instance. 
+OpenEthereum can be supported by a variety of cloud-based providers. If you are already with a provider, we recommend launching a new, clean instance.
 
 ### Minimum specifications:
 
@@ -41,7 +41,7 @@ Installation instructions will vary based on OS. Follow the instructions here:
 
 Your clock should be synchronized to prevent skipping block sealing.
 
- Enter`timedatectl status` , you should see similar output:
+Enter`timedatectl status` , you should see similar output:
 
 ```bash
 Local time: Tue 2020-06-30 17:16:19 UTC
@@ -53,7 +53,7 @@ systemd-timesyncd.service active: yes
 RTC in local TZ: no
 ```
 
-If **`System clock synchronized`** displays **`yes`**   you are ready to go, proceed to step 3.
+If **`System clock synchronized`** displays **`yes`** you are ready to go, proceed to step 3.
 
 If not, you can either:
 
@@ -80,24 +80,28 @@ $ cd validator-node-dockerized
 
 ### 4\) Save Mining Address JSON Keystore file and Password
 
- Generate an external \(0x\) address and name your JSON keystore file as `key` and save it in the `validator-node-dockerized` directory. Save the keystore password to a `password` file. 
- You can use a tool made by Peppersec.com [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)
- Example:
-```
+Generate an external \(0x\) address and name your JSON keystore file as `key` and save it in the `validator-node-dockerized` directory. Save the keystore password to a `password` file. 
+
+You can use a tool made by [Peppersec.com](https://peppersec.com/) [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json) 
+
+Example:
+
+```text
 npm i eth-keygen-json -g
 Please enter the password to encrypt your new ethereum key [input is hidden]
 Address: 0xADDRESS
 Creating folder with your private key and json keystore.
 ```
 
-You can generate a key with the following OpenEthereum's CLI command:
+Alternate generation methods:
+
+* Generate a key with the following OpenEthereum's CLI command:
 
 ```text
 openethereum account new --keys-path <path_to_save_json_keystore>
 ```
 
-Alternately, you can use the MEW CX Google Chrome extension or MyCrypto desktop application to generate a keystore file for an existing account.
-
+* Use the MEW CX Google Chrome extension or MyCrypto desktop application to generate a keystore file for an existing account.
 * [MEW keystore file directions](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/)
 * [MyCrypto instructions](https://support.mycrypto.com/)
 
@@ -127,7 +131,7 @@ $ docker-compose up -d
 
 Once docker containers are created, the node will sync with the chain \(this may take a while\).
 
-To restart, cd into the  `validator-node-dockerized` directory and use `docker-compose stop` then `docker-compose start`
+To restart, cd into the `validator-node-dockerized` directory and use `docker-compose stop` then `docker-compose start`
 
 ### 6\) Check NetStats
 
@@ -136,6 +140,4 @@ Open [https://dai-netstat.poa.network](https://dai-netstat.poa.network) and chec
 ### 7\) Access Staking DApp
 
 Once the node is operational, proceed to [Becoming a Candidate instructions step 5](../../for-stakers/staking-protocol/become-a-candidate-validator.md#proceed-to-step-5-after-mining-node-is-configured-and-functional). Here you will access the staking DApp using your staking address in order to fund the mining node.
-
-
 

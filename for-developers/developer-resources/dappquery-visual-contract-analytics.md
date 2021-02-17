@@ -54,7 +54,7 @@ More details on **xDai + Dappquery**: [https://dappquery.com/integration/xdai](h
 
 Track metrics and dashboards of popular xDai Dapps on the xDai explorer: [https://dappquery.com/category/xdai](https://dappquery.com/category/xdai)
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ## **Example** Dashboards
 

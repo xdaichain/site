@@ -10,7 +10,7 @@ Projects are also using the xDai Chain to run DAO governance mechanisms like pro
 
 ### DAO Use Case: [Galt Project](https://galtproject.io/) Property Ownership DAO
 
-![](../../.gitbook/assets/aragon1.png)
+![](../../.gitbook/assets/galt1.png)
 
 The Galt Project provides land and property owners the ability to tokenize their properties as NFTs \(ERC721\) on the Ethereum mainnet. This creates an immutable record, protecting property owners and giving them the ability to buy and sell properties, secure loans, and conduct other transactions directly on the blockchain.
 

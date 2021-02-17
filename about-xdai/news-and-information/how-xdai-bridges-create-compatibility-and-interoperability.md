@@ -22,5 +22,5 @@ A separate bridge deployed on xDai, called the AMB \(Arbitrary Message Bridge\),
 
 For example, [The Galt Project ](http://galtproject.io/)uses this methodology, highlighting the compatibility and complementary nature of the xDai stable chain. This project tokenizes land and property on the Ethereum Blockchain. To enable governance among property owners, voting tokens are created based on the parameters of these land tokens. Voting tokens are then bridged to the xDai chain to enable DAO-based governance. Because many transactions may be needed to enact a single measure, on-chain governance is accomplished on xDai, while the main land token remains on the mainnet. 
 
-![Galt Project Overview](../../.gitbook/assets/galt1.png)
+![Galt Project Overview](../../.gitbook/assets/galt1%20%281%29.png)
 

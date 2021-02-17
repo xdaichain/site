@@ -12,17 +12,15 @@ We believe in open-source development and code transparency.
 
 | Name | Area of Expertise | Github |
 | :--- | :--- | :--- |
-| Igor Barinov  | Product and Operations | [https://github.com/igorbarinov](https://github.com/igorbarinov) |
+| Igor Barinov | Product and Operations | [https://github.com/igorbarinov](https://github.com/igorbarinov) |
 | Victor Baranov | BlockScout, Nifty Wallet, Core Development | [https://github.com/vbaranov](https://github.com/vbaranov) |
 | Vadim Arasev | POSDAO, xDai Core protocol development | [https://github.com/varasev](https://github.com/varasev) |
 | Alex Kolotov | TokenBridge, Research | [https://github.com/akolotov](https://github.com/akolotov) |
 | Kirill Fedoseev | TokenBridge, Research | [https://github.com/k1rill-fedoseev](https://github.com/k1rill-fedoseev) |
-| Max Alekseenko | Application Development, xDai  | [https://github.com/maxaleks](https://github.com/maxaleks) |
+| Max Alekseenko | Application Development, xDai | [https://github.com/maxaleks](https://github.com/maxaleks) |
 | Andrew Gross | Technical Writer | [https://github.com/andogro](https://github.com/andogro) |
 
-## The History behind xDai 
+## The History behind xDai
 
-{% embed url="https://forum.poa.network/t/xdai-the-birth-of-the-stable-chain/2812" %}
-
-
+{% embed url="https://forum.poa.network/t/xdai-the-birth-of-the-stable-chain/2812" caption="" %}
 

@@ -16,7 +16,7 @@ With Burner Wallet, you can easily create a QR / link which includes a specific 
 
 4\) The link can be opened by another user. This auto-populates To Address, Send Amount, and Message. Click **Send** to process \(user must have more than the requested amount of xDai in their wallet to process successfully\).
 
-![Link opened by a different user](../../../../.gitbook/assets/request-4%20%281%29.png)
+![Link opened by a different user](../../../../.gitbook/assets/request-4%20%281%29%20%281%29.png)
 
 ![5 Second Processing](../../../../.gitbook/assets/request-5.png)
 

@@ -31,7 +31,7 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 
 2\) Click the Withdraw icon next to the pool you would like to withdraw from. The icon will only appear if a withdrawal of some type is possible.
 
-![](../../../.gitbook/assets/withdraw1.png)
+![](../../../.gitbook/assets/withdraw1%20%281%29.png)
 
 3\) The maximum amount you can withdraw is shown next to Available Now _\(See below for order withdrawal instructions if you do not see Available Now\)_.  
 
@@ -52,7 +52,7 @@ Stake can be withdrawn from a pool and deposited back to your web3 wallet addres
 
 2\) Click the Withdraw icon next to the active validator pool you would like to withdraw from. The icon will only appear if a withdrawal of some type is possible.
 
-![](../../../.gitbook/assets/withdraw1%20%281%29.png)
+![](../../../.gitbook/assets/withdraw1%20%281%29%20%281%29.png)
 
 3\) Enter the amount to order. If an order is available, you will see the amount you staked and the **Amount Available after the current epoch**. You can order the entire amount to exit the pool at the end of the staking epoch, or order any amount to withdraw up to the minimum amount required to stay in the pool.
 

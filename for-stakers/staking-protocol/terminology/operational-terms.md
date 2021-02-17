@@ -104,7 +104,7 @@ Active stake cannot be immediately withdrawn by a delegator or validator from a 
 
 To order a withdrawal, click on the withdraw icon associated with the validator pool you would like to withdraw from. 
 
-![](../../../.gitbook/assets/withdraw1.png)
+![](../../../.gitbook/assets/withdraw1%20%281%29.png)
 
 The withdraw popup will appear. Enter the withdrawal order amount. If this is an active validator, the Withdraw Now button will be inactive, and the Order Withdrawal button will be active. Click the Order Withdrawal button to complete the order.
 
