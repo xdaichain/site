@@ -42,13 +42,14 @@ A list of applications using xDai is catalogued below. For more details on speci
 
 ### **Community Engagement & Events**
 
-* [POAP](https://www.poap.xyz/):  Proof of Attendance Protocol. [More on xDai integration](https://medium.com/@poap/poap-ethereum-xdai-the-experiment-continues-301e08a472ff).
+* [POAP](https://www.poap.xyz/):  Proof of Attendance Protocol \(NFTs\). [More on xDai integration](https://medium.com/@poap/poap-ethereum-xdai-the-experiment-continues-301e08a472ff).
 * [Grassroots Economics](../use-cases/community-currencies.md):  Community Currencies in Kenya
 * [Galt Project](../use-cases/dao-governance.md): DAO governance, UBI
 * [KickBack](https://medium.com/wearekickback/kickback-x-the-three-experimental-new-features-bb75e1149022): Event Management and RSVP accountability
 * [EthicHub](https://ethichub.com/): Loans for small farmers
 * [Coinosis](https://coinosis.co/): Incentivized study groups
 * [clr.fund](http://clr.fund/#/): Decentralized Quadratic Funding
+* [Chievmint](https://app.chiev.net/about): Community Achievement awards \(NFTs\)
 
 ### **Prediction Markets**
 
@@ -69,13 +70,18 @@ A list of applications using xDai is catalogued below. For more details on speci
 
 ### **NFT-based projects**
 
-* [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
 * [Shenanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
 * [Eporio](https://epor.io/): NFT Marketplace
 * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
+* [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
+* [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
+* Projects in other categories that use xDai for NFT minting include 
+  * [POAP](https://www.poap.xyz/)
+  * [Chievmint](https://app.chiev.net/about)
+  * [Reality Cards](https://realitycards.io/)
 
 ### **Exchanges**
 
