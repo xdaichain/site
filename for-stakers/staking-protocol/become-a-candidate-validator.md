@@ -5,7 +5,7 @@ Validators are responsible for securing the xDai stable chain. Validator respons
 To become a validator on the xDai stable chain, you must first become a candidate. Each staking epoch, 19 candidate pools are chosen to act as validators for that epoch. If there are 19 or fewer active candidates, then all active pools are selected. If there are more than 19, selection is based on total stake in the pool + a random number. [See this article for more info on weighting and randomness](https://forum.poa.network/t/reliable-randomness-bringing-on-chain-entropy-to-the-xdai-stable-chain/3015).
 
 {% hint style="info" %}
-If you do not want to become a validator, but are interested in placing stake on other validators, see Become a Delegator
+If you do not want to become a validator, but are interested in placing stake on other validators, see [Become a Delegator](become-a-delegator.md).
 {% endhint %}
 
 ## Instructions
@@ -23,7 +23,7 @@ If you have any questions or concerns about becoming a candidate or validator, o
 _**OpenEthereum Notes:**_ 
 
 * Use version 3.0.0 or 3.0.1 **do not use the latest version of OpenEthereum as it does not support POSDAO**!
-* You can generate a key with the following OpenEthereum's CLI command:
+* You can generate a key with the following OpenEthereum's CLI command or use the You use the [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)  tool made by [Peppersec.com](https://peppersec.com/).
 
 ```text
 openethereum account new --keys-path <path_to_save_json_keystore>
