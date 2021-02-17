@@ -81,6 +81,14 @@ $ cd validator-node-dockerized
 ### 4\) Save Mining Address JSON Keystore file and Password
 
  Generate an external \(0x\) address and name your JSON keystore file as `key` and save it in the `validator-node-dockerized` directory. Save the keystore password to a `password` file. 
+ You can use a tool made by Peppersec.com [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)
+ Example:
+```
+npm i eth-keygen-json -g
+Please enter the password to encrypt your new ethereum key [input is hidden]
+Address: 0xADDRESS
+Creating folder with your private key and json keystore.
+```
 
 You can generate a key with the following OpenEthereum's CLI command:
 
