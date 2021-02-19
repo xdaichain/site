@@ -4,7 +4,7 @@ description: 13 February -19 February 2021
 
 # ⚔️ xDai Weekly Recap - 19/02/2021
 
-img
+![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2834%29.png)
 
 ## 💡 Project Updates
 
@@ -16,7 +16,7 @@ Colony v2 is a powerful, practical and flexible DAO framework. The new user inte
 
 {% embed url="https://twitter.com/joincolony/status/1361286213601263619" %}
 
-### BAOSwap Alpha
+### Baoswap Alpha
 
 BAO Finance is readying for an early March launch. The alpha version of BAOSwap \(Uniswap fork\) went live on xDai for user testing.
 
@@ -24,7 +24,9 @@ BAO Finance is readying for an early March launch. The alpha version of BAOSwap 
 
 ### Origin Trail Staking
 
-$TRAC staking launch resulted in 60M+ Trac locked in a matter of hours! Origin trail is leveraging xDai for the launch, and the xDai ecosystem will have direct access to the OriginTrail Decentralised Knowledge Graph.
+$TRAC staking launch resulted in 70M+ Trac locked in a matter of hours! Origin trail is leveraging xDai for the launch, and the xDai ecosystem will have direct access to the OriginTrail Decentralised Knowledge Graph.
+
+![](../../../../.gitbook/assets/boarding.png)
 
 {% embed url="https://twitter.com/origin\_trail/status/1362446737462419460" %}
 
@@ -48,13 +50,23 @@ Omen Prediction Market is live on xDai, and to celebrate users Omen airdropped 5
 
 ### Mt Pelerin
 
-Mt Pelerin offers ...
+The Mt Pelerin Bridge Protocol is a free and open source platform for asset issuance, distribution and management. 
 
-### Unifty bridge
+{% embed url="https://twitter.com/mtpelerin/status/1361650053778137088‌" %}
 
-Multi-chain
+### Unifty Bridge
+
+Unifty is a Multi-chain  hub for NFT projects to create custom farms and NFT collections with just a few clicks. The new  ERC1155 bridge is live, letting users mint, build farms on xDai then seamlessly move stake and move NFTs to Ethereum
+
+{% embed url="https://twitter.com/unifty\_io/status/1360037669829500935" %}
 
 ### Nifty Chess
 
-A winning project at Eth Denver, Nifty Chess lets users save boards from chess games as NFTs. Remember games, moves and boards can be minted and shared with others. 
+A winning project at Eth Denver, Nifty Chess lets users save boards from chess games as NFTs on xDai. Games, moves and boards can be minted and shared as one-of-a-kind digital tokens.
+
+{% embed url="https://niftychess.com/" %}
+
+
+
+
 
