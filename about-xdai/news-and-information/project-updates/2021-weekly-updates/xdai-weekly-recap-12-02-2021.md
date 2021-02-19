@@ -53,8 +53,6 @@ A [new faucet incorporated into BlockScout](https://blockscout.com/poa/xdai/fauc
 
 {% embed url="https://twitter.com/xdaichain/status/1358819378855313419" %}
 
-
-
 ### 🥩 POSDAO Updates
 
 Epoch 44 has started, and there are currently _\(12/02/21 16:16 UTC\)_ **16** validator pools and **184** delegators staking a total of **526,742** STAKE. Staking on xDai continues to grow week-over-week.

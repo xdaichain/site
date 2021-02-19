@@ -185,6 +185,8 @@ Imported accounts will not repopulate win your wallet with this method, so be su
 
 {% embed url="https://metamask.zendesk.com/hc/en-us/articles/360015488891-Resetting-an-Account" %}
 
+This [troubleshooting guide from 1Hive](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215) is also helpful for instructions on resetting and dealing with other MetaMask issues.
+
 ## I'm using a Ledger to Claim tokens on an xDai to Dai Bridge Transfer
 
 To use a Ledger you need to allow contract data in order to interact with smart contracts. We assume that you have installed the [Ethereum app](https://support.ledger.com/hc/en-us/articles/115005200009-Set-up-and-use-MyEtherWallet).
