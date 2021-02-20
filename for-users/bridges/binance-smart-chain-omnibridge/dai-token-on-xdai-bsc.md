@@ -1,19 +1,21 @@
 ---
-description: Converting Dai Token on xDai to xDai / xDai to Dai Token on xDai
+description: >-
+  Converting Binance-Peg Dai Token to xDai / xDai to Binance-Peg Dai Token on
+  xDai
 ---
 
-# Dai Token on xDai \(BSC\)
+# Binance-Peg Dai Token on xDai
 
 The [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3) can be bridged to xDai using the beta BSC-xDai Omnibridge. **However, this process DOES NOT mint native xDai**. Instead, the [Dai Token on xDai](https://blockscout.com/poa/xdai/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) is bridged across networks.
 
-Using xDai tools, it only takes a few steps to convert the Binance-Peg Dai Token to xDai. The process can also be completed in the reverse direction where xDai is converted to Binance-Peg Dai. Once converted from xDai, Binance-Peg Dai can be bridged back to BSC.
+Using xDai tools, it only takes a few steps to convert Binance-Peg Dai Tto xDai. The process can also be completed in the reverse direction where xDai is converted to Binance-Peg Dai. Once converted from xDai, Binance-Peg Dai can be bridged back to BSC.
 
 This option gives users the ability to convert Dai/xDai when mainnet bridging fees are expensive.
 
 **Token Addresses:**
 
-* [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3)
-* [Dai Token on xDai](https://blockscout.com/poa/xdai/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) \(BSC\)
+* [Binance-Peg Dai Token on Binance](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3)
+* [Binance-Peg Dai Token on xDai ](https://blockscout.com/poa/xdai/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers)\(Named Dai Token on xDai\)
 
 **Tools Used:**
 
@@ -37,15 +39,15 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 
 ![](../../../.gitbook/assets/add-token%20%281%29.png)
 
-### 2\) Swap wxDai for Dai on xDai \(BSC\) token using Component.
+### 2\) Swap wxDai for Binance-Peg Dai on xDai using Component.
 
 1. Go to [https://xdai.component.finance/](https://xdai.component.finance/)
 2. Connect your Web3 Wallet \(MetaMask\) to the application and confirm you are connected to the xDai network.
-3. Press the Swap tab and select the WXDAI/DAI \[BSC\] pair.
+3. Press the Swap tab and select the **WXDAI/DAI \[BSC\]** pair.
 4. Press Swap. You will need to approve the first transaction with amount to swap or you can select unlimited.
 5. Complete this first approve transaction in Metamask.
 6. Press Swap again and confirm the second transaction to swap.
-7. Once complete, add Dai on xDai token to your MetaMask custom tokens. The address is 0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC.
+7. Once complete, add Binance-Peg Dai on xDai  to your MetaMask custom tokens. The address is [0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC](https://blockscout.com/poa/xdai/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) and in BlockScout it is called Dai Token on xDai.
 
 ![Swap Tab with WXDAI and DAI \[BSC\] selected](../../../.gitbook/assets/component.png)
 
@@ -59,9 +61,9 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 
 You can follow this tutorial to bridge with the Omnibridge at [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/). Note you will need some BNB on the Binance Smart Chain to complete the process \(pay claim fee\). If you have BNB on BEP2 you will need to swap it to BSC.
 
-## Swap DAI \(BSC\) to xDai
+## Swap Binance-Peg Dai to xDai
 
-You will follow the same process in reverse to convert Dai from BSC to xDai.
+You will follow the same process in reverse to convert Binance-Peg Dai from BSC to xDai.
 
 ### 1\) Bridge Dai from BSC to xDai.
 
@@ -71,7 +73,7 @@ You can follow this tutorial to bridge with the Omnibridge at [https://bsc-to-xd
 
 1. Go to [https://xdai.component.finance/](https://xdai.component.finance/)
 2. Connect your Web3 Wallet \(MetaMask\) to the application and select the xDai network.
-3. Press the Swap tab and select the Dai/ wxDai pair. Follow the instructions in section 2 above to approve 2 transactions and swap.
+3. Press the Swap tab and select the Dai\[BSC\]/ wxDai pair. Follow the instructions in section 2 above to approve 2 transactions and swap.
 
 ### 3\) Unwrap wxDai into xDai with Wrapeth.
 

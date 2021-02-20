@@ -139,7 +139,7 @@
   * [OmniBridge to Ethereum: ERC20 tokens](for-users/bridges/omnibridge.md)
   * [Binance Smart Chain Omnibridge](for-users/bridges/binance-smart-chain-omnibridge/README.md)
     * [BSC OmniBridge Example](for-users/bridges/binance-smart-chain-omnibridge/bsc-omnibridge-example.md)
-    * [Dai Token on xDai \(BSC\)](for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
+    * [Binance-Peg Dai Token on xDai](for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
 * [Explorers](for-users/explorers/README.md)
   * [BlockScout](for-users/explorers/blockscout.md)
   * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)
