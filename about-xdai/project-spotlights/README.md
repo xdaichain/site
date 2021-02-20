@@ -58,6 +58,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### **Governance**
 
+* [Daohaus](https://daohaus.club/): No code platform for launching magic internet communities
 * [PowerPool](https://powerpool.finance/): Pooling governance tokens
 * [Unit Protocol](https://unit.xyz/): Decentralized borrowing with multi-token collateral
 * [The Commons Stack](https://cv.commonsstack.org/#/): Conviction voting
@@ -71,6 +72,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 ### **NFT-based projects**
 
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
+* [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
 * [Shenanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
@@ -80,7 +82,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
 * Projects in other categories that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
-  * [Chievmint](https://app.chiev.net/about)
   * [Reality Cards](https://realitycards.io/)
 
 ### **Exchanges**
@@ -91,7 +92,11 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### **DAOs**
 
-* [DAOhaus](https://xdai.daohaus.club/): DAO community organization
+* [LexDAO](https://app.daohaus.club/dao/0x64/0x58234d4bf7a83693dc0815d97189ed7d188f6981/proposals): The decentralized legal engineering guild
+* [RaidGuild](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f): Slaying your web3 product demons
+* [ChievDAO](https://app.daohaus.club/dao/0x64/0xc71cf78d98dcd155559b9bf77a6b5cde44b7d881): Recognizing creators in the DAO and the wider Ethereum ecosystem
+* [The ShillShop](https://app.daohaus.club/dao/0x64/0x50d9fbebdd7fd36c0716fc1faaa9248bab6bbcc0): We Provide marketing, community, and content.
+* [Defiant Pixel Society](https://app.daohaus.club/dao/0x64/0x39b9317a1400f29d00224eca6f282ce09cc21f9b): The Defiant Pixel Society is a secret organization dedicated to creation with a focus on NFTs, DeFi, and DAOs
 * [FacebookFly](https://fbfly.xyz/): Bringing DAOs to Facebook
 * [PrinterDAO](https://aragon.1hive.org/#/printerdao/): Decentralized platform to access large scale printing
 * [Stakehaus](stakehaus.md): By and For the xDai Community
