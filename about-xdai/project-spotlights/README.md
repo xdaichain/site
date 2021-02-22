@@ -39,6 +39,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface.
 * [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
 * [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker.
+* [Component Finance](https://xdai.component.finance/): Stable Coin Swap
 * [DeFi Wizard](https://defiwizard.xyz/): DeFi Smart Contract Building Platform
 
 ### **Community Engagement & Events**
