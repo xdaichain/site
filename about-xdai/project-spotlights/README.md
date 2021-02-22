@@ -88,44 +88,46 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### **Exchanges**
 
-* [HoneySwap](https://honeyswap.org/#/swap): Uniswap with HNY
-* [xMoon Exchange](https://xmoon.exchange/): A DEX for Reddit MOON liquidity \(xMoon to xDai\)
-* BaoFinance: Coming Soon
+* [HoneySwap](https://honeyswap.org/#/swap): Uniswap with HNY.
+* [xMoon Exchange](https://xmoon.exchange/): A DEX for Reddit MOON liquidity \(xMoon to xDai\).
+* [Component Finance](https://xdai.component.finance/): Stable Coin exchange.
+* BaoFinance: Coming Soon.
 
 ### **DAOs**
 
-* [LexDAO](https://app.daohaus.club/dao/0x64/0x58234d4bf7a83693dc0815d97189ed7d188f6981/proposals): The decentralized legal engineering guild
-* [RaidGuild](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f): Slaying your web3 product demons
-* [ChievDAO](https://app.daohaus.club/dao/0x64/0xc71cf78d98dcd155559b9bf77a6b5cde44b7d881): Recognizing creators in the DAO and the wider Ethereum ecosystem
+* [LexDAO](https://app.daohaus.club/dao/0x64/0x58234d4bf7a83693dc0815d97189ed7d188f6981/proposals): The decentralized legal engineering guild.
+* [RaidGuild](https://app.daohaus.club/dao/0x64/0xfe1084bc16427e5eb7f13fc19bcd4e641f7d571f): Slaying your web3 product demons.
+* [ChievDAO](https://app.daohaus.club/dao/0x64/0xc71cf78d98dcd155559b9bf77a6b5cde44b7d881): Recognizing creators in the DAO and the wider Ethereum ecosystem.
 * [The ShillShop](https://app.daohaus.club/dao/0x64/0x50d9fbebdd7fd36c0716fc1faaa9248bab6bbcc0): We Provide marketing, community, and content.
-* [Defiant Pixel Society](https://app.daohaus.club/dao/0x64/0x39b9317a1400f29d00224eca6f282ce09cc21f9b): The Defiant Pixel Society is a secret organization dedicated to creation with a focus on NFTs, DeFi, and DAOs
-* [FacebookFly](https://fbfly.xyz/): Bringing DAOs to Facebook
-* [PrinterDAO](https://aragon.1hive.org/#/printerdao/): Decentralized platform to access large scale printing
-* [Stakehaus](stakehaus.md): By and For the xDai Community
-* [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement
+* [Defiant Pixel Society](https://app.daohaus.club/dao/0x64/0x39b9317a1400f29d00224eca6f282ce09cc21f9b): The Defiant Pixel Society is a secret organization dedicated to creation with a focus on NFTs, DeFi, and DAOs.
+* [FacebookFly](https://fbfly.xyz/): Bringing DAOs to Facebook.
+* [PrinterDAO](https://aragon.1hive.org/#/printerdao/): Decentralized platform to access large scale printing.
+* [Stakehaus](stakehaus.md): By and For the xDai Community.
+* [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement.
+* [DXdao](https://dxdao.eth.link/#/):  A sovereign collective bringing decentralization to DeFi.
 
 ### **Analytics**
 
-* [DuneAnalytics](https://www.duneanalytics.com/): Cross-chain dashboard creator
-* [Dappquery](https://dappquery.com/): Smart Contract dashboards, metrics and visualizations
+* [DuneAnalytics](https://www.duneanalytics.com/): Cross-chain dashboard creator.
+* [Dappquery](https://dappquery.com/): Smart Contract dashboards, metrics and visualizations.
 * [Tenderly](https://tenderly.co/): xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 * [Chainbeat](https://chainbeat.io/): Monitoring and analytics tools for DApp developers.
 
 ### **Games**
 
-* [Darkforest](https://zkga.me/): zkSNARK space warfare game
-* [Galleass](galleass.io.md): Decentralized resource management game
-* [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game
+* [Darkforest](https://zkga.me/): zkSNARK space warfare game.
+* [Galleass](galleass.io.md): Decentralized resource management game.
+* [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game.
 
 ### **More**
 
-* [0xMonero](https://0xmonero.com/): Privacy tokens with zk-SNARKs and 0xMixer
-* [Dollarcake](https://dollarcake.com/): Youtube crypto rewards
-* [LinkDrop](https://linkdrop.io/): Airdrops & new user onboarding
-* [Etherisc](https://etherisc.com/): Decentralized Insurance
-* [MintGate](https://mintgate.app/): Tokenized Content Protection
-* [RealT](https://realt.co/): fractionalized real estate investing
-* [MtPerelin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management
+* [0xMonero](https://0xmonero.com/): Privacy tokens with zk-SNARKs and 0xMixer.
+* [Dollarcake](https://dollarcake.com/): Youtube crypto rewards.
+* [LinkDrop](https://linkdrop.io/): Airdrops & new user onboarding.
+* [Etherisc](https://etherisc.com/): Decentralized Insurance.
+* [MintGate](https://mintgate.app/): Tokenized Content Protection.
+* [RealT](https://realt.co/): fractionalized real estate investing.
+* [MtPerelin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management.
 
 
 
