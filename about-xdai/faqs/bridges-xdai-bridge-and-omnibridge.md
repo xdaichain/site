@@ -98,6 +98,10 @@ Click on the History button to see your transactions, then click the Claim butto
 
 No, this is not possible.  When the first transaction is complete,  the requested amount of xDai is burned on the xDai chain. If you want to return the amount back to the xDai chain, you must finalize the transfer \(claim\) on Ethereum and then send back to the xDai chain via the bridge to mint xDai once again.
 
+### My transaction was successful, so why do I see "Failed" status for some bridge validators in the ALM application?
+
+Once a quorum of confirmations is reached, the transaction is executed and the remaining confirmations are not required. Successful transactions are recorded with Status "Success", and additional validator confirmations, which are not needed, are either marked as 'Failed' or 'Not required' depending on the processing order.  
+
 ## OmniBridge FAQs
 
 ### What is the OmniBridge URL?
