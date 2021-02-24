@@ -41,6 +41,12 @@ Circulating Supply = Total Supply minus balances in the following contracts:
 | 31.03.2021 ~ 13:02:59 UTC | 20% | 1 time | 800,000 |
 | 01.04.2021 - 02.03.2022 | 80% | Daily | 9,523 \(per day\) |
 
+{% hint style="info" %}
+Ecosystem funds support applications and partnerships.  For example Gnosis is a significant investor.  "As part of the partnership, we’ve invested in the xDai Ecosystem Fund to become significant holders of the STAKE Governance token, with a lock-in period of one year."  
+
+[Read More](https://blog.gnosis.pm/gnosis-protocol-and-xdai-partnership-1de0e48fb14b)
+{% endhint %}
+
 ### Minting
 
 Additional STAKE will be minted as a reward for validators and delegators of the protocol. Emission is 15% APR of total amount staked in the protocol during a staking epoch_._

@@ -100,7 +100,9 @@ No, this is not possible.  When the first transaction is complete,  the requeste
 
 ### My transaction was successful, so why do I see "Failed" status for some bridge validators in the ALM application?
 
-Once a quorum of confirmations is reached, the transaction is executed and the remaining confirmations are not required. Successful transactions are recorded with Status "Success", and additional validator confirmations, which are not needed, are either marked as 'Failed' or 'Not required' depending on the processing order.  
+Once a quorum of confirmations is reached, the transaction is executed and the remaining confirmations are not required. This saves resources, and creates an easy visual record to see which validators confirmed for any given tx. 
+
+Successful transactions are recorded with Status "Success", and additional validator confirmations, which are not needed, are either marked as 'Failed' or 'Not required' depending on the processing order. 
 
 ## OmniBridge FAQs
 
