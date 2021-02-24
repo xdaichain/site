@@ -4,11 +4,16 @@ description: 'Current xDai Consensus model: POSDAO with Authority Round Consensu
 
 # AuRa with POSDAO Consensus
 
-Consensus refers to the agreement process between nodes in a network. The nodes must agree on which transactions to include in the next block on the chain before these transactions are committed
+Consensus refers to the agreement process between nodes in a network. The nodes must agree on which transactions to include in the next block on the chain before these transactions are committed.
 
-xDai currently uses Parity's AuRa \(Authority Round\) proof-of-authority consensus model to append blocks to the xDai chain. In this model, selected validators \([selected through the POSDAO process](posdao-proof-of-stake-decentralized-autonomous-organization.md)\) take turns signing blocks. A signed block is broadcast to all validators, and if the majority agree it is valid, it is added to the chain. A new block is added every 5 seconds, regardless of whether any transactions occurred during that time. 
+There are 2 aspects to the process - the actual consensus mechanism to add transactions to blocks, and sybil protection, which prevents malicious actors. 
 
-View current xDai validators \(change network dropdown to xDai Stable Chain\): [https://validators.poa.network](https://validators.poa.network)
+xDai currently uses Parity's AuRa \(Authority Round\) proof-of-authority consensus model to append blocks to the xDai chain. In this model, selected validators \([selected through the POSDAO dPOS process](posdao-proof-of-stake-decentralized-autonomous-organization.md)\) take turns signing blocks. A signed block is broadcast to all validators, and if the majority agree it is valid, it is added to the chain. A new block is added every 5 seconds, regardless of whether any transactions occurred during that time. _Note: POSDAO offers a pluggable consensus feature, so different or additional consensus processes may be added in the future._
+
+xDai uses delegated Proof of Stake to provide sybil protection. Validators and delegators must add STAKE to the protocol. If the nodes participate as expected, they receive additional STAKE rewards. If they engage in malicious behavior \(like not revealing random numbers\) the validator is banned and their STAKE \(and delegators STAKE\) is frozen. These behavioral rewards act as incentives to promote an honest group of validators participating in consensus.   
+[Learn more in the Whitepaper](../posdao-whitepaper.md).
+
+View current xDai validator pools in the [BlockScout Staking Application](https://blockscout.com/poa/xdai/validators).
 
 ### Additional Information on AuRa:
 
