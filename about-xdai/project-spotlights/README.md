@@ -118,6 +118,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Darkforest](https://zkga.me/): zkSNARK space warfare game.
 * [Galleass](galleass.io.md): Decentralized resource management game.
 * [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game.
+* [GUStakes](https://gustakes.gg/): Stake xDai on Gods Unchained matchups.
 
 ### **More**
 
