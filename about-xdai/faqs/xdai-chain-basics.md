@@ -28,7 +28,7 @@ xDai is a stablechain located within the vast Ethereum ecosystem. xDai users are
 
 * Network ID: 100 
 * Primary RPC:  [https://xdai.poanetwork.dev/](https://xdai.poanetwork.dev/)
-* Explorer: [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai)
+* Explorer: [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet)
 * xDai Bridge: [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
 
 ## Why xDai?

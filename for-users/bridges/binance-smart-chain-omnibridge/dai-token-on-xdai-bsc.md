@@ -6,7 +6,7 @@ description: >-
 
 # Binance-Peg Dai Token on xDai
 
-The [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3) can be bridged to xDai using the beta BSC-xDai Omnibridge. **However, this process DOES NOT mint native xDai**. Instead, the [Dai Token on xDai](https://blockscout.com/poa/xdai/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) is bridged across networks.
+The [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3) can be bridged to xDai using the beta BSC-xDai Omnibridge. **However, this process DOES NOT mint native xDai**. Instead, the [Dai Token on xDai](https://blockscout.com/xdai/mainnet/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) is bridged across networks.
 
 Using xDai tools, it only takes a few steps to convert Binance-Peg Dai Tto xDai. The process can also be completed in the reverse direction where xDai is converted to Binance-Peg Dai. Once converted from xDai, Binance-Peg Dai can be bridged back to BSC.
 
@@ -15,7 +15,7 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 **Token Addresses:**
 
 * [Binance-Peg Dai Token on Binance](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3)
-* [Binance-Peg Dai Token on xDai ](https://blockscout.com/poa/xdai/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers)\(Named Dai Token on xDai\)
+* [Binance-Peg Dai Token on xDai ](https://blockscout.com/xdai/mainnet/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers)\(Named Dai Token on xDai\)
 
 **Tools Used:**
 
@@ -31,7 +31,7 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 2. set MetaMask to the xDai Chain Network
 3. Enter the amount of xDai to wrap
 4. Press Submit.
-5. Once the tx is complete, and wxDai is deposited, you can add wxDai \([0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d](https://blockscout.com/poa/xdai/address/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/transactions)\)
+5. Once the tx is complete, and wxDai is deposited, you can add wxDai \([0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d](https://blockscout.com/xdai/mainnet/address/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/transactions)\)
 
    to Custom Tokens in MetaMask. 
 
@@ -47,7 +47,7 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 4. Press Swap. You will need to approve the first transaction with amount to swap or you can select unlimited.
 5. Complete this first approve transaction in Metamask.
 6. Press Swap again and confirm the second transaction to swap.
-7. Once complete, add Binance-Peg Dai on xDai  to your MetaMask custom tokens. The address is [0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC](https://blockscout.com/poa/xdai/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) and in BlockScout it is called Dai Token on xDai.
+7. Once complete, add Binance-Peg Dai on xDai  to your MetaMask custom tokens. The address is [0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC](https://blockscout.com/xdai/mainnet/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) and in BlockScout it is called Dai Token on xDai.
 
 ![Swap Tab with WXDAI and DAI \[BSC\] selected](../../../.gitbook/assets/component.png)
 

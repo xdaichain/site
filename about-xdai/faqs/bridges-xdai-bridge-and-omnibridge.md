@@ -71,7 +71,7 @@ The process requires several steps on the xDai chain.
 3. The Block Reward contract is invoked by the xDai network validator during the last step of block verification, and account balances are updated in the Block Reward contract. 
 
 {% hint style="info" %}
-Example transaction executing a transfer: [https://blockscout.com/poa/xdai/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions](https://blockscout.com/poa/xdai/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions)  
+Example transaction executing a transfer: [https://blockscout.com/xdai/mainnet/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions](https://blockscout.com/xdai/mainnet/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions)  
   
  🔎 Transactions can be investigated in further detail using [Tenderly](https://tenderly.co/).  
   
@@ -116,7 +116,7 @@ Please see the OmniBridge documentation at [https://docs.tokenbridge.net/eth-xda
 
 ### What tokens have been bridged using OmniBridge?
 
-You can find a current list on BlockScout at [https://blockscout.com/poa/xdai/bridged-tokens](https://blockscout.com/poa/xdai/bridged-tokens)
+You can find a current list on BlockScout at [https://blockscout.com/xdai/mainnet/bridged-tokens](https://blockscout.com/xdai/mainnet/bridged-tokens)
 
 ### How do I monitor transactions?
 
@@ -134,7 +134,7 @@ No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensu
 
 This can vary by token. The default setting when a token is first bridged is 1, but this can be changed by bridge governance. To check the minimum for a particular token, query the `minPerTx` method of the omnibridge mediator contract. 
 
-1. Go to [https://blockscout.com/poa/xdai/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy](https://blockscout.com/poa/xdai/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy)
+1. Go to [https://blockscout.com/xdai/mainnet/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy](https://blockscout.com/xdai/mainnet/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy)
 2. Enter the bridged contract address into the `minPerTx` field. Convert from wei using [http://eth-converter.com/](http://eth-converter.com/)
 
 ![](../../.gitbook/assets/query1.png)

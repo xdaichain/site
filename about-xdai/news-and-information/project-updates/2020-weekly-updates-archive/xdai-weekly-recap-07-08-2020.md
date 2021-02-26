@@ -40,7 +40,7 @@ In addition to our [entry for the Reddit Bakeoff](https://challenge.xdaichain.co
 
 The BlockScout team continues to innovate and provide cutting-edge tools for their open-source explorer. The number of tokens on xDai are growing, and the tokens tab lets viewers easily find and search for tokens deployed to xDai. 
 
-{% embed url="https://blockscout.com/poa/xdai" %}
+{% embed url="https://blockscout.com/xdai/mainnet" %}
 
 ![](../../../../.gitbook/assets/blockscout%20%282%29.png)
 

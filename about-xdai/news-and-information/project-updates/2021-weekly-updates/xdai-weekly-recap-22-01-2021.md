@@ -17,7 +17,7 @@ Staking Epoch 41 started successfully with additional participation and a [new v
  Welcoming 1Hive is a newly active POSDAO validator!
 
 * Pool: 0x91d8116fa60516cf25e258ef14deaacaf7a74127
-* Mining Address: [0x35770EF700Ff88D5f650597068e3Aaf051F3D5a4](https://blockscout.com/poa/xdai/address/0x35770EF700Ff88D5f650597068e3Aaf051F3D5a4/validations)
+* Mining Address: [0x35770EF700Ff88D5f650597068e3Aaf051F3D5a4](https://blockscout.com/xdai/mainnet/address/0x35770EF700Ff88D5f650597068e3Aaf051F3D5a4/validations)
 
 ![](../../../../.gitbook/assets/1hive.png)
 

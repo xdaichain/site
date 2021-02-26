@@ -8,7 +8,7 @@ description: 09 January - 15 January 2021
 
 ## 👩🏫 POSDAO Updates
 
-[Staking Epoch 40 is now active with 14 validator pools and ~121 delegators](https://blockscout.com/poa/xdai/validators). During epoch 39 a validator pool was inactivated \(mining address[ 0xb76756f95A9fB6ff9ad3E6cb41b734c1bd805103](https://blockscout.com/poa/xdai/address/0xb76756f95A9fB6ff9ad3E6cb41b734c1bd805103/transactions)\) due to excessive downtime.
+[Staking Epoch 40 is now active with 14 validator pools and ~121 delegators](https://blockscout.com/xdai/mainnet/validators). During epoch 39 a validator pool was inactivated \(mining address[ 0xb76756f95A9fB6ff9ad3E6cb41b734c1bd805103](https://blockscout.com/xdai/mainnet/address/0xb76756f95A9fB6ff9ad3E6cb41b734c1bd805103/transactions)\) due to excessive downtime.
 
 Delegators on this pool \(which happened to have the most delegators\) received a smaller initial reward due to this downtime and associated block skips. Because staking epoch 39 was one of the first 3 staking epochs for delegators, and information on inactive pools was not readily available, staking rewards were distributed manually via Disperse, an open source built by core YFI contributor Banteg. 
 

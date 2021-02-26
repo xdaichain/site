@@ -15,7 +15,7 @@ description: zkSNARK space warfare
 
 ## Dark Forest Custom Theme/Skin for BlockScout:
 
-BlockScout block explorer for dark forest has been themed to match the game!  Stay within the universe while exploring transactions. [https://blockscout.com/poa/xdai/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions](https://blockscout.com/poa/xdai/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions)
+BlockScout block explorer for dark forest has been themed to match the game!  Stay within the universe while exploring transactions. [https://blockscout.com/xdai/mainnet/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions](https://blockscout.com/xdai/mainnet/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions)
 
 ## Dark Forest Update
 

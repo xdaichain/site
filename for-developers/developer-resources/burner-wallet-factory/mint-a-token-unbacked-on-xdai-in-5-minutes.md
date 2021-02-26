@@ -44,8 +44,8 @@ $.01 xDai is added to any new token to pay for gas fees. In addition, the GSN \(
 
 5\) Check the transaction in BlockScout.
 
-1. Address where the new tokens were minted. [0x27D6B8127e932eAbA1244bc3F3D87AEbE754abdf](https://blockscout.com/poa/xdai/address/0x27D6B8127e932eAbA1244bc3F3D87AEbE754abdf)
-2. Transaction details \(token minting\). [0xb0acda6633abb1da8992c3c00f8545c459e37a7bb4de3fd59a394f3e4c52f56e](https://blockscout.com/poa/xdai/tx/0xb0acda6633abb1da8992c3c00f8545c459e37a7bb4de3fd59a394f3e4c52f56e)
+1. Address where the new tokens were minted. [0x27D6B8127e932eAbA1244bc3F3D87AEbE754abdf](https://blockscout.com/xdai/mainnet/address/0x27D6B8127e932eAbA1244bc3F3D87AEbE754abdf)
+2. Transaction details \(token minting\). [0xb0acda6633abb1da8992c3c00f8545c459e37a7bb4de3fd59a394f3e4c52f56e](https://blockscout.com/xdai/mainnet/tx/0xb0acda6633abb1da8992c3c00f8545c459e37a7bb4de3fd59a394f3e4c52f56e)
 
 ![](../../../.gitbook/assets/bw4.png)
 

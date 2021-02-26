@@ -14,7 +14,7 @@ Then live events shut down. xDai could still be used for virtual events \(and wa
 
 1. Fast 5 second blocks.
 2. Stable inexpensive transactions.
-3. Robust open-source toolset \([BlockScout](https://blockscout.com/poa/xdai), [TokenBridge](https://docs.tokenbridge.net/), and more\).
+3. Robust open-source toolset \([BlockScout](https://blockscout.com/xdai/mainnet), [TokenBridge](https://docs.tokenbridge.net/), and more\).
 4. Interoperability, compatibility and synchronicity with Ethereum.
 5. Long-standing track record as a production blockchain.
 6. Strong developer and grassroots community.

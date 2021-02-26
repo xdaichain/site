@@ -49,7 +49,7 @@ Check balances: **$balances**
 
 7\) Withdrawal is confirmed, and funds are sent to the wallet of your choice. To check the transaction, click on the **Transaction ID** to view in BlockScout.
 
-**Example transaction:** [https://blockscout.com/poa/xdai/tx/0x358796da2c801d5f5a84396bf9da9eb012ec204b72826b516595592e00cd12fb/internal\_transactions](https://blockscout.com/poa/xdai/tx/0x358796da2c801d5f5a84396bf9da9eb012ec204b72826b516595592e00cd12fb/internal_transactions)
+**Example transaction:** [https://blockscout.com/xdai/mainnet/tx/0x358796da2c801d5f5a84396bf9da9eb012ec204b72826b516595592e00cd12fb/internal\_transactions](https://blockscout.com/xdai/mainnet/tx/0x358796da2c801d5f5a84396bf9da9eb012ec204b72826b516595592e00cd12fb/internal_transactions)
 
 ![Transaction in BlockScout](../../../.gitbook/assets/screen-shot-2019-10-15-at-9.47.36-am.png)
 

@@ -14,7 +14,7 @@ xDai is created from the stable Dai token - Dai is locked in a bridge contract a
 * Converting Dai to xDai using the [xDai Bridge](../../for-users/bridges/converting-xdai-via-bridge/).
 * Purchase directly on [BitMax with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).
 * Purchase directly with fiat using [Ramp.Network](https://ramp.network/buy/?swapAsset=XDAI).
-* Trading on [Honeyswap](https://honeyswap.org/) \(you will need a small amount of xDai to start trading you can get .01 per day from the [xDai faucet](https://blockscout.com/poa/xdai/faucet)\).
+* Trading on [Honeyswap](https://honeyswap.org/) \(you will need a small amount of xDai to start trading you can get .01 per day from the [xDai faucet](https://blockscout.com/xdai/mainnet/faucet)\).
 
 ## What makes the xDai coin a different kind of stablecoin?
 

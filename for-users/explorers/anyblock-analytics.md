@@ -4,7 +4,7 @@
 
 AnyBlock Analytics offers a simple and fast explorer for xDai, along with a robust API. It is useful for searching the most recent blocks and transactions.
 
-The explorer be accessed here: [https://explorer.anyblock.tools/ethereum/poa/xdai/](https://explorer.anyblock.tools/ethereum/poa/xdai/)
+The explorer be accessed here: [https://explorer.anyblock.tools/ethereum/xdai/mainnet/](https://explorer.anyblock.tools/ethereum/xdai/mainnet/)
 
 ### Universal \(Cross-Chain\) Explorer
 

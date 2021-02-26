@@ -15,7 +15,7 @@ description: >-
 ## ElasticSearch
 
 * Your API key is used to replace `$mytoken` in standard queries. 
-* Queries to the xDai chain use the xdai eth.events endpoint:   [https://api.eth.events/ethereum/poa/xdai/es/](https://api.eth.events/ethereum/poa/xdai/es/block/search/%20)
+* Queries to the xDai chain use the xdai eth.events endpoint:   [https://api.eth.events/ethereum/xdai/mainnet/es/](https://api.eth.events/ethereum/xdai/mainnet/es/block/search/%20)
 * Example Queries are located here: [https://www.anyblockanalytics.com/docs/elastic/example-queries/](https://www.anyblockanalytics.com/docs/elastic/example-queries/)
 * Documentation regarding ElasticSearch API calls is available here: [https://www.anyblockanalytics.com/docs/elastic](https://www.anyblockanalytics.com/docs/elastic/)
 
@@ -23,7 +23,7 @@ For example, this curl query will show us data about the last 2 blocks.
 
 ```text
 curl -X POST \
-https://api.eth.events/ethereum/poa/xdai/es/block/search/ \
+https://api.eth.events/ethereum/xdai/mainnet/es/block/search/ \
 -H 'Authorization: Bearer $mytoken' \
 -H 'Content-Type: application/json' \
 -d '{

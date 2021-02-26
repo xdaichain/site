@@ -56,7 +56,7 @@ Before you enter your credit card details, we recommend looking into [privacy.co
 
 7\) You can see the transaction record of this demo on BlockScout:
 
-> [https://blockscout.com/poa/xdai/address/0xe74b86d6a5ca0da06a4c5f1a2eb5df5abe36ab60/transactions](https://blockscout.com/poa/xdai/address/0xe74b86d6a5ca0da06a4c5f1a2eb5df5abe36ab60/transactions)
+> [https://blockscout.com/xdai/mainnet/address/0xe74b86d6a5ca0da06a4c5f1a2eb5df5abe36ab60/transactions](https://blockscout.com/xdai/mainnet/address/0xe74b86d6a5ca0da06a4c5f1a2eb5df5abe36ab60/transactions)
 
 ![BlockScout xDai purchase transaction](../../.gitbook/assets/screen-shot-2019-10-19-at-10.22.53-pm.png)
 

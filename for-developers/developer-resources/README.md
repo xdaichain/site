@@ -14,11 +14,11 @@ description: General Information and Links
 
 1\) **BlockScout** is the official blockchain explorer for the xDai Chain. With this full-featured, open-source explorer you can view transactions, accounts & balances, access data via the API, and read and verify smart contracts.
 
-👉 [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai)
+👉 [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet)
 
 2\) **AnyBlock Analytics Explorer** is convenient for exploring recent transactions and blocks and locating common information quickly**.**
 
-👉 [https://explorer.anyblock.tools/ethereum/poa/xdai/](https://explorer.anyblock.tools/ethereum/poa/xdai/)
+👉 [https://explorer.anyblock.tools/ethereum/xdai/mainnet/](https://explorer.anyblock.tools/ethereum/xdai/mainnet/)
 
 ## JSON RPC endpoints
 
@@ -96,7 +96,7 @@ See the dropdown menu for tutorials related to some of these tools.
 * [CurveGrid MultiBaas](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring with API and SDK tools.
-* [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout](%20https://blockscout.com/poa/xdai).
+* [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout](%20https://blockscout.com/xdai/mainnet).
 * [Remix IDE](https://remix-project.org/):  It's easy to deploy to xDai with Remix, simply choose injected web3 and add the [xDai custom RPC to your metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup).
 * [OpenZeppelin Defender: ](https://defender.openzeppelin.com/)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) Multisig.
 
@@ -111,7 +111,7 @@ See the dropdown menu for tutorials related to some of these tools.
 
 **xDai Faucet**
 
-* [https://blockscout.com/poa/xdai/faucet](https://blockscout.com/poa/xdai/faucet) An xDai faucet to quickly get .01 xDai and start using the chain right away! 
+* [https://blockscout.com/xdai/mainnet/faucet](https://blockscout.com/xdai/mainnet/faucet) An xDai faucet to quickly get .01 xDai and start using the chain right away! 
 
 **Test Token Faucets**
 

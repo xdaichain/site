@@ -54,7 +54,7 @@ Before you enter your credit card details, we recommend looking into [privacy.co
 
 ![Direct Fiat to xDai onramp using Carbon widget. No Dai required.](../../.gitbook/assets/screen-shot-2019-10-07-at-6.40.05-pm.png)
 
-Here is the transaction from the instruction on BlockScout, the xDai blockchain explorer. Check out how fast and efficient it was to settle the transaction. [https://blockscout.com/poa/xdai/tx/0x52b634a2a7914eb59f835479e31a16030887187161ea5edb94e2441813af33a4/internal\_transactions](https://blockscout.com/poa/xdai/tx/0x52b634a2a7914eb59f835479e31a16030887187161ea5edb94e2441813af33a4/internal_transactions)
+Here is the transaction from the instruction on BlockScout, the xDai blockchain explorer. Check out how fast and efficient it was to settle the transaction. [https://blockscout.com/xdai/mainnet/tx/0x52b634a2a7914eb59f835479e31a16030887187161ea5edb94e2441813af33a4/internal\_transactions](https://blockscout.com/xdai/mainnet/tx/0x52b634a2a7914eb59f835479e31a16030887187161ea5edb94e2441813af33a4/internal_transactions)
 
 ![Transaction Details page on BlockScout ](../../.gitbook/assets/screen-shot-2019-10-07-at-6.43.59-pm.png)
 

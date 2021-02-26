@@ -20,9 +20,9 @@ More Info: [https://medium.com/@austin\_48503/nifty-ink-%EF%B8%8F-alpha-release-
 
 Media: [https://decrypt.co/40139/out-of-gas-project-lowers-costs-ethereum-blockchain-artists](https://decrypt.co/40139/out-of-gas-project-lowers-costs-ethereum-blockchain-artists)
 
-Nifty.Ink Contract: [https://blockscout.com/poa/xdai/address/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/transactions](https://blockscout.com/poa/xdai/address/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/transactions)
+Nifty.Ink Contract: [https://blockscout.com/xdai/mainnet/address/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/transactions](https://blockscout.com/xdai/mainnet/address/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/transactions)
 
-Token Transfers \(view NFTs in BlockScout\): [https://blockscout.com/poa/xdai/tokens/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/token-transfers](https://blockscout.com/poa/xdai/tokens/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/token-transfers)
+Token Transfers \(view NFTs in BlockScout\): [https://blockscout.com/xdai/mainnet/tokens/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/token-transfers](https://blockscout.com/xdai/mainnet/tokens/0xCF964c89f509a8c0Ac36391c5460dF94B91daba5/token-transfers)
 
 ![](../../.gitbook/assets/nifty1%20%283%29.png)
 

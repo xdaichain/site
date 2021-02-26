@@ -49,7 +49,7 @@ Note: You need a web3 enabled wallet like MetaMask to access, or access directly
 
 ### 🚰 xDai Faucet
 
-A [new faucet incorporated into BlockScout](https://blockscout.com/poa/xdai/faucet) allows users to easily request $0.01 xDai. This is enough for several hundred transactions, and provides new users and applications an easy way to onboard without having to acquire xDai through the bridge or an exchange. The amount can be requested by an address once every 24 hours, effectively making transactions on xDai free.
+A [new faucet incorporated into BlockScout](https://blockscout.com/xdai/mainnet/faucet) allows users to easily request $0.01 xDai. This is enough for several hundred transactions, and provides new users and applications an easy way to onboard without having to acquire xDai through the bridge or an exchange. The amount can be requested by an address once every 24 hours, effectively making transactions on xDai free.
 
 {% embed url="https://twitter.com/xdaichain/status/1358819378855313419" %}
 

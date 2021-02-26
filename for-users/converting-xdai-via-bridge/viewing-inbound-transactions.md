@@ -6,7 +6,7 @@ When Dai is transferred from Ethereum to xDai on the xDai chain, the amount of D
 
 ![Copy Address - you can be connected to Ethereum or xDai, it is the same address on both chains.](../../.gitbook/assets/tut22.jpg)
 
-2\) Paste the address into BlockScout at [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai/).
+2\) Paste the address into BlockScout at [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet/).
 
 ![](../../.gitbook/assets/tut2.jpg)
 

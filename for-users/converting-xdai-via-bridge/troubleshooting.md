@@ -172,7 +172,7 @@ Otherwise, it will likely be in a pending state until the congestion breaks up. 
 
 ## Transaction Not Showing on BlockScout or Etherscan - Resetting MetaMask.
 
-If you initiated a transaction but don't see a pending transaction the Block Explorer \(in either direction, if originating from xDai check [BlockScout](https://blockscout.com/poa/xdai), if Ethereum check [Etherscan](https://etherscan.io/)\) try resetting your MetaMask account to clear your transaction history.
+If you initiated a transaction but don't see a pending transaction the Block Explorer \(in either direction, if originating from xDai check [BlockScout](https://blockscout.com/xdai/mainnet), if Ethereum check [Etherscan](https://etherscan.io/)\) try resetting your MetaMask account to clear your transaction history.
 
 This can be useful to clear up:
 
