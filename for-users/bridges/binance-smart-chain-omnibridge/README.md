@@ -13,7 +13,7 @@ The **Binance Smart Chain \(BSC\) Omnibridge** allows users to move ERC20 tokens
   
 🌉BSC [Transaction Monitor](https://alm-bsc-xdai.herokuapp.com/): Use it to see updated transaction status.
 
-🌉[BSC tokens list](https://blockscout.com/poa/xdai/bridged-tokens/bsc)
+🌉[BSC tokens list](https://blockscout.com/xdai/mainnet/bridged-tokens/bsc)
 {% endhint %}
 
 {% hint style="warning" %}
@@ -23,8 +23,8 @@ Double bridging also can result in multiple instances of the same token on a sin
 
 [**Component.Finance**](https://xdai.component.finance/) is an available tool to swap between stable tokens. This can be used to convert:
 
-* [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3) / [wxDai](https://blockscout.com/poa/xdai/tokens/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers)
-* [Binance-Peg USDC Token](https://blockscout.com/poa/xdai/tokens/0xD10Cc63531a514BBa7789682E487Add1f15A51E2/token-transfers) / [USDC on xDai](https://blockscout.com/poa/xdai/tokens/0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83/token-transfers). 
+* [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3) / [wxDai](https://blockscout.com/xdai/mainnet/tokens/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/token-transfers)
+* [Binance-Peg USDC Token](https://blockscout.com/xdai/mainnet/tokens/0xD10Cc63531a514BBa7789682E487Add1f15A51E2/token-transfers) / [USDC on xDai](https://blockscout.com/xdai/mainnet/tokens/0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83/token-transfers). 
 
 💡 [More info on this process is available here](dai-token-on-xdai-bsc.md). 
 {% endhint %}
@@ -32,8 +32,8 @@ Double bridging also can result in multiple instances of the same token on a sin
 {% hint style="info" %}
 You can view different instances in BlockScout - tokens are labeled with the ETH or BSC label depending on where they were bridged from.
 
-* [Tokens bridged from Ethereum](https://blockscout.com/poa/xdai/bridged-tokens/eth)
-* [Tokens bridged from BSC](https://blockscout.com/poa/xdai/bridged-tokens/bsc)
+* [Tokens bridged from Ethereum](https://blockscout.com/xdai/mainnet/bridged-tokens/eth)
+* [Tokens bridged from BSC](https://blockscout.com/xdai/mainnet/bridged-tokens/bsc)
 {% endhint %}
 
 ### Additional Information

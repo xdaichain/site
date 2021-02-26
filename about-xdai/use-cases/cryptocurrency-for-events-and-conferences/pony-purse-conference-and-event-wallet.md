@@ -96,7 +96,7 @@ Since many conference attendees were new to cryptocurrency, the wallet designers
 
 ![Pony Purse features a straightforward user menu](../../../.gitbook/assets/simple-menu.png)
 
-Users looking to learn more about the wallet could visit the **Advanced screen,** which provides details on smart contracts as well as updated xDai block counts, gas \(xDai\) balance, and links to [BlockScout Explorer](https://blockscout.com/poa/xdai/). 
+Users looking to learn more about the wallet could visit the **Advanced screen,** which provides details on smart contracts as well as updated xDai block counts, gas \(xDai\) balance, and links to [BlockScout Explorer](https://blockscout.com/xdai/mainnet/). 
 
 ![](../../../.gitbook/assets/advanced-menu.png)
 

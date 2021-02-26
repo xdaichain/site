@@ -101,7 +101,7 @@ _Note: Comparison conducted 14 August 2020_
 | Compatibility with Ethereum | 100% | Incomplete \(no smart contract support, NFT support etc\) |
 | Staking Token | STAKE | OMG \(when launched\) |
 | Transactional Token | xDai stable coin | OMG volatile coin |
-| Explorer | [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai) | [https://blockexplorer.mainnet.v1.omg.network/](https://blockexplorer.mainnet.v1.omg.network/) |
+| Explorer | [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet) | [https://blockexplorer.mainnet.v1.omg.network/](https://blockexplorer.mainnet.v1.omg.network/) |
 | Chain Structure | EVM sidechain: 100% Ethereum patchset | Child chain with More Viable Plasma |
 | Blocks | 5 second blocks, 70 TPS \(reported\) | Batched blocks, 1000+ TPS \(reported\) |
 | Asset withdrawal / Interoperability | TokenBridge BiDirectional transfers | Exit games / Fraud Proofs |

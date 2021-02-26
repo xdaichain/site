@@ -56,19 +56,19 @@ A user can then claim a link. **Claiming a link uses meta transactions**. Here w
 
 Below is an example claim meta transaction where you can follow the details on encoded messages, logs, internal transactions, and a raw trace of the transaction.
 
-{% embed url="https://blockscout.com/poa/xdai/tx/0xaa0ad5d6ed4ce7a5f606b631f0f0a50405db66669327bdd0d4c31db39d3f74e4/internal-transactions" %}
+{% embed url="https://blockscout.com/xdai/mainnet/tx/0xaa0ad5d6ed4ce7a5f606b631f0f0a50405db66669327bdd0d4c31db39d3f74e4/internal-transactions" %}
 
 ## Implementation details
 
 In our updated implementation, we use an OpenZeppelin Relayer as well as the OpenZeppelin Relay Hub deployed to the xDai network. The Links recipient contract was created to enable link claiming. A prior implementation using version 0.3 was not functional with the new version of Gas Station Network, so we updated this version to work with GSN v1.
 
-* Links Recipient Contract  [0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f](https://blockscout.com/poa/xdai/address/0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f/read_contract)
-* On-chain Relayer Address \(intermediary between off-chain relayer and relay hub\) [0xc94A34a3f388be34AcaF158FD84331240DAb39a](https://blockscout.com/poa/xdai/address/0xc94a34a3f388be34acaf158fd84331240dab39af)
-* Relay Hub. This address is the same on all chains where it is deployed. [0xD216153c06E857cD7f72665E0aF1d7D82172F494](https://blockscout.com/poa/xdai/address/0xD216153c06E857cD7f72665E0aF1d7D82172F494/read_contract) 
+* Links Recipient Contract  [0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f](https://blockscout.com/xdai/mainnet/address/0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f/read_contract)
+* On-chain Relayer Address \(intermediary between off-chain relayer and relay hub\) [0xc94A34a3f388be34AcaF158FD84331240DAb39a](https://blockscout.com/xdai/mainnet/address/0xc94a34a3f388be34acaf158fd84331240dab39af)
+* Relay Hub. This address is the same on all chains where it is deployed. [0xD216153c06E857cD7f72665E0aF1d7D82172F494](https://blockscout.com/xdai/mainnet/address/0xD216153c06E857cD7f72665E0aF1d7D82172F494/read_contract) 
 * Pull request where changes were implemented to update contracts to GSNv1: [https://github.com/austintgriffith/burner-wallet/pull/255/files](https://github.com/austintgriffith/burner-wallet/pull/255/files)
 
 _Note: A registration script runs twice daily from the on-chain relayer and calls the `registerRelay` method on the `RelayHub` Contract. This maintains relayer registration on the relay hub.   
-Example transaction:_ [_https://blockscout.com/poa/xdai/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b/internal\_transactions_](https://blockscout.com/poa/xdai/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b/internal_transactions)\_\_
+Example transaction:_ [_https://blockscout.com/xdai/mainnet/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b/internal\_transactions_](https://blockscout.com/xdai/mainnet/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b/internal_transactions)\_\_
 
 ## Running a GSN Relay Server
 

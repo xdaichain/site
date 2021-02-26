@@ -9,7 +9,7 @@ description: >-
 xDai tokens are used to pay for gas and transactions on the xDai chain. They are a stable token \(worth ~ 1 USD\) created from locked Dai. 
 
 {% hint style="success" %}
-Need xDai to get started and process a few transactions for free?  [Get .01 xDai with the BlockScout Faucet](https://blockscout.com/poa/xdai/faucet).
+Need xDai to get started and process a few transactions for free?  [Get .01 xDai with the BlockScout Faucet](https://blockscout.com/xdai/mainnet/faucet).
 {% endhint %}
 
 **Ways to acquire xDai stable tokens:**

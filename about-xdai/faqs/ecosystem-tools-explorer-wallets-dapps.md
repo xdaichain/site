@@ -4,9 +4,9 @@
 
 BlockScout is a full-featured, open-source explorer that supports xDai. It lets you explore all transactional aspects on chain.
 
-* BlockScout access: [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai)
+* BlockScout access: [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet)
 * BlockScout docs: [https://docs.blockscout.com/](https://docs.blockscout.com/)
-* A second explorer is supported by AnyBlock Analytics and available at [https://explorer.anyblock.tools/ethereum/poa/xdai/](https://explorer.anyblock.tools/ethereum/poa/xdai/)
+* A second explorer is supported by AnyBlock Analytics and available at [https://explorer.anyblock.tools/ethereum/xdai/mainnet/](https://explorer.anyblock.tools/ethereum/xdai/mainnet/)
 
 ## **What wallets are available to use with xDai?**
 

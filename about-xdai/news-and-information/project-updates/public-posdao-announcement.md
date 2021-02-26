@@ -25,7 +25,7 @@ The STAKE token is used to protect the protocol and also for governance through 
 ## Resources:
 
 * [Staking Tutorials](../../../for-stakers/staking-protocol/)
-* [BlockScout Staking Application](https://blockscout.com/poa/xdai/validators)
+* [BlockScout Staking Application](https://blockscout.com/xdai/mainnet/validators)
 * [Snapshot Governance](https://snapshot.page/#/xdaistake.eth)
 * [POSDAO WhitePaper](../../../for-validators/posdao-whitepaper.md)
 * [xDai Roadmap](../../roadmap/) 

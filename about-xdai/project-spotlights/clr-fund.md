@@ -46,9 +46,9 @@ clr.fund aims to be that protocol.
 
 We're a few days into our first real-money test round. You can check out the contracts on xDai here.
 
-The address for this round is: [0xCF0228760A6da7C77677588314B3f87966cd76D8](https://blockscout.com/poa/xdai/address/0xCF0228760A6da7C77677588314B3f87966cd76D8/transactions)
+The address for this round is: [0xCF0228760A6da7C77677588314B3f87966cd76D8](https://blockscout.com/xdai/mainnet/address/0xCF0228760A6da7C77677588314B3f87966cd76D8/transactions)
 
-The address for the matching pool is: [0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61](https://blockscout.com/poa/xdai/address/0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61/transactions)
+The address for the matching pool is: [0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61](https://blockscout.com/xdai/mainnet/address/0x7C2b7832363b6d0Bd0AEF764aA09b66F4da06D61/transactions)
 
 ![Find the UI at clr.fund or clrfund.eth](../../.gitbook/assets/clr.png)
 

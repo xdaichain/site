@@ -23,7 +23,7 @@ The Distribution Contract is called with the corresponding number value below \(
     <tr>
       <td style="text-align:left"><b>STAKE Token on xDai</b>
       </td>
-      <td style="text-align:left"><a href="https://blockscout.com/poa/xdai/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions">0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e</a>
+      <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions">0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e</a>
       </td>
     </tr>
     <tr>

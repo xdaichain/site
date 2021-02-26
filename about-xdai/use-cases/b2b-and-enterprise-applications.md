@@ -32,7 +32,7 @@ TL;DR the main differences are
 
 ### Statistics & Chain Properties
 
-[Blockscout](https://blockscout.com/) is the well known block explorer for POA and related chains like xDai. It is similar to etherscan.io for Ethereum and computes different statistics for xDai and the Sokol Testnet: [https://blockscout.com/poa/xdai/](https://blockscout.com/poa/xdai/)
+[Blockscout](https://blockscout.com/) is the well known block explorer for POA and related chains like xDai. It is similar to etherscan.io for Ethereum and computes different statistics for xDai and the Sokol Testnet: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/)
 
 | Attribute | Ethereum Mainnet | xDai Stable Chain |
 | :--- | :--- | :--- |
@@ -102,7 +102,7 @@ contract ConditionalPayment {
 * [Fiat Gateway](../../for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md)
 * [Current Validators](../../for-validators/about-xdai-validators/current-xdai-validators/)
 * [Incentives](../../for-stakers/stake-token/)
-* [Block Explorer](https://blockscout.com/poa/xdai/)
+* [Block Explorer](https://blockscout.com/xdai/mainnet/)
 * [Wallets](../../for-users/wallets/)
 * [FAQs](../faqs/)
 

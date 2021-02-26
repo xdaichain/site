@@ -52,7 +52,7 @@ truffle migrate --network xdai
 
 ## Remix Tutorial
 
-This tutorial uses Nifty Wallet or MetaMask and Remix to deploy to POA Sokol. To change the deployment chain, simply select \(or configure with MetaMask\) the xDai chain. To view your transactions on xDai, use [BlockScout for xDai](https://blockscout.com/poa/xdai).
+This tutorial uses Nifty Wallet or MetaMask and Remix to deploy to POA Sokol. To change the deployment chain, simply select \(or configure with MetaMask\) the xDai chain. To view your transactions on xDai, use [BlockScout for xDai](https://blockscout.com/xdai/mainnet).
 
 👩💻 [Remix Tutorial](https://forum.poa.network/t/tutorial-deploying-your-dapp-to-poa-network/1804)
 
