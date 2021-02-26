@@ -20,7 +20,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
     * [xDai Gnosis Safe Implementation](https://xdai.gnosis-safe.io/app/#/welcome)
   * [Conditional tokens framework](http://docs.gnosis.io/conditionaltokens), built on by prediction markets [Omen](https://omen.eth.link/) and Polymarket. 
 * [Chainlink](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/): Native Oracle Integration 
-* [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet
+* [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet 
+* [Ramp Network](https://ramp.network/): xDai Fiat Gateway. [More info here](../../for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md).
 
 ### **Infrastructure & DeFi**
 
