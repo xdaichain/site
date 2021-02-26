@@ -3,16 +3,16 @@
 ## On Ethereum Mainnet
 
 {% hint style="info" %}
-If using a hardware wallet to store your tokens \(Ledger, Trezor\) you can connect it to MetaMask rather than importing your account.  Connecting MetaMask instructions: [https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
+If using a hardware wallet to store your tokens \(Ledger, Trezor\) you can connect it to MetaMask rather than importing your account. Connecting MetaMask instructions: [https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet](https://metamask.zendesk.com/hc/en-us/articles/360020394612-How-to-connect-a-Trezor-or-Ledger-Hardware-Wallet)
 {% endhint %}
 
 1\) Add the STAKE token to your wallet
 
-a\) Click on the top left Menu 三  then press **Add token**
+a\) Click on the top left Menu 三 then press **Add token**
 
 ![](../../../.gitbook/assets/mm1%20%281%29.png)
 
-b\) Use the Search Function to find STAKE. If this doesn't work for some reason, use the **Custom Token** item and enter in the STAKE Token address. The remaining details will autopopulate. Click **Next**.  
+b\) Use the Search Function to find STAKE. If this doesn't work for some reason, use the **Custom Token** item and enter in the STAKE Token address. The remaining details will autopopulate. Click **Next**.
 
 * STAKE Token Address on Ethereum: [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
 

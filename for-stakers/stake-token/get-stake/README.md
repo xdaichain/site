@@ -57,7 +57,3 @@ Use [Honeyswap](../../../about-xdai/project-spotlights/honeyswap.md) to acquire 
 {% endtab %}
 {% endtabs %}
 
-### 
-
-### 
-

@@ -22,7 +22,7 @@ description: General Information and Links
 
 ## JSON RPC endpoints
 
-Main RPC is a load balancer with 4 nodes, health checks, and failover. 
+Main RPC is a load balancer with 4 nodes, health checks, and failover.
 
 <table>
   <thead>
@@ -67,7 +67,7 @@ Additional resources to connect to xDai network
 
 ## TokenBridge
 
-There are two bridge implementations connecting xDai and the Ethereum Mainnet. 
+There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 
 \*\*\*\*[**xDai Bridge**](https://docs.tokenbridge.net/xdai-bridge/about): ERC20-to-Native TokenBridge implementation, used for transferring Dai &lt;-&gt; xDai between Ethereum and the xDai chain.
 
@@ -79,7 +79,7 @@ There are two bridge implementations connecting xDai and the Ethereum Mainnet.
   * Interaction using method calls for smart contracts[ ](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)[https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui](https://docs.tokenbridge.net/xdai-bridge/how-to-use-xdai-bridge-without-ui)
 * Bridge UI is built-in into AlphaWallet, BurnerWallet, BurnerFactory and other applications.
 
-#### OmniBridge Access 
+#### OmniBridge Access
 
 * [OmniBridge UI](https://xdai-omnibridge.web.app/). More information [including method calls here.](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
 
@@ -96,7 +96,7 @@ See the dropdown menu for tutorials related to some of these tools.
 * [CurveGrid MultiBaas](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring with API and SDK tools.
-* [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout](%20https://blockscout.com/xdai/mainnet).
+* [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout](https://github.com/xdaichain/site/tree/79d38a816d4feece3a4ec12a3d28b5f9c994593c/xdai/mainnet/README.md).
 * [Remix IDE](https://remix-project.org/):  It's easy to deploy to xDai with Remix, simply choose injected web3 and add the [xDai custom RPC to your metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup).
 * [OpenZeppelin Defender: ](https://defender.openzeppelin.com/)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) Multisig.
 
@@ -107,7 +107,7 @@ See the dropdown menu for tutorials related to some of these tools.
 * [Chainbeat](https://chainbeat.io/) provides monitoring and analytics tools for DApp developers.
 * [Dappquery](https://dappquery.com/) analytics dashboard, customizable visualizations, smart contract alerts and scalable GraphQL API.
 
-###  **Token Faucets**
+### **Token Faucets**
 
 **xDai Faucet**
 

@@ -6,17 +6,17 @@ description: Using Meta Transaction to enable new Burner Wallet users
 
 ## Meta transactions for new user onboarding
 
-Meta transactions are an important method for onboarding new users. A user without crypto of any kind \(no Eth, no Dai, no xDai\) can still sign a message and interact with the blockchain without paying transaction fees. These costs are paid instead through an off-chain relayer and relay hub which interacts with a proxy \(recipient\) contract on the user’s behalf.  
+Meta transactions are an important method for onboarding new users. A user without crypto of any kind \(no Eth, no Dai, no xDai\) can still sign a message and interact with the blockchain without paying transaction fees. These costs are paid instead through an off-chain relayer and relay hub which interacts with a proxy \(recipient\) contract on the user’s behalf.
 
-In the [Burner Wallet \(BW\)](../../for-users/wallets/burner-wallet/) application, a browser-based instant wallet created by [Austin Griffith](https://twitter.com/austingriffith), a user receives a new wallet simply by visiting [xdai.org](https://www.xdai.org).  However, this newly created wallet does not contain any funds, so a new user must figure out how to get xDai. If they don’t have a friend to send it to them, this means they need to somehow get Dai, or get Eth and convert it to Dai - then bridge the Dai to xDai.  While none of these processes is extremely difficult, they are a lot to ask of someone who has never used crypto.
+In the [Burner Wallet \(BW\)](../../for-users/wallets/burner-wallet/) application, a browser-based instant wallet created by [Austin Griffith](https://twitter.com/austingriffith), a user receives a new wallet simply by visiting [xdai.org](https://www.xdai.org). However, this newly created wallet does not contain any funds, so a new user must figure out how to get xDai. If they don’t have a friend to send it to them, this means they need to somehow get Dai, or get Eth and convert it to Dai - then bridge the Dai to xDai. While none of these processes is extremely difficult, they are a lot to ask of someone who has never used crypto.
 
 This is where the link functionality and meta transactions come in.
 
-The link functionality is a process where a current BW user creates a link \(or many links\) which contain an amount of xDai. This link can be sent to anyone, and when the user clicks the link, a new wallet opens up and automatically claims the amount of xDai. Since the new wallet is created with a 0 balance, the transaction costs for claiming funds are paid using meta transactions. 
+The link functionality is a process where a current BW user creates a link \(or many links\) which contain an amount of xDai. This link can be sent to anyone, and when the user clicks the link, a new wallet opens up and automatically claims the amount of xDai. Since the new wallet is created with a 0 balance, the transaction costs for claiming funds are paid using meta transactions.
 
-##  Meta Transaction Components
+## Meta Transaction Components
 
-Meta transactions can be accomplished in different ways. In this example we use components from [OpenZeppelin's Gas Station Network](https://docs.opengsn.org/). Generally speaking, this process requires a User/Dapp to sign a message, Relayers, a Relay Hub, and a Recipient Contract. 
+Meta transactions can be accomplished in different ways. In this example we use components from [OpenZeppelin's Gas Station Network](https://docs.opengsn.org/). Generally speaking, this process requires a User/Dapp to sign a message, Relayers, a Relay Hub, and a Recipient Contract.
 
 ![](../../.gitbook/assets/presentation1.png)
 
@@ -56,7 +56,7 @@ A user can then claim a link. **Claiming a link uses meta transactions**. Here w
 
 Below is an example claim meta transaction where you can follow the details on encoded messages, logs, internal transactions, and a raw trace of the transaction.
 
-{% embed url="https://blockscout.com/xdai/mainnet/tx/0xaa0ad5d6ed4ce7a5f606b631f0f0a50405db66669327bdd0d4c31db39d3f74e4/internal-transactions" %}
+{% embed url="https://blockscout.com/xdai/mainnet/tx/0xaa0ad5d6ed4ce7a5f606b631f0f0a50405db66669327bdd0d4c31db39d3f74e4/internal-transactions" caption="" %}
 
 ## Implementation details
 
@@ -67,7 +67,7 @@ In our updated implementation, we use an OpenZeppelin Relayer as well as the Ope
 * Relay Hub. This address is the same on all chains where it is deployed. [0xD216153c06E857cD7f72665E0aF1d7D82172F494](https://blockscout.com/xdai/mainnet/address/0xD216153c06E857cD7f72665E0aF1d7D82172F494/read_contract) 
 * Pull request where changes were implemented to update contracts to GSNv1: [https://github.com/austintgriffith/burner-wallet/pull/255/files](https://github.com/austintgriffith/burner-wallet/pull/255/files)
 
-_Note: A registration script runs twice daily from the on-chain relayer and calls the `registerRelay` method on the `RelayHub` Contract. This maintains relayer registration on the relay hub.   
+_Note: A registration script runs twice daily from the on-chain relayer and calls the `registerRelay` method on the `RelayHub` Contract. This maintains relayer registration on the relay hub.  
 Example transaction:_ [_https://blockscout.com/xdai/mainnet/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b/internal\_transactions_](https://blockscout.com/xdai/mainnet/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b/internal_transactions)\_\_
 
 ## Running a GSN Relay Server

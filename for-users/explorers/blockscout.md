@@ -10,5 +10,3 @@ With BlockScout you can:
 
 ![](../../.gitbook/assets/blockscout%20%281%29.png)
 
-
-

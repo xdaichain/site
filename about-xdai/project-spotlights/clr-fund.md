@@ -4,7 +4,7 @@ description: Decentralized public goods funding
 
 # CLR Fund
 
-[clr.fund](http://clr.fund/) is a protocol for efficiently allocating funds to public goods. Funding is designed to benefit the Ethereum Network based on community preferences. 
+[clr.fund](http://clr.fund/) is a protocol for efficiently allocating funds to public goods. Funding is designed to benefit the Ethereum Network based on community preferences.
 
 Their first matching round is now live on xDai! This launch is a primary test of the contracts with a whitelisting feature. Future iterations will include [brightID ](https://www.brightid.org/)and [Kleros](https://kleros.io/) integrations.
 
@@ -16,7 +16,7 @@ Their first matching round is now live on xDai! This launch is a primary test of
 * [Constitution](https://github.com/clrfund/constitution)
 {% endhint %}
 
-We asked [Auryn Macmillan](https://twitter.com/auryn_macmillan), a primary project contributor, a few questions about the clr.fund. 
+We asked [Auryn Macmillan](https://twitter.com/auryn_macmillan), a primary project contributor, a few questions about the clr.fund.
 
 ## **Tell us about the clr.fund team.**
 
@@ -32,7 +32,7 @@ We're grant funded by [Moloch](https://www.molochdao.com/) and [Gitcoin grants](
 
 clr.fund was created to help fund Ethereum's public goods.
 
-## **What problems does clr.fund address, and why is it needed?** 
+## **What problems does clr.fund address, and why is it needed?**
 
 clr.fund was born of a realization that allocating protocol level funding requires a fund allocation protocol.
 
@@ -58,7 +58,7 @@ It's designed for anyone who self-identifies as part of the Ethereum community a
 
 ## **What are some challenges and successes you've seen so far?**
 
-We're building on bleeding-edge technology with MACI, BrightID, Kleros, Ethereum, and xDai, so the biggest challenges have been building on top of moving targets. 
+We're building on bleeding-edge technology with MACI, BrightID, Kleros, Ethereum, and xDai, so the biggest challenges have been building on top of moving targets.
 
 That said, clr.fund wouldn't be possible without the work that a ton have people have put into those projects. ❤️
 
@@ -66,7 +66,7 @@ Plus it's cool to be able to say things like "You’ve contributed to the first 
 
 Being grant funded, so we can maintain credible neutrality, has also been a challenge. But Moloch, Gitcoin grants, and the EF have really helped us along the way.
 
-## **Where are things headed? What are the project goals and roadmap for the rest of the year, and next year?** 
+## **Where are things headed? What are the project goals and roadmap for the rest of the year, and next year?**
 
 The rest of the year will involve a series of subsequent test rounds as we roll out the rest of the pieces \(BrightID, Kleros, etc\) and continue to make improvements.
 
@@ -78,7 +78,5 @@ We are planning to migrate to mainnet for our production rounds, but there are o
 
 One last thing I wanted to point out is clr.fund's constitution. It really gives a great overview of what clr.fund is and why we built it.
 
-{% embed url="https://github.com/clrfund/constitution" %}
-
-
+{% embed url="https://github.com/clrfund/constitution" caption="" %}
 

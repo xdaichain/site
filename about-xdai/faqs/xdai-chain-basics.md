@@ -6,7 +6,7 @@
 * Collaborators include [initial validators ](../../for-validators/about-xdai-validators/current-xdai-validators/)like MakerDAO, Gnosis, and SyncNode & [projects that support the ecosystem](../../for-developers/developer-resources/#dapp-management-and-developer-tools) like theGraph, Tenderly and AnyBlock Analytics. 
 * Users are worldwide, from crypto veterans to first-time users.
 
-## What is xDai? 
+## What is xDai?
 
 * xDai is the name of the stablechain **and** the stable native coin that lives on the chain. 
 * The xDai chain is an Ethereum-based stable sidechain implementing a dPOS consensus called POSDAO. 
@@ -22,7 +22,7 @@
 
 ## Where is xDai?
 
-xDai is a stablechain located within the vast Ethereum ecosystem. xDai users are located around the world, from small gatherings, to 1000+ participant conferences, to networks of villages in Kenya. 
+xDai is a stablechain located within the vast Ethereum ecosystem. xDai users are located around the world, from small gatherings, to 1000+ participant conferences, to networks of villages in Kenya.
 
 **Connecting to xDai:**
 
@@ -45,7 +45,7 @@ Plans are multi-faceted and both short and long term. In the short term, we are 
 
 Long-term plans are related to features and updates to our infrastructural assets like TokenBridge & BlockScout, as well as establishing a fund for DApp development and eventual implementation of [HoneyBadger BFT](../../for-validators/consensus/honeybadger-bft-consensus/) into the protocol.
 
-**Roadmaps:** 
+**Roadmaps:**
 
 * Staking: [https://www.xdaichain.com/for-stakers/stake-and-staking](https://www.xdaichain.com/for-stakers/stake-and-staking) 
 * xDai General: [https://www.xdaichain.com/about-xdai/roadmap](https://www.xdaichain.com/about-xdai/roadmap)  
@@ -58,13 +58,9 @@ We are looking at both vertical and horizontal scalability opportunities to ensu
 
 ## What is the TPS \(transactions per second or tx/sec\) for the xDai Chain?
 
-It depends on the type of transaction being sent, for the simplest transactions the xDai chain can process 70 tx/sec. 
+It depends on the type of transaction being sent, for the simplest transactions the xDai chain can process 70 tx/sec.
 
 ## Is the xDai chain secure?
 
 We have contracted 3rd party security firms to conduct [comprehensive audits ](../../for-developers/security-audits.md)on the xDai consensus, tokens, bridge and underlying architecture. We have resolved any issues they have found, and are committed to ongoing audits and comprehensive testing. However, we cannot anticipate all issues and users must assume risk when using any blockchain technologies.
-
-### 
-
-
 

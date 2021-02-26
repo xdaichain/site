@@ -10,7 +10,7 @@ description: 09 January - 15 January 2021
 
 [Staking Epoch 40 is now active with 14 validator pools and ~121 delegators](https://blockscout.com/xdai/mainnet/validators). During epoch 39 a validator pool was inactivated \(mining address[ 0xb76756f95A9fB6ff9ad3E6cb41b734c1bd805103](https://blockscout.com/xdai/mainnet/address/0xb76756f95A9fB6ff9ad3E6cb41b734c1bd805103/transactions)\) due to excessive downtime.
 
-Delegators on this pool \(which happened to have the most delegators\) received a smaller initial reward due to this downtime and associated block skips. Because staking epoch 39 was one of the first 3 staking epochs for delegators, and information on inactive pools was not readily available, staking rewards were distributed manually via Disperse, an open source built by core YFI contributor Banteg. 
+Delegators on this pool \(which happened to have the most delegators\) received a smaller initial reward due to this downtime and associated block skips. Because staking epoch 39 was one of the first 3 staking epochs for delegators, and information on inactive pools was not readily available, staking rewards were distributed manually via Disperse, an open source built by core YFI contributor Banteg.
 
 We’ve updated our information and [FAQs for inactive validators](../../../faqs/public-staking-validators-and-delegators.md#what-is-an-inactive-pool), and we don’t expect a manual distribution to happen again in the future. **With POSDAO staking there are inherent risks, and it is important for delegators to realize these risks and delegate appropriately.**
 
@@ -24,17 +24,17 @@ Now that the epoch is complete, participants who delegated on this validator can
 
 The BlockScout menu was updated to include links to the POSDAO Staking App as well as EasyStaking, Bridges, and other xDai-centric applications.
 
-{% embed url="https://twitter.com/blockscoutcom/status/1349052040312475650" %}
+{% embed url="https://twitter.com/blockscoutcom/status/1349052040312475650" caption="" %}
 
 ## 🐦 Twitter Update
 
-After nearly a month, the [xDai twitter account](https://twitter.com/xdaichain) was finally unsuspended! We did not receive any information as to why it was suspended and assume it was a mistake, likely brought  by an overly-sensitive AI 🤖 . We appreciate our community's patience and advocacy through the process and were confident it would be unsuspended. The timing of the suspension was unfortunate as it occurred right when public POSDAO was rolling out! We've resumed tweeting, and sent out a brief tweet updating the twitterverse on a few highlights they missed while we were away.
+After nearly a month, the [xDai twitter account](https://twitter.com/xdaichain) was finally unsuspended! We did not receive any information as to why it was suspended and assume it was a mistake, likely brought by an overly-sensitive AI 🤖 . We appreciate our community's patience and advocacy through the process and were confident it would be unsuspended. The timing of the suspension was unfortunate as it occurred right when public POSDAO was rolling out! We've resumed tweeting, and sent out a brief tweet updating the twitterverse on a few highlights they missed while we were away.
 
-{% embed url="https://twitter.com/xdaichain/status/1348664686913478656" %}
+{% embed url="https://twitter.com/xdaichain/status/1348664686913478656" caption="" %}
 
 ## 🧺 MakerDAO Collateral Meeting
 
-Igor and Andrew along with special guest Patricio from [POAP](https://www.poap.xyz/) participated in a Maker Protocol Collateral Onboarding call. They presented on xDai and STAKE basics and answered questions from the community. It was an interesting discussion and Patricio in particular highlighted the benefits xDai offers to projects who need scalability now. 
+Igor and Andrew along with special guest Patricio from [POAP](https://www.poap.xyz/) participated in a Maker Protocol Collateral Onboarding call. They presented on xDai and STAKE basics and answered questions from the community. It was an interesting discussion and Patricio in particular highlighted the benefits xDai offers to projects who need scalability now.
 
 Next, the Maker risk management group will consider STAKE as a Dai collateral. We will provide more information as we receive it.
 
@@ -42,39 +42,39 @@ Next, the Maker risk management group will consider STAKE as a Dai collateral. W
 * STAKE application: [https://forum.makerdao.com/t/stake-mip6-collateral-onboarding-application/5551](https://forum.makerdao.com/t/stake-mip6-collateral-onboarding-application/5551)
 * Collateral status index: [https://forum.makerdao.com/t/collateral-status-index/2231](https://forum.makerdao.com/t/collateral-status-index/2231)
 
-{% embed url="https://www.youtube.com/watch?v=C1dbId69vJo" %}
+{% embed url="https://www.youtube.com/watch?v=C1dbId69vJo" caption="" %}
 
 ## ⏳ EasyStaking Dashboard: Dune Analytics
 
 We are creating some dashboards with Dune Analytics. The EasyStaking dashboard on Ethereum shows some basics, and we are working to improve to include additional metrics. Look for more dashboards soon!
 
-{% embed url="https://duneanalytics.com/maxaleks/xdai-staking" %}
+{% embed url="https://duneanalytics.com/maxaleks/xdai-staking" caption="" %}
 
 ## 🦋 Project Updates
 
 ### Dark Forest
 
-The latest DarkForest competitive round has wrapped up, although community gameplay is ongoing. 
+The latest DarkForest competitive round has wrapped up, although community gameplay is ongoing.
 
 v0.5 Winners Announcement: [https://blog.zkga.me/v5-winners](https://blog.zkga.me/v5-winners)
 
-{% embed url="https://twitter.com/darkforest\_eth/status/1348946562391580673?s=19" %}
+{% embed url="https://twitter.com/darkforest\_eth/status/1348946562391580673?s=19" caption="" %}
 
 ### Perpetual Protocol
 
 Perpetual had a very successful month of trading on xDai. Excited to see the protocol and related volumes continuing to grow!
 
-{% embed url="https://twitter.com/perpprotocol/status/1350086134076870656" %}
+{% embed url="https://twitter.com/perpprotocol/status/1350086134076870656" caption="" %}
 
 ### Unifty
 
-[UNIFTY has added xDai support](https://unifty.io/xdai/). Unifty is a new hub for NFT projects to create custom farms, NFT collections \(and soon a lot more\) with just a few clicks! 
+[UNIFTY has added xDai support](https://unifty.io/xdai/). Unifty is a new hub for NFT projects to create custom farms, NFT collections \(and soon a lot more\) with just a few clicks!
 
-{% embed url="https://twitter.com/Unifty3/status/1349381644965343233" %}
+{% embed url="https://twitter.com/Unifty3/status/1349381644965343233" caption="" %}
 
 Cold Truth Culture is an example project using UNIFTY to expand NFT awareness.
 
-{% embed url="https://twitter.com/ColdTruthCult/status/1349709530611867649" %}
+{% embed url="https://twitter.com/ColdTruthCult/status/1349709530611867649" caption="" %}
 
 ![](../../../../.gitbook/assets/ctc.png)
 

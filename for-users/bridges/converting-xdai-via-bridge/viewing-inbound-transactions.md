@@ -1,6 +1,6 @@
 # View Inbound \(Dai to xDai\) Transactions
 
-When Dai is transferred from Ethereum to xDai on the xDai chain, the amount of Dai in your wallet will decrease and the corresponding amount of xDai will increase. However, the transaction will not appear on the xDai side of the wallet.  The easiest way to track it is in BlockScout with the Coin Balance History view.
+When Dai is transferred from Ethereum to xDai on the xDai chain, the amount of Dai in your wallet will decrease and the corresponding amount of xDai will increase. However, the transaction will not appear on the xDai side of the wallet. The easiest way to track it is in BlockScout with the Coin Balance History view.
 
 1\) Copy the account address used for the transaction.
 
@@ -14,9 +14,9 @@ When Dai is transferred from Ethereum to xDai on the xDai chain, the amount of D
 
 ![](../../../.gitbook/assets/tut3%20%281%29.jpg)
 
-4\) Scroll down to see incoming and outgoing amounts.  Your transaction should appear here.
+4\) Scroll down to see incoming and outgoing amounts. Your transaction should appear here.
 
-Red txs signify outgoing and green are incoming. You can click on the block number to find your transaction in the block if you'd like more information. 
+Red txs signify outgoing and green are incoming. You can click on the block number to find your transaction in the block if you'd like more information.
 
 ![](../../../.gitbook/assets/tut5.jpg)
 

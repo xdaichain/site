@@ -4,7 +4,7 @@ description: Providing a blockchain solution to enable local trade and exchange.
 
 # Community Currencies
 
-Community inclusion currencies \(CICs\) are local money used to pay for goods and services. CICs are not meant to replace national currency; they are complementary currencies designed to support local commerce. CICs provide a medium for daily spending and trade while allowing individuals to save national currency \(which can be volatile or scarce\) for interactions with larger businesses and government institutions outside of the immediate community. 
+Community inclusion currencies \(CICs\) are local money used to pay for goods and services. CICs are not meant to replace national currency; they are complementary currencies designed to support local commerce. CICs provide a medium for daily spending and trade while allowing individuals to save national currency \(which can be volatile or scarce\) for interactions with larger businesses and government institutions outside of the immediate community.
 
 CICs support and empower communities to create jobs, develop social programs, and support trade by creating a decentralized, local banking infrastructure. In addition to local communities, initiatives led by [Grassroots Economics and the Red Cross are bringing CCs to refugee camps and other disaster-prone communities.](https://af.reuters.com/article/kenyaNews/idAFL8N28231Q)
 
@@ -18,21 +18,21 @@ This project infrastructure, developed by [**Sempo**](https://withsempo.com/), i
 
 ### Cash distribution in times of crisis
 
-CICs can also be used for targeted aid when markets or supply chains deteriorate in the midst of a crisis. Specific health or food related business may be targeted using blockchain transaction data in order to provide rapid aid to those who need it most. 
+CICs can also be used for targeted aid when markets or supply chains deteriorate in the midst of a crisis. Specific health or food related business may be targeted using blockchain transaction data in order to provide rapid aid to those who need it most.
 
-{% embed url="https://www.grassrootseconomics.org/single-post/CIC-COVID-19-Crisis-Cash-Aid" %}
+{% embed url="https://www.grassrootseconomics.org/single-post/CIC-COVID-19-Crisis-Cash-Aid" caption="" %}
 
 ## Grassroots Economics Updates and Plans
 
-The [Grassroots Economics blog](https://www.grassrootseconomics.org/blog) is a good place to find the most recent updates. In February 2020, 3015 users made at least 1 trade.  2,336,655 Tokens were traded for basic goods \(~23K equivalent\) and the current user base holds 1,514,155 Tokens \(~15k USD\). 
+The [Grassroots Economics blog](https://www.grassrootseconomics.org/blog) is a good place to find the most recent updates. In February 2020, 3015 users made at least 1 trade. 2,336,655 Tokens were traded for basic goods \(~23K equivalent\) and the current user base holds 1,514,155 Tokens \(~15k USD\).
 
 ![Transactions and users in Feb 2020](../../.gitbook/assets/cic-tweet.png)
 
-## 💵 Overview of Community Currencies 
+## 💵 Overview of Community Currencies
 
 This short documentary features Will Ruddick, founder of Grassroots Economics. It provides an engaging account of the history, need and adoption of community currencies in _**`KENYA`**_. In 2016, currencies were distributed as paper vouchers. Now, they are digital and commerce is conducted on the xDai Chain.
 
-{% embed url="https://www.youtube.com/watch?v=ojFPrVvpraU&t=" %}
+{% embed url="https://www.youtube.com/watch?v=ojFPrVvpraU&t=" caption="" %}
 
 ## ⛓ Transaction Metrics on xDai
 
@@ -44,17 +44,13 @@ This short documentary features Will Ruddick, founder of Grassroots Economics. I
 
 ## 📑 Additional Info & Resources
 
-{% embed url="https://www.grassrootseconomics.org/single-post/CICs-are-Now-Open-Source" %}
+{% embed url="https://www.grassrootseconomics.org/single-post/CICs-are-Now-Open-Source" caption="" %}
 
-{% embed url="https://github.com/GrassrootsEconomics/CIC-Liquid-Token" %}
+{% embed url="https://github.com/GrassrootsEconomics/CIC-Liquid-Token" caption="" %}
 
-{% embed url="https://github.com/teamsempo/SempoBlockchain" %}
+{% embed url="https://github.com/teamsempo/SempoBlockchain" caption="" %}
 
-{% embed url="https://www.bloomberg.com/news/features/2018-10-31/closing-the-cash-gap-with-cryptocurrency" %}
+{% embed url="https://www.bloomberg.com/news/features/2018-10-31/closing-the-cash-gap-with-cryptocurrency" caption="" %}
 
-{% embed url="https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit" %}
-
-
-
-
+{% embed url="https://docs.google.com/document/d/1qtlOEL4pqW1vOL893BaXH9OqRSAO3k0q2eWbVIkxEvU/edit" caption="" %}
 

@@ -25,7 +25,7 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 
 ## Swap xDai to Binance-Peg DAI
 
-### 1\) Convert xDai to wxDai using the WrapEth Tool. 
+### 1\) Convert xDai to wxDai using the WrapEth Tool.
 
 1. Go to [https://wrapeth.com/](https://wrapeth.com/)
 2. set MetaMask to the xDai Chain Network
@@ -33,7 +33,7 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 4. Press Submit.
 5. Once the tx is complete, and wxDai is deposited, you can add wxDai \([0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d](https://blockscout.com/xdai/mainnet/address/0xe91D153E0b41518A2Ce8Dd3D7944Fa863463a97d/transactions)\)
 
-   to Custom Tokens in MetaMask. 
+   to Custom Tokens in MetaMask.
 
 ![](../../../.gitbook/assets/wrapeth1.png)
 
@@ -67,7 +67,7 @@ You will follow the same process in reverse to convert Binance-Peg Dai from BSC 
 
 ### 1\) Bridge Dai from BSC to xDai.
 
-You can follow this tutorial to bridge with the Omnibridge at [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/). 
+You can follow this tutorial to bridge with the Omnibridge at [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/).
 
 ### 2\) Swap Dai \(BSC\) token for wxDai using Component.
 
@@ -81,6 +81,4 @@ You can follow this tutorial to bridge with the Omnibridge at [https://bsc-to-xd
 2. Set MetaMask to the xDai Chain Network.
 3. Select the Unwrap wxDai tab and enter the amount of wxDai to wrap.
 4. Press Submit.
-
-
 

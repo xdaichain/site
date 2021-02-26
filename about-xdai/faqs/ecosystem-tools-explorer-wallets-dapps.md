@@ -10,8 +10,8 @@ BlockScout is a full-featured, open-source explorer that supports xDai. It lets 
 
 ## **What wallets are available to use with xDai?**
 
-We are fortunate to have the support of quite a number of wallets, including some amazing mobile wallets like AlphaWallet, DEX wallet ****and Poketto, and web wallets like Portis Wallet. You can use MetaMask, and Nifty Wallet and Saturn Wallet are additional web3 wallets similar to MetaMask but containing additional features that natively support xDai.  
-  
+We are fortunate to have the support of quite a number of wallets, including some amazing mobile wallets like AlphaWallet, DEX wallet _\*\*_and Poketto, and web wallets like Portis Wallet. You can use MetaMask, and Nifty Wallet and Saturn Wallet are additional web3 wallets similar to MetaMask but containing additional features that natively support xDai.
+
 The biggest wallet use case is Burner Wallet - as this is really designed for small, stable payments and for conferences and events. We invite you to [check out our wallets page](../../for-users/wallets/) for more information.
 
 ## How can I develop and deploy a DApp on xDai?
@@ -32,7 +32,7 @@ This usually happens due to a MetaMask \(MM\) update and can be fixed by resavin
 
 ![](../../.gitbook/assets/mm2%20%281%29.png)
 
-3\) Scroll and select **xDai**. 
+3\) Scroll and select **xDai**.
 
 ![](../../.gitbook/assets/mm3%20%281%29.png)
 

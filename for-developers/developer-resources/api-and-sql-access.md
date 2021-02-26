@@ -10,7 +10,7 @@ description: >-
 
 ![Login to create an account](../../.gitbook/assets/aa_free_acct.png)
 
-2\) You will receive an API key and SQL username/password.  
+2\) You will receive an API key and SQL username/password.
 
 ## ElasticSearch
 
@@ -36,9 +36,9 @@ https://api.eth.events/ethereum/xdai/mainnet/es/block/search/ \
 
 ## SQL Access
 
-1\) Download a SQL client Anyblock Analytics favors [PGAdmin4](https://www.pgadmin.org/download/) 
+1\) Download a SQL client Anyblock Analytics favors [PGAdmin4](https://www.pgadmin.org/download/)
 
-2\) Click on Server -&gt; Create -&gt; Server 
+2\) Click on Server -&gt; Create -&gt; Server
 
 ![](../../.gitbook/assets/servers.png)
 
@@ -56,7 +56,7 @@ https://api.eth.events/ethereum/xdai/mainnet/es/block/search/ \
 | Username | _&lt;your\_username&gt;_ |
 | Password | _&lt;your\_password&gt;_ |
 
-5\) You will see a list of all databases. 
+5\) You will see a list of all databases.
 
 1. Click on **ethereum\_poa\_xdai** to interact with xDai data. 
 2. To Query the DB, go to Tools -&gt; Query Tool
@@ -72,7 +72,7 @@ https://api.eth.events/ethereum/xdai/mainnet/es/block/search/ \
 
 ![Run query with the lightning icon](../../.gitbook/assets/query.png)
 
-7\) Explore different queries and information in the SQL documentation and tutorials  available here: [https://www.anyblockanalytics.com/blog/basic-sql-usage-examples/](https://www.anyblockanalytics.com/blog/basic-sql-usage-examples/)
+7\) Explore different queries and information in the SQL documentation and tutorials available here: [https://www.anyblockanalytics.com/blog/basic-sql-usage-examples/](https://www.anyblockanalytics.com/blog/basic-sql-usage-examples/)
 
 **Example Query to find transactions for the EternalStorageProxy token contract**
 
@@ -81,6 +81,4 @@ SELECT * FROM tx
 WHERE tx.to = '0x7301CFA0e1756B71869E93d4e4Dca5c7d0eb0AA6'
 LIMIT 50
 ```
-
-
 

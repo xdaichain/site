@@ -12,14 +12,14 @@ description: 29 August 2020 - 04 September 2020
 
 The first reward distribution of 2196 STAKE was successfully sent to 119 participants based on their percentage of STAKE in the pool. Future distributions will be processed every 5-9 days and will go to the top 100 participants. Amounts will vary based on EasyStaking participation withdrawal activity.[ More info about LPs](../../../../for-stakers/easy-staking/liquidity-provider-lp-info.md)
 
-{% embed url="https://twitter.com/xdaichain/status/1301182695381381125" %}
+{% embed url="https://twitter.com/xdaichain/status/1301182695381381125" caption="" %}
 
 ### ✅ LP Rewards Proposal
 
-The ETH-STAKE pair is now available on Mooniswap, and a proposal is available for the community to gauge interest in adding pool to the reward protocol.   
+The ETH-STAKE pair is now available on Mooniswap, and a proposal is available for the community to gauge interest in adding pool to the reward protocol.  
 [ai.canny.io/product-ideas/p/including-mooniswap-as-a-rewarded-liquidity-pool](https://xdai.canny.io/product-ideas/p/including-mooniswap-as-a-rewarded-liquidity-pool)
 
-{% embed url="https://twitter.com/mooniswap/status/1298553006015819776" %}
+{% embed url="https://twitter.com/mooniswap/status/1298553006015819776" caption="" %}
 
 ## 📻 Listings
 
@@ -27,7 +27,7 @@ The ETH-STAKE pair is now available on Mooniswap, and a proposal is available fo
 
 STAKE listed by HBTC. Additional listings can be found at [CoinMarketCap](https://coinmarketcap.com/currencies/xdai/markets/) and [CoinGecko](https://www.coingecko.com/en/coins/xdai-stake)
 
-{% embed url="https://twitter.com/HBTCNews/status/1301367744101711878" %}
+{% embed url="https://twitter.com/HBTCNews/status/1301367744101711878" caption="" %}
 
 ## 💻 Dev News
 
@@ -35,13 +35,13 @@ STAKE listed by HBTC. Additional listings can be found at [CoinMarketCap](https:
 
 A new BlockScout feature shows tokens bridged using the [OmniBridge extension](../../../../for-users/bridges/omnibridge.md). This can be any ERC20 token bridged by anyone to xDai. Once the token is bridged over, users can send and trade within the xDai ecosystem for extremely low fees.
 
-{% embed url="https://blockscout.com/xdai/mainnet/bridged-tokens" %}
+{% embed url="https://blockscout.com/xdai/mainnet/bridged-tokens" caption="" %}
 
-### ✅ RaidGuidl 
+### ✅ RaidGuidl
 
 Raidguild continues to port over infrastructure and make progress with xDai development.
 
-{% embed url="https://twitter.com/xdaichain/status/1300829519960444928" %}
+{% embed url="https://twitter.com/xdaichain/status/1300829519960444928" caption="" %}
 
 ## 🖼 App News
 
@@ -49,25 +49,25 @@ Raidguild continues to port over infrastructure and make progress with xDai deve
 
 [Powerpool](https://powerpool.finance/) finished their beta on xDai with some amazing results. Gamma testing will start shortly.
 
-{% embed url="https://twitter.com/powerpoolcvp/status/1300936972446375936" %}
+{% embed url="https://twitter.com/powerpoolcvp/status/1300936972446375936" caption="" %}
 
 ### ✅ Nifty.Ink Contest
 
-With Nifty.Ink anyone can draw and mint an NFT to xDai. BlockTalks and xDai are sponsoring a crypto art contest with a $250 prize pool. 
+With Nifty.Ink anyone can draw and mint an NFT to xDai. BlockTalks and xDai are sponsoring a crypto art contest with a $250 prize pool.
 
-{% embed url="https://twitter.com/xdaichain/status/1301195000215207936" %}
+{% embed url="https://twitter.com/xdaichain/status/1301195000215207936" caption="" %}
 
 ### ✅ KickBack Events on xDai
 
-{% embed url="https://twitter.com/xdaichain/status/1301216424673841152" %}
+{% embed url="https://twitter.com/xdaichain/status/1301216424673841152" caption="" %}
 
 ## 🦸♂ xDai Community
 
-### ✅ Twitter Banner Design Contest 
+### ✅ Twitter Banner Design Contest
 
-We’ve launched a contest to design our Twitter banner with prizes in STAKE. **Entries have been extended to a TBD date.** If you are a designer, or know one, forward on the info to help elevate the xDai STAKE visual game!   
-  
+We’ve launched a contest to design our Twitter banner with prizes in STAKE. **Entries have been extended to a TBD date.** If you are a designer, or know one, forward on the info to help elevate the xDai STAKE visual game!
+
 Add your entry here:[ https://airtable.com/shrWqBjOHBzsdIdDI](https://airtable.com/shrWqBjOHBzsdIdDI)
 
-{% embed url="https://twitter.com/xdaichain/status/1288519372571639808" %}
+{% embed url="https://twitter.com/xdaichain/status/1288519372571639808" caption="" %}
 

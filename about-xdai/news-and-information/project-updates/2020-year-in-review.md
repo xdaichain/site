@@ -6,9 +6,9 @@ description: End of Year Overview
 
 ![](../../../.gitbook/assets/blue-and-orange-bold-stars-new-year-facebook-cover.png)
 
-As we pause to reflect on 2020 \(pause playing [DarkForest](https://dark-forest.online/) for a few minutes anyway 🙂 \) we are first and foremost grateful for the xDai community, users, and partners who have elevated the xDai chain and made it a resounding success. We could not have envisioned the level of adoption and number of projects that have flourished on xDai in 2020**. xDai is arguably the \#1 most-used L2 scaling solution for Ethereum right now**, and has helped support the ecosystem by providing an option for low-cost, stable transactions while improving interoperability and cross-chain interaction.  
+As we pause to reflect on 2020 \(pause playing [DarkForest](https://dark-forest.online/) for a few minutes anyway 🙂 \) we are first and foremost grateful for the xDai community, users, and partners who have elevated the xDai chain and made it a resounding success. We could not have envisioned the level of adoption and number of projects that have flourished on xDai in 2020**. xDai is arguably the \#1 most-used L2 scaling solution for Ethereum right now**, and has helped support the ecosystem by providing an option for low-cost, stable transactions while improving interoperability and cross-chain interaction.
 
-Prior to 2020, a primary use-case for xDai centered around live events. xDai was experiencing a lot of growth with usage at [Ethereum conferences](../../use-cases/cryptocurrency-for-events-and-conferences/), the [Splunk Conference](../../use-cases/cryptocurrency-for-events-and-conferences/splunk-conference-non-crypto-conference.md), [RSA conference](../../use-cases/cryptocurrency-for-events-and-conferences/rsaconference-2020.md) and more. At [EthDenver 2020](../../use-cases/cryptocurrency-for-events-and-conferences/ethdenver-2020.md) xDai was used by conference attendees to buy food as well as navigate the conference, vote on hackathon entrants, and earn quest-based NFTs. The EthDenver [Burner Wallet](../../../for-users/wallets/burner-wallet/) was extremely ambitious,  pointing a way for the future of xDai as the go-to solution to power conferences and live events. 
+Prior to 2020, a primary use-case for xDai centered around live events. xDai was experiencing a lot of growth with usage at [Ethereum conferences](../../use-cases/cryptocurrency-for-events-and-conferences/), the [Splunk Conference](../../use-cases/cryptocurrency-for-events-and-conferences/splunk-conference-non-crypto-conference.md), [RSA conference](../../use-cases/cryptocurrency-for-events-and-conferences/rsaconference-2020.md) and more. At [EthDenver 2020](../../use-cases/cryptocurrency-for-events-and-conferences/ethdenver-2020.md) xDai was used by conference attendees to buy food as well as navigate the conference, vote on hackathon entrants, and earn quest-based NFTs. The EthDenver [Burner Wallet](../../../for-users/wallets/burner-wallet/) was extremely ambitious, pointing a way for the future of xDai as the go-to solution to power conferences and live events.
 
 Then live events shut down. xDai could still be used for virtual events \(and was adopted by [KickBack](https://xdai.kickback.events/) to host their virtual events\) and was still actively used by several projects, such as [Grassroots Economics community currencies](../../use-cases/community-currencies.md), but these also relied on face-to-face community interactions. Fortunately, xDai had several things going for it:
 
@@ -47,7 +47,7 @@ This brings us to playing DarkForest \(DF\) as 2020 comes to an end. DF on xDai 
 
 Version 0.4 was first introduced on xDai in August, and the heavy infrastructure demands caused some slowdowns for users. The teams learned from these issues, and xDai and [Nethermind](https://www.nethermind.io/) optimized infrastructure to anticipate tx volume and traffic spikes, creating a much-improved experience this time around. This is just one example of the xDai team's dedication to constant improvements and feature development as blockchain adoption tilts towards the mainstream.
 
-We are now working to expand and develop our 2021 xDai Roadmap. We are very excited for new partnerships, projects and use-cases in the coming year!  Here are a few preliminary items we are researching:
+We are now working to expand and develop our 2021 xDai Roadmap. We are very excited for new partnerships, projects and use-cases in the coming year! Here are a few preliminary items we are researching:
 
 * Consensus \(staking\) monitoring and analytics integrations
 * Privacy preserving transactions
@@ -60,6 +60,5 @@ We are now working to expand and develop our 2021 xDai Roadmap. We are very exci
 
 **We wish you a very happy new year and are excited for the blockchain innovations and developments to come in 2021!**
 
-**-The xDai Team**  
-
+**-The xDai Team**
 

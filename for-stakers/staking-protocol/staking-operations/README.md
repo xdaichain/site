@@ -1,7 +1,7 @@
 # Staking Operations
 
 {% hint style="warning" %}
-All staking operations are performed through the [BlockScout application](https://blockscout.com/xdai/mainnet/validators).  
+All staking operations are performed through the [BlockScout application](https://blockscout.com/xdai/mainnet/validators).
 {% endhint %}
 
 ## Operations

@@ -15,15 +15,15 @@ description: zkSNARK space warfare
 
 ## Dark Forest Custom Theme/Skin for BlockScout:
 
-BlockScout block explorer for dark forest has been themed to match the game!  Stay within the universe while exploring transactions. [https://blockscout.com/xdai/mainnet/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions](https://blockscout.com/xdai/mainnet/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions)
+BlockScout block explorer for dark forest has been themed to match the game! Stay within the universe while exploring transactions. [https://blockscout.com/xdai/mainnet/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions](https://blockscout.com/xdai/mainnet/address/0xa8688cCF5E407C1C782CF0c19b3Ab2cE477Fd739/transactions)
 
 ## Dark Forest Update
 
 {% hint style="success" %}
-Version v.05 is running and optimized on xDai as of 25.12.2020. 
+Version v.05 is running and optimized on xDai as of 25.12.2020.
 {% endhint %}
 
-{% embed url="https://twitter.com/darkforest\_eth/status/1343285550870978560" %}
+{% embed url="https://twitter.com/darkforest\_eth/status/1343285550870978560" caption="" %}
 
 ## About Dark Forest
 
@@ -31,13 +31,13 @@ Using [zkSNARKS](https://blog.zkga.me/intro-to-zksnarks), dark forest is able to
 
 Dark Forest was inspired by Liu Cixin’s _Three Body Trilogy_ \(三体\), particularly the second novel _Dark Forest_ and a thought experiment by the same name.
 
-{% embed url="https://blog.zkga.me/announcing-darkforest" %}
+{% embed url="https://blog.zkga.me/announcing-darkforest" caption="" %}
 
 Version v0.4 uses a burner wallet and is in production on xDai. This allows for a higher TPS as well as real economic value loaded onto the game. In addition, users are airdropped a small amount of xDai so they can begin gameplay immediately, without any external wallet or need to get xDai to start. Once users are accustomed to gameplay they can add additional xDai if desired.
 
 ### More about the game from the developers themselves
 
-{% embed url="https://www.youtube.com/watch?v=nwUCccUS75k&feature=youtu.be" %}
+{% embed url="https://www.youtube.com/watch?v=nwUCccUS75k&feature=youtu.be" caption="" %}
 
 ## Get Started
 
@@ -55,12 +55,5 @@ Once you "check in" with the CLI, the universe begins to populate and you see yo
 
 ## Tips & Tricks
 
-{% embed url="https://old.reddit.com/r/DarkForestOnline/comments/j78tru/how\_to\_load\_up\_your\_wallet\_with\_xdai\_to\_play\_more/" %}
-
-
-
-  
-
-
-
+{% embed url="https://old.reddit.com/r/DarkForestOnline/comments/j78tru/how\_to\_load\_up\_your\_wallet\_with\_xdai\_to\_play\_more/" caption="" %}
 

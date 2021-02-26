@@ -1,6 +1,6 @@
 # B2B & Enterprise Applications
 
-_The following  assessment materials were compiled by an xDai community member. They provide a basic overview and links designed to help B2B / Enterprise Applications determine if xDai is a good fit for their product offerings. As with any project there are advantages and tradeoffs, and Alexander provides a general overview along with helpful links._ 
+_The following assessment materials were compiled by an xDai community member. They provide a basic overview and links designed to help B2B / Enterprise Applications determine if xDai is a good fit for their product offerings. As with any project there are advantages and tradeoffs, and Alexander provides a general overview along with helpful links._
 
 ## Evaluating xDai Stable Chain for B2B Use Cases
 
@@ -77,7 +77,7 @@ contract ConditionalPayment {
     address payable public recipient;
     uint256 public value;
     bytes32 public hashLock;
-    
+
     event Transferred(address _recipient, uint256 _value);
 
     constructor(address payable _recipient, bytes32 _hashLock) payable public {
@@ -105,8 +105,4 @@ contract ConditionalPayment {
 * [Block Explorer](https://blockscout.com/xdai/mainnet/)
 * [Wallets](../../for-users/wallets/)
 * [FAQs](../faqs/)
-
-
-
-
 

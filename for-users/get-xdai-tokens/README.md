@@ -6,10 +6,10 @@ description: >-
 
 # Getting xDai tokens
 
-xDai tokens are used to pay for gas and transactions on the xDai chain. They are a stable token \(worth ~ 1 USD\) created from locked Dai. 
+xDai tokens are used to pay for gas and transactions on the xDai chain. They are a stable token \(worth ~ 1 USD\) created from locked Dai.
 
 {% hint style="success" %}
-Need xDai to get started and process a few transactions for free?  [Get .01 xDai with the BlockScout Faucet](https://blockscout.com/xdai/mainnet/faucet).
+Need xDai to get started and process a few transactions for free? [Get .01 xDai with the BlockScout Faucet](https://blockscout.com/xdai/mainnet/faucet).
 {% endhint %}
 
 **Ways to acquire xDai stable tokens:**
@@ -25,6 +25,4 @@ Need xDai to get started and process a few transactions for free?  [Get .01 xDai
 
 The xDai ecosystem is a [dual token environment](../../for-stakers/stake-reward-mechanics/dual-token-model.md) with the xDai stable token and the STAKE governance token. [Learn more about STAKE and how to get STAKE](../../for-stakers/stake-token/get-stake/).
 {% endhint %}
-
-
 

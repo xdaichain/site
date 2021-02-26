@@ -1,8 +1,8 @@
 # STAKE Token Contracts
 
-### Deployed STAKE Contracts
+## Deployed STAKE Contracts
 
-Contracts corresponding to STAKE and distribution roles have been deployed to the Ethereum Mainnet. All contracts are verified in Etherscan. Funds in contracts below are available according to the release schedule \(e.g. a certain % is released each day\). 
+Contracts corresponding to STAKE and distribution roles have been deployed to the Ethereum Mainnet. All contracts are verified in Etherscan. Funds in contracts below are available according to the release schedule \(e.g. a certain % is released each day\).
 
 The Distribution Contract is called with the corresponding number value below \(e.g. 3 for private offering\) to prepare/initialize funds for withdrawal. Once initialized, fund participants can pull available amounts to their wallets. See Private Investor claiming and Advisor claiming for details. All contracts below are on Ethereum mainnet with the exception of STAKE Token on xDai provided for reference purposes.
 
@@ -54,7 +54,7 @@ The Distribution Contract is called with the corresponding number value below \(
   </tbody>
 </table>
 
-### Funds / Public Contracts 
+## Funds / Public Contracts
 
 <table>
   <thead>
@@ -68,7 +68,7 @@ The Distribution Contract is called with the corresponding number value below \(
       <td style="text-align:left">
         <p><b>(1) Ecosystem Fund</b>
         </p>
-        <p><em>Begins 336 days post listing, continues daily for 336 days </em>
+        <p><em>Begins 336 days post listing, continues daily for 336 days</em>
         </p>
       </td>
       <td style="text-align:left"><a href="https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9">0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9</a>
@@ -83,7 +83,7 @@ The Distribution Contract is called with the corresponding number value below \(
     </tr>
     <tr>
       <td style="text-align:left">
-        <p><b>(2) Public Offering </b>
+        <p><b>(2) Public Offering</b>
         </p>
         <p><em>100% released at listing</em>
         </p>

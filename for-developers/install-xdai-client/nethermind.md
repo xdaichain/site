@@ -3,12 +3,12 @@
 {% hint style="warning" %}
 Nethermind Validator is currently running on POSDAO in Beta. A new release is expected in the near future:
 
-Validator: [https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations](https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations) 
+Validator: [https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations](https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations)
 
 Ethstats: [https://dai-netstat.poa.network/](https://dai-netstat.poa.network/)
 {% endhint %}
 
-Nethermind Launcher is a self-contained app - you do not need to install .NET separately to run it. 
+Nethermind Launcher is a self-contained app - you do not need to install .NET separately to run it.
 
 \*\*\*\*📄 **Nethermind Docs**: [https://docs.nethermind.io/nethermind/first-steps-with-nethermind/getting-started](https://docs.nethermind.io/nethermind/first-steps-with-nethermind/getting-started)
 
@@ -30,8 +30,6 @@ When you start the Launcher choose the following options to sync a node:
 * Select network: **xDai** 
 * Select sync: **Fast sync**
 {% endhint %}
-
-
 
 ### \*\*\*\*
 

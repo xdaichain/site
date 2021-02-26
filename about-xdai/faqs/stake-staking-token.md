@@ -20,9 +20,6 @@ More on the [Dual Token Model](../../for-stakers/stake-reward-mechanics/dual-tok
 * Move from Ethereum to xDai with the OmniBridge
 * Acquire on xDai with [Honeyswap](../project-spotlights/honeyswap.md)
 
-  
-
-
 ## What are the STAKE contract addresses?
 
 Ethereum Mainnet  
@@ -31,7 +28,7 @@ Ethereum Mainnet
 xDai Chain  
 [0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e](https://blockscout.com/xdai/mainnet/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions)
 
-## I've got STAKE but can't find it in my wallet. 
+## I've got STAKE but can't find it in my wallet.
 
 You may need to add a custom token - [Instructions for doing this with MetaMask](../../for-stakers/stake-token/get-stake/add-stake-to-metamask.md).
 
@@ -45,7 +42,7 @@ Public staking is [now active on xDai](../news-and-information/project-updates/p
 
 ## How much STAKE will I need for public staking?
 
-The current projected minimum amounts needed to validate or delegate on the xDai chain. 
+The current projected minimum amounts needed to validate or delegate on the xDai chain.
 
 * **Validators:** 20K STAKE
 * **Delegators:** 200 STAKE\* \(Initial amount was 1K, reduced to 200 [through a community proposal](../../for-stakers/stake-token/stake-weighted-voting/)\)
@@ -56,18 +53,17 @@ You can find information on the STAKE Marketcap and supply here: [https://www.co
 
 ## How do I transfer STAKE from the Ethereum Mainnet to the xDai chain?
 
-When public POSDAO staking on xDai begins, you will need to move your STAKE to xDai in order to use it there. 
+When public POSDAO staking on xDai begins, you will need to move your STAKE to xDai in order to use it there.
 
 Video: [Moving STAKE between Ethereum and xDai with the OmniBridge](https://youtu.be/qbuBqur9lcE)
 
 ## Why is STAKE an ERC677?
 
-ERC677 is very similar to an ERC20, but includes additional functionality. We use the transferandCall functionality to enable easier bridge conversions, moving STAKE from the Ethereum Mainnet to the xDai chain and back. 
+ERC677 is very similar to an ERC20, but includes additional functionality. We use the transferandCall functionality to enable easier bridge conversions, moving STAKE from the Ethereum Mainnet to the xDai chain and back.
 
-For more information see the EIP677 standard [https://github.com/ethereum/EIPs/issues/677](https://github.com/ethereum/EIPs/issues/677). 
+For more information see the EIP677 standard [https://github.com/ethereum/EIPs/issues/677](https://github.com/ethereum/EIPs/issues/677).
 
 ## What is multi-chain staking?
 
-xDai is the first developed use-case for STAKE. However, it may be adopted by other chains in the future and used as a staking token for their consensus as well. POSDAO consensus is an algorithm we’ve developed that may be adopted by other chains, and those chains would have the opportunity to also incorporate a ready-made solution with STAKE to protect their chain.  
-****
+xDai is the first developed use-case for STAKE. However, it may be adopted by other chains in the future and used as a staking token for their consensus as well. POSDAO consensus is an algorithm we’ve developed that may be adopted by other chains, and those chains would have the opportunity to also incorporate a ready-made solution with STAKE to protect their chain.
 

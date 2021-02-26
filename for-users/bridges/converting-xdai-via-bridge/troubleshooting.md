@@ -4,7 +4,7 @@ description: Resolving bridge issues
 
 # Troubleshoot Bridge Txs, UI, xDai.io, xmoon.exchange, MetaMask
 
-Bridge transactions can take some time \(hours in extreme cases\) to complete depending on Ethereum mainnet congestion.  Try these actions first if your transaction has been **pending for 10 minutes or more** \(and you don't want to wait any more time\). Actions differ depending on if you are transferring from xDai to Dai or [Dai to xDai](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time).
+Bridge transactions can take some time \(hours in extreme cases\) to complete depending on Ethereum mainnet congestion. Try these actions first if your transaction has been **pending for 10 minutes or more** \(and you don't want to wait any more time\). Actions differ depending on if you are transferring from xDai to Dai or [Dai to xDai](troubleshooting.md#dai-to-xdai-transaction-is-taking-a-long-time).
 
 If you are using OmniBridge for other ERC20 tokens \(not xDai &lt;-&gt; Dai\) please see the [OmniBridge page](../omnibridge.md). **This guide only addresses issues with xDai to Dai transfers.**
 
@@ -30,7 +30,7 @@ The bridge is dynamic and supports bi-directional bridging**. It will shift auto
 
 ## I Transferred xDai to Dai but it's Not Working
 
-A new bridge decentralization feature means **withdrawals now require 2 steps**. You must 
+A new bridge decentralization feature means **withdrawals now require 2 steps**. You must
 
 1. initiate the bridge transaction on xDai
 2. Claim your Dai on Ethereum. 
@@ -43,9 +43,9 @@ There are currently different bridging UIs, and depending on the UI you may need
 
 ## I Used the xDai Bridge UI
 
-When using the xDai bridge, we recommend Chrome and MetaMask. It is also useful to disable ad blockers, as there are popups which guide you through the process.  [A successful transfer process is documented here](moving-xdai-to-dai.md).  
+When using the xDai bridge, we recommend Chrome and MetaMask. It is also useful to disable ad blockers, as there are popups which guide you through the process. [A successful transfer process is documented here](moving-xdai-to-dai.md).
 
-If you submitted a tx on xDai, but not complete the claim process, return to the Bridge Ui and connect your MetaMask \(MM\) wallet with the account you used previously. 
+If you submitted a tx on xDai, but not complete the claim process, return to the Bridge Ui and connect your MetaMask \(MM\) wallet with the account you used previously.
 
 1\) Switch MetaMask to the ETH Mainnet. If you have unclaimed txs you should see the following popup. Click on **History**.
 
@@ -55,7 +55,7 @@ If you submitted a tx on xDai, but not complete the claim process, return to the
 
 ![](../../../.gitbook/assets/history-1.png)
 
-3. **Filter by Unreceived Transactions** and click the **Claim** button to begin the process. MetaMask will ask you to confirm the transaction and pay the gas fees to complete the process.
+1. **Filter by Unreceived Transactions** and click the **Claim** button to begin the process. MetaMask will ask you to confirm the transaction and pay the gas fees to complete the process.
 
 ![](../../../.gitbook/assets/history2.png)
 
@@ -93,7 +93,7 @@ In this case, you'll want to export your private key into MetaMask to finish the
 
 ![](../../../.gitbook/assets/a1.jpg)
 
-2\)  Copy Private Key.
+2\) Copy Private Key.
 
 ![](../../../.gitbook/assets/a2.jpg)
 
@@ -102,8 +102,6 @@ In this case, you'll want to export your private key into MetaMask to finish the
 ![](../../../.gitbook/assets/a3.jpg)
 
 4\) Paste in the private key and click Import.
-
- 
 
 ![](../../../.gitbook/assets/a4.jpg)
 
@@ -122,7 +120,7 @@ You may want to [manually set gas prices for a cheaper exit](troubleshooting.md#
 You will need some ETH in your wallet to pay gas fees and finalize the transaction. You can send from another account.
 {% endhint %}
 
-6\)  You will see a Success message when the transaction is complete.
+6\) You will see a Success message when the transaction is complete.
 
 7\) Add DAI as a custom token in MetaMask to view your DAI balance in the wallet.
 
@@ -132,7 +130,7 @@ You will need some ETH in your wallet to pay gas fees and finalize the transacti
 
 ![](../../../.gitbook/assets/a12.jpg)
 
-##  I Used **xmoon.exchange**
+## I Used **xmoon.exchange**
 
 ### I'm connected to the xmoon.exchange with MetaMask \(or another 3rd party wallet through wallet connect\)
 
@@ -140,7 +138,7 @@ You can retrieve the pending transaction using the MetaMask interface. [Learn mo
 
 Once you have copied the transaction on xDai
 
-1.  Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
+1. Go to the Bridge UI at [https://bridge.xdaichain.com/](https://bridge.xdaichain.com/)
    1. Switch your MetaMask wallet to the ETH Mainnet
    2. Click on **History.** You will see any unclaimed transactions_. \(You can also filter unclaimed transactions\)_ 
    3. Press the **Claim button** to process**.** _\(will not appear until 6+ minutes after the transaction\)_
@@ -183,7 +181,7 @@ This can be useful to clear up:
 Imported accounts will not repopulate win your wallet with this method, so be sure you have access to a private key or seed phrase to restore these in a reset account.
 {% endhint %}
 
-{% embed url="https://metamask.zendesk.com/hc/en-us/articles/360015488891-Resetting-an-Account" %}
+{% embed url="https://metamask.zendesk.com/hc/en-us/articles/360015488891-Resetting-an-Account" caption="" %}
 
 This [troubleshooting guide from 1Hive](https://forum.1hive.org/t/troubleshooting-problems-on-metamask/215) is also helpful for instructions on resetting and dealing with other MetaMask issues.
 
@@ -191,7 +189,7 @@ This [troubleshooting guide from 1Hive](https://forum.1hive.org/t/troubleshootin
 
 To use a Ledger you need to allow contract data in order to interact with smart contracts. We assume that you have installed the [Ethereum app](https://support.ledger.com/hc/en-us/articles/115005200009-Set-up-and-use-MyEtherWallet).
 
-1.  [Update the firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113) to the latest version.
+1. [Update the firmware](https://support.ledgerwallet.com/hc/en-us/articles/360002731113) to the latest version.
 2. Connect and unlock your Ledger device.
 3. Open the **Ethereum** application.
 4. Press the right button to navigate to **Settings**. Press both buttons to validate.
@@ -199,10 +197,4 @@ To use a Ledger you need to allow contract data in order to interact with smart 
 6. Retry your transaction.
 
 For more help with Ledger, please see their [support docs](https://support.ledger.com/hc/en-us).
-
-
-
-
-
-
 

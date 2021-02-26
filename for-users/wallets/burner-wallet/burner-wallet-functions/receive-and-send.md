@@ -6,13 +6,13 @@ description: 'xDai, ETH & DAI'
 
 Sending & Receiving is intuitive, and is based around QR codes for mobile. You can also copy/paste addresses for other formats. Primary usage is for sending and receiving xDai, however you can also send/receive ETH and DAI through the Burner Wallet.
 
-## Receive \(xDai or ETH/Dai\) 
+## Receive \(xDai or ETH/Dai\)
 
 1\) Click the Receive button.
 
 ![](../../../../.gitbook/assets/bw-receive-1%20%281%29%20%281%29.png)
 
-2\) The Sender can scan the QR, or you can copy the address and send manually. 
+2\) The Sender can scan the QR, or you can copy the address and send manually.
 
 {% hint style="info" %}
 Note that the wallet address is functional on both the Ethereum Mainnet and the xDai chain. So someone can send Ether or Dai to this address, as well as xDai. All amounts will show up in the wallet interface.
@@ -67,15 +67,11 @@ You can also send DAI or ETH from your Burner Wallet - this functionality is on 
 
 ![](../../../../.gitbook/assets/bw-exchange-2.png)
 
-3\) Fill in the user details and click Send.  \*To send DAI you will need a small amount of ETH to cover transaction costs.
+3\) Fill in the user details and click Send. \*To send DAI you will need a small amount of ETH to cover transaction costs.
 
 ![](../../../../.gitbook/assets/bw-exchange3.png)
 
 4\) Follow progress in the app. When complete, balances will reflect the new amounts.
 
 ![](../../../../.gitbook/assets/bw-exchange4.png)
-
-
-
-
 

@@ -34,7 +34,7 @@ You can use the burner wallet interface to transform your Eth into xDai, without
 
 4\) Enter the amount in USD to send and click **Send**. The app will automatically transfer the amount through the xDai bridge.
 
-![Enter amount and click Send](../../../../.gitbook/assets/amount-and-send%20%281%29%20%281%29.png)
+![Enter amount and click Send](../../../../.gitbook/assets/amount-and-send%20%281%29%20%281%29%20%281%29.png)
 
 ![Waiting for Bridge - typically takes less than 1 minute](../../../../.gitbook/assets/wait-tfor-bridge.png)
 

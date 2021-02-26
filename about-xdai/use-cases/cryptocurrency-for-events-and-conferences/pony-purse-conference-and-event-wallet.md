@@ -4,7 +4,7 @@ description: Conference wallet walkthrough and features
 
 # Pony Purse \(Conference & Event Wallet\)
 
-The Pony Purse is a conference wallet created by the [Splunk](https://www.splunk.com/) Blockchain team. Attendees of the [Splunk conf.19](splunk-conference-non-crypto-conference.md) \(over 10,000 of them!\) used the Pony Purse to purchase items, donate to charity, and interact with games and vendors. The wallet runs on the xDai Chain, leveraging an [Infura endpoint](https://blog.infura.io/infura-brings-scale-to-splunk-xdai-pop-up-cryptocurrency-ab53eda62320) and [Burner Wallet](../../../for-users/wallets/burner-wallet/) scaffolding to create a seamless user experience. 
+The Pony Purse is a conference wallet created by the [Splunk](https://www.splunk.com/) Blockchain team. Attendees of the [Splunk conf.19](splunk-conference-non-crypto-conference.md) \(over 10,000 of them!\) used the Pony Purse to purchase items, donate to charity, and interact with games and vendors. The wallet runs on the xDai Chain, leveraging an [Infura endpoint](https://blog.infura.io/infura-brings-scale-to-splunk-xdai-pop-up-cryptocurrency-ab53eda62320) and [Burner Wallet](../../../for-users/wallets/burner-wallet/) scaffolding to create a seamless user experience.
 
 Here is a quick walkthrough of the Pony Purse, which uses Buttercup Bucks \(BCB - an ERC20 token created on the xDai chain\) as its cryptocurrency for transactions. User interaction is facilitated through QR codes.
 
@@ -14,7 +14,7 @@ At the conference, attendees were onboarded via the conference registration app.
 
 ## Creating a Wallet
 
-1\) Visit  [pony.cash](https://pony.cash) to create a new wallet.  A web browser on any device will work, but the wallet and experience is optimized for mobile. 
+1\) Visit [pony.cash](https://pony.cash) to create a new wallet. A web browser on any device will work, but the wallet and experience is optimized for mobile.
 
 ![Click Generate new Pony Purse to start.](../../../.gitbook/assets/bb1.png)
 
@@ -26,13 +26,13 @@ If you previously created a wallet, the same wallet should repopulate when you v
 
 ![A fresh Pony Purse, with no transactions.](../../../.gitbook/assets/bcb2.png)
 
-3\) Wallets can be populated by scanning a QR code.  A one-time use code may contain an amount of Buttercup Bucks \(BCBs\), a small amount of xDai to pay for transactions, or Non-Fungible Tokens \(badges\) earned for participating in activities. 
+3\) Wallets can be populated by scanning a QR code. A one-time use code may contain an amount of Buttercup Bucks \(BCBs\), a small amount of xDai to pay for transactions, or Non-Fungible Tokens \(badges\) earned for participating in activities.
 
 A\) Scan a QR code by pressing the **scan** button on the application home screen. Depending on the browser or device, you may need to enable the camera setting. Scan the QR Code on the back of the buck and the value will quickly populate in the Pony Purse.
 
 ![BCB physical tokens](../../../.gitbook/assets/bcb1.png)
 
-4\)  ButterCup Bucks are received. In the example below, BCBs are received via a transfer from one user to another rather than from a BCB physical token \(sent from address 983a2 -&gt; D20Ea, instructions below\). 
+4\) ButterCup Bucks are received. In the example below, BCBs are received via a transfer from one user to another rather than from a BCB physical token \(sent from address 983a2 -&gt; D20Ea, instructions below\).
 
 ![A wallet address receives 2.50 BCB along with a note from the sender.](../../../.gitbook/assets/bcb-3.png)
 
@@ -48,7 +48,7 @@ Since this is an out-of-conference wallet, you may need to transfer a small amou
 
 ![Receivers Wallet](../../../.gitbook/assets/bcb4.png)
 
-2\) The Sender then clicks the **Scan** button on their wallet, and scans the Receiver's QR code. 
+2\) The Sender then clicks the **Scan** button on their wallet, and scans the Receiver's QR code.
 
 ![Scanning the receiver&apos;s code](../../../.gitbook/assets/scanning-qr-code.png)
 
@@ -70,7 +70,7 @@ Purchasing items is just as simple. Individual items for sale can be assigned un
 
 ### Point of Sale System
 
-Multiple items can also be combined into a single QR code, creating an online shopping cart experience for users. For .conf19, Splunk set up a Point of Sale system using iPad-based terminals. These terminals were located throughout the conference and displayed various items for sale. Attendees could select multiple items/item quantities and add them to their cart. Once finished, they would press the "checkout" button to dynamically generate a single QR code containing details about the order. 
+Multiple items can also be combined into a single QR code, creating an online shopping cart experience for users. For .conf19, Splunk set up a Point of Sale system using iPad-based terminals. These terminals were located throughout the conference and displayed various items for sale. Attendees could select multiple items/item quantities and add them to their cart. Once finished, they would press the "checkout" button to dynamically generate a single QR code containing details about the order.
 
 Scanning this code with their Pony Purse allowed users to see all items along with the total cost of the order, and submit the entire purchase with a single transaction.
 
@@ -79,12 +79,12 @@ Scanning this code with their Pony Purse allowed users to see all items along wi
 ### Receiving more BCBs
 
 {% hint style="success" %}
-In addition to sending BCBs to each other, participants earned BCBs by completed tasks listed on the main page of the app during the event. Users received QR codes for these tasks and scanned them to receive additional BCBs. 
+In addition to sending BCBs to each other, participants earned BCBs by completed tasks listed on the main page of the app during the event. Users received QR codes for these tasks and scanned them to receive additional BCBs.
 {% endhint %}
 
 ## Additional Features
 
-The Burner Wallet ecosystem is rapidly evolving, and new wallets include plugins which enable  xDai purchase using fiat, interactive games, airdrops, and other features. \(See [Burner Wallet Factory](../../../for-developers/developer-resources/burner-wallet-factory/) for up-and-coming plugins\). 
+The Burner Wallet ecosystem is rapidly evolving, and new wallets include plugins which enable xDai purchase using fiat, interactive games, airdrops, and other features. \(See [Burner Wallet Factory](../../../for-developers/developer-resources/burner-wallet-factory/) for up-and-coming plugins\).
 
 At the Splunk conference, a list of conference-based tasks were available where users could earn NFT tokens \(badges\) and additional BCBs. In addition, some tasks were "hidden", and badges were earned when tasks were unknowingly accomplished by the user \(such as talking to a Splunk executive\). This feature brought interactivity and gamification to the conference.
 
@@ -92,11 +92,11 @@ At the Splunk conference, a list of conference-based tasks were available where 
 
 ## Pony Purse Interface
 
-Since many conference attendees were new to cryptocurrency, the wallet designers kept the menu interface simple and intuitive. 
+Since many conference attendees were new to cryptocurrency, the wallet designers kept the menu interface simple and intuitive.
 
 ![Pony Purse features a straightforward user menu](../../../.gitbook/assets/simple-menu.png)
 
-Users looking to learn more about the wallet could visit the **Advanced screen,** which provides details on smart contracts as well as updated xDai block counts, gas \(xDai\) balance, and links to [BlockScout Explorer](https://blockscout.com/xdai/mainnet/). 
+Users looking to learn more about the wallet could visit the **Advanced screen,** which provides details on smart contracts as well as updated xDai block counts, gas \(xDai\) balance, and links to [BlockScout Explorer](https://blockscout.com/xdai/mainnet/).
 
 ![](../../../.gitbook/assets/advanced-menu.png)
 
@@ -105,12 +105,6 @@ The **Help and About Screen** was also a key component, providing users with nee
 ![](../../../.gitbook/assets/help-and-about.png)
 
 {% hint style="success" %}
-The Pony Purse was a huge success at conf.19.  It provides a proven, working model for event-based wallets running on the xDai chain.  
+The Pony Purse was a huge success at conf.19. It provides a proven, working model for event-based wallets running on the xDai chain.
 {% endhint %}
-
-
-
-### 
-
-
 

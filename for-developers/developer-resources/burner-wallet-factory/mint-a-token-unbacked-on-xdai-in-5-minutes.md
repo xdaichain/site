@@ -1,8 +1,8 @@
 # Mint a Token \(unbacked\) on xDai in 5 minutes
 
-🍬 In ****this tutorial we create and mint an unbacked token on the xDai chain. This type of token does not have any intrinsic value \(these tokens can be assigned value later however you choose to use them\). See our tutorial on [Creating your own backed token](creating-your-own-burner-wallet-token.md) if you want to create tokens from existing amounts of xDai.  
+🍬 In _\*\*_this tutorial we create and mint an unbacked token on the xDai chain. This type of token does not have any intrinsic value \(these tokens can be assigned value later however you choose to use them\). See our tutorial on [Creating your own backed token](creating-your-own-burner-wallet-token.md) if you want to create tokens from existing amounts of xDai.
 
- We assume you have already created a wallet \(see [Creating a Quick Burner Wallet](creating-a-quick-burner-wallet.md)\) and are already logged into [Burner Factory ](www.burnerfactory.com)through Github. 
+We assume you have already created a wallet \(see [Creating a Quick Burner Wallet](creating-a-quick-burner-wallet.md)\) and are already logged into [Burner Factory ](https://github.com/xdaichain/site/tree/79d38a816d4feece3a4ec12a3d28b5f9c994593c/for-developers/developer-resources/burner-wallet-factory/www.burnerfactory.com)through Github.
 
 1\) Go to **TOKENS** in the top menu and select **New Token**.
 
@@ -10,7 +10,7 @@
 
 ![](../../../.gitbook/assets/bwnt1.png)
 
-2\) Fill in the token details. 
+2\) Fill in the token details.
 
 * **Token Name**: Full name of your token
 * **Token Symbol**: Unique Abbreviation, up to 5 characters
@@ -31,10 +31,10 @@ Click **Save and Publish.**
 ![](../../../.gitbook/assets/bw-details.png)
 
 {% hint style="info" %}
-$.01 xDai is added to any new token to pay for gas fees. In addition, the GSN \(Gas Station Network\) reload relay address is available. You can send additional xDai here if the $.01 fund runs out.  \(.01 should be good for @ 500 transactions or so\).
+$.01 xDai is added to any new token to pay for gas fees. In addition, the GSN \(Gas Station Network\) reload relay address is available. You can send additional xDai here if the $.01 fund runs out. \(.01 should be good for @ 500 transactions or so\).
 {% endhint %}
 
-4\) Mint some tokens to an address. 
+4\) Mint some tokens to an address.
 
 1. Add the recipient's address.
 2. Add the amount to mint \(up to the max amount\).
@@ -61,5 +61,5 @@ That's it. You can return to the token page to mint more tokens to different add
 
 For an excellent in-depth video on using BW Factory, see David Mihal, the creator of BW Factory, create and deploy a custom Spongebob token.
 
-{% embed url="https://medium.com/@dmihal/token-factory-build-tokens-pop-up-economies-with-the-burner-factory-39ccea9f47ac" %}
+{% embed url="https://medium.com/@dmihal/token-factory-build-tokens-pop-up-economies-with-the-burner-factory-39ccea9f47ac" caption="" %}
 

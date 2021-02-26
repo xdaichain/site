@@ -18,7 +18,7 @@ Easy Staking officially launched on Wednesday, August 5! Two days later there is
 
 You can also participate by adding STAKE/ETH to the Uniswap Liquidity pool to earn rewards. If that's more your speed, check it out here: Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
 
-{% embed url="https://twitter.com/xdaichain/status/1291016004362031104" %}
+{% embed url="https://twitter.com/xdaichain/status/1291016004362031104" caption="" %}
 
 ### ✅ xDai + Elrond Partnership
 
@@ -26,7 +26,7 @@ xDai will partner with [Elrond](https://elrond.com/) to architect their interope
 
 DeFi solutions continue to grow, and interoperability is needed to provide scalability. Excited to see what comes of this partnership!
 
-{% embed url="https://elrond.com/blog/elrond-interoperability-with-ethereum-compatible-chains-via-xdai-token-bridge" %}
+{% embed url="https://elrond.com/blog/elrond-interoperability-with-ethereum-compatible-chains-via-xdai-token-bridge" caption="" %}
 
 ## 👷♀ Dev Updates
 
@@ -34,13 +34,13 @@ DeFi solutions continue to grow, and interoperability is needed to provide scala
 
 In addition to our [entry for the Reddit Bakeoff](https://challenge.xdaichain.com/), [Connext ](https://connext.network/)entered with their spacefold.io demo, which demonstrates state channels connecting xDai to Rinkeby for cross-chain transfers. This is a second method of interoperability for xDai \(along with the TokenBridge\), allowing for interoperability without intermediaries.
 
-{% embed url="https://twitter.com/xdaichain/status/1290286122744963073" %}
+{% embed url="https://twitter.com/xdaichain/status/1290286122744963073" caption="" %}
 
 ### ✅ BlockScout Token View
 
-The BlockScout team continues to innovate and provide cutting-edge tools for their open-source explorer. The number of tokens on xDai are growing, and the tokens tab lets viewers easily find and search for tokens deployed to xDai. 
+The BlockScout team continues to innovate and provide cutting-edge tools for their open-source explorer. The number of tokens on xDai are growing, and the tokens tab lets viewers easily find and search for tokens deployed to xDai.
 
-{% embed url="https://blockscout.com/xdai/mainnet" %}
+{% embed url="https://blockscout.com/xdai/mainnet" caption="" %}
 
 ![](../../../../.gitbook/assets/blockscout%20%282%29.png)
 
@@ -50,15 +50,15 @@ The BlockScout team continues to innovate and provide cutting-edge tools for the
 
 In the Daily Gwei, Anthony Sassano wrote on 3 of his favorite Reddit Scaling Bake-Off entries, and 2 of them featured xDai as a scaling solution! \(our entry with Splunk as well as the Connext entry with state channels\) Check out this respected voice in the community opine on L2 scaling solutions below.
 
-{% embed url="https://thedailygwei.substack.com/p/ethereum-scaling-is-here-the-daily" %}
+{% embed url="https://thedailygwei.substack.com/p/ethereum-scaling-is-here-the-daily" caption="" %}
 
 ## 🦸♂ Community
 
 ### ✅ Twitter Banner Design Contest Ongoing
 
-We’ve launched a contest to design our Twitter banner with prizes in STAKE. **Entries due by August 20**. If you are a designer, or know one, forward on the info to help elevate the xDai STAKE visual game!   
-  
+We’ve launched a contest to design our Twitter banner with prizes in STAKE. **Entries due by August 20**. If you are a designer, or know one, forward on the info to help elevate the xDai STAKE visual game!
+
 Add your entry here:[ https://airtable.com/shrWqBjOHBzsdIdDI](https://airtable.com/shrWqBjOHBzsdIdDI)
 
-{% embed url="https://twitter.com/xdaichain/status/1288519372571639808" %}
+{% embed url="https://twitter.com/xdaichain/status/1288519372571639808" caption="" %}
 

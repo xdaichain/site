@@ -34,13 +34,13 @@ The current limits are below. Note that these can be changed by a majority vote 
 | Max Single Deposit | 9,999,999 Dai | 9,999,999 xDai |
 | Minimum Transfer | 0.005 Dai | 10 xDai |
 | Transaction \(Gas\) Fees | variable, paid in Eth | paid in xDai |
-| Transfer Fees \(in addition to gas fees\) | 0%  | 0% |
+| Transfer Fees \(in addition to gas fees\) | 0% | 0% |
 
 ### What is the Bridge Governance Board?
 
-In response to increased usage and value locked in the xDai bridge, a proposal was introduced to extend security and decision making powers to a wider group of participants \(governors\).   
-  
-The proposal was accepted, and governance by means of a multi-signature Gnosis Safe was put into place initially on the Ethereum side on 2 October, 2020. Once Gnosis Safe was deployed to xDai, updated governance was enacted on the xDai chain on 23 October, 2020. 
+In response to increased usage and value locked in the xDai bridge, a proposal was introduced to extend security and decision making powers to a wider group of participants \(governors\).
+
+The proposal was accepted, and governance by means of a multi-signature Gnosis Safe was put into place initially on the Ethereum side on 2 October, 2020. Once Gnosis Safe was deployed to xDai, updated governance was enacted on the xDai chain on 23 October, 2020.
 
 At present there are 13 governors who are responsible for managing bridge operations on both sides of the bridge \(contracts are deployed on the Ethereum and xDai side\). 7/13 signatures are required to approve any management proposal. Operations may include:
 
@@ -48,7 +48,7 @@ At present there are 13 governors who are responsible for managing bridge operat
 * Contract parameters updates such as bridge limits, finality threshold, gas price fallback etc.
 * Bridge validator parameter updates like changing the validators set or signatures threshold.
 
-All actions are managed through Gnosis Safe accounts, one on the Ethereum mainnet for Ethereum contract side operations and one on xDai for xDai contract operations. 
+All actions are managed through Gnosis Safe accounts, one on the Ethereum mainnet for Ethereum contract side operations and one on xDai for xDai contract operations.
 
 * [Current xDai Bridge Governance Board Members](../../for-validators/for-bridge-validators/)
 * Gnosis Safe contract on Ethereum: [https://gnosis-safe.io/app/\#/safes/0x42F38ec5A75acCEc50054671233dfAC9C0E7A3F6/settings](https://gnosis-safe.io/app/#/safes/0x42F38ec5A75acCEc50054671233dfAC9C0E7A3F6/settings)
@@ -71,14 +71,14 @@ The process requires several steps on the xDai chain.
 3. The Block Reward contract is invoked by the xDai network validator during the last step of block verification, and account balances are updated in the Block Reward contract. 
 
 {% hint style="info" %}
-Example transaction executing a transfer: [https://blockscout.com/xdai/mainnet/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions](https://blockscout.com/xdai/mainnet/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions)  
-  
- 🔎 Transactions can be investigated in further detail using [Tenderly](https://tenderly.co/).  
-  
- 💁♂ When troubleshooting, check the Coin Balance History in Blockscout for the account in question to find information about balance changes and blocks where these occurred.
+Example transaction executing a transfer: [https://blockscout.com/xdai/mainnet/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions](https://blockscout.com/xdai/mainnet/tx/0x799abac45b6c2ab18728b3baa04d112f8af8fba4d34d8078cf93856c71e73b91/internal-transactions)
+
+🔎 Transactions can be investigated in further detail using [Tenderly](https://tenderly.co/).
+
+💁♂ When troubleshooting, check the Coin Balance History in Blockscout for the account in question to find information about balance changes and blocks where these occurred.
 {% endhint %}
 
-### When claiming a DAI transaction on Ethereum, does the user originating the transaction also need to pay for the claim? 
+### When claiming a DAI transaction on Ethereum, does the user originating the transaction also need to pay for the claim?
 
 No, anyone can pay the fees to process the claim transaction and receive DAI, but the DAI will always be sent to the account set as the receiver in the initial originating request. This functionality opens the door for projects or other entities to pay for gas fees/subsidize the claims on Ethereum.
 
@@ -96,13 +96,13 @@ Click on the History button to see your transactions, then click the Claim butto
 
 ### I decided I don't want to bridge my xDai to Ethereum, but already processed the first transaction. Can I revert?
 
-No, this is not possible.  When the first transaction is complete,  the requested amount of xDai is burned on the xDai chain. If you want to return the amount back to the xDai chain, you must finalize the transfer \(claim\) on Ethereum and then send back to the xDai chain via the bridge to mint xDai once again.
+No, this is not possible. When the first transaction is complete, the requested amount of xDai is burned on the xDai chain. If you want to return the amount back to the xDai chain, you must finalize the transfer \(claim\) on Ethereum and then send back to the xDai chain via the bridge to mint xDai once again.
 
 ### My transaction was successful, so why do I see "Failed" status for some bridge validators in the ALM application?
 
-Once a quorum of confirmations is reached, the transaction is executed and the remaining confirmations are not required. This saves resources, and creates an easy visual record to see which validators confirmed for any given tx. 
+Once a quorum of confirmations is reached, the transaction is executed and the remaining confirmations are not required. This saves resources, and creates an easy visual record to see which validators confirmed for any given tx.
 
-Successful transactions are recorded with Status "Success", and additional validator confirmations, which are not needed, are either marked as 'Failed' or 'Not required' depending on the processing order. 
+Successful transactions are recorded with Status "Success", and additional validator confirmations, which are not needed, are either marked as 'Failed' or 'Not required' depending on the processing order.
 
 ## OmniBridge FAQs
 
@@ -132,7 +132,7 @@ No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensu
 
 ### What is the minimum number of a certain token that can be transferred using OmniBridge?
 
-This can vary by token. The default setting when a token is first bridged is 1, but this can be changed by bridge governance. To check the minimum for a particular token, query the `minPerTx` method of the omnibridge mediator contract. 
+This can vary by token. The default setting when a token is first bridged is 1, but this can be changed by bridge governance. To check the minimum for a particular token, query the `minPerTx` method of the omnibridge mediator contract.
 
 1. Go to [https://blockscout.com/xdai/mainnet/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy](https://blockscout.com/xdai/mainnet/address/0xf6A78083ca3e2a662D6dd1703c939c8aCE2e268d/read-proxy)
 2. Enter the bridged contract address into the `minPerTx` field. Convert from wei using [http://eth-converter.com/](http://eth-converter.com/)
@@ -143,26 +143,26 @@ This can vary by token. The default setting when a token is first bridged is 1, 
 For more details about other OmniBridge parameters, see the[ OmniBridge docs](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension#omnibridge-technical-information-and-extension-parameters).
 {% endhint %}
 
-### Can I use Omnibridge without the UI? 
+### Can I use Omnibridge without the UI?
 
 Yes you can. [Instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/how-to-transfer-tokens).
 
 ### Can I send an additional TX on Ethereum to unlock a token earlier by supplying the correct data?
 
-Yes, it is possible, you will need to collect the message and the oracles' signatures. A button is built into the [ALM](%20https://alm-xdai.herokuapp.com/) for this functionality.
+Yes, it is possible, you will need to collect the message and the oracles' signatures. A button is built into the [ALM](../../) for this functionality.
 
 ### Do validators replace transactions that are taking a long time to mine?
 
-Yes, attempts are made to replace transactions with a higher gas price after 20 minutes. This occurs if it receives a price provided by the gas price oracle, and is repeated every 20 minutes until the transaction is successful. 
+Yes, attempts are made to replace transactions with a higher gas price after 20 minutes. This occurs if it receives a price provided by the gas price oracle, and is repeated every 20 minutes until the transaction is successful.
 
 ### MetaMask is showing very high fees to claim a transaction on Ethereum \(tokens bridged from xDai to Ethereum\). Is this estimate accurate?
 
-Generally, the MetaMask gas limit estimates are high for OmniBridge tokens. In the following example, the gas limit was 1,036,275 but the gas spent for the execution was 208,805, **5 times lower than estimated**.   
-  
+Generally, the MetaMask gas limit estimates are high for OmniBridge tokens. In the following example, the gas limit was 1,036,275 but the gas spent for the execution was 208,805, **5 times lower than estimated**.
+
 **Example:**  
 [https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778](https://etherscan.io/tx/0x35c33d1d95794c46e70dd846811d82a4c202c1380a2df65f447f26e9dd98f778)
 
-Each token has unique parameters, and it is not possible to provide an accurate estimate before the tx is sent to the bridge oracles.  Here are a few examples to provide an idea of the gas costs when transferring tokens from xDai to Ethereum\*.
+Each token has unique parameters, and it is not possible to provide an accurate estimate before the tx is sent to the bridge oracles. Here are a few examples to provide an idea of the gas costs when transferring tokens from xDai to Ethereum\*.
 
 | Token | Min Gas to Execute | Max Gas to Execute |
 | :--- | :--- | :--- |
@@ -178,7 +178,7 @@ _\*Notes:_
 * We are working to provide more accurate estimates on a per-token basis, starting with higher volume bridged tokens.
 {% endhint %}
 
-When confirming a transfer, you will see a note with information about a claim transfer. This is a semi-accurate estimate of cost \(it is a hardcoded value\). 
+When confirming a transfer, you will see a note with information about a claim transfer. This is a semi-accurate estimate of cost \(it is a hardcoded value\).
 
 You always have the option to process the first tx on xDai, then wait until gas prices are lower on Ethereum to execute the 2nd claim transaction.
 
@@ -186,21 +186,19 @@ You always have the option to process the first tx on xDai, then wait until gas 
 
 ### If the cost to claim less than the MetaMask estimate, do I still need the full amount of estimated ETH to start the claim process?
 
-Yes, you will need that much in your wallet to initiate the claim transaction. However, only the amount used for gas fees will actually be deducted from your balance. 
+Yes, you will need that much in your wallet to initiate the claim transaction. However, only the amount used for gas fees will actually be deducted from your balance.
 
-With the example in the question above, the MetaMask estimate tx fee was 0.109 ETH/$200 worth of ETH at the time. The user needed to have that amount to start the tx, but the final cost was only 0**.**0218 ETH/$40.  It is also useful to [check the current gas price](https://www.ethgasstation.info/) and possibly adjust your gas price \(amount you are willing to pay per unit of gas\)  but **DO NOT adjust the gas limit \(the max amount of gas spent for the claim\)**.
+With the example in the question above, the MetaMask estimate tx fee was 0.109 ETH/$200 worth of ETH at the time. The user needed to have that amount to start the tx, but the final cost was only 0**.**0218 ETH/$40. It is also useful to [check the current gas price](https://www.ethgasstation.info/) and possibly adjust your gas price \(amount you are willing to pay per unit of gas\) but **DO NOT adjust the gas limit \(the max amount of gas spent for the claim\)**.
 
 ### I completed the first transaction but decided I don't want to complete the 2nd \(claim\). Can I revert?
 
-Unfortunately not, once you have started the transfer process it is non-reversible.  The only way to complete is to claim the token on Ethereum. If too expensive, you can wait until gas fees come down. There is not a time limit to claim the transaction.
+Unfortunately not, once you have started the transfer process it is non-reversible. The only way to complete is to claim the token on Ethereum. If too expensive, you can wait until gas fees come down. There is not a time limit to claim the transaction.
 
 ### Can I claim transactions manually?
 
-Yes, it is possible to use BlockScout and Etherscan to interact with the contracts and submit manually, or if you are familiar with the contract interaction through a Web3 provider, you can  importing the contract's ABI to your application. [This post details how](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb/submit-confirmations-manually).
+Yes, it is possible to use BlockScout and Etherscan to interact with the contracts and submit manually, or if you are familiar with the contract interaction through a Web3 provider, you can importing the contract's ABI to your application. [This post details how](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb/submit-confirmations-manually).
 
-### I'm having issues related to Bridging & HoneySwap 🐝 
+### I'm having issues related to Bridging & HoneySwap 🐝
 
-Honeyswap is a popular application running on xDai and utilizing bridge functionality. They have a forum at [https://forum.1hive.org/](https://forum.1hive.org/) with tons of info, a [Discord ](https://discord.com/invite/NTDBRNz)and [an FAQ](https://about.1hive.org/faq/) that covers basics about bridging, xDai and more.  Please bring any related questions to them. 
-
-
+Honeyswap is a popular application running on xDai and utilizing bridge functionality. They have a forum at [https://forum.1hive.org/](https://forum.1hive.org/) with tons of info, a [Discord ](https://discord.com/invite/NTDBRNz)and [an FAQ](https://about.1hive.org/faq/) that covers basics about bridging, xDai and more. Please bring any related questions to them.
 
