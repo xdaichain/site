@@ -6,11 +6,11 @@ description: 'Faucet provides .01 xDai, enough for lots of transactions on the x
 
 A small amount of xDai is needed to use the chain and process transactions. Hundreds of simple transactions can be completed with $.01 xDai, and it doesn't make sense to bridge this amount. 
 
-The [xDai Faucet on Blockscout](https://blockscout.com/poa/xdai/faucet) will send $.01 xDai to your account with ease! It can be used once every 24 hours at your convenience.
+The [xDai Faucet on Blockscout](https://blockscout.com/xdai/mainnet/faucet) will send $.01 xDai to your account with ease! It can be used once every 24 hours at your convenience.
 
 ## Instructions
 
-1\) Go to [https://blockscout.com/poa/xdai/faucet](https://blockscout.com/poa/xdai/faucet). It can also be accessed from the Apps Menu.
+1\) Go to [https://blockscout.com/xdai/mainnet/faucet](https://blockscout.com/xdai/mainnet/faucet) It can also be accessed from the Apps Menu.
 
 ![](../../.gitbook/assets/apps-menu.png)
 
