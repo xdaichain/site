@@ -4,7 +4,7 @@ description: 20 February -26 February 2021
 
 # ⚔️ xDai Weekly Recap - 26/02/2021
 
-![](../../../../.gitbook/assets/copy-of-green-and-black-modern-sales-marketing-presentation.png)
+![](../../../../.gitbook/assets/copy-of-green-and-black-modern-sales-marketing-presentation%20%282%29.png)
 
 ## 👷 POSDAO & Protocol Updates
 
