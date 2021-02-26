@@ -71,10 +71,11 @@ STAKE is also used for voting purposes, where [community members can create and 
 * ✅Outstanding energy efficiency.
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet/) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
 * ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md) and more.
+* ✅Open Source full-featured [BlockScout Explorer](https://blockscout.com/xdai/mainnet).
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
 
-![xDai on the BlockScout.com Blockchain Explorer](.gitbook/assets/xdai_explorer.png)
+![BlockScout at https://blockscout.com/xdai/mainnet](.gitbook/assets/bs1.png)
 
 ## \*\*\*\*
 
