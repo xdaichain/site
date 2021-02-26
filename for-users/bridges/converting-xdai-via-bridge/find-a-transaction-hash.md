@@ -17,7 +17,7 @@ In some cases, however, step 2 may not process, or a different method may be use
 
 ## Find Transaction Hash in BlockScout
 
-1\) Go to BlockScout at [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai) and enter the address that originated the transaction \(typically your wallet address\). If you were using a contract to interact with the bridge \(in this case use the contract that called the relayToken method\) enter that address.
+1\) Go to BlockScout at [https://blockscout.com/xdai/mainnet ](https://blockscout.com/xdai/mainnet)and enter the address that originated the transaction \(typically your wallet address\). If you were using a contract to interact with the bridge \(in this case use the contract that called the relayToken method\) enter that address.
 
 ![](../../../.gitbook/assets/xdai-bs.jpg)
 
