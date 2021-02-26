@@ -2,7 +2,7 @@
 
 ## How do I access the staking application?
 
-The app is located in the xDai instance of BlockScout, available at [https://blockscout.com/poa/xdai](https://blockscout.com/poa/xdai). Go to the Apps dropdown and select either Validators, Active Pools, or Inactive Pools to access.
+The app is located in the xDai instance of BlockScout, available at [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet). Go to the Apps dropdown and select either Validators, Active Pools, or Inactive Pools to access.
 
 ![](../../.gitbook/assets/new-menu.png)
 
@@ -34,7 +34,7 @@ Each staking epoch is ~1 week \(120992 blocks\).
 
 ## How does a participant \(validator, candidate or delegator\) add/withdraw/claim STAKE?
 
-A [UI integrated with BlockScout](https://blockscout.com/poa/xdai/validators) lets delegators and validators easily manage their STAKE tokens. For more info, see the [Staking Operations](../../for-stakers/staking-protocol/staking-operations/) section.
+A [UI integrated with BlockScout](https://blockscout.com/xdai/mainnet/validators) lets delegators and validators easily manage their STAKE tokens. For more info, see the [Staking Operations](../../for-stakers/staking-protocol/staking-operations/) section.
 
 ## How do I get my STAKE rewards as a validator/delegator?
 
