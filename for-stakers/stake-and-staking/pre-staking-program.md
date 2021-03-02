@@ -4,7 +4,7 @@ description: >-
   StakeVault
 ---
 
-# Pre-Staking Program
+# Pre-Staking Program \(expired\)
 
 ## Pre-Staking on BitMax
 
@@ -24,7 +24,7 @@ StakeVault is a brand-new initiative offered by BitMax. It allows projects to re
 
 Participants lock tokens in a simulated staking environment on BitMax. Rewards are distributed daily at **36.4% APR**. The program continues for 3 months, providing participants with the opportunity to earn STAKE rewards as the protocol prepares for public validation and staking. With pre-staking,  every 1000 STAKE placed in StakeVault equals 1 STAKE/day in rewards.
 
-When open public staking starts, users may continue to use StakeVault or may choose to use the xDai user interface for staking and delegated staking.  [Rewards for public staking on xDai are described here.](../stake-reward-mechanics/rewards-in-a-dual-token-environment.md)
+When open public staking starts, users may continue to use StakeVault or may choose to use the xDai user interface for staking and delegated staking.  [Rewards for public staking on xDai are described here.](../stake-token/stake-reward-mechanics/rewards-in-a-dual-token-environment.md)
 
 * **To start**:  [Earn STAKE rewards via StakeVault](https://btmx.com/#/staking/details/STAKE-S)
 * **More details**: Additional info and benefits are noted in the [BitMax announcement](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047202914-Join-a-3-month-Pre-Staking-for-xDai-with-36-4-Est-Annualized-Return-and-Additional-Incentive-Program), including a sweepstakes associated with the StakeVault launch. 

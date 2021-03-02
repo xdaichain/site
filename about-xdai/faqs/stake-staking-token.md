@@ -6,7 +6,7 @@ STAKE is a volatile token used as a staking token to protect the xDai chain. It 
 
 You do not need STAKE to use the xDai chain for regular transactions. You only need STAKE if you want to be a validator or delegator on the xDai chain.
 
-More on the [Dual Token Model](../../for-stakers/stake-reward-mechanics/dual-token-model.md)
+More on the [Dual Token Model](../../for-stakers/stake-token/stake-reward-mechanics/dual-token-model.md)
 
 ## How do I get STAKE on Ethereum?
 

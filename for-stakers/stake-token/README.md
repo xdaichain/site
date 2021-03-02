@@ -1,8 +1,8 @@
-# STAKE Governance and Staking Token
+---
+description: For Staking and Governance
+---
 
-{% hint style="info" %}
-STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai, however STAKE may be used for staking \(or other purposes\) by other blockchain networks.
-{% endhint %}
+# STAKE Token
 
 {% hint style="success" %}
 STAKE token address on Ethereum [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
@@ -44,4 +44,10 @@ As the ecosystem matures, STAKE will be used for chain governance, giving holder
 Community members can [submit governance proposals and vote with STAKE through Snapshot](stake-weighted-voting/).
 
 In future iterations, holders will have the opportunity to use STAKE in a micro-governance context to determine things like transaction sequencing and priority on a per-block basis, giving a true community voice to the txs written directly to the chain. Value capture related to this concept, known as [Miner Extractable Value](https://ethresear.ch/t/mev-auction-auctioning-transaction-ordering-rights-as-a-solution-to-miner-extractable-value/6788), will give STAKE an intrinsic and important purpose when Eth 2.0 is ready for production.
+
+{% hint style="info" %}
+ STAKE is a flexible asset, meaning it may be used in a variety of contexts. The initial use case describes leveraging STAKE in the POSDAO implementation for xDai, however STAKE may be used for staking \(or other purposes\) by other blockchain networks.
+{% endhint %}
+
+
 

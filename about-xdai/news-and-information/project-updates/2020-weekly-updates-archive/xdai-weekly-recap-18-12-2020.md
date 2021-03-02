@@ -10,7 +10,7 @@ We are very excited to be closing in on the public launch of staking and delegat
 
 See the [Become a Delegator](../../../../for-stakers/staking-protocol/become-a-delegator.md) section for a basic overview, and the [Staking Operations](../../../../for-stakers/staking-protocol/staking-operations/) section for details on using the Staking DApp.
 
-We've also drafted an [example reward scenario which compares potential staking rewards ](../../../../for-stakers/stake-reward-mechanics/staking-rewards-comparison.md)for EasyStaking, LP Providers, POSDAO delegators and POSDAO validators.
+We've also drafted an [example reward scenario which compares potential staking rewards ](../../../../for-stakers/stake-token/stake-reward-mechanics/staking-rewards-comparison.md)for EasyStaking, LP Providers, POSDAO delegators and POSDAO validators.
 
 ##  👷 BlockScout Smart Contract Verification
 

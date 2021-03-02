@@ -62,7 +62,7 @@ In all likelihood you are looking at the app during the final blocks of a stakin
 
 ## What rewards can I expect as a participant?
 
-See the [rewards in a dual token environment post](../../for-stakers/stake-reward-mechanics/rewards-in-a-dual-token-environment.md) for more information. As a validator, you will always receive at least 30% of your pool's rewards, and more if delegators contribute less than 70% to the pool. Rewards are based on how much STAKE is staked in the protocol as well as chain-based activity \(stable rewards come from bridge fees and transactions\). Staking rewards accumulate based on the locked amount, number of delegators, and validator performance.
+See the [rewards in a dual token environment post](../../for-stakers/stake-token/stake-reward-mechanics/rewards-in-a-dual-token-environment.md) for more information. As a validator, you will always receive at least 30% of your pool's rewards, and more if delegators contribute less than 70% to the pool. Rewards are based on how much STAKE is staked in the protocol as well as chain-based activity \(stable rewards come from bridge fees and transactions\). Staking rewards accumulate based on the locked amount, number of delegators, and validator performance.
 
 ## What is APY \(Annual Percentage Yield\)? 
 

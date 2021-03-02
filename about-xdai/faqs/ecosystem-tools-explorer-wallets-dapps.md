@@ -16,7 +16,7 @@ The biggest wallet use case is Burner Wallet - as this is really designed for sm
 
 ## How can I develop and deploy a DApp on xDai?
 
-Since xDai is an Ethereum-compatible sidechain, you can use the same tools \(like Truffle\), languages \(Solidity\) and environments you are used to using with Ethereum. With a few quick tweaks, your DApp can also be running on xDai. See [Smart Contract Deployment](../../for-developers/smart-contract-deployment.md) for details.
+Since xDai is an Ethereum-compatible sidechain, you can use the same tools \(like Truffle\), languages \(Solidity\) and environments you are used to using with Ethereum. With a few quick tweaks, your DApp can also be running on xDai. See [Smart Contract Deployment](../../for-developers/developer-resources/smart-contract-deployment.md) for details.
 
 ## MetaMask isn't working, what should I do?
 

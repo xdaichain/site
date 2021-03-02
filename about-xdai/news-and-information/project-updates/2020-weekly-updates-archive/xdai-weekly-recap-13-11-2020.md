@@ -24,7 +24,7 @@ An extensive bridge audit has been completed for the xDai bridge and the OmniBri
 
 ### ✅ $STAKE whitelisted on BANCOR
 
-The STAKE token is now whitelisted on Bancor v2.1. This means participants can participate in single-sided staking to earn swap fees while staking with a single asset.  [Learn how to stake with STAKE and receive protection against impermanent loss over time.](../../../../for-stakers/tools-supporting-stake/exchanges/bancor-2.1-single-sided-staking.md)
+The STAKE token is now whitelisted on Bancor v2.1. This means participants can participate in single-sided staking to earn swap fees while staking with a single asset.  [Learn how to stake with STAKE and receive protection against impermanent loss over time.](../../../../for-stakers/stake-token/tools-supporting-stake/exchanges/bancor-2.1-single-sided-staking.md)
 
 {% embed url="https://twitter.com/xdaichain/status/1325878894784811013" %}
 
@@ -37,7 +37,7 @@ The STAKE token is now whitelisted on Bancor v2.1. This means participants can p
 Follow our guides to:
 
 * [Create an airdrop](../../../../for-developers/developer-resources/creating-airdrops/creating-airdrops-via-linkdrop.md) using Linkdrop on xDai. 
-* [Claim a Linkdrop airdrop](../../../../for-developers/developer-resources/getting-airdrops/getting-airdrops-via-linkdrop.md).
+* [Claim a Linkdrop airdrop](../../../../for-developers/developer-resources/creating-airdrops/getting-airdrops/getting-airdrops-via-linkdrop.md).
 
 {% embed url="https://twitter.com/LinkdropHQ/status/1326860986201083904" %}
 

@@ -20,7 +20,7 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 
 ## Adding to the Liquidity Pool
 
-For now there is a single liquidity pool with Uniswap. More pools may be added in the future. You can use [Zapper.fi](../tools-supporting-stake/zapper.md) to stake, or add with Uniswap:
+For now there is a single liquidity pool with Uniswap. More pools may be added in the future. You can use [Zapper.fi](../stake-token/tools-supporting-stake/zapper.md) to stake, or add with Uniswap:
 
 1\) Go to [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7) and click Add Liquidity
 

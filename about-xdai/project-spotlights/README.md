@@ -23,7 +23,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [HOPR](https://www.coindesk.com/hopr-token-incentive-program-mixnet): Incentivized testnet for privacy-based mixnet 
 * [Ramp Network](https://ramp.network/): xDai Fiat Gateway. [More info here](../../for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md).
 
-### **Infrastructure & DeFi**
+### **Infrastructure**
 
 * [1Hive](1hive.md): DAO with a Community Currency & DEX on xDai
   * [Aragon Connect](https://1hive.org/): Deployed by 1Hive, provides DAO governance and proposal functionality.
@@ -42,6 +42,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker.
 * [Component Finance](https://xdai.component.finance/): Stable Coin Swap
 * [DeFi Wizard](https://defiwizard.xyz/): DeFi Smart Contract Building Platform
+* [pNetwork](https://p.network/network): Cross-chain pBTC. 
 
 ### **Community Engagement & Events**
 

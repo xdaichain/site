@@ -48,7 +48,7 @@ In preparation for POSDAO migration, we will complete all required changes to th
 
 POSDAO v1 is scheduled to go live with current validators on April 1. Public staking will not be activated in phase 1.
 
-POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.** [More info on Chai is available here.](../stake-reward-mechanics/xdai-rewards/chai-faqs.md)
+POSDAO includes a multi-reward structure for stakers. In addition to STAKE rewards, stakers receive additional xDai rewards.  To create these rewards, Dai locked in the bridge contract is converted to [Chai](https://chai.money/about.html), an interest earning form of Dai. The interest accumulated from the locked Chai during a staking epoch is divided amongst stakers at the end of each epoch. In phase 1, we will enable Chai conversion on the xDai bridge. **However, xDai reward dividends will be not be incorporated until phase 2.** [More info on Chai is available here.](../stake-token/stake-reward-mechanics/xdai-rewards/chai-faqs.md)
 
 ## Phase 2: Easy Staking, Public Staking & Reward Expansion
 

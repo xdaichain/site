@@ -2,10 +2,13 @@
 
 ## EasyStaking
 
-{% embed url="https://easy-staking.xdaichain.com/" %}
+☑ [https://easy-staking.xdaichain.com/deposits](https://easy-staking.xdaichain.com/deposits)
 
 {% hint style="info" %}
 EasyStaking is for staking STAKE on Ethereum. If you want to stake on xDai directly with POSDAO, see the [Staking Protocol and Tutorials](../staking-protocol/) section.
+
+Easy Staking Stats are available here:  
+[https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 {% endhint %}
 
 {% hint style="success" %}
@@ -13,7 +16,7 @@ EasyStaking is for staking STAKE on Ethereum. If you want to stake on xDai direc
 * [EasyStaking Parameters](easy-staking-parameters.md) for basic application requirements and incentive details.
 * Learn how the xDai Foundation is bootstrapping the launch with the [EasyStaking Initiative](../../about-xdai/news-and-information/project-updates/easystaking-launch-initiative.md).
 * View reward scenarios and other metrics at [stakingrewards.com](https://www.stakingrewards.com/earn/xdai/calculate%20) 
-* See a [reward comparison with different staking methods](../stake-reward-mechanics/staking-rewards-comparison.md) \(EasyStaking, LP Provider, Delegation & Validation\)
+* See a [reward comparison with different staking methods](../stake-token/stake-reward-mechanics/staking-rewards-comparison.md) \(EasyStaking, LP Provider, Delegation & Validation\)
 * View latest stats and analytics for EasyStaking and POSDAO with the 📊 [Dune Analytics Staking Dashboard](https://www.duneanalytics.com/maxaleks/xdai-staking).
 {% endhint %}
 
@@ -50,12 +53,13 @@ As well as functioning as a stand-alone application, Easy Staking may be integra
 ## Liquidity Pool \(LP\) Participants
 
 {% hint style="warning" %}
-LP incentives are distributed on average every 7 days - the exact distribution date is randomized. Incentives are distributed among the top 100 pools.
+LP incentives are distributed on average every 7 days - the exact distribution date is randomized. Incentives are distributed among the **top 100 pools**. 
 {% endhint %}
 
-Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
+* Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7)
+* LP STAKE reward distributions dashboard: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/)
 
-Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users who put funds into an ETH/STAKE liquidity pool on Uniswap will be eligible for these additional incentives.
+Liquidity pool providers will also receive STAKE incentives from the Easy Staking application. Users who put funds into an ETH/STAKE liquidity pool on Uniswap will be eligible for these additional incentives. **Note only the top 100 LPs receive additional STAKE.** 
 
  Here's an example of how it works for 👨🌾 Bob:
 

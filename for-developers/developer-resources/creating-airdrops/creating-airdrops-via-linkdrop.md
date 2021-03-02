@@ -35,6 +35,6 @@ description: Links are simple to generate in bulk via the Linkdrop interface
 > [https://claim.linkdrop.io/\#/receive?weiAmount=1000000000000000000&tokenAddress=0x0000000000000000000000000000000000000000&tokenAmount=0&expirationTime=1900000000000&version=1&chainId=100&linkKey=0x45d4a2bda3ab8f608579284f1bcfe84fffd399b639ebf99fc69d0cb5a25cdc48&linkdropMasterAddress=0xa84944735b66e957fe385567dcc85975022fe68a&linkdropSignerSignature=0xc0a4e17b881f6ee254fc7a20caf3c648d3035e04bda167216482f9e41e71aab329abbe45e7502f30ceb2bf0408ce46f3111f42b11e3b2be3536c6f3fa72e32471c&campaignId=3](https://claim.linkdrop.io/#/receive?weiAmount=1000000000000000000&tokenAddress=0x0000000000000000000000000000000000000000&tokenAmount=0&expirationTime=1900000000000&version=1&chainId=100&linkKey=0x45d4a2bda3ab8f608579284f1bcfe84fffd399b639ebf99fc69d0cb5a25cdc48&linkdropMasterAddress=0xa84944735b66e957fe385567dcc85975022fe68a&linkdropSignerSignature=0xc0a4e17b881f6ee254fc7a20caf3c648d3035e04bda167216482f9e41e71aab329abbe45e7502f30ceb2bf0408ce46f3111f42b11e3b2be3536c6f3fa72e32471c&campaignId=3)
 
 {% hint style="info" %}
-To claim, see the instructions for [getting airdrops via Linkdrop](../getting-airdrops/getting-airdrops-via-linkdrop.md).
+To claim, see the instructions for [getting airdrops via Linkdrop](getting-airdrops/getting-airdrops-via-linkdrop.md).
 {% endhint %}
 

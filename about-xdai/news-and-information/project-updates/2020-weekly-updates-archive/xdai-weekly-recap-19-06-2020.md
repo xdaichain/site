@@ -36,7 +36,7 @@ Eth developer Austin Griffith is working on new applications for xDai which will
 
 ### ✅ STAKE vs MKR
 
-In this article we look at the similarities and differences between these two governance tokens that support the underlying protocol functionality. [Read the Article](../../../comparisons/stake-vs-mkr.md).
+In this article we look at the similarities and differences between these two governance tokens that support the underlying protocol functionality. [Read the Article](../../comparisons/stake-vs-mkr.md).
 
 {% embed url="https://twitter.com/xdaichain/status/1273703196393910274" %}
 

@@ -2,7 +2,7 @@
 description: Supply and release schedule
 ---
 
-# STAKE token distribution
+# STAKE Token Distribution
 
 The STAKE token has an initial circulating supply of 8,537,500. Additional STAKE tokens are minted as staking rewards \(15% of staked tokens\).
 

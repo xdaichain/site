@@ -4,62 +4,82 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 
 # Welcome to xDai STAKE
 
-## About
+{% hint style="success" %}
+**Latest News**:  [Bao.finance](https://www.bao.finance/) targets March 2nd for live release on xDai. [Learn More](https://docs.bao.finance/)
+{% endhint %}
 
-{% tabs %}
-{% tab title="For users" %}
-The **xDai Chain** is a stable payments blockchain designed for fast and inexpensive stable transactions. **xDai** is used for transactions, payments and fees, and **STAKE** is used to support Proof-of-Stake consensus.
+## xDai Stable Chain
 
-**xDai** is the ideal cryptocurrency for everyday payments and transactions. Fees are extremely low, payments are **very fast**, and the value remains stable at ~ **$1 US Dollar per xDai**. User-friendly tools make xDai easily adoptable for crypto and non-crypto users alike! Users only need xDai to complete payments \(a single stable token for payments + fees\).
+The xDai chain is a stable payments blockchain designed for fast and inexpensive transactions. The chain uses a unique dual-token model;  [xDai ](for-users/get-xdai-tokens/)is a stable token used for transactions, payments, and fees, and [STAKE](for-stakers/stake-token/) is a governance token used to support the underlying [POSDAO Proof-of-Stake](for-validators/posdao-whitepaper.md) consensus.
 
-**STAKE** is a multi-chain staking token designed to secure the payment layer. Staking allows block producers \(validators and their delegators\) to provide transaction consensus and receive staking incentives for honest block production. **STAKE is not required for everyday chain transactions or users**, it is only required for consensus providers. STAKE is also not stable, it is a volatile token whose value is determined by the marketplace. 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">xDai &#x2694;</th>
+      <th style="text-align:left">STAKE &#x1F9B8;&#x2642;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Purpose</b>
+      </td>
+      <td style="text-align:left">Stable Payments
+        <br />Transaction (gas) Fees</td>
+      <td style="text-align:left">
+        <p>Staking &amp; Protocol Protection</p>
+        <p>Community Governance</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Stability</b>
+      </td>
+      <td style="text-align:left">Stable to USD</td>
+      <td style="text-align:left">Volatile / Market Driven</td>
+    </tr>
+  </tbody>
+</table>
 
-See the [dual token model](for-stakers/stake-reward-mechanics/dual-token-model.md) for more on this innovative approach.
-{% endtab %}
+🌉 [xDai Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.com). Tokens and arbitrary messages can also be passed across chains.
 
-{% tab title="For developers" %}
-The xDai chain is an EVM sidechain that uses a different consensus model \([POSDAO](for-validators/posdao-whitepaper.md)\) than Ethereum. The underlying architecture, however, mirrors Ethereum 1.0, meaning that smart contracts can be written and deployed in exactly the same way using a [different RPC endpoint](for-developers/developer-resources/#json-rpc-endpoints).
+* [xDai Bridge](for-users/bridges/converting-xdai-via-bridge/): Convert Dai to xDai and bridge xDai to Dai on Ethereum.
+* [Ethereum Omnibridge](for-users/bridges/omnibridge.md): Bridge ERC20 tokens between Ethereum and xDai.
+* [BSC OmniBridge](for-users/bridges/binance-smart-chain-omnibridge/): Public beta bridge to transfer ERC20s between Binance Smart Chain and xDai.
 
-Any contract that works on the Ethereum mainnet can be easily redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai.
-{% endtab %}
+🔎 [BlockScout Block Explorer](https://blockscout.com/xdai/mainnet) provides transactional transparency, custom features and a portal for xDai apps such as xDai staking, the xDai faucet, cross-chain bridge access and monitoring.
 
-{% tab title="For validators" %}
-Validators on the xDai chain provide consensus for transactions and secure the chain. The original xDai validator set is composed of [well known organizations in the Ethereum community](for-validators/about-xdai-validators/), and [new validator candidates can now onboard to POSDAO](for-stakers/staking-protocol/become-a-candidate-validator.md).
+## Projects on xDai
 
-xDai runs on public POSDAO and [delegated Proof of Stake](for-stakers/staking-protocol/) , so anyone with enough STAKE and the ability to run a node can become a validator. Delegators help determine the validator set by placing stake on candidates they want to see become validators.
-{% endtab %}
+The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
 
-{% tab title="ELI5" %}
-xDai is the name of a blockchain AND the stable cryptocurrency used on the chain. Each xDai token is worth ~ 1 US dollar.
+![Featured Applications and xDai Integrations](.gitbook/assets/colorful-sunglasses-twitter-header.png)
 
-The xDai blockchain is a sidechain of the Ethereum blockchain. This means it has the same properties as Ethereum, but uses a different method to make sure transactions are valid and consistent across all nodes in the distributed network \(consensus\). To do this, validators take turns transmitting and verify blocks every 5 seconds. Transactions can be completed quickly and fees for transactions are very small. 
+| Partners | Infrastructure | DeFi | NFTs | DAOs |
+| :--- | :--- | :--- | :--- | :--- |
+| [Gnosis](about-xdai/project-spotlights/gnosis/) | [Origin Trail](https://origintrail.io/) | [HoneySwap](about-xdai/project-spotlights/honeyswap.md) | [POAP](https://www.poap.xyz/) | [DaoHaus](about-xdai/project-spotlights/daohaus.md) |
+| [Chainlink](about-xdai/project-spotlights/chainlink.md) | [RealT](https://realt.co/) | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io/) |
+| [HOPR](https://hoprnet.org/) | [Circles UBI](about-xdai/project-spotlights/circles-ubi.md) | [Component Finance](about-xdai/project-spotlights/component-finance.md) | [Unifty](https://unifty.io) | [DXdao](https://dxdao.medium.com/) |
+| [Ramp Network](https://ramp.network/) | [clr.fund](about-xdai/project-spotlights/clr-fund.md) | [BaoSwap](https://www.bao.finance/) | [Chievmint](https://chiev.net/) | [RaidGuild](https://raidguild.org/) |
 
-xDai consensus uses public staking where community members can also be validator nodes that add transactions to the xDai chain. See below for more on STAKE, the token that is used for Proof of Stake consensus.
+## **xDai Developers**
 
-### xDai Native Token
+Development on xDai is easy and intuitive for Ethereum developers. xDai is an EVM sidechain, and smart contracts can be written and deployed in exactly the same way simply by setting a [different RPC endpoint.](for-developers/developer-resources/#json-rpc-endpoints) ****
 
-xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card](for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md)\) but behind the scenes it is always created from Dai, and the value of xDai corresponds 1:1 with Dai. 
+Any contract that works on the Ethereum mainnet can be redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai. ****Many tools supporting Ethereum development ****are compatible with xDai, including: 
 
-**Here's how xDai is created:**
+* TheGraph
+* Tenderly
+* Remix
+* OpenZeppelin
+* Gnosis MultiSig
+* Dune Analytics
+* Many more...
 
-1. Dai is locked into a smart contract on Ethereum. This means it must remain in that contract and cannot be moved until the contract receives a verified signal to unlock it.
-2. Using a bridge mechanism called the [TokenBridge](https://docs.tokenbridge.net), data about the locked Dai is transmitted to a smart contract on the xDai chain.
-3. The contract on the xDai chain creates the exact same amount of xDai.
-4. This xDai is then usable on the xDai chain. Users only need to switch the chain their wallet is pointing to, and xDai is available using the same Ethereum address.
+🛠 See [Developer Resources and Tools](for-developers/developer-resources/) to get up-and-running quickly.
 
-When users want to exchange xDai for Dai, the process happens in reverse. xDai is burned \(destroyed\) in the xDai chain smart contract, and a verified signal is sent to unlock the exact same amount of Dai on the Ethereum mainnet. The unlocked Dai is then returned to the user’s address on the mainnet. 
+![BlockScout at https://blockscout.com/xdai/mainnet](.gitbook/assets/bs1.png)
 
-### STAKE Token
-
-The STAKE token is separate from xDai and is used to protect chain consensus. Validators commit a large amount of STAKE into a contract and agree that their nodes will produce blocks correctly and follow the rules.  If they are successful and follow the rules, they receive additional STAKE as rewards. If they do not follow the rules, they are banned from the protocol for 90 days and their STAKE is locked and unavailable to withdraw. 
-
-Other community members can also delegate, or place STAKE on validators they would like to see running nodes in the network. Validators are selected each week based on how much STAKE is in their pools \(STAKE they have provided as well as STAKE delegators have provided\) as well as a random number, which makes sure the selection process is fair. 
-
-STAKE is also used for voting purposes, where [community members can create and vote on proposals](for-stakers/stake-token/stake-weighted-voting/) about the xDai protocol \(for example changing fee amounts, delegation amounts etc.\)
-{% endtab %}
-{% endtabs %}
-
-## **Reasons to Use the xDai Stable Chain:**
+## **Why xDai?**
 
 * ✅Fast transaction times \(5 seconds\) & low transaction fees \(500 tx for $.01\).
 * ✅Digital cash. A stable chain is ideal for real world value exchange where 1 xDai = 1 US Dollar.
@@ -74,8 +94,4 @@ STAKE is also used for voting purposes, where [community members can create and 
 * ✅Open Source full-featured [BlockScout Explorer](https://blockscout.com/xdai/mainnet).
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
-
-![BlockScout at https://blockscout.com/xdai/mainnet](.gitbook/assets/bs1.png)
-
-## \*\*\*\*
 

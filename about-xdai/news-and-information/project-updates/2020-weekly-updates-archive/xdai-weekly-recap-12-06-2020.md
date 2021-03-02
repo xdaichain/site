@@ -8,7 +8,7 @@ description: 06 June 2020 - 12 June 2020
 
 ### ✅ xDai vs Matic
 
-In this article we look at the similarities and differences between these two chains. Both offer scaling solutions and tradeoffs for users. [Read the Article](../../../comparisons/matic.md).
+In this article we look at the similarities and differences between these two chains. Both offer scaling solutions and tradeoffs for users. [Read the Article](../../comparisons/matic.md).
 
 {% embed url="https://twitter.com/xdaichain/status/1270765682448359427" %}
 

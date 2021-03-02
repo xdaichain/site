@@ -48,7 +48,7 @@ The Roll network mints branded, personal digital tokens unique to an individual'
 
 ### ✅ OMG Comparison Article
 
-With all the recent Layer 2 scaling talk, we added another comparison article which compares the OMG Network to xDai. While both provide scaling, xDai wins out when it comes to flexibility, cost, and time in production. [Read the article here](../../../comparisons/omg-network.md)
+With all the recent Layer 2 scaling talk, we added another comparison article which compares the OMG Network to xDai. While both provide scaling, xDai wins out when it comes to flexibility, cost, and time in production. [Read the article here](../../comparisons/omg-network.md)
 
 ![](../../../../.gitbook/assets/green-and-black-corporate-comparison-chart.png)
 

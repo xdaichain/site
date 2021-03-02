@@ -1,5 +1,5 @@
 ---
-description: xDai will transition to a new type of dPOS consensus called POSDAO.
+description: xDai runs on a new type of dPOS consensus called POSDAO.
 ---
 
 # POSDAO Whitepaper
