@@ -4,7 +4,7 @@ description: A tool to revoke or adjust contract allowances
 
 # Revoke
 
-Many DeFi apps require users to allow a contract to spend funds before transfers are sent. This can result in an unlimited allowance, which carries security risks if a contract is compromised, has a bug, or if there are other issues. It is best practice to allow only the amount you want to transfer and repeat this process each time. This is especially true on xDai, where transaction costs are minimal.
+Many DeFi apps require users to `allow` a contract to spend funds before transfers are sent. This can result in an unlimited allowance, which carries security risks if a contract is compromised, has a bug, or if there are other issues. It is best practice to allow only the amount you want to transfer and repeat this process each time. This is especially true on xDai, where transaction costs are minimal.
 
 [Revoke.cash](https://revoke.cash/) provides a simple way to check your allowances and revoke them, or adjust them to lower amounts rather than unlimited allowances. It works on Ethereum and xDai.
 
