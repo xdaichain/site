@@ -54,7 +54,7 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 
 ![Featured Applications and xDai Integrations](.gitbook/assets/colorful-sunglasses-twitter-header.png)
 
-| Partners | Infrastructure | DeFi | NFTs | DAOs |
+| Integrations | Infrastructure | DeFi | NFTs | DAOs |
 | :--- | :--- | :--- | :--- | :--- |
 | [Gnosis](about-xdai/project-spotlights/gnosis/) | [Origin Trail](https://origintrail.io/) | [HoneySwap](about-xdai/project-spotlights/honeyswap.md) | [POAP](https://www.poap.xyz/) | [DaoHaus](about-xdai/project-spotlights/daohaus.md) |
 | [Chainlink](about-xdai/project-spotlights/chainlink.md) | [RealT](https://realt.co/) | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io/) |

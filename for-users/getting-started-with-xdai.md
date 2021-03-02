@@ -27,7 +27,7 @@ BlockScout is the xDai gateway for exploring activities on the chain and accessi
 ## 4\) Explore and Enjoy
 
 * Find [Projects and DApps running on xDai](../about-xdai/project-spotlights/), including games, DeFi apps, NFT marketplaces, DAOs and much more.
-* Helpful on-chain tools for users are referenced [here](applications.md).
+* Helpful on-chain tools for users are referenced [here](applications/).
 * If you are interested in participating in governance and shaping the future of xDai, see the [STAKE Token](../for-stakers/stake-token/) and [Staking on xDai ](../for-stakers/staking-protocol/)sections to get involved as a delegator or participate in community governance.
 * When in doubt, [visit the FAQs](../about-xdai/faqs/) for more information. Additionally, you can find more here:
   * Community questions: [Telegram](https://t.me/xdaistable)
