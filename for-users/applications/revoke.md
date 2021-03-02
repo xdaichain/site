@@ -8,7 +8,7 @@ Many DeFi apps require users to allow a contract to spend funds before transfers
 
 ![Honeyswap allow example](../../.gitbook/assets/approve-example%20%282%29.png)
 
-The safest practice is to allow only the amount you want to transfer currently, then repeat the allowance process each time. This is especially true on xDai, where transaction costs are minimal. However, unlimited approval is often the default \(in the example above you would need to Edit Permission to change\).
+The safest practice is to allow only the amount you want to transfer currently, then repeat the allowance process each time. This is especially painless on xDai, where transaction costs are minimal. However, unlimited approval is often the default \(in the example above you would need to _Edit Permission_ to change\).
 
 [Revoke.cash](https://revoke.cash/) provides a simple way to check your allowances and revoke them, or adjust them to lower amounts rather than unlimited allowances. It works on Ethereum and xDai.
 
