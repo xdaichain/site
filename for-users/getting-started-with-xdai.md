@@ -4,6 +4,7 @@
 
 To get started on xDai, you will need to setup your externally owned address \(wallet address\) to access the xDai chain. You can use the same address you use on Ethereum, but the chain id and RPC must point to xDai.  
 
+* You can use [Chainlist](https://chainlist.org/) to quickly add to MetaMask, or
 * See the [MetaMask Setup tutorial](wallets/metamask/metamask-setup.md) for example steps and configuration.
 * If desired, you can also use a [different RPC endpoint](../for-developers/developer-resources/#json-rpc-endpoints).
 * See the [wallets section](wallets/) for additional wallets that support xDai out of the box and don't require configuration.
