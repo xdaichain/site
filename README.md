@@ -57,7 +57,7 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 | Integrations | Infrastructure | DeFi | NFTs | DAOs |
 | :--- | :--- | :--- | :--- | :--- |
 | [Gnosis](about-xdai/project-spotlights/gnosis/) | [Origin Trail](https://origintrail.io/) | [HoneySwap](about-xdai/project-spotlights/honeyswap.md) | [POAP](https://www.poap.xyz/) | [DaoHaus](about-xdai/project-spotlights/daohaus.md) |
-| [Chainlink](about-xdai/project-spotlights/chainlink.md) | [RealT](https://realt.co/) | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io/) |
+| [Chainlink](about-xdai/project-spotlights/chainlink/) | [RealT](https://realt.co/) | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io/) |
 | [HOPR](https://hoprnet.org/) | [Circles UBI](about-xdai/project-spotlights/circles-ubi.md) | [Component Finance](about-xdai/project-spotlights/component-finance.md) | [Unifty](https://unifty.io) | [DXdao](https://dxdao.medium.com/) |
 | [Ramp Network](https://ramp.network/) | [clr.fund](about-xdai/project-spotlights/clr-fund.md) | [BaoSwap](https://www.bao.finance/) | [Chievmint](https://chiev.net/) | [RaidGuild](https://raidguild.org/) |
 

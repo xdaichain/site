@@ -86,7 +86,7 @@ There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 ## DApp Management & Developer Tools
 
 {% hint style="info" %}
-See the dropdown menu for tutorials related to some of these tools.
+See the dropdown menu under Developer Resources and Tools for related tutorials.
 {% endhint %}
 
 * [Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for gasless transactions and improved DApp UX.
@@ -99,6 +99,7 @@ See the dropdown menu for tutorials related to some of these tools.
 * [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout](https://github.com/xdaichain/site/tree/79d38a816d4feece3a4ec12a3d28b5f9c994593c/xdai/mainnet/README.md).
 * [Remix IDE](https://remix-project.org/):  It's easy to deploy to xDai with Remix, simply choose injected web3 and add the [xDai custom RPC to your metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup).
 * [OpenZeppelin Defender: ](https://defender.openzeppelin.com/)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) Multisig.
+* [Chainlink](https://docs.chain.link/docs/xdai-price-feeds): xDai Price Feeds integration. 
 
 ### **Dashboards & Monitoring**
 
