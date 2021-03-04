@@ -2,23 +2,15 @@
 
 To import an existing account to Alpha:
 
-* a\) Go to **Settings** -&gt; **Change Wallet.**
+From the Settings Menu
 
-![](../../../.gitbook/assets/alpha1.png)
+1. Go to **Change/Add Wallet**
+2. Click **Add** and **Import Wallet.**
+3. Add your method \(seed, keystore, private key\) and click **Import.**
 
+![Android](../../../.gitbook/assets/alpha1%20%281%29.jpg)
 
-
-* b\) Click + .
-
-![](../../../.gitbook/assets/alpha2%20%281%29.png)
-
-* c\) Select **Import Wallet.**
-
-![](../../../.gitbook/assets/alpha-3.png)
-
-* 4\) Add **Method** \(seed, keystore, private key or watch\) & click **Import.**
-
-![](../../../.gitbook/assets/alpha-4.png)
+![ios](../../../.gitbook/assets/alpha2%20%281%29.jpg)
 
 You will now be connected to this account, and can switch between accounts as needed.
 
