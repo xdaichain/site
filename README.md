@@ -5,7 +5,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai STAKE
 
 {% hint style="success" %}
-**Latest News**:  [Bao.finance](https://www.bao.finance/) targets March 2nd for live release on xDai. [Learn More](https://docs.bao.finance/)
+**Latest News**:  Chainlink price feeds live on xDai. [Learn More](about-xdai/project-spotlights/chainlink/price-feeds.md)
 {% endhint %}
 
 ## xDai Stable Chain
