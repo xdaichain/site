@@ -116,7 +116,11 @@ Please see the OmniBridge documentation at [https://docs.tokenbridge.net/eth-xda
 
 ### What tokens have been bridged using OmniBridge?
 
-You can find a current list on BlockScout at [https://blockscout.com/xdai/mainnet/bridged-tokens](https://blockscout.com/xdai/mainnet/bridged-tokens)
+You can find current lists  on BlockScout. This includes tokens bridged from Ethereum and tokens bridged from Binance Smart Chain.
+
+Bridged from Ethereum: [https://blockscout.com/poa/xdai/bridged-tokens/eth](https://blockscout.com/poa/xdai/bridged-tokens/eth)  
+  
+Bridged from Binance Smart Chain: 
 
 ### How do I monitor transactions?
 
@@ -124,7 +128,11 @@ Use the AMB Live Monitoring application located at [https://alm-xdai.herokuapp.c
 
 ### I don't see the token I bridged in MetaMask - how can I add it?
 
-[Here are some instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20#add-the-new-token-to-metamask).
+The easiest way is to connect MetaMask to xDai and click on the "MetaMask" icon next to the token in the tokens list. This will add the token address to your MetaMask account.
+
+![](../../.gitbook/assets/metamask-icon.png)
+
+If preferred, you can also add manually. [Here are some instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20#add-the-new-token-to-metamask).
 
 ### Does the OmniBridge use the same validators / governors as the xDai bridge?
 
@@ -146,10 +154,6 @@ For more details about other OmniBridge parameters, see the[ OmniBridge docs](ht
 ### Can I use Omnibridge without the UI?
 
 Yes you can. [Instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/how-to-transfer-tokens).
-
-### Can I send an additional TX on Ethereum to unlock a token earlier by supplying the correct data?
-
-Yes, it is possible, you will need to collect the message and the oracles' signatures. A button is built into the [ALM](../../) for this functionality.
 
 ### Do validators replace transactions that are taking a long time to mine?
 
@@ -197,6 +201,31 @@ Unfortunately not, once you have started the transfer process it is non-reversib
 ### Can I claim transactions manually?
 
 Yes, it is possible to use BlockScout and Etherscan to interact with the contracts and submit manually, or if you are familiar with the contract interaction through a Web3 provider, you can importing the contract's ABI to your application. [This post details how](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb/submit-confirmations-manually).
+
+### Is a token I want to bridge traded on HoneySwap?  I am confused if it was bridged from Ethereum or BSC.
+
+There can be confusion when tokens are bridged to xDai from both Ethereum and Binance Smart Chain. To check where a token was bridged from, and if there is liquidity for trading:
+
+1. Go to [https://info.honeyswap.org/pairs](https://info.honeyswap.org/pairs) to find a pair you may want to swap. For example, WETH-LINK: [https://info.honeyswap.org/pair/0x529410569eef63b2d73612f0f844a5133265af68](https://info.honeyswap.org/pair/0x529410569eef63b2d73612f0f844a5133265af68)   
+In this example, Click on the LINK token.
+
+![](../../.gitbook/assets/ink-token.png)
+
+2.  This will take you here: [https://info.honeyswap.org/token/0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2](https://info.honeyswap.org/token/0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2). Click on the token address or use the address starting with 0x and paste into BlockScout.
+
+![](../../.gitbook/assets/link2.png)
+
+3. In BlockScout, click on the TokenProxy token name \(ChainLink Token on xDai\) to go to the token page. Example token page: [https://blockscout.com/poa/xdai/tokens/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/token-transfers](https://blockscout.com/poa/xdai/tokens/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2/token-transfers) 
+
+![](../../.gitbook/assets/ink3.png)
+
+4. Tags near the token name will tell you where the token was bridged from. “ETH” means that the token was bridged from the Ethereum Mainnet. “BSC” means that the token was bridged from Binance Smart Chain. 
+
+![](../../.gitbook/assets/ink4.png)
+
+### How can I convert USDC from Binance Smart Chain to USDC on xDai, or DAI from Binance Smart Chain to xDai?
+
+Use [https://xdai.component.finance/](https://xdai.component.finance/) to swap between USDC bridged from Ethereum or Binance Smart Chain. You can also use to swap between Dai bridged from Binance Smart Chain and wxDai. [More instructions are here.](../../for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
 
 ### I'm having issues related to Bridging & HoneySwap 🐝
 
