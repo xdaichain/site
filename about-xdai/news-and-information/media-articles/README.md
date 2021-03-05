@@ -6,6 +6,8 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 
 ## In the News
 
+{% embed url="https://cointelegraph.com/news/a-dark-horse-in-the-ethereum-scaling-wars-chainlink-s-oracles-find-fertile-ground-on-xdai" caption="CoinTelegraph March 2021" %}
+
 {% embed url="https://newsletter.banklesshq.com/p/an-intro-to-xdai-ethereums-sister" caption="Bankless December 2020" %}
 
 {% embed url="https://ournetwork.substack.com/p/issue-45" caption="Our Network Newsletter October 2020" %}

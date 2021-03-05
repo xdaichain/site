@@ -37,12 +37,15 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 * [Honeyswap](https://honeyswap.org/): xDai Dex \(Uniswap fork\)
 * [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
+* [SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
+* [BaoSwap](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO.
 * [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface.
 * [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
 * [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker.
 * [Component Finance](https://xdai.component.finance/): Stable Coin Swap
 * [DeFi Wizard](https://defiwizard.xyz/): DeFi Smart Contract Building Platform
-* [pNetwork](https://p.network/network): Cross-chain pBTC. 
+* [pNetwork](https://p.network/network): Cross-chain pBTC.
+* [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 
 ### **Community Engagement & Events**
 
@@ -84,6 +87,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
 * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
+* [Unique.one](http://Unique.One): NFT Marketplace 
 * Projects in other categories that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
