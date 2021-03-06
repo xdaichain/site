@@ -38,7 +38,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Honeyswap](https://honeyswap.org/): xDai Dex \(Uniswap fork\)
 * [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
 * [SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
-* [BaoSwap](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO.
+* [BaoFinance](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO.
 * [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface.
 * [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
 * [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker.
@@ -97,7 +97,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [HoneySwap](https://honeyswap.org/#/swap): Uniswap with HNY.
 * [xMoon Exchange](https://xmoon.exchange/): A DEX for Reddit MOON liquidity \(xMoon to xDai\).
 * [Component Finance](https://xdai.component.finance/): Stable Coin exchange.
-* BaoFinance: Coming Soon.
+* BaoSwap: Coming Soon.
 
 ### **DAOs**
 
