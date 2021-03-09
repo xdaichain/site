@@ -17,8 +17,8 @@ To get started on xDai, you will need to setup your externally owned address \(w
 
 * Convert Dai on Ethereum to xDai with the [xDai bridge](bridges/converting-xdai-via-bridge/)
 * [Purchase xDai directly from BitMax](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai)  
-* With Fiat using the [Ramp Network](get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md) or Mt Pelerin
-* Try the 1Hive faucet for small amounts.
+* With Fiat using the [Ramp Network](get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md) or [Mt Pelerin](get-xdai-tokens/buying-xdai-with-fiat/mt-pelerin.md)
+* Ask on [xDai Discord](https://discord.gg/mPJ9zkq) or [Telegram](https://t.me/xdaistable) ... friends may be willing to help with small amounts 😊 
 
 ## 3\) BlockScout is your Home Base
 
