@@ -15,9 +15,10 @@ To get started on xDai, you will need to setup your externally owned address \(w
 
 ## 2\) Get a Little xDai  
 
-You can use the [xDai Faucet](get-xdai-tokens/xdai-faucet.md) to request 0.01 xDai, enough for hundreds of simple transactions. 
-
-Alternately, you can convert Dai on Ethereum to xDai with the [xDai bridge,](bridges/converting-xdai-via-bridge/) or [purchase xDai directly from BitMax](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai) or with Fiat using the [Ramp Network](get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md).
+* Convert Dai on Ethereum to xDai with the [xDai bridge](bridges/converting-xdai-via-bridge/)
+* [Purchase xDai directly from BitMax](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai)  
+* With Fiat using the [Ramp Network](get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md) or Mt Pelerin
+* Try the 1Hive faucet for small amounts.
 
 ## 3\) BlockScout is your Home Base
 

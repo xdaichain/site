@@ -4,15 +4,17 @@ description: 'Faucet provides .01 xDai, enough for lots of transactions on the x
 
 # xDai Faucet
 
+{% hint style="warning" %}
+Unfortunately, the xDai Faucet was consistently abused and "farmed" out of funds despite our best efforts to maintain funds for the community. It is currently not project funded, individual users can add a deposit to the faucet if desired. We are exploring ways to re-instate project funding, but it is deprecated for the foreseeable future.
+{% endhint %}
+
 A small amount of xDai is needed to use the chain and process transactions. Hundreds of simple transactions can be completed with $.01 xDai, and it doesn't make sense to bridge this amount. 
 
 The [xDai Faucet on Blockscout](https://blockscout.com/xdai/mainnet/faucet) will send $.01 xDai to your account with ease! It can be used once every 24 hours at your convenience.
 
 ## Instructions
 
-1\) Go to [https://blockscout.com/xdai/mainnet/faucet](https://blockscout.com/xdai/mainnet/faucet) It can also be accessed from the Apps Menu.
-
-![](../../.gitbook/assets/apps-menu.png)
+1\) Go to [https://blockscout.com/xdai/mainnet/faucet](https://blockscout.com/xdai/mainnet/faucet)
 
 2\) Enter in your address, complete the Captcha info and click **Request 0.01 xDai**.
 
