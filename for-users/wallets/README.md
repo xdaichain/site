@@ -8,6 +8,7 @@ For STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum.
 * [Burner Wallet](burner-wallet/)
 * [Burner Wallet 2](burner-wallet-2.md)
 * [DEX Wallet](dex-wallet.md)
+* Mt Pelerin
 * [MetaMask](metamask/)
 * [Nifty Wallet](nifty-wallet.md)
 * [Poketto Cash](poketto.md)
