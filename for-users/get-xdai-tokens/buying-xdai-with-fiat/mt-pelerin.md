@@ -1,5 +1,5 @@
 ---
-description: Use the Mt Pelerin wallet to purchase xDai with a debit card
+description: Use the Mt Pelerin wallet to purchase xDai with a bank transfer
 ---
 
 # Mt Pelerin
