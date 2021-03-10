@@ -10,6 +10,7 @@ Different bridges exist to support different operations. Two bridges currently e
 
 * **xDai Bridge**: Convert **Dai to xDai** and **xDai to Dai**
 * **OmniBridge**: Convert **any other ERC20 tokens** on Mainnet to equivalent ERC677 tokens on the xDai chain
+* **BSC OmniBridge \(Beta\)**: Bridge tokens between xDai and Binance Smart Chain.
 
 An NFT Bridge is currently in active development.
 
@@ -116,11 +117,13 @@ Please see the OmniBridge documentation at [https://docs.tokenbridge.net/eth-xda
 
 ### What tokens have been bridged using OmniBridge?
 
-You can find current lists  on BlockScout. This includes tokens bridged from Ethereum and tokens bridged from Binance Smart Chain.
+You can find current lists on BlockScout. This includes tokens bridged from Ethereum and tokens bridged from Binance Smart Chain.
+
+The suffix **from Ethereum** or **from BSC** is added to the token name so users know which chain the token was bridged from.
 
 Bridged from Ethereum: [https://blockscout.com/poa/xdai/bridged-tokens/eth](https://blockscout.com/poa/xdai/bridged-tokens/eth)  
   
-Bridged from Binance Smart Chain: 
+Bridged from Binance Smart Chain: [https://blockscout.com/xdai/mainnet/bridged-tokens/bsc](https://blockscout.com/xdai/mainnet/bridged-tokens/bsc)
 
 ### How do I monitor transactions?
 
@@ -130,7 +133,7 @@ Use the AMB Live Monitoring application located at [https://alm-xdai.herokuapp.c
 
 The easiest way is to connect MetaMask to xDai and click on the "MetaMask" icon next to the token in the tokens list. This will add the token address to your MetaMask account.
 
-![](../../.gitbook/assets/metamask-icon.png)
+![](../../.gitbook/assets/mm-1.png)
 
 If preferred, you can also add manually. [Here are some instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20#add-the-new-token-to-metamask).
 
@@ -219,11 +222,11 @@ In this example, Click on the LINK token.
 
 ![](../../.gitbook/assets/ink3.png)
 
-4. Tags near the token name will tell you where the token was bridged from. “ETH” means that the token was bridged from the Ethereum Mainnet. “BSC” means that the token was bridged from Binance Smart Chain. 
+4. The Token Name will reflects the chain the token was bridged from \(from Ethereum\). Tags also tell you where the token was bridged from. “ETH” means that the token was bridged from the Ethereum Mainnet. “BSC” means that the token was bridged from Binance Smart Chain. 
 
-![](../../.gitbook/assets/ink4.png)
+![](../../.gitbook/assets/chainlink-pic1.png)
 
-### How can I convert USDC from Binance Smart Chain to USDC on xDai, or DAI from Binance Smart Chain to xDai?
+### How can I convert USDC from Binance Smart Chain to USDC on xDai, or DAI from BSC to xDai?
 
 Use [https://xdai.component.finance/](https://xdai.component.finance/) to swap between USDC bridged from Ethereum or Binance Smart Chain. You can also use to swap between Dai bridged from Binance Smart Chain and wxDai. [More instructions are here.](../../for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
 

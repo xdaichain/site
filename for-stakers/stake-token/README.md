@@ -7,7 +7,7 @@ description: For Staking and Governance
 {% hint style="success" %}
 STAKE token address on Ethereum [0x0Ae055097C6d159879521C384F1D2123D1f195e6](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6)
 
-STAKE token address on xDai  
+STAKE token address on xDai \(STAKE from Ethereum\)  
 [0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e](https://blockscout.com/xdai/mainnet/tokens/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers)
 {% endhint %}
 

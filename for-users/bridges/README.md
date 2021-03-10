@@ -12,18 +12,19 @@ description: xDai TokenBridges provide multi-chain compatibility and interoperab
 For In-depth bridge specific documentation, please see the [TokenBridge Docs](https://docs.tokenbridge.net/).
 {% endhint %}
 
-With Multi-chain bridging, there is a possibility that multiple instances of the same underlying token can be created on a single chain. 
+With multi-chain bridging, there is a possibility that multiple instances of an underlying asset can be created on a single chain. 
 
-For example, USDT can be bridged to xDai from Ethereum and also bridged to xDai from BSC. This can result in 2 separate USDT token instances on xDai. These tokens cannot be merged into a single instance once they are minted. 
+For example, USDT can be bridged to xDai from Ethereum and also bridged to xDai from BSC. This results in 2 separate USDT token instances on xDai. These tokens cannot be merged into a single instance once they are minted. 
 
-![Tether on xDai: 1 is bridged from ETH, the other from BSC](../../.gitbook/assets/tether-tether%20%281%29.png)
+A suffix is added to the token name in BlockScout, specifying the origin chain of a bridged token \(ie. from Ethereum, from BSC etc\). Tags indicate a token is bridged, and which chain the token is bridged from. Users can click View Original Token to view the token on the chain of origin.
 
-If you bridge and do not see the expected liquidity, for example in HoneySwap, know that there may be 2 instances of the same token on xDai. You will see a tag letting you know in an instance was bridged from Ethereum or BSC.
+![Tether on xDai: 1 is bridged from ETH, the other from BSC](../../.gitbook/assets/tether1.png)
 
-You can also swap between several stablecoin instances using [component.finance](https://xdai.component.finance/).  
--&gt; [Learn more here.](../../about-xdai/project-spotlights/component-finance.md)
+Though not available for all tokens \(pairs can be added as community need arises\), swaps are available for certain cross-chain token pairs using [component.finance](https://xdai.component.finance/).  
+  
+-&gt; [Learn more here](../../about-xdai/project-spotlights/component-finance.md)
 
 {% hint style="info" %}
-We are working on steps to address this issue in a decentralized manner without requiring prior approval to bridge. **Look for more details soon**.
+We are working to further address this issue in a decentralized manner without requiring prior approval to bridge. **Look for more details soon**.
 {% endhint %}
 

@@ -6,16 +6,16 @@ description: >-
 
 # Binance-Peg Dai Token on xDai
 
-The [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3) can be bridged to xDai using the beta BSC-xDai Omnibridge. **However, this process DOES NOT mint native xDai**. Instead, the [Dai Token on xDai](https://blockscout.com/xdai/mainnet/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) is bridged across networks.
+The [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3) can be bridged to xDai using the beta BSC-xDai Omnibridge. **However, this process DOES NOT mint native xDai**. Instead, the [Dai Token from BSC](https://blockscout.com/xdai/mainnet/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) is bridged across networks.
 
-Using xDai tools, it only takes a few steps to convert Binance-Peg Dai Tto xDai. The process can also be completed in the reverse direction where xDai is converted to Binance-Peg Dai. Once converted from xDai, Binance-Peg Dai can be bridged back to BSC.
+Using xDai tools, it only takes a few steps to convert Binance-Peg Dai to xDai. The process can also be completed in the reverse direction where xDai is converted to Binance-Peg Dai. Once converted from xDai, Binance-Peg Dai can be bridged back to BSC.
 
 This option gives users the ability to convert Dai/xDai when mainnet bridging fees are expensive.
 
 **Token Addresses:**
 
 * [Binance-Peg Dai Token on Binance](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3)
-* [Binance-Peg Dai Token on xDai ](https://blockscout.com/xdai/mainnet/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers)\(Named Dai Token on xDai\)
+* [Binance-Peg Dai Token on xDai ](https://blockscout.com/xdai/mainnet/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers)\(Named Dai Token from BSC\)
 
 **Tools Used:**
 
@@ -73,7 +73,7 @@ You can follow this tutorial to bridge with the Omnibridge at [https://bsc-to-xd
 
 1. Go to [https://xdai.component.finance/](https://xdai.component.finance/)
 2. Connect your Web3 Wallet \(MetaMask\) to the application and select the xDai network.
-3. Press the Swap tab and select the Dai\[BSC\]/ wxDai pair. Follow the instructions in section 2 above to approve 2 transactions and swap.
+3. Press the Swap tab and select the Dai \[BSC\]/ wxDai pair. Follow the instructions in section 2 above to approve 2 transactions and swap.
 
 ### 3\) Unwrap wxDai into xDai with Wrapeth.
 

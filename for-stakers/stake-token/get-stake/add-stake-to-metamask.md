@@ -24,8 +24,8 @@ b\) Use the Search Function to find STAKE. If this doesn't work for some reason,
 
 ## On xDai Chain
 
-The STAKE address on xDai is different from the STAKE address on Mainnet. Follow the same process as above to add a custom token, with the following changes.
+The STAKE address on xDai \([STAKE from Ethereum](https://blockscout.com/xdai/mainnet/tokens/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers)\) is different from the STAKE address on Mainnet. Follow the same process as above to add a custom token, with the following changes.
 
 1. Connect your MetaMask instance to xDai.[ Instructions on adding a custom RPC are available here if needed](../../../for-users/wallets/metamask/metamask-setup.md).
-2. The STAKE address on xDai is: [0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e](https://blockscout.com/xdai/mainnet/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions)
+2. The STAKE from Ethereum address on xDai is: [0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e](https://blockscout.com/xdai/mainnet/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions)
 
