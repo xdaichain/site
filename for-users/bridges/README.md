@@ -8,7 +8,7 @@ description: xDai TokenBridges provide multi-chain compatibility and interoperab
 * [Ethereum Omnibridge](omnibridge.md): Bridge ERC20 tokens between Ethereum and xDai. 
 * [Binance Smart Chain OmniBridge](binance-smart-chain-omnibridge/): Bridge ERC20s between BSC and xDai. Provides beta access to inexpensive interoperability.
 
-{% hint style="info" %}
+{% hint style="success" %}
 For In-depth bridge specific documentation, please see the [TokenBridge Docs](https://docs.tokenbridge.net/).
 {% endhint %}
 
@@ -20,5 +20,10 @@ For example, USDT can be bridged to xDai from Ethereum and also bridged to xDai 
 
 If you bridge and do not see the expected liquidity, for example in HoneySwap, know that there may be 2 instances of the same token on xDai. You will see a tag letting you know in an instance was bridged from Ethereum or BSC.
 
+You can also swap between several stablecoin instances using [component.finance](https://xdai.component.finance/).  
+-&gt; [Learn more here.](../../about-xdai/project-spotlights/component-finance.md)
+
+{% hint style="info" %}
 We are working on steps to address this issue in a decentralized manner without requiring prior approval to bridge. **Look for more details soon**.
+{% endhint %}
 
