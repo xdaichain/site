@@ -21,7 +21,7 @@ The Distribution Contract is called with the corresponding number value below \(
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>STAKE Token on xDai</b>
+      <td style="text-align:left"><b>STAKE Token on xDai (STAKE from Ethereum)</b>
       </td>
       <td style="text-align:left"><a href="https://blockscout.com/xdai/mainnet/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions">0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e</a>
       </td>

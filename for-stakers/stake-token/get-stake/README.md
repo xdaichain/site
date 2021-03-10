@@ -41,6 +41,8 @@ You can bridge STAKE on xDai to STAKE on Ethereum with the Omnibridge.
 ## STAKE on xDai
 
 {% hint style="success" %}
+STAKE on xDai follows the OmniBridge naming convention, and is called **STAKE from Ethereum**.
+
 The STAKE address on xDai is: [0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e](https://blockscout.com/xdai/mainnet/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions)
 {% endhint %}
 
