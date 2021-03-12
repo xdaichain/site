@@ -37,6 +37,12 @@ The bridge wallet is now compatible with xDai, and includes a new Fiat onramp, a
 
 {% embed url="https://twitter.com/mtpelerin/status/1369297227131273220" %}
 
+### MultiChain XYZ
+
+Upgrade adds xDai to multichain nodes!
+
+{% embed url="https://twitter.com/multichainxyz/status/1370443480846176262?s=19" %}
+
 ### MyCrypto
 
 MyCrypto article series on xDai continues with the 2nd installment, all about bridges and interoperability.
