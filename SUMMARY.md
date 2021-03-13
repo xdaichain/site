@@ -177,6 +177,7 @@
   * [Torus Wallet](for-users/wallets/torus-wallet.md)
 * [Applications](for-users/applications/README.md)
   * [Revoke](for-users/applications/revoke.md)
+* [Governance](for-users/governance.md)
 
 ## For Stakers
 
