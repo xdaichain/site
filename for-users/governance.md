@@ -9,7 +9,7 @@ Community members can create and vote on proposals related to changes, improveme
 **Standard order of events for community governance:**
 
 {% hint style="info" %}
-Please see the [stake-weighted voting](https://gnosis-safe.io/app/#/safes/0x42F38ec5A75acCEc50054671233dfAC9C0E7A3F6/settings) section for more information on creating and voting. Currently you need STAKE on Ethereum to vote, this includes STAKE that is currently locked in Easy Staking.
+Please see the [stake-weighted voting](https://gnosis-safe.io/app/#/safes/0x42F38ec5A75acCEc50054671233dfAC9C0E7A3F6/settings) section for more information on creating and voting. Currently you need [STAKE on Ethereum](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6) to vote, this includes STAKE that is currently locked in Easy Staking.
 {% endhint %}
 
 1. [Create a proposal on Snapshot](https://snapshot.org/#/xdaistake.eth). This can be a simple proposal to assess community sentiment. If you have more details, you can post in addition to a forum post in step 2, or wait until the community vote to add to step 2. Leave enough time so that you can let the community know to vote on your proposal \(step 3\). 
