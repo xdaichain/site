@@ -23,12 +23,12 @@ Note: Sending tokens to exchanges or other addresses you do not control may resu
 
 * Network Name: **xDai**
 * New RPC URL: [**https://rpc.xdaichain.com/**](https://rpc.xdaichain.com/)
-* Chain ID: **0x64** \(100\) 
+* Chain ID: **0x64**
 * Symbol: **xDai**
 * Block Explorer URL: [**https://blockscout.com/xdai/mainnet**](https://blockscout.com/xdai/mainnet/)
 
 {% hint style="info" %}
-Note: MetaMask recently updated the ChainID to be a required field. When you update, you may need to reenter the **chain id 100**, and it will be converted to a hexidecimal: **0x64.**
+Note: Chain ID 0x64 is the hexadecimal equivalent of 100, which is the xDai chain ID. MetaMask recently updated the ChainID to be a required field. When you update, you may need to reenter the Chain ID: 100, and it will be converted to a hexadecimal: 0x64**.**
 
 **If you are having issues, try entering 100 for Chain ID and resaving the configuration.**
 {% endhint %}
