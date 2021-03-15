@@ -146,6 +146,7 @@
   * [Binance Smart Chain Omnibridge](for-users/bridges/binance-smart-chain-omnibridge/README.md)
     * [BSC OmniBridge Example](for-users/bridges/binance-smart-chain-omnibridge/bsc-omnibridge-example.md)
     * [Binance-Peg Dai Token on xDai](for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
+  * [xDai &lt;-&gt; Polygon \(Matic\) Powered by Connext\)](for-users/bridges/xdai-less-than-greater-than-polygon-matic-powered-by-connext.md)
   * [xDai Bridges: Compatibility and Interoperability](for-users/bridges/how-xdai-bridges-create-compatibility-and-interoperability.md)
   * [Bridge FAQs](for-users/bridges/bridge-faqs.md)
 * [Explorers](for-users/explorers/README.md)
