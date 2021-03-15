@@ -2,6 +2,8 @@
 
 {% hint style="warning" %}
 If you experience any issues during installation, post your questions in the [https://forum.poa.network/c/xdai-chain/validators-support-private](https://forum.poa.network/c/xdai-chain/validators-support-private).
+
+Additional reference: [https://github.com/xdaichain/validator-node-dockerized\#readme](https://github.com/xdaichain/validator-node-dockerized#readme)
 {% endhint %}
 
 ## Process
