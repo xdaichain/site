@@ -2,7 +2,7 @@
 description: Move xDai - Dai with the 3rd party Connext State Channels Bridge
 ---
 
-# xDai &lt;-&gt; Polygon \(Matic\) Powered by Connext\)
+# xDai &lt;-&gt; Polygon \(Matic\) State Channels Bridge Powered by Connext
 
 {% hint style="info" %}
 The xDai-Polygon \(Matic\) Bridge is build by Connext and is not developed or supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the Connext Discord Channel.
