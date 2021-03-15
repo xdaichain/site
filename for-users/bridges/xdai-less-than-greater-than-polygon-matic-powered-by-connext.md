@@ -12,7 +12,7 @@ A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on P
 
 ### xDai to Polygon \(Matic\)
 
-1\) Go to [https://xdai-matic-connext.vercel.app/](https://xdai-matic-connext.vercel.app/) and connect your web3Wallet. In this example we use MetaMask. If you need to add Matic or xDai, you can do so easily at [Chainlist.org](https://chainlist.org/). Also, is you are using Brave browser, disable shields.
+1\) Go to [https://xdai-matic-connext.vercel.app/](https://xdai-matic-connext.vercel.app/) and connect your web3Wallet. In this example we use MetaMask. If you need to add Matic or xDai, you can do so easily at [Chainlist.org](https://chainlist.org/). Also, if you are using Brave browser, disable shields.
 
 ![](../../.gitbook/assets/1connext.png)
 
