@@ -5,7 +5,7 @@ description: Move xDai - Dai with the 3rd party Connext State Channels Bridge
 # xDai &lt;-&gt; Polygon \(Matic\) State Channels Bridge Powered by Connext
 
 {% hint style="info" %}
-The xDai-Polygon \(Matic\) Bridge is build by Connext and is not developed or supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the [Connext Discord Channel](https://discord.gg/8YcWCfbp).
+The xDai-Polygon \(Matic\) Bridge powered by [Connext](https://connext.network/) is not developed or supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the [Connext Discord Channel](https://discord.gg/8YcWCfbp).
 {% endhint %}
 
 A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on Polygon \(Matic\) to xDai using state channels!  It's simple and inexpensive, and you can send any amount, large or small, between chains.
