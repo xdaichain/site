@@ -30,7 +30,9 @@ xDai Chain
 
 ## I've got STAKE but can't find it in my wallet.
 
-You may need to add a custom token - [Instructions for doing this with MetaMask](../../for-stakers/stake-token/get-stake/add-stake-to-metamask.md).
+You may need to add a custom token:
+
+Click on the [fox icon in BlockScout](https://blockscout.com/xdai/mainnet/tokens/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers) or the OmniBridge to quickly add to MetaMask, or add manually. [Instructions for adding with MetaMask](../../for-stakers/stake-token/get-stake/add-stake-to-metamask.md).
 
 ## I want to stake STAKE Now! Is it possible?
 

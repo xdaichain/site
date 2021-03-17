@@ -6,7 +6,7 @@ To get started on xDai, you will need to setup your externally owned address \(w
 
 * You can use [Chainlist](https://chainlist.org/) to quickly add to MetaMask, or
 * See the [MetaMask Setup tutorial](wallets/metamask/metamask-setup.md) for example steps and configuration.
-* If desired, you can also use a [different RPC endpoint](../for-developers/developer-resources/#json-rpc-endpoints).
+* If desired, you can also use a [different RPC endpoint](../for-developers/developer-resources/#json-rpc-endpoints) or even [setup your own node to connect](../for-developers/install-xdai-client/) with.
 * See the [wallets section](wallets/) for additional wallets that support xDai out of the box and don't require configuration.
 
 {% hint style="info" %}
@@ -28,7 +28,7 @@ BlockScout is the xDai gateway for exploring activities on the chain and accessi
 
 ## 4\) Bridges Connecting Ecosystems
 
-You can move tokens between xDai and Ethereum, Binance Smart Chain and Polygon \(xDai token only\) with the various available bridges. See the bridges section for more details on each bridge.  If you do move a token to xDai, be sure to add the custom token to your wallet. Clicking the fox icon in BlockScout or the Omnibridge will quickly add the token.
+You can move tokens between xDai and Ethereum, Binance Smart Chain and Polygon \(xDai token only\) with the various available bridges. See the bridges section for more details on each bridge.  If you move a token to xDai, be sure to add the custom token to your wallet. Clicking the fox icon in BlockScout or the Omnibridge will quickly add the token.
 
 * [xDai Bridge](https://bridge.xdaichain.com/): xDai -Dai transfer with Ethereum
 * [OmniBridge](https://omni.xdaichain.com/): All ERC20 token transfer with Ethereum
