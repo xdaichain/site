@@ -46,7 +46,7 @@ Streamr outlines a number of reasons why they selected xDai as their scalability
 * Fully on-chain, enabling security and composability
 * Team synergy!
 
-If you have any questions about Data Unions, you can message the Streamr team in the \#data-unions channel of their Discord server:  [https://discord.com/invite/xEQWNgYUgA](https://discord.com/invite/xEQWNgYUgA)
+
 
 \*\*\*\*
 
