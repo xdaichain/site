@@ -150,9 +150,6 @@
   * [xDai &lt;-&gt; Polygon \(Matic\) State Channels Bridge Powered by Connext](for-users/bridges/xdai-matic-connext-bridge.md)
   * [xDai Bridges: Compatibility and Interoperability](for-users/bridges/how-xdai-bridges-create-compatibility-and-interoperability.md)
   * [Bridge FAQs](for-users/bridges/bridge-faqs.md)
-* [Explorers](for-users/explorers/README.md)
-  * [BlockScout](for-users/explorers/blockscout.md)
-  * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)
 * [Wallets](for-users/wallets/README.md)
   * [Alpha Wallet](for-users/wallets/alpha-wallet/README.md)
     * [Mobile DApp Browser](for-users/wallets/alpha-wallet/mobile-dapp-browser.md)
@@ -179,7 +176,10 @@
   * [Torus Wallet](for-users/wallets/torus-wallet.md)
 * [Applications](for-users/applications/README.md)
   * [Revoke](for-users/applications/revoke.md)
-* [Governance](for-users/governance.md)
+* [Governance](for-users/governance/README.md)
+  * [Explorers](for-users/governance/explorers/README.md)
+    * [BlockScout](for-users/governance/explorers/blockscout.md)
+    * [AnyBlock Analytics](for-users/governance/explorers/anyblock-analytics.md)
 
 ## For Stakers
 

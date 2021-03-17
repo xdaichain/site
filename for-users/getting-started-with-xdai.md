@@ -26,7 +26,18 @@ BlockScout is the xDai gateway for exploring activities on the chain and accessi
 
 🔎 [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet)
 
-## 4\) Explore and Enjoy
+## 4\) Bridges Connecting Ecosystems
+
+You can move tokens between xDai and Ethereum, Binance Smart Chain and Polygon \(xDai token only\) with the various available bridges. See the bridges section for more details on each bridge.  If you do move a token to xDai, be sure to add the custom token to your wallet. Clicking the fox icon in BlockScout or the Omnibridge will quickly add the token.
+
+* [xDai Bridge](https://bridge.xdaichain.com/): xDai -Dai transfer with Ethereum
+* [OmniBridge](https://omni.xdaichain.com/): All ERC20 token transfer with Ethereum
+* [BSC Omnibridge](https://bsc-to-xdai-omnibridge.web.app/): All ERC20 token transfer with Binance Smart Chain
+* [Polygon \(Matic\) Connext Bridge](https://xdai-matic-connext.vercel.app/):  xDai to Dai on Polygon \(Matic\) Bridge 
+
+![Add tokens bridged to xDai to your MetaMask Wallet by clicking the Fox icon](../.gitbook/assets/foxes%20%281%29.png)
+
+## 5\) Explore and Enjoy
 
 * Find [Projects and DApps running on xDai](../about-xdai/project-spotlights/), including games, DeFi apps, NFT marketplaces, DAOs and much more.
 * Helpful on-chain tools for users are referenced [here](applications/).
@@ -35,12 +46,4 @@ BlockScout is the xDai gateway for exploring activities on the chain and accessi
   * Community questions: [Telegram](https://t.me/xdaistable)
   * Technical questions: [Discord](https://discord.gg/mPJ9zkq)
   * Project Updates: [Twitter](https://twitter.com/xdaichain)
-
-
-
-
-
-
-
-
 

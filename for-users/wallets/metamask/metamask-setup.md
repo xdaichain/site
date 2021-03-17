@@ -15,6 +15,10 @@ Note: Sending tokens to exchanges or other addresses you do not control may resu
 
 ## Setting up MetaMask for xDai
 
+{% hint style="info" %}
+For a quick method, visit [Chainlist](https://chainlist.org/) to quickly add to MetaMask. You may still need to add BlockScout
+{% endhint %}
+
 1\) Open Metamask, and select "Custom RPC" from the Network Dropdown.
 
 ![](../../../.gitbook/assets/custom-rpc.png)
@@ -40,6 +44,16 @@ If you'd prefer not to make these changes, [**Nifty Wallet** ](https://chrome.go
 {% hint style="success" %}
 Once you add the xDai network, you will need xDai to pay for transactions. See [Getting xDai](../../get-xdai-tokens/) for more information.
 {% endhint %}
+
+## Adding Custom Tokens
+
+When bridging tokens from Ethereum, BSC or elsewhere you may need to add the custom token to MetaMask to view it. **The address on xDai will be different from the address on Ethereum or BSC.**
+
+The easiest way is to click on the fox icon in BlockScout or OmniBridge for the token you are adding, then complete the process through the MetaMask popup.
+
+![](../../../.gitbook/assets/foxes%20%282%29.png)
+
+If you want to add manually in MetaMask, go to **Assets** -&gt; **Add Token**, Paste in the address \(symbol and decimals should populate if you are connected to xDai\) and save.
 
 ## Connecting to a Hardware Wallet
 
