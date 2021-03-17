@@ -35,6 +35,7 @@
   * [HoneySwap](about-xdai/project-spotlights/honeyswap.md)
   * [1Hive](about-xdai/project-spotlights/1hive.md)
   * [Component Finance](about-xdai/project-spotlights/component-finance.md)
+  * [Streamr](about-xdai/project-spotlights/streamr.md)
   * [Circles UBI](about-xdai/project-spotlights/circles-ubi.md)
   * [Kickback RSVP Platform](about-xdai/project-spotlights/kickback-rsvp-platform.md)
   * [CLR Fund](about-xdai/project-spotlights/clr-fund.md)

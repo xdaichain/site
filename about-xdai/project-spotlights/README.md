@@ -32,6 +32,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
 * [ARTIS Bridge:](https://docs.artis.eco/artis-1.0/tools/artis-to-xdai-chain-bridge) A TokenBridge implementation connecting the [ARTIS](https://artis.eco/) and xDai chains.
 * [Colony DAO framework](https://blog.colony.io/colony-v2-launch/): Organization tool for DAOs
+* [Origin Trail](https://origintrail.io/): Universal, collaborative and trusted data exchange for supply chains
+* [Streamr](https://streamr.network/): Real-time data streams with scalable crowdsourced data sets.
 
 ### DeFi
 
@@ -46,6 +48,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [DeFi Wizard](https://defiwizard.xyz/): DeFi Smart Contract Building Platform
 * [pNetwork](https://p.network/network): Cross-chain pBTC.
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
+* [Agave](https://agave.finance/): DeFi Lending Protocol \(coming soon\)
 
 ### **Community Engagement & Events**
 
