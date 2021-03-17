@@ -17,7 +17,7 @@ description: xDai integration for decentralized data streams
 * DATA token on xDai: [0xE4a2620edE1058D61BEe5F45F6414314fdf10548](https://blockscout.com/xdai/mainnet/tokens/0xE4a2620edE1058D61BEe5F45F6414314fdf10548/token-transfers)
 * DATA token on Ethereum: [0x0cf0ee63788a0849fe5297f3407f701e122cc023](https://etherscan.io/token/0x0cf0ee63788a0849fe5297f3407f701e122cc023)
 * Data Unions info: [https://streamr.network/docs/data-unions/intro-to-data-unions](https://streamr.network/docs/data-unions/intro-to-data-unions)
-* Data Union Contracts: [https://github.com/streamr-dev/data-union-solidity](https://github.com/streamr-dev/data-union-solidity)
+* Data Unions Contracts: [https://github.com/streamr-dev/data-union-solidity](https://github.com/streamr-dev/data-union-solidity)
 {% endhint %}
 
 ## What are Streamr Data Unions?
@@ -45,6 +45,10 @@ Streamr outlines a number of reasons why they selected xDai as their scalability
 * OmniBridge supports asset and cross-chain data transfers.
 * Fully on-chain, enabling security and composability
 * Team synergy!
+
+{% hint style="info" %}
+If you have any questions about Data Unions, you can message the Streamr team in the \#data-unions channel of their Discord server:  [https://discord.com/invite/xEQWNgYUgA](https://discord.com/invite/xEQWNgYUgA).
+{% endhint %}
 
 
 
