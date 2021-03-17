@@ -5,7 +5,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai STAKE
 
 {% hint style="success" %}
-**Latest News**:  Chainlink price feeds live on xDai. [Learn More](about-xdai/project-spotlights/chainlink/price-feeds.md)
+**Latest News**:  Streamr now live on xDai. [Learn More](about-xdai/project-spotlights/streamr.md)
 {% endhint %}
 
 ## xDai Stable Chain
