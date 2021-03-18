@@ -8,7 +8,7 @@ Bounties are an important tool for testing and enhancing application and contrac
 
 Security is the \#1 priority of the xDai team. This bounty program is not being enacted in response to any know exploits, we are proactively implementing to ensure safety and soundness of our applications and protect xDai users and their funds.
 
-## OmniBridge Bounty
+## ✅ OmniBridge Bounty
 
 ### **The largest bug bounty program offered through Immunefi to date!**
 
