@@ -309,6 +309,7 @@
     * [Parity/Ansible Playbook Instructions](for-validators/node-deployment/deprecated-instructions/parity-ansible-playbook-instructions.md)
 * [For Consensus Validators](for-validators/for-consensus-validators/README.md)
   * [Transactions Prioritization in AuRa](for-validators/for-consensus-validators/transactions-prioritization-in-aura.md)
+  * [Mining Address Usage](for-validators/for-consensus-validators/mining-address-usage.md)
 * [Consensus Info](for-validators/consensus/README.md)
   * [AuRa with POSDAO Consensus](for-validators/consensus/aura-consensus.md)
   * [POSDAO: Proof of Stake Decentralized Autonomous Organization](for-validators/consensus/posdao-proof-of-stake-decentralized-autonomous-organization.md)
