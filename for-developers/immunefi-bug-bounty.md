@@ -18,6 +18,8 @@ Bounties are based on severity of bug found and range from $1,000 to $2,000,000.
 
 Bridges connecting xDai with Ethereum, BSC and other future chains are critical infrastructure. They are designed to hold many millions of dollars worth of assets, and as such are a tantalizing target for bad actors. In addition to thorough security audits for the OmniBridge architecture, we are collaborating with [Immunefi](https://immunefi.com/) to offer up to $2,000,000 for the discovery of bugs or exploits that may result in a loss of user funds related to the OmniBridge. 
 
+More info -&gt; [https://medium.com/immunefi/xdai-stake-hosts-2-000-000-bug-bounty-on-immunefi-3760e0687616](https://medium.com/immunefi/xdai-stake-hosts-2-000-000-bug-bounty-on-immunefi-3760e0687616)
+
 
 
 
