@@ -137,7 +137,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Etherisc](https://etherisc.com/): Decentralized Insurance.
 * [MintGate](https://mintgate.app/): Tokenized Content Protection.
 * [RealT](https://realt.co/): fractionalized real estate investing.
-* [MtPerelin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management.
+* [MtPelerin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management.
 
 
 
