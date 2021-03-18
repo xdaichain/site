@@ -13,7 +13,7 @@ Security is the \#1 priority of the xDai team. This bounty program is not being 
 ### **The largest bug bounty program offered through Immunefi to date!**
 
 {% hint style="info" %}
-Bounties are based on severity of bug found and range from $1,000 to $2,000,000. For more, please visit the bounty page at [https://immunefi.com/bounty/xdai](https://immunefi.com/bounty/xdai) , read the rules and get started.
+Bounties are based on severity of bug found and range from $1,000 to $2,000,000. For more, please visit the bounty page at [https://immunefi.com/bounty/xdaistake/](https://immunefi.com/bounty/xdaistake/), read the rules and get started.
 {% endhint %}
 
 Bridges connecting xDai with Ethereum, BSC and other future chains are critical infrastructure. They are designed to hold many millions of dollars worth of assets, and as such are a tantalizing target for bad actors. In addition to thorough security audits for the OmniBridge architecture, we are collaborating with [Immunefi](https://immunefi.com/) to offer up to $2,000,000 for the discovery of bugs or exploits that may result in a loss of user funds related to the OmniBridge. 
