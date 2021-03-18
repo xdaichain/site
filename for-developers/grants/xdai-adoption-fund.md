@@ -5,7 +5,7 @@ description: Receive funding to build the next great DApp on xDai
 # xDai Adoption Fund
 
 {% hint style="success" %}
-Grant Program will reopen in Q4 2020. Stay tuned for details.
+Grant Program will reopen in Q2 2021. Stay tuned for details.
 {% endhint %}
 
 The xDai ecosystem is growing, and we are looking to fund DApps that bring new features, functionality and use-cases to the xDAi chain, as well as projects that provide enhancements to the current infrastructure. New features and applications are vital to increase adoption, and we provide financial support to interesting projects. 

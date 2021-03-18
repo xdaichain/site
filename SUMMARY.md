@@ -113,6 +113,7 @@
   * [Interviews & Media Articles](about-xdai/news-and-information/media-articles/README.md)
     * [xDai Chain: Basic Overview Presentation](about-xdai/news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
 * [Roadmap](about-xdai/roadmap/README.md)
+  * [Ecosystem Fund Roadmap](about-xdai/roadmap/ecosystem-fund-roadmap.md)
   * [Decentralization Planning](about-xdai/roadmap/decentralization-planning.md)
 * [FAQs](about-xdai/faqs/README.md)
   * [xDai Chain Basics](about-xdai/faqs/xdai-chain-basics.md)
