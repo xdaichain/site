@@ -30,7 +30,7 @@ We will integrate statistics views for the EasyStaking platform and POSDAO as we
 🎯 **Target Date:** Q2 2021  
 ☑ **Status:** In Process
 
-Once the Ecosystem Fund unlock begins, we will finalize the program and begin accepting applications for developers and projects requiring support.
+Once the Ecosystem Fund unlock begins, we will finalize the program and begin accepting applications for developers and projects requiring support for wave 1 of the Grants Program.
 
 ## **Establish Bug Bounty for High Value Contracts**
 
