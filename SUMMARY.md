@@ -176,10 +176,10 @@
   * [Torus Wallet](for-users/wallets/torus-wallet.md)
 * [Applications](for-users/applications/README.md)
   * [Revoke](for-users/applications/revoke.md)
-* [Governance](for-users/governance/README.md)
-  * [Explorers](for-users/governance/explorers/README.md)
-    * [BlockScout](for-users/governance/explorers/blockscout.md)
-    * [AnyBlock Analytics](for-users/governance/explorers/anyblock-analytics.md)
+* [Explorers](for-users/explorers/README.md)
+  * [BlockScout](for-users/explorers/blockscout.md)
+  * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)
+* [Governance](for-users/governance.md)
 
 ## For Stakers
 
