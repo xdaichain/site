@@ -90,7 +90,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
 * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
-* [Unique.one](http://Unique.One): NFT Marketplace 
+* [Unique.one](http://Unique.One): NFT Marketplace
+* [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art 
 * Projects in other categories that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)

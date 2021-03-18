@@ -287,6 +287,7 @@
 * [Grants for building on xDai](for-developers/grants/README.md)
   * [xDai Adoption Fund](for-developers/grants/xdai-adoption-fund.md)
   * [ZK \(Zero Knowledge\) Privacy Fund](for-developers/grants/zk-zero-knowledge-privacy-fund.md)
+* [Immunefi Bug Bounty](for-developers/immunefi-bug-bounty.md)
 * [Security Audits](for-developers/security-audits.md)
 
 ## For validators
