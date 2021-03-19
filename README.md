@@ -5,7 +5,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai STAKE
 
 {% hint style="success" %}
-**Latest News**:  Streamr now live on xDai. [Learn More](about-xdai/project-spotlights/streamr.md)
+**Latest News**:  xDai teams up with Immunefi to offer a $2,000,000 bug bounty for the OmniBridge, the largest white hat security bounty DeFi. [Learn More](https://immunefi.com/bounty/xdaistake/)
 {% endhint %}
 
 ## xDai Stable Chain
