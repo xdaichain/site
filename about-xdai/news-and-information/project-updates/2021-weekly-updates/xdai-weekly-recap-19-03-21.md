@@ -63,7 +63,7 @@ The Origin Trail team is closing in on their V5 launch, tentatively scheduled fo
 
 ### Agave
 
-Agave, and Aave fork coming soon to xDai, launched its new landing page. The $AGAVE token is available to trade on HoneySwap, and the lending protocol is coming soon!
+Agave, and Aave fork coming soon to xDai, launched its new landing page. The $AGVE token is available to trade on HoneySwap, and the lending protocol is coming soon!
 
 {% embed url="https://twitter.com/Agave\_lending/status/1369717439471087617" %}
 
