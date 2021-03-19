@@ -6,11 +6,17 @@ description: >-
 
 # Prediction Markets
 
-### Prediction Market Case Study
+### Omen Prediction Market
 
 {% hint style="success" %}
 [Omen Prediction Market](https://xdai.omen.eth.link/) is live on xDai. Case Study Coming Soon.
 {% endhint %}
+
+![](../../.gitbook/assets/omen1.png)
+
+![Historical Market Types on Omen](../../.gitbook/assets/omen2.png)
+
+### Previous Case Study
 
 {% hint style="info" %}
 The Helena project is no longer operational. We keep this information for historical purposes, with the idea that this case-study can inform new future prediction market platforms on xDai. 
