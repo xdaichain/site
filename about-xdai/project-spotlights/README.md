@@ -101,7 +101,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [HoneySwap](https://honeyswap.org/#/swap): Uniswap with HNY.
 * [xMoon Exchange](https://xmoon.exchange/): A DEX for Reddit MOON liquidity \(xMoon to xDai\).
 * [Component Finance](https://xdai.component.finance/): Stable Coin exchange.
-* [BaoSwap](https://alpha.baoswap.xyz/#/swap): Uniswap fork.
+* [BaoSwap](https://www.baoswap.com/#/swap): Uniswap fork.
 
 ### **DAOs**
 
