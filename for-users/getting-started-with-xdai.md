@@ -16,7 +16,7 @@ To get started on xDai, you will need to setup your externally owned address \(w
 ## 2\) Get a Little xDai  
 
 * Convert Dai on Ethereum to xDai with the [xDai bridge](bridges/converting-xdai-via-bridge/)
-* [Purchase xDai directly from BitMax](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai)  
+* [Purchase xDai directly from AscendEX \(BitMax\)](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai)
 * With Fiat using the [Ramp Network](get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md) or [Mt Pelerin](get-xdai-tokens/buying-xdai-with-fiat/mt-pelerin.md)
 * Ask on [xDai Discord](https://discord.gg/mPJ9zkq) or [Telegram](https://t.me/xdaistable) ... friends may be willing to help with small amounts 😊 
 
