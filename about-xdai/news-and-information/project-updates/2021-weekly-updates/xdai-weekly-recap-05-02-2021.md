@@ -6,7 +6,7 @@ description: 30 January -5 February 2021
 
 ![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation%20%2830%29.png)
 
-## 📡 xDai Stable Coin Listed on Bitmax
+## 📡 xDai Stable Coin Listed on AscendEX \(BitMax\)
 
 The [xDai/USDT pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai) has been listed on Bitmax. Now users can acquire xDai directly through the exchange without needing to bridge from Ethereum. This saves xDai users money on gas and provides a direct conduit to the xDai Chain. BitMax offers trading for both xDai/USDT and STAKE/USDT. 
 
