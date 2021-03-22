@@ -4,11 +4,11 @@ description: Ways to obtain xDai directly
 
 # Buying xDai with Fiat
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **Purchase** **xDai USD Stable Token**
 
 * xDai stable token direct purchases are now available with [Ramp](ramp-network.md) and [Mt Pelerin](https://www.mtpelerin.com/bridge-wallet).
-* You can purchase xDai on [BitMax with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).
+* You can purchase xDai on [AscendEX \(BitMax\) with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).
 * You can also purchase Dai on Ethereum and use the [Bridge UI to get xDai](../../bridges/converting-xdai-via-bridge/).
 {% endhint %}
 
