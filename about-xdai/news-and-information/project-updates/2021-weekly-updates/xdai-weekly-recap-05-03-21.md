@@ -84,7 +84,7 @@ Chainlist.org, by Andre Cronje, makes adding xDai a 1-step-process.
 
 ### STAKE on xDai
 
-STAKE on xDai can now be deposited and withdrawn with Bitmax. This means xDai chain users can get STAKE directly without using the Omnibridge. xDai is also available from Bitmax, reducing potential bridge costs.
+STAKE on xDai can now be deposited and withdrawn with AscendEX \(BitMax\). This means xDai chain users can get STAKE directly without using the Omnibridge. xDai is also available from Bitmax, reducing potential bridge costs.
 
 {% embed url="https://twitter.com/BitMax\_Official/status/1367506131086671873" %}
 
