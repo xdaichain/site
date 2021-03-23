@@ -32,7 +32,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
 * [ARTIS Bridge:](https://docs.artis.eco/artis-1.0/tools/artis-to-xdai-chain-bridge) A TokenBridge implementation connecting the [ARTIS](https://artis.eco/) and xDai chains.
 * [Colony DAO framework](https://blog.colony.io/colony-v2-launch/): Organization tool for DAOs
-* [Origin Trail](https://origintrail.io/): Universal, collaborative and trusted data exchange for supply chains
+* [Origin Trail](https://origintrail.io/): Universal, collaborative and trusted data exchange for supply chains. [More info](https://medium.com/origintrail/origintrail-multichain-decentralized-knowledge-graph-is-now-live-mainnet-launch-on-xdai-claiming-9ce037305508)
 * [Streamr](https://streamr.network/): Real-time data streams with scalable crowdsourced data sets.
 
 ### DeFi
@@ -75,9 +75,11 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Vocdoni](https://vocdoni.io/): Secure digital voting
 * [Akropolis](https://akropolis.io/): DeFi governance with Delphi
 
-### **Universal Basic Income \(UBI\)**
+### **Universal Basic Income \(UBI\) & Streaming Income**
 
 * [Circles](https://circles.garden/welcome): A basic income on the blockchain
+* [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
+* [Superfluid](https://www.superfluid.finance/): Programmable cashflows 
 
 ### **NFT-based projects**
 
@@ -95,13 +97,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * Projects in other categories that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
-
-### **Exchanges**
-
-* [HoneySwap](https://honeyswap.org/#/swap): Uniswap with HNY.
-* [xMoon Exchange](https://xmoon.exchange/): A DEX for Reddit MOON liquidity \(xMoon to xDai\).
-* [Component Finance](https://xdai.component.finance/): Stable Coin exchange.
-* [BaoSwap](https://www.baoswap.com/#/swap): Uniswap fork.
 
 ### **DAOs**
 
@@ -129,6 +124,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Galleass](galleass.io.md): Decentralized resource management game.
 * [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game.
 * [GUStakes](https://gustakes.gg/): Stake xDai on Gods Unchained matchups.
+* [FunFair Labs](https://funfair.io/funfair-labs-launches-this-friday/):  Payloads on xDai
 
 ### **More**
 
