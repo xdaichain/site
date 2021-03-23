@@ -6,7 +6,11 @@ description: Scenarios for xDai during the multi-year transition
 
 Ethereum 2.0 is rolling out in several phases over the next several years. There are still many questions around exact plans, details and timing. In the meantime, the xDai team continues to support Ethereum 1.0 interoperability while monitoring the transition closely and exploring possible future scenarios over the coming years. 
 
-As the future becomes clearer, we will see which outcome\(s\) support the best use-case for xDai stable chain projects and users. As a community member, feel free to voice your opinion as well [in our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43).  Below are several possible scenarios. _Please note that none of these approaches are set in stone, and new approaches or scenarios may also present themselves as the space evolves._
+As the future becomes clearer, we will see which outcome\(s\) support the best use-case for xDai stable chain projects and users. As a community member, feel free to voice your opinion about future directions for xDai and STAKE as well [in our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43).  Below are several possible scenarios. 
+
+{% hint style="info" %}
+_Please note that all of these approaches are possibilities for future directions. We do not have a_ 🔮 _and new opportunities may present themselves as the space evolves._
+{% endhint %}
 
 ### **1\) xDai incorporated into Ethereum 2.0 as a roll-up or shard chain**
 
