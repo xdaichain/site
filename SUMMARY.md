@@ -116,6 +116,7 @@
 * [Roadmaps](about-xdai/roadmap/README.md)
   * [2021 Roadmap](about-xdai/roadmap/2021-roadmap.md)
   * [Ecosystem Fund Roadmap](about-xdai/roadmap/ecosystem-fund-roadmap.md)
+  * [The Road to Ethereum 2.0](about-xdai/roadmap/the-road-to-ethereum-2.0.md)
   * [2020 Roadmap \(Completed Items\)](about-xdai/roadmap/2020-roadmap-completed-items.md)
   * [Decentralization Planning](about-xdai/roadmap/decentralization-planning.md)
 * [FAQs](about-xdai/faqs/README.md)
