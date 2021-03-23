@@ -8,9 +8,10 @@ xDai STAKE Ecosystem fund unlocks begin March 31, 2021. This is an important fun
 
 Here we offer some initial use cases for the fund. We will continue to expand this page, adding additional uses and use-cases as they arise. If you have an idea for usage that aligns with xDai values \(long-term growth, neutral ecosystem expansion, security and support, and sustainable project development\) please feel free to [propose in our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43).
 
- **Ecosystem Fund Details:**
+**Ecosystem Fund Details:**
 
-* **Contract:** [0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9](https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9)\*\*\*\*
+* **Funds Contract:** [0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9](https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9)\*\*\*\*
+* **Distribution Contract:** [0x9BC4a93883C522D3C79c81c2999Aab52E2268d03](https://etherscan.io/address/0x9bc4a93883c522d3c79c81c2999aab52e2268d03)
 * **Unlocks:**
   * March 31, 2021 ~ 13:02:59 UTC: 800,000 STAKE \(20% 1 time unlock\)
   * April 1, 2021 - March 2, 2022: ~9,523 STAKE per day \(80% over 336 days\)
