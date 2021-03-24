@@ -12,6 +12,10 @@ DO NOT use the latest version of OpenEthereum \(3.1+\), as it does not include i
 _Note: if binary does not come up, check the url to ensure it includes parity-ethereum rather than forwarding to the new repo._
 {% endhint %}
 
+{% hint style="success" %}
+_For a non-dev user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)\_\_
+{% endhint %}
+
 ### Binary Instructions
 
 {% hint style="info" %}
