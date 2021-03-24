@@ -23,7 +23,7 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 * [Component Finance](https://xdai.component.finance/): Swap stable tokens on xDai
 * [BSC Bridge](https://bsc-to-xdai-omnibridge.web.app/): Bridge \(in Beta\) between xDai and Binance Smart Chain
 
-## xDai to BSC: Swap xDai to Binance-Peg DAI
+## xDai -&gt; BSC: Swap xDai to Binance-Peg DAI
 
 ### 1\) Convert xDai to wxDai using the WrapEth Tool.
 
