@@ -23,7 +23,7 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 * [Component Finance](https://xdai.component.finance/): Swap stable tokens on xDai
 * [BSC Bridge](https://bsc-to-xdai-omnibridge.web.app/): Bridge \(in Beta\) between xDai and Binance Smart Chain
 
-## Swap xDai to Binance-Peg DAI
+## xDai to BSC: Swap xDai to Binance-Peg DAI
 
 ### 1\) Convert xDai to wxDai using the WrapEth Tool.
 
@@ -59,15 +59,15 @@ This option gives users the ability to convert Dai/xDai when mainnet bridging fe
 
 ### 3\) Move to BSC \(if desired\) with the BSC Bridge
 
-You can follow this tutorial to bridge with the Omnibridge at [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/). Note you will need some BNB on the Binance Smart Chain to complete the process \(pay claim fee\). If you have BNB on BEP2 you will need to swap it to BSC.
+You can [follow this tutorial](bsc-omnibridge-example.md) to bridge with the Omnibridge at [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/). Note you will need some BNB on the Binance Smart Chain to complete the process \(pay claim fee\). If you have BNB on BEP2 you will need to swap it to BSC.
 
-## Swap Binance-Peg Dai to xDai
+## BSC -&gt; xDai: Swap Binance-Peg Dai to xDai
 
 You will follow the same process in reverse to convert Binance-Peg Dai from BSC to xDai.
 
 ### 1\) Bridge Dai from BSC to xDai.
 
-You can follow this tutorial to bridge with the Omnibridge at [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/).
+You can [follow this tutorial](bsc-omnibridge-example.md) to bridge with the Omnibridge at [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/).
 
 ### 2\) Swap Dai \(BSC\) token for wxDai using Component.
 
