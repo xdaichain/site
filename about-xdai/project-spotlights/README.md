@@ -34,6 +34,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Colony DAO framework](https://blog.colony.io/colony-v2-launch/): Organization tool for DAOs
 * [Origin Trail](https://origintrail.io/): Universal, collaborative and trusted data exchange for supply chains. [More info](https://medium.com/origintrail/origintrail-multichain-decentralized-knowledge-graph-is-now-live-mainnet-launch-on-xdai-claiming-9ce037305508)
 * [Streamr](https://streamr.network/): Real-time data streams with scalable crowdsourced data sets.
+* [Orchid](https://www.orchid.com/): Pay-per-use VPN
 
 ### DeFi
 
@@ -50,7 +51,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 * [Agave](https://agave.finance/): DeFi Lending Protocol \(coming soon\)
 
-### **Community Engagement & Events**
+### **Community Engagement**
 
 * [POAP](https://www.poap.xyz/):  Proof of Attendance Protocol \(NFTs\). [More on xDai integration](https://medium.com/@poap/poap-ethereum-xdai-the-experiment-continues-301e08a472ff).
 * [Grassroots Economics](../use-cases/community-currencies.md):  Community Currencies in Kenya
@@ -60,6 +61,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Coinosis](https://coinosis.co/): Incentivized study groups
 * [clr.fund](http://clr.fund/#/): Decentralized Quadratic Funding
 * [Chievmint](https://app.chiev.net/about): Community Achievement awards \(NFTs\)
+* [Giveth](https://giveth.io/): Community Philanthropy and Donation Platform
 
 ### **Prediction Markets**
 
