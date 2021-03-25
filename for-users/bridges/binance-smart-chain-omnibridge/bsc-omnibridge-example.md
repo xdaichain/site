@@ -13,6 +13,14 @@ Here we show the bridging steps to transfer STAKE on xDai to STAKE on BSC. The c
 * BNB on the Binance Smart Chain. If you have BNB on BEP2 you will need to swap it to BSC. [Trust Wallet](https://trustwallet.com/) works well for this \(however Trust Wallet does not yet support xDai, so once you swap you'll need to send BNB from your Trust Wallet to your BSC address in MetaMask for this tutorial\).
 * MetaMask custom RPCs [setup for xDai](../../wallets/metamask/metamask-setup.md) and for the Binance Smart Chain \( Network Name: BSC Mainnet New RPC URL: [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org/) ChainID: 56 Symbol: BNB Block Explorer URL: [https://bscscan.com/](https://bscscan.com/)\) or find [more detailed instructions here](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
+{% hint style="info" %}
+If planning to bridge so you can trade an asset on BSC or xDai \(Honeyswap, BaoSwap etc\), **check liquidity for that asset on the chain where you want to trade prior to bridging**.   
+  
+In the example below we bridge STAKE on xDai to BSC, but there may not be enough liquidity for trading STAKE on BSC. In this case you can bridge it back to the originating chain \(or if its a supported stablecoin swap on [Component on xDai](https://xdai.component.finance/)\). 
+
+Honeyswap liquidity pair resource: [https://www.liquidityfolio.com](https://www.liquidityfolio.com/#)
+{% endhint %}
+
 ## Bridge STAKE from xDai to BSC
 
 1\) Go to [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/).
