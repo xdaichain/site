@@ -19,10 +19,18 @@ Requires 3/5 signatures.
 * POA Network
 * Protofire
 * Giveth
-* MakerDAO
+* M Conti
 * SyncNode
 
-### Current xDai Bridge Governors
+### Current AMB Bridge Validators
+
+* xDai 
+* Giveth
+* Protofire
+* SyncNode
+* M Conti
+
+### Current xDai and AMB Bridges Governors
 
 Requires 7/13 signatures to pass a proposal. 
 
@@ -38,14 +46,6 @@ Requires 7/13 signatures to pass a proposal.
 * xDai Team
 * Giveth
 * Syncnode
-* M Conti
-
-### Current AMB Bridge Validators
-
-* xDai 
-* Giveth
-* Protofire
-* SyncNode
 * M Conti
 
 ### Governance Management Operations
