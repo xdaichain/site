@@ -12,9 +12,7 @@ A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on P
 
 ### Video
 
-{% embed url="https://youtu.be/RlcyBtz3R2w" %}
-
-
+{% embed url="https://youtu.be/RlcyBtz3R2w" caption="Video courtesy of 1Hive Team" %}
 
 ## Text Explainer
 
