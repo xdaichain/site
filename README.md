@@ -5,7 +5,10 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai STAKE
 
 {% hint style="success" %}
-**Latest News**:  🔐 xDai teams up with Immunefi to offer a $2,000,000 bug bounty for the OmniBridge, the largest white hat security bounty to date in DeFi. [Learn More](https://immunefi.com/bounty/xdaistake/)
+**Latest News**
+
+* Orchid Protocol + xDai integration. [Read More](about-xdai/project-spotlights/orchid-vpn.md)
+* xDai &lt;-&gt; Polygon bridge by 1Hive + Connext. [Read More](for-users/bridges/xdai-matic-connext-bridge.md)
 {% endhint %}
 
 ## xDai Stable Chain
