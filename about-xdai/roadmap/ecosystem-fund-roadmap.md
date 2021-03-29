@@ -20,6 +20,10 @@ Here we offer some initial use cases for the fund. We will continue to expand th
 
 Funding amounts are approximate and provided in STAKE. We will include additional details such as tx hashes, gnosis safe addresses and other data as they become available.
 
+{% hint style="success" %}
+We are exploring additional measures to ensure fund transparency and funding alignment with community and development needs. Look for more updates soon re: fund allocation governance and reporting.
+{% endhint %}
+
 ### Gnosis Partnership
 
 * 250,000 STAKE
