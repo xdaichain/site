@@ -7,12 +7,11 @@ description: Scenarios for xDai during the multi-year transition
 Ethereum 2.0 is rolling out in several phases over the next several years. There are still many questions around exact plans, details and timing. In the meantime, the xDai team continues to support Ethereum 1.0 interoperability while monitoring the transition and exploring possible future scenarios over the coming years.  
 
 {% hint style="info" %}
-We are following all Ethereum mainnet updates / forks \(Berlin, London - EIP1559\) and will upgrade xDai accordingly as these forks are successfully implemented.  [Latest All Core Devs updates here](https://hackmd.io/@timbeiko/acd/https%3A%2F%2Fhackmd.io%2F%40timbeiko%2FH1US36qzO#AllCoreDevs-Update-001-%E2%9B%93).
+We are following all Ethereum mainnet updates / forks \(Berlin, London - EIP1559, Shanghai\) and will upgrade xDai accordingly as these forks are successfully implemented.  
+🚅  [Latest All Core Devs updates here](https://hackmd.io/@timbeiko/acd/https%3A%2F%2Fhackmd.io%2F%40timbeiko%2FH1US36qzO#AllCoreDevs-Update-001-%E2%9B%93).
 {% endhint %}
 
-During the 2.0 transition, we will see which outcome\(s\) support the best use-case for xDai stable chain projects and users. As a community member, feel free to voice your opinion about future directions for xDai and STAKE as well [in our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43).  
-
-Below are several possible scenarios. 
+During the 2.0 transition, we will see which outcome\(s\) support the best use-case for xDai stable chain projects and users. As a community member, feel free to voice your opinion about future directions for xDai and STAKE as well [in our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43).  Below are several possible scenarios. 
 
 {% hint style="warning" %}
 _Please note that all of these approaches are possibilities for future directions. We do not have a_ 🔮 _and new opportunities may present themselves as the space evolves._
