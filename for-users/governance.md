@@ -4,7 +4,7 @@ description: Community signaling with Snapshot and Forum proposals
 
 # Governance
 
-Community members can create and vote on proposals related to changes, improvements or anything they would like to see with the xDai ecosystem. Users can also add proposals related to xDai Ecosystem Funds usage. 
+Community members can create and vote on proposals related to changes, improvements or anything they would like to see with the xDai ecosystem. Users can also add proposals related to [xDai Ecosystem Funds](../about-xdai/roadmap/ecosystem-fund-roadmap.md) usage. 
 
 **Standard order of events for community governance:**
 
