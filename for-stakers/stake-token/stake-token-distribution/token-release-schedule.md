@@ -18,7 +18,7 @@ Used to foster adoption and provide funding for applications.
 * Locked for first 336 days following token listing
 * Released at day 336: 800,000 \(20%\)
 * Released for following 336 days starting at day 337: ~9,523 daily.
-* Contract: [0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9](https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9)
+* Contract: [0x5E78C09984bd6608f8E913F0924062C043eD6ad7](https://etherscan.io/address/0x5E78C09984bd6608f8E913F0924062C043eD6ad7)
 
 ## Foundation Reward
 
@@ -94,8 +94,8 @@ Community Engagement Fund: [https://etherscan.io/tx/0x810f3a3eb3fe4f3b6c876e272d
 
 ## Minted STAKE
 
-Once the staking application launches, additional STAKE will be minted as a reward for validators and delegators of the protocol. The  initial target range is 15% APR of STAKE placed in the protocol.
+Once the staking application launches, additional STAKE will be minted as a reward for validators and delegators of the protocol. The  initial target range is up to 15% APR of STAKE placed in the protocol.
 
-* Total: 15% APR on staked amount
+* Total: up to 15% APR on staked amount
 * Released at Day 84: Reward minting begins with [EasyStaking](../../easy-staking/)
 
