@@ -5,7 +5,9 @@ description: Projects and applications migrating and/or deploying to xDai
 # Projects & DApps
 
 {% hint style="info" %}
-A list of applications using xDai is catalogued below. For more details on specific apps, we highlight some in this Projects & DApps section. See the site menu for more.
+**A list of applications using xDai is catalogued below.** 
+
+For more details on specific apps, we highlight some in this Projects & DApps section. See the site menu for more.
 {% endhint %}
 
 xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Contract or DApp deployed on Ethereum can also be deployed on xDai with minimal changes. Developers and projects can deploy and/or migrate to xDai to realize big cost savings and escape congestion.  Forks of popular projects are also deployed on xDai to take advantage of stable network mechanics, speed and low transaction costs. Applications can move completely to xDai, or live on multiple networks at once, serving different audiences and experimenting with different modes of operation and cross-chain interoperability.
@@ -87,18 +89,19 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### **NFT-based projects**
 
+* **NFT Marketplaces**
+  * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
+  * [Unique.one](http://Unique.One): NFT Marketplace
+  * [Eporio](https://epor.io/): NFT Marketplace
+  * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
+  * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
+  * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art 
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
-* [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
 * [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
 * [Shenanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
-* [Eporio](https://epor.io/): NFT Marketplace
-* [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
-* [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
-* [Unique.one](http://Unique.One): NFT Marketplace
-* [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art
 * [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs crated and owned by the community
 * Projects in other categories that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
