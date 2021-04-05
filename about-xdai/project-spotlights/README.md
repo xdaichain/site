@@ -51,6 +51,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 * [Hedgey Finance](https://www.hedgey.finance/): Decentralized Financial Derivatives Protocol
 * [Agave](https://agave.finance/): DeFi Lending Protocol \(coming soon\)
+* [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity.
 
 ### **Community Engagement**
 
@@ -87,6 +88,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 ### **NFT-based projects**
 
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
+* [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
 * [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
 * [Shenanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
@@ -96,7 +98,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
 * [Unique.one](http://Unique.One): NFT Marketplace
-* [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art 
+* [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art
+* [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs crated and owned by the community
 * Projects in other categories that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
@@ -138,6 +141,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [MintGate](https://mintgate.app/): Tokenized Content Protection.
 * [RealT](https://realt.co/): fractionalized real estate investing.
 * [MtPelerin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management.
+* [SmokeSignal](https://smokesignal.eth.link/): Decentralized Messaging Platform
 
 
 
