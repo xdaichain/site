@@ -8,7 +8,7 @@ description: Custom Burner Wallet and Digital Gemstone NFT Experience
 
 **Where:** Global Virtual Event, hosted by Japan
 
-**What:** The [Global Technology Governance Summit \(GTSG\)](https://www.weforum.org/events/global-technology-governance-summit-2021) is presented by the World Economic Forum and hosted by Japan in 2021. The summit aims to be the foremost global multistakeholder gathering dedicated to ensuring the responsible design and deployment of emerging technologies through public-private collaboration. 
+**What:** The [Global Technology Governance Summit \(GTGS\)](https://www.weforum.org/events/global-technology-governance-summit-2021) is presented by the World Economic Forum and hosted by Japan in 2021. The summit aims to be the foremost global multistakeholder gathering dedicated to ensuring the responsible design and deployment of emerging technologies through public-private collaboration. 
 
 **xDai:** To highlight emerging blockchain technologies, a customized burner wallet developed by [Austin Griffith](https://twitter.com/austingriffith) and running on xDai is provided to participants. Each wallet is delivered with a small amount of GTGSCoin and xDai for transaction fees. In the integrated NFT marketplace, users can buy and sell NFT shards of digital gemstones. Prices adjust based on supply and demand.
 
