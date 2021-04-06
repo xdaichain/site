@@ -8,15 +8,17 @@ Community members can create and vote on proposals related to changes, improveme
 
 * Stake held either on Ethereum or xDai
 * Stake staked in EasyStaking on Ethereum
-* Delegated stake \(e.g. from multisig\)
+* Delegated stake \(From a multisig wallet - [more info](../for-stakers/stake-token/stake-weighted-voting/delegate-stake-voting-weight-with-gnosis-safe.md)\)
 * Stake on xDai in POSDAO \(validators and delegators\)
 
 **Standard order of events for community governance:**
 
 {% hint style="info" %}
-Please see the [stake-weighted voting](../for-stakers/stake-token/stake-weighted-voting/) section for more information on creating and voting. 
+Please see the [stake-weighted voting](../for-stakers/stake-token/stake-weighted-voting/) section for more information on creating a proposal and voting on an existing proposal. 
+{% endhint %}
 
-_Note: This process may be expedited when used by the xDai team to address infrastructure etc._
+{% hint style="warning" %}
+_Note: The process below may be expedited when used by the xDai team to address infrastructure concerns or other time-sensitive issues._
 {% endhint %}
 
 1. [Forum post in proposals section of xDai forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43). This is a first step to introduce your proposal and provide reasoning for why you are creating it and what benefits it will bring to the ecosystem. The community can voice their opinions and you can add more information about your proposal during and/or after the snapshot vote to clarify. A forum post should be shared with the community to allow for community comment before the snapshot proposal \(2 weeks\). 
@@ -26,10 +28,6 @@ _Note: This process may be expedited when used by the xDai team to address infra
 4. Depending on the nature and type of proposal the team will take the information into consideration and post questions/comments on your forum post and include [appropriate governance boards](../about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md#what-is-the-bridge-governance-board) if needed. 
 
 {% hint style="warning" %}
-Proposals act as signaling events, but are never automatically enacted. Even if a proposal is popular in the community, snapshot/forum posts are suggestions and depending on technical requirements or other issues may not be enacted by the xDai technical team or bridge governors.
+Proposals act as signaling events, but are never automatically enacted. Even if a proposal is popular in the community, snapshot/forum posts are suggestions and depending on technical requirements or other issues may not be enacted by the xDai technical team or bridge governors. If this is the case, reasoning will be discussed in the forum post \(step 1\).
 {% endhint %}
-
-
-
-
 
