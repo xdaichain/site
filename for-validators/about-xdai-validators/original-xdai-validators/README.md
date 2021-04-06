@@ -2,20 +2,18 @@
 description: Organizations in the ecosystem are guiding the POSDAO transition
 ---
 
-# Current xDai Validator Organizations
+# Original xDai Validators
 
-⚔ xDai chain consensus is currently provided by a dedicated group of organizations who donate their time and resources to protect the chain. Their main incentive is not financial rewards \(they make less than they spend on infrastructure\) but a desire to invent new solutions, participate in on-chain governance, and support complimentary ecosystem tools.
+⚔ xDai chain consensus was originally provided by a dedicated group of organizations who donated their time and resources to protect the chain. Their main incentive was not financial rewards \(they made less than they spent on infrastructure\) but a desire to invent new solutions, participate in on-chain governance, and support complimentary ecosystem tools.
 
-Thanks to these groups, the xDai chain has proven to be resilient and robust since its inception. xDai has provided speed and low-cost, stable transactions for a variety of blockchain projects. This includes transactional capacity for varying [conferences of up to 10,000 participants](https://www.xdaichain.com/about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet), [community currencies in Africa](https://www.xdaichain.com/about-xdai/use-cases/community-currencies), and [pop-up crypto events](https://medium.com/@austin_48503/decentralized-cypherpunk-speakeasy-2fdbdc446318) throughout the world.  
+Thanks to these groups, the xDai chain has proven to be resilient and robust since its inception. xDai has provided speed and low-cost, stable transactions for a variety of blockchain projects. This includes transactional capacity for  [conferences of up to 10,000 participants](https://www.xdaichain.com/about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet), [community currencies in Africa](https://www.xdaichain.com/about-xdai/use-cases/community-currencies), and [pop-up crypto events](https://medium.com/@austin_48503/decentralized-cypherpunk-speakeasy-2fdbdc446318) throughout the world.  
 
-The organizations who believe in this project and have helped it grow are listed below. When xDai transitions to POSDAO consensus these organizations will also serve as the initial PoS validators. They will shepherd in the new Proof of Stake functionality while a permissionless, decentralized chain is forged from the ground up. 
-
-The community is thankful and appreciative of these organizations who have helped create, nurture and grow the one and only xDai stable chain.
+The organizations who believe in this project and have helped it grow are listed below. With POSDAO, these validators are now serving as the initial PoS validators. The community is thankful and appreciative of these organizations who have helped create, nurture and grow the one-and-only xDai stable chain.
 
 {% hint style="success" %}
-To see a dynamic list of current nodes and validators, see the [xDai Netstats page](https://dai-netstat.poa.network/).  
+Current validators can be found at: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)  
   
-To learn more about the current validators,[ visit the xDai forum page where validators introduce themselves](https://forum.poa.network/c/xdai-chain/validators-intro) and explain why they want to validate the chain.
+See the [xDai Netstats page](https://dai-netstat.poa.network/) for a dynamic list of nodes.
 {% endhint %}
 
 ## ⚔ Current xDai Validators

@@ -4,15 +4,14 @@ description: Validators secure the xDai chain
 
 # About xDai Validators
 
-{% hint style="info" %}
-The xDai chain is currently functioning in a permissioned POSDAO-based consensus, where selected validators use xDai-based STAKE tokens to secure the chain. xDai will transition to public POSDAO in the coming months, where community members can become validator candidates as well as delegate STAKE to candidates and validators. 
-{% endhint %}
+A validator runs a node that verifies transactions and finalizes blocks on the xDai chain. Each validator must provide the minimum STAKE collateral \(20K STAKE\) into their pool and setup a functional node to participate. They start as candidates, and have the chance to become validators each week when a new validator set is chosen.
 
-The xDai Stable Chain is protected by a select group of validators well known in the Ethereum space. [See this post for a list of current validators.](current-xdai-validators/)
+**Learn more:**
 
-![Current xDai Validators list ](../../.gitbook/assets/validators_1.png)
-
-To learn more about the current validators, [visit our forum section where validators introduce themselves ](https://forum.poa.network/c/xdai-chain/validators-intro)and explain why they want to validate the chain.
+* [Original xDai Validators](original-xdai-validators/)
+* [Current xDai Validators](https://blockscout.com/xdai/mainnet/validators)
+* [Become a Validator Candidate](../../for-stakers/staking-protocol/become-a-candidate-validator.md)
+* [Validator FAQs ](../../about-xdai/faqs/public-staking-validators-and-delegators.md)
 
 
 

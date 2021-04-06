@@ -305,8 +305,8 @@
 ## For validators
 
 * [About xDai Validators](for-validators/about-xdai-validators/README.md)
-  * [Current xDai Validator Organizations](for-validators/about-xdai-validators/current-xdai-validators/README.md)
-    * [xDai Validator Testimonials](for-validators/about-xdai-validators/current-xdai-validators/xdai-validator-testimonials.md)
+  * [Original xDai Validators](for-validators/about-xdai-validators/original-xdai-validators/README.md)
+    * [xDai Validator Testimonials](for-validators/about-xdai-validators/original-xdai-validators/xdai-validator-testimonials.md)
   * [Original Validator Rewards](for-validators/about-xdai-validators/original-validator-rewards.md)
 * [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
   * [Nethermind Node Setup](for-validators/new-validator-process-flow/nethermind-node-setup.md)

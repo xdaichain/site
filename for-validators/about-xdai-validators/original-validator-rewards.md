@@ -6,7 +6,7 @@ description: >-
 
 # Original Validator Rewards
 
-At the onset of the POSDAO protocol, the [13 original validators \(12 +1 unremovable validator\)](current-xdai-validators/) each received 20,000 STAKE tokens as a proactive staking allotment to protect the network. Reward accrual for the original validators began on April 1, 2020 and will continue as long as a validator is active on the network.
+At the onset of the POSDAO protocol, the [13 original validators \(12 +1 unremovable validator\)](original-xdai-validators/) each received 20,000 STAKE tokens as a proactive staking allotment to protect the network. Reward accrual for the original validators began on April 1, 2020 and will continue as long as a validator is active on the network.
 
 Should one of the original validators decide to leave the network, their validator spot will be preserved and the initial 20K allotment kept in the protocol. For security reasons the original 13 validatorships should remain occupied, and the initial 20K allotment cannot be withdrawn. However, an original validator may negotiate to sell their spot to a new validator, and that new validator will then inherit the original 20K staking allotment. Should this validator who replaces the original validator decide to leave, the same parameters will apply.
 
