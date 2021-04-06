@@ -5,7 +5,7 @@ description: Receive funding to integrate ZK protocols into xDai applications an
 # ZK \(Zero Knowledge\) Privacy Fund
 
 {% hint style="success" %}
-Grant Program will reopen in Q4 2020. Stay tuned for details.
+Grant Program will reopen in Q2 2021. Stay tuned for details.
 {% endhint %}
 
 A grant to fund ZK applications on xDai and other Layer 2 sidechains. ZK proofs offer the ability for users to make private transactions.
