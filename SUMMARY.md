@@ -343,6 +343,7 @@
 
 * [xDai Dev Team](media/xdai-dev-team.md)
 * [Social Media & Community Channels](media/social-media.md)
-* [Media Kit](media/media-kit.md)
+* [Media Kit](media/media-kit/README.md)
+  * [Buttons](media/media-kit/buttons.md)
 * [Contact us](media/contact-us.md)
 
