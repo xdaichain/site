@@ -62,9 +62,9 @@ Implementation of additional zero-knowledge protocols and private transactions i
 
 Since xDai is a stable token, the primary use of the chain is peer-to-peer payments. Just as with cash, privacy and anonymity should be an option when exchanging money or paying vendors for services. 
 
-Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure Dai anonymity. Dai can be used with tornado.cash before and after bridging to xDai to ensure transaction anonymity.
+Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure Dai anonymity on the Ethereum mainnet. Dai can be used with tornado.cash before and after bridging to xDai to ensure transaction anonymity. However, it is not available directly on xDai.
 
-We also plan to implement privacy preserving transactions on xDai directly. Additionally, we plan to enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum.
+We plan to research and implement privacy preserving transactions on xDai directly, as well as enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum.
 
 We have invested in several [different approaches ](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)to implement different ZK protocols into xDai based applications and wallets.
 

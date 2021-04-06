@@ -10,7 +10,7 @@ Use cases include token sales and collateral shortfall events. Users and project
 
 To [bid on an auction](https://gnosis-auction.eth.link/#/docs/participate-as-a-bidder#topAnchor) on the xDai chain, simply go to  [https://gnosis-auction.eth.link/\#/start](https://gnosis-auction.eth.link/#/start) and connect to the xDai chain with your web3 wallet. 
 
-To [create an auction](https://gnosis-auction.eth.link/#/docs/participate-as-auctioneer#topAnchor), follow the instructions to use the repository and create your auction.
+To [create an auction](https://gnosis-auction.eth.link/#/docs/participate-as-auctioneer#topAnchor), follow the instructions to use the repository and create your auction
 
 {% hint style="info" %}
 Auction Link: [https://gnosis-auction.eth.link/\#/start](https://gnosis-auction.eth.link/#/start)
