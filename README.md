@@ -43,7 +43,7 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
   </tbody>
 </table>
 
-🌉 [xDai Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.com). Tokens and arbitrary messages can also be passed across chains.
+🌉 [xDai Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.com). Tokens and arbitrary messages can also be passed across chain.
 
 * [xDai Bridge](for-users/bridges/converting-xdai-via-bridge/): Convert Dai to xDai and bridge xDai to Dai on Ethereum.
 * [Ethereum Omnibridge](for-users/bridges/omnibridge.md): Bridge ERC20 tokens between Ethereum and xDai.
@@ -55,7 +55,7 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
 
 The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
 
-![Featured Applications and xDai Integrations](.gitbook/assets/colorful-sunglasses-twitter-header.png)
+![](.gitbook/assets/xdai-projects.png)
 
 | Integrations | Infrastructure | DeFi | NFTs | DAOs |
 | :--- | :--- | :--- | :--- | :--- |
