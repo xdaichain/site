@@ -4,7 +4,7 @@
 
 We will continue to add items and adjust priorities as the year continues. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020.
 
-_Last update: 18.03.2021 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: April 6, 2021 \|_ [_Changelog_](./#change-log)\_\_
 
 {% hint style="warning" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
@@ -42,7 +42,7 @@ The first bounty is for OmniBridge contracts with a potential reward of $2,000,0
 ## **Improve STAKE Governance Processes**
 
 🎯 **Target Date:** Q2 2021  
-  **✅Status:** Improved [Snapshot Compatibility](https://snapshot.org/#/xdaistake.eth) with xDai, process optimizations ongoing
+  **✅Status:** Improved [Snapshot Compatibility](https://snapshot.org/#/xdaistake.eth) with xDai, process optimizations ongoing. [More Details](../../for-users/governance.md)
 
 STAKE is used for community signaling with [snapshot](https://snapshot.org/#/xdaistake.eth), and STAKE held on xDai is important for this process to reflect community sentiment. STAKE holders on xDai include POSDAO delegators and validators, perhaps the biggest supporters of the chain. There is a vital need to include these holders in the governance process. Snapshot compatibility will be expanded to include STAKE on xDai and STAKE currently staked in the POSDAO protocol. In addition, the governance process will be optimized to facilitate more community driven proposals and voting for the [Ecosystem Fund allocation](ecosystem-fund-roadmap.md).
 
