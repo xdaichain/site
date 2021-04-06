@@ -39,9 +39,23 @@ Once the Ecosystem Fund unlock begins, we will finalize the program and begin ac
 
 The first bounty is for OmniBridge contracts with a potential reward of $2,000,000 for critical bug discovery. We will continue to add additional bounties for other infrastructure including EasyStaking and POSDAO consensus contracts.
 
-## **Privacy Preserving Transactions**
+## **Improve STAKE Governance Processes**
 
 🎯 **Target Date:** Q2 2021  
+  **✅Status:** Improved [Snapshot Compatibility](https://snapshot.org/#/xdaistake.eth) with xDai, process optimizations ongoing
+
+STAKE is used for community signaling with [snapshot](https://snapshot.org/#/xdaistake.eth), and STAKE held on xDai is important for this process to reflect community sentiment. STAKE holders on xDai include POSDAO delegators and validators, perhaps the biggest supporters of the chain. There is a vital need to include these holders in the governance process. Snapshot compatibility will be expanded to include STAKE on xDai and STAKE currently staked in the POSDAO protocol. In addition, the governance process will be optimized to facilitate more community driven proposals and voting for the [Ecosystem Fund allocation](ecosystem-fund-roadmap.md).
+
+## **Berlin HF activation and client updates**
+
+🎯 **Target Date:** Q2 2021  
+ ☑**Status:** Planned for mid-late April 2021
+
+OpenEthereum is now running `3.2.2-rc.1-stable` and it includes the latest xDai POSDAO features. xDai validators will upgrade to the latest build, with several also migrating to the Nethermind client to support client diversity on xDai.  We plan to activate the Berlin hard fork shortly after it goes live on the Ethereum mainnet. The exact date is TBD but planned to be completed by the end of April.
+
+## **Privacy Preserving Transactions**
+
+🎯 **Target Date:** Q2-Q3 2021  
 ☑ **Status:** In process, defining requirements and exploring approaches
 
 Implementation of additional zero-knowledge protocols and private transactions into xDai.
@@ -56,7 +70,7 @@ We have invested in several [different approaches ](https://forum.poa.network/t/
 
 ## Synthetic Assets on xDai based on UMA protocol
 
-🎯 **Target Date**: Q2 2021  
+🎯 **Target Date**: Q2-Q3 2021  
 ☑ **Status:** In process. 50% implementation
 
 UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
@@ -75,7 +89,7 @@ Additional features will be added including bi-directional support \(ability to 
 🎯 **Target Date**: Q1-Q2 2021  
 ☑ **Status:** In process
 
-An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers. Update: Bridge is operational, UI is in development.  [More information](https://docs.tokenbridge.net/eth-xdai-amb-bridge/nft-omnibridge-extension)
+An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers. _Update: Bridge is operational, UI is in development._  [_More information_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/nft-omnibridge-extension)\_\_
 
 ## L2 scalability and composability for token transfers on xDai
 
@@ -99,6 +113,18 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>06.04.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Add Improve STAKE governance process</li>
+          <li>Adjust target dates for synthetic assets &amp; private txs</li>
+          <li>Add Berlin Hard Fork</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>18.03.2021</em>
       </td>

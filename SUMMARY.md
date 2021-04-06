@@ -30,6 +30,7 @@
 * [Projects & DApps](about-xdai/project-spotlights/README.md)
   * [Gnosis](about-xdai/project-spotlights/gnosis/README.md)
     * [Gnosis Safe](about-xdai/project-spotlights/gnosis/gnosis-safe.md)
+    * [Gnosis Auction](about-xdai/project-spotlights/gnosis/gnosis-auction.md)
   * [Chainlink](about-xdai/project-spotlights/chainlink/README.md)
     * [Chainlink Price Feeds on xDai](about-xdai/project-spotlights/chainlink/price-feeds.md)
   * [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md)
