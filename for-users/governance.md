@@ -4,12 +4,17 @@ description: Community signaling with Snapshot and Forum proposals
 
 # Governance
 
-Community members can create and vote on proposals related to changes, improvements or anything they would like to see with the xDai ecosystem. Users can also add proposals related to [xDai Ecosystem Funds](../about-xdai/roadmap/ecosystem-fund-roadmap.md) usage. 
+Community members can create and vote on proposals related to changes, improvements or anything they would like to see with the xDai ecosystem. Users can also add proposals related to [xDai Ecosystem Funds](../about-xdai/roadmap/ecosystem-fund-roadmap.md) usage.  Voting is done with STAKE, and STAKE balances are retrieved from both Ethereum and xDai. STAKE in the following protocols can be used for voting purposes.
+
+* Stake held either on Ethereum or xDai
+* Stake staked in EasyStaking on Ethereum
+* Delegated stake \(e.g. from multisig\)
+* Stake on xDai in POSDAO \(validators and delegators\)
 
 **Standard order of events for community governance:**
 
 {% hint style="info" %}
-Please see the [stake-weighted voting](https://gnosis-safe.io/app/#/safes/0x42F38ec5A75acCEc50054671233dfAC9C0E7A3F6/settings) section for more information on creating and voting. Currently you need [STAKE on Ethereum](https://etherscan.io/token/0x0Ae055097C6d159879521C384F1D2123D1f195e6) to vote, this includes STAKE that is currently locked in Easy Staking. More options for STAKE on xDai coming soon.
+Please see the [stake-weighted voting](../for-stakers/stake-token/stake-weighted-voting/) section for more information on creating and voting. 
 
 _Note: This process may be expedited when used by the xDai team to address infrastructure etc._
 {% endhint %}
@@ -23,8 +28,6 @@ _Note: This process may be expedited when used by the xDai team to address infra
 {% hint style="warning" %}
 Proposals act as signaling events, but are never automatically enacted. Even if a proposal is popular in the community, snapshot/forum posts are suggestions and depending on technical requirements or other issues may not be enacted by the xDai technical team or bridge governors.
 {% endhint %}
-
-
 
 
 
