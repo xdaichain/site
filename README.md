@@ -7,8 +7,8 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-* Orchid Protocol + xDai integration. [Read More](about-xdai/project-spotlights/orchid-vpn.md)
-* xDai &lt;-&gt; Polygon bridge by 1Hive + Connext. [Read More](for-users/bridges/xdai-matic-connext-bridge.md)
+* xDai at World Economic Fund Global Technology Governance Summit. [More](https://twitter.com/xdaichain/status/1379192246361284610)
+* Gnosis Auction Platform Launch. [More](about-xdai/project-spotlights/gnosis/gnosis-auction.md)
 {% endhint %}
 
 ## xDai Stable Chain
