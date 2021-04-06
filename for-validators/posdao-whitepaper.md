@@ -11,8 +11,8 @@ description: xDai runs on a new type of dPOS consensus called POSDAO.
 {% endhint %}
 
 {% hint style="info" %}
-Public POSDAO staking can be accessed at [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
+The public POSDAO staking app can be accessed here: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
 {% endhint %}
 
-POSDAO introduces a staking token, called STAKE, as well as a new consensus model where individuals who own STAKE may become validators or may delegate their stake on current validators in order to protect the chain. Validators and delegators receive rewards in exchange for providing STAKE.
+POSDAO introduces the STAKE staking token and a new consensus model where individuals who own STAKE may become validators or may delegate their stake on current validators in order to protect the chain. Validators and delegators receive rewards in exchange for providing STAKE to secure the protocol.
 
