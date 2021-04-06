@@ -30,7 +30,7 @@ xDai supports low cost, stable transactions for projects and users. high Ethereu
 
 Using a RANDAO-based Random Number Generator, validators on xDai produce random numbers used for validator selection. These random seeds are also available for usage by contracts deployed to xDai. This allows for true on-chain randomness, eliminating the need to rely on a centralized service or 3rd party application. More information on how the xDai RNG works is [available here](../for-developers/on-chain-random-numbers/).
 
-## POSDAO Consensus
+## POSDAO Green Consensus
 
 The xDai Stable Chain uses a delegated Proof of Stake \(DPOS\) consensus mechanism called POSDAO. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol including a complete overview of the theory, rationale, security, and a detailed implementation section.
 
@@ -38,9 +38,16 @@ The xDai Stable Chain uses a delegated Proof of Stake \(DPOS\) consensus mechani
 
 Two bridges connect the xDai Stable Chain to the Ethereum mainnet, supporting seamless two-way asset transfer between chains. Tokens are acquired on the mainnet, then bridged to the xDai Stable Chain sidechain using either the Dai-xDai bridge for transactional tokens, or the OmniBridge for any cross-chain transfers. Once a user is finished transacting or staking, tokens can be bridged back to the mainnet with ease.
 
+### L2 Chain Bridges
+
+Additional bridges exist to move tokens between xDai and other L2 sidechains, including moving assets between  [Binance Smart Chain](https://bsc-to-xdai-omnibridge.web.app/) and Polygon \(using a [Connext state channel bridge](https://xdai-matic-connext.vercel.app/)\).
+
 ### Bridged Tokens
 
-View tokens that have been bridged to xDai with the [OmniBridge](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension) using the [OmniBridge UI ](https://xdai-omnibridge.web.app/)built by [RaidGuild](https://raidguild.org/)
+View tokens bridged to xDai from Ethereum with the [OmniBridge UI ](https://xdai-omnibridge.web.app/)built by [RaidGuild](https://raidguild.org/).
+
+* [Tokens bridged from Ethereum](https://blockscout.com/xdai/mainnet/bridged-tokens/eth)
+* [Tokens bridged from BSC](https://blockscout.com/xdai/mainnet/bridged-tokens/bsc)
 
 {% embed url="https://blockscout.com/xdai/mainnet/bridged-tokens" caption="" %}
 
