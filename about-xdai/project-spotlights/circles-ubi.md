@@ -36,7 +36,7 @@ Once you create an account you will need 3 people who are already participating 
 
 ![](../../.gitbook/assets/cseed.jpg)
 
-![](../../.gitbook/assets/cphoto%20%281%29%20%281%29.jpg)
+![](../../.gitbook/assets/cphoto%20%281%29%20%281%29%20%281%29.jpg)
 
 4\) Once your account is created, you will need to be verified through a trust process. Share your link with others who are already verified and whom you trust in the community.
 
