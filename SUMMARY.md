@@ -246,6 +246,7 @@
 
 * [Developer Resources & Tools](for-developers/developer-resources/README.md)
   * [Smart Contract Deployment](for-developers/developer-resources/smart-contract-deployment.md)
+  * [Ankr API](for-developers/developer-resources/ankr-api.md)
   * [API & SQL Access with AnyBlock Analytics](for-developers/developer-resources/api-and-sql-access.md)
   * [Blocknative Notifications](for-developers/developer-resources/blocknative-notifications.md)
   * [Burner Wallet Factory](for-developers/developer-resources/burner-wallet-factory/README.md)

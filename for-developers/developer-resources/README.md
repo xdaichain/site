@@ -53,17 +53,32 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
   </tbody>
 </table>
 
-Additional resources to connect to xDai network
+### **Additional resources to connect to xDai network**
 
-| Resource | URL |
-| :--- | :--- |
-| JSON RPC endpoint over HTTP \(non-secure\) | [http://xdai.poanetwork.dev](http://xdai.poanetwork.dev/) |
-| JSON RPC endpoint via Cloudflare | [https://dai.poa.network](https://dai.poa.network) |
-| WebSockets WS \(non-secure\) | [ws://xdai.poanetwork.dev:8546](ws://xdai.poanetwork.dev:8546) |
-| Archive node | [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com/) |
-| Network ID | 100 |
+| Resource | URL |  |
+| :--- | :--- | :--- |
+| JSON RPC endpoint over HTTP \(non-secure\) | [http://xdai.poanetwork.dev](http://xdai.poanetwork.dev/) |  |
+| JSON RPC endpoint via Cloudflare | [https://dai.poa.network](https://dai.poa.network) |  |
+| WebSockets WS \(non-secure\) | [ws://xdai.poanetwork.dev:8546](ws://xdai.poanetwork.dev:8546) |  |
+| Archive node | [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com/) |  |
+| Network ID \(Decimal, Hexadecimal\) | 100 | 0x64 |
 
 🚀 QuikNode also supports xDai. Devs can get their own custom endpoint for DApps or other needs. [https://blog.quiknode.io/xdai-network-is-live-on-quiknode/](https://blog.quiknode.io/xdai-network-is-live-on-quiknode/)
+
+⚓ Ankr offers API endpoint access available with a free tier up to 100K requests/day. Additional paid tiers are available for developers. [https://www.ankr.com/](https://www.ankr.com/)
+
+### JSON-RPC Method Info
+
+* Eth Wiki: [https://eth.wiki/json-rpc/API](https://eth.wiki/json-rpc/API)
+* Postman: [https://documenter.getpostman.com/view/4117254/ethereum-json-rpc/RVu7CT5J?version=latest](https://documenter.getpostman.com/view/4117254/ethereum-json-rpc/RVu7CT5J?version=latest)
+* BlockScout info
+  * GraphQL: [https://blockscout.com/poa/xdai/graphiql](https://blockscout.com/poa/xdai/graphiql)
+  * RPC: [https://blockscout.com/xdai/mainnet/api-docs](https://blockscout.com/xdai/mainnet/api-docs)
+  * Eth RPC: [https://blockscout.com/xdai/mainnet/eth-rpc-api-docs](https://blockscout.com/xdai/mainnet/eth-rpc-api-docs)
+
+{% hint style="info" %}
+If using `eth_getLogs`to pull logs frequently WebSockets are recommended to push new logs as available.
+{% endhint %}
 
 ## TokenBridge
 
@@ -92,6 +107,7 @@ See the dropdown menu under Developer Resources and Tools for related tutorials.
 * [Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for gasless transactions and improved DApp UX.
 * [TheGraph](https://thegraph.com) supports xDai data indexing, querying and display.
 * [QuikNode](https://www.quiknode.io/) gives users a super-fast Web3 endpoint for accessing or interacting with the xDai chain.
+* [Ankr ](https://www.ankr.com/)offers xDai API endpoint access available with a free tier up to 100K requests/day and additional paid tiers. 
 * [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
 * [CurveGrid MultiBaas](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
