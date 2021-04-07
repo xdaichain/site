@@ -44,5 +44,13 @@ We are exploring additional measures to ensure fund transparency and funding ali
 * Amount TBD
 * When providing liquidity to DEXs in the ecosystem it is necessary to provide 2 different assets. To prevent the sale of STAKE to acquire these assets, we will leverage protocols such as [Unit Protocol](https://unit.xyz/) and MakerDAO to lock in STAKE and acquire additional collateral to support liquidity. Any positions we open will be with a high collateral to debt ratio to prevent unexpected liquidation and unnecessary risk. 
 
+### Community Initiatives
+
+* Amount TBD
+* Community members can suggest usage for funds by creating a proposal and a linked snapshot where users can vote on proposed usage of the funds. This acts a signaling mechanism for the community and what innovations they would like to see on xDai. 
+* More on the [Decentralized Community Governance Process](../../for-users/governance.md).
+
+
+
 
 
