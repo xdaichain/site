@@ -6,22 +6,31 @@ description: Chainlink Integrations allows access to price feeds on xDai
 
 Chainlink allows smart contracts to receive aggregated price feeds and access external data using a decentralized network of oracles. The xDai &lt;-&gt; Chainlink integration was completed by [Protofire with a Chainlink Community Grant.](https://blog.chain.link/protofire-receives-a-chainlink-community-grant-for-an-integration-with-xdai/) 
 
+{% hint style="info" %}
+Chainlink offers a tutorial on using secure data feeds with xDai. [See it in action](https://blog.chain.link/build-a-dapp-on-xdai-chain-with-secure-data-feeds/) 🏃♂ 
+{% endhint %}
+
 ## Addresses
 
-**Link Token on xDai**: [`0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2`](https://blockscout.com/poa/xdai/address/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2)
+* **Link Token on xDai**: [`0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2`](https://blockscout.com/poa/xdai/address/0xE2e73A1c69ecF83F464EFCE6A5be353a37cA09b2)\*\*\*\*
+* **Price Feeds on xDai:** _Latest list is available in the_ [_Chainlink Documentation_](https://docs.chain.link/docs/xdai-price-feeds)_._
 
-**Price Feeds on xDai:** _Latest list is available in the_ [_Chainlink Documentation_](https://docs.chain.link/docs/xdai-price-feeds)_._
-
-| Pair | Proxy Address |
-| :--- | :--- |
-| AAVE / USD | [`0x2b481Dc923Aa050E009113Dca8dcb0daB4B68cDF`](https://blockscout.com/poa/xdai/address/0x2b481Dc923Aa050E009113Dca8dcb0daB4B68cDF) |
-| BTC / USD | [`0x6C1d7e76EF7304a40e8456ce883BC56d3dEA3F7d`](https://blockscout.com/poa/xdai/address/0x6C1d7e76EF7304a40e8456ce883BC56d3dEA3F7d) |
-| DOT / USD | [`0x3c30c5c415B2410326297F0f65f5Cbb32f3aefCc`](https://blockscout.com/poa/xdai/address/0x3c30c5c415B2410326297F0f65f5Cbb32f3aefCc) |
-| ETH / USD | [`0xa767f745331D267c7751297D982b050c93985627`](https://blockscout.com/poa/xdai/address/0xa767f745331D267c7751297D982b050c93985627) |
-| LINK / USD | [`0xed322A5ac55BAE091190dFf9066760b86751947B`](https://blockscout.com/poa/xdai/address/0xed322A5ac55BAE091190dFf9066760b86751947B) |
-| PERP / USD | [`0x76e76F7E73F3BD42E3c2b4282B50b36E78130B4A`](https://blockscout.com/poa/xdai/address/0x76e76F7E73F3BD42E3c2b4282B50b36E78130B4A) |
-| SUSHI / USD | [`0xC0a6Bf8d5D408B091D022C3C0653d4056D4B9c01`](https://blockscout.com/poa/xdai/address/0xC0a6Bf8d5D408B091D022C3C0653d4056D4B9c01) |
-| YFI / USD | [`0x14030d5a0C9e63D9606C6f2c8771Fc95b34b07e0`](https://blockscout.com/poa/xdai/address/0x14030d5a0C9e63D9606C6f2c8771Fc95b34b07e0) |
+| Pair | Decimals | Proxy Contract |
+| :--- | :--- | :--- |
+| AAVE / USD | 8 | [`0x2b481Dc923Aa050E009113Dca8dcb0daB4B68cDF`](https://blockscout.com/poa/xdai/address/0x2b481Dc923Aa050E009113Dca8dcb0daB4B68cDF) |
+| BAL / USD | 8 | [`0x1b723C855F7D2c2785F99486973271355e782d77`](https://blockscout.com/poa/xdai/address/0x1b723C855F7D2c2785F99486973271355e782d77) |
+| BTC / USD | 8 | [`0x6C1d7e76EF7304a40e8456ce883BC56d3dEA3F7d`](https://blockscout.com/poa/xdai/address/0x6C1d7e76EF7304a40e8456ce883BC56d3dEA3F7d) |
+| CRV / USD | 8 | [`0xC77B83ac3Dd2a761073bD0f281f7b880B2DDDe18`](https://blockscout.com/poa/xdai/address/0xC77B83ac3Dd2a761073bD0f281f7b880B2DDDe18) |
+| DAI / USD | 8 | [`0x678df3415fc31947dA4324eC63212874be5a82f8`](https://blockscout.com/poa/xdai/address/0x678df3415fc31947dA4324eC63212874be5a82f8) |
+| DOT / USD | 8 | [`0x3c30c5c415B2410326297F0f65f5Cbb32f3aefCc`](https://blockscout.com/poa/xdai/address/0x3c30c5c415B2410326297F0f65f5Cbb32f3aefCc) |
+| ETH / USD | 8 | [`0xa767f745331D267c7751297D982b050c93985627`](https://blockscout.com/poa/xdai/address/0xa767f745331D267c7751297D982b050c93985627) |
+| LINK / USD | 8 | [`0xed322A5ac55BAE091190dFf9066760b86751947B`](https://blockscout.com/poa/xdai/address/0xed322A5ac55BAE091190dFf9066760b86751947B) |
+| PERP / USD | 8 | [`0x76e76F7E73F3BD42E3c2b4282B50b36E78130B4A`](https://blockscout.com/poa/xdai/address/0x76e76F7E73F3BD42E3c2b4282B50b36E78130B4A) |
+| SNX / USD | 8 | [`0x3b84d6e6976D5826500572600eB44f9f1753827b`](https://blockscout.com/poa/xdai/address/0x3b84d6e6976D5826500572600eB44f9f1753827b) |
+| SUSHI / USD | 8 | [`0xC0a6Bf8d5D408B091D022C3C0653d4056D4B9c01`](https://blockscout.com/poa/xdai/address/0xC0a6Bf8d5D408B091D022C3C0653d4056D4B9c01) |
+| UNI / USD | 8 | [`0xd98735d78266c62277Bb4dBf3e3bCdd3694782F4`](https://blockscout.com/poa/xdai/address/0xd98735d78266c62277Bb4dBf3e3bCdd3694782F4) |
+| USDC / USD | 8 | [`0x26C31ac71010aF62E6B486D1132E266D6298857D`](https://blockscout.com/poa/xdai/address/0x26C31ac71010aF62E6B486D1132E266D6298857D) |
+| YFI / USD | 8 | [`0x14030d5a0C9e63D9606C6f2c8771Fc95b34b07e0`](https://blockscout.com/poa/xdai/address/0x14030d5a0C9e63D9606C6f2c8771Fc95b34b07e0) |
 
 ## Basic Tutorial: Price Feeds
 
