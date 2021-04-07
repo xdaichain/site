@@ -69,7 +69,7 @@ Liquidity pool providers will also receive STAKE incentives from the Easy Stakin
 
 ## STAKE Distribution \(time-based example\)
 
-👩🎨 Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains, and submits a withdrawal request. Assume APR is 10%. Since she deposited 10000 STAKE and staked for 1 year, Mary receives 11000 STAKE \(her initial amount + 10% APR\).  The remaining 500 STAKE \(5% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
+👩🎨 Mary has 10,000 STAKE she places into the Easy Staking application on the Ethereum Mainnet. She submits a deposit through the Easy Staking UI. After 1 year, she decides to realize her STAKE gains and submits a withdrawal request. Assume APR is 10%. Since she deposited 10000 STAKE and staked for 1 year, Mary receives 11000 STAKE \(her initial amount + 10% APR\).  The remaining 500 STAKE \(5% APR\) earned as part of the total 15% APR are sent to the LP distribution contract.
 
 Distribution to LP participants occurs through a script which collects addresses and pool amounts. It is called once a week \(within 5-9 day time slots at random intervals\) and distributes funds based on pool participation percentages.
 
