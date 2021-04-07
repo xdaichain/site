@@ -6,6 +6,8 @@ description: Example transfer from xDai to BSC
 
 Here we show the bridging steps to transfer STAKE on xDai to STAKE on BSC. The chain names are appended, so the bridged token is called "STAKE on xDai on BSC".
 
+
+
 ## What you need:
 
 * A [token on the xDai chain](https://blockscout.com/xdai/mainnet/bridged-tokens/eth) you want to swap.
@@ -23,9 +25,9 @@ Honeyswap liquidity pair resource: [https://www.liquidityfolio.com](https://www.
 
 ## Bridge STAKE from xDai to BSC
 
-1\) Go to [https://bsc-to-xdai-omnibridge.web.app/](https://bsc-to-xdai-omnibridge.web.app/).
+1\) Go to the OmniBridge at [https://omni.xdaichain.com/bridge](https://omni.xdaichain.com/bridge)
 
-1. Connect your web3 wallet to the xDai Network.
+1. Connect your web3 wallet to the xDai Network. Select the **BSC &lt;-&gt; xDai** Bridge networks from the dropdown.
 2. Select the token you want to bridge \(_note that token suffixes now specify which chain a token has been bridged from. Stake is now called STAKE from Ethereum rather than STAKE on xDai_\)
 3. Select the amount.
 4. Click Unlock \(_note click Settings to enable infinite unlocks from this address rather that unlocking a specific amount to transfer_\).
