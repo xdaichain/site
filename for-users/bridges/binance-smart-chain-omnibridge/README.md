@@ -1,6 +1,8 @@
 # Binance Smart Chain Omnibridge
 
-The **Binance Smart Chain \(BSC\) Omnibridge** allows users to move ERC20 tokens between xDai and BSC. It is provided as an additional interoperability option for users looking to access cross-chain resources and take advantage of lower fees for conversions. The [Ethereum Omnibridge](../omnibridge.md) is always available for users bridging to and from Ethereum Mainnet.
+The **Binance Smart Chain \(BSC\) Omnibridge** allows users to move ERC20 tokens between xDai and BSC. It is available as a dropdown item from the OmniBridge UI.
+
+![](../../../.gitbook/assets/bsc-ui.png)
 
 {% hint style="info" %}
 **BSC OmniBridge and OmniBridge UI are beta software, use at your own risk.**
@@ -9,7 +11,7 @@ The **Binance Smart Chain \(BSC\) Omnibridge** allows users to move ERC20 tokens
 
 **Bridge Interfaces**
 
-🌉BSC [OmniBridge UI ](https://bsc-to-xdai-omnibridge.web.app/)live link
+🌉[OmniBridge live link](https://omni.xdaichain.com/bridge)
 
 🌉BSC [Transaction Monitor](https://alm-bsc-xdai.herokuapp.com/): Use it to see updated transaction status.
 
