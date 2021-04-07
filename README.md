@@ -46,8 +46,7 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
 🌉 [xDai Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.com). Tokens and arbitrary messages can also be passed across chain.
 
 * [xDai Bridge](for-users/bridges/converting-xdai-via-bridge/): Convert Dai to xDai and bridge xDai to Dai on Ethereum.
-* [Ethereum Omnibridge](for-users/bridges/omnibridge.md): Bridge ERC20 tokens between Ethereum and xDai.
-* [BSC OmniBridge](for-users/bridges/binance-smart-chain-omnibridge/): Public beta bridge to transfer ERC20s between Binance Smart Chain and xDai.
+* [Omnibridge](for-users/bridges/omnibridge.md): Bridge ERC20 tokens between Ethereum and xDai or between Binance Smart Chain and xDai. 
 
 🔎 [BlockScout Block Explorer](https://blockscout.com/xdai/mainnet) provides transactional transparency, custom features and a portal for xDai apps such as xDai staking, the xDai faucet, cross-chain bridge access and monitoring.
 
