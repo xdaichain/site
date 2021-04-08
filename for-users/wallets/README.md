@@ -20,4 +20,5 @@ For STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum.
 * [Torus Wallet](https://toruswallet.io/)
 * [MyCrypto](https://mycrypto.com/)
 * [imToken](https://token.im/)
+* [TokenPocket](https://www.tokenpocket.pro/)
 
