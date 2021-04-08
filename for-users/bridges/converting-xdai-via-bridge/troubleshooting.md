@@ -124,9 +124,9 @@ You will need some ETH in your wallet to pay gas fees and finalize the transacti
 
 7\) Add DAI as a custom token in MetaMask to view your DAI balance in the wallet.
 
-![](../../../.gitbook/assets/a10%20%282%29%20%282%29.jpg)
+![](../../../.gitbook/assets/a10%20%282%29%20%282%29%20%282%29.jpg)
 
-![](../../../.gitbook/assets/a11%20%282%29%20%282%29%20%282%29%20%283%29%20%281%29.jpg)
+![](../../../.gitbook/assets/a11%20%282%29%20%282%29%20%282%29%20%283%29%20%283%29%20%281%29.jpg)
 
 ![](../../../.gitbook/assets/a12.jpg)
 

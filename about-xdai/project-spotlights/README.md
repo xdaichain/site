@@ -5,14 +5,14 @@ description: Projects and applications migrating and/or deploying to xDai
 # Projects & DApps
 
 {% hint style="info" %}
-**A list of applications using xDai is catalogued below.** 
+**A list of applications using xDai is catalogued below.**
 
 For more details on specific apps, we highlight some in this Projects & DApps section. See the site menu for more.
 {% endhint %}
 
-xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Contract or DApp deployed on Ethereum can also be deployed on xDai with minimal changes. Developers and projects can deploy and/or migrate to xDai to realize big cost savings and escape congestion.  Forks of popular projects are also deployed on xDai to take advantage of stable network mechanics, speed and low transaction costs. Applications can move completely to xDai, or live on multiple networks at once, serving different audiences and experimenting with different modes of operation and cross-chain interoperability.
+xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Smart Contract or DApp deployed on Ethereum can also be deployed on xDai with minimal changes. Developers and projects can deploy and/or migrate to xDai to realize big cost savings and escape congestion. Forks of popular projects are also deployed on xDai to take advantage of stable network mechanics, speed and low transaction costs. Applications can move completely to xDai, or live on multiple networks at once, serving different audiences and experimenting with different modes of operation and cross-chain interoperability.
 
-[![](../../.gitbook/assets/p0-partnerships.svg)](./#primary-partnerships) [![](../../.gitbook/assets/p1-infra.svg)](./#infrastructure)[![](../../.gitbook/assets/p2-defi.svg)](./#defi) [![](../../.gitbook/assets/p3-community.svg)](./#community-engagement)[![](../../.gitbook/assets/p4-predictions.svg)](./#prediction-markets) [![](../../.gitbook/assets/p5-governance.svg)](./#governance)[![](../../.gitbook/assets/p6-nfts.svg)](./#nft-based-projects) [![](../../.gitbook/assets/p7-daos.svg)](./#daos)[![](../../.gitbook/assets/p8-ubi.svg)](./#universal-basic-income-ubi-and-streaming-income) [![](../../.gitbook/assets/p9-analytics.svg)](./#analytics)[![](../../.gitbook/assets/p10-games.svg)](./#games) [![](../../.gitbook/assets/p12-more.svg)](./#more)
+[![](../../.gitbook/assets/p0-partnerships.svg)](./#primary-partnerships) [![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p1-infra.svg)](./#infrastructure)[![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p2-defi.svg)](./#defi) [![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p3-community.svg)](./#community-engagement)[![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p4-predictions.svg)](./#prediction-markets) [![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p5-governance.svg)](./#governance)[![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p6-nfts.svg)](./#nft-based-projects) [![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p7-daos.svg)](./#daos)[![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p8-ubi.svg)](./#universal-basic-income-ubi-and-streaming-income) [![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p9-analytics.svg)](./#analytics)[![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p10-games.svg)](./#games) [![](https://github.com/xdaichain/site/tree/d73f3e17869c5bb0e71d0c4d5cc86cf8f13e059b/.gitbook/assets/p12-more.svg)](./#more)
 
 ## 3rd Party Projects/Dapps Deployed on xDai Include:
 
@@ -95,7 +95,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art 
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
 * [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
-* [Shenanigan](%20http://www.she.energy/): Grassroots athletic sponsorship
+* [Shenanigan](../../): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
@@ -148,12 +148,4 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [RealT](https://realt.co/): fractionalized real estate investing.
 * [MtPelerin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management.
 * [SmokeSignal](https://smokesignal.eth.link/): Decentralized Messaging Platform
-
-
-
-
-
-
-
-
 
