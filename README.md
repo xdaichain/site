@@ -97,5 +97,5 @@ Any contract that works on the Ethereum mainnet can be redeployed to the xDai ch
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
 
-xDai - the stable chain
+xDai - the Stable Chain
 
