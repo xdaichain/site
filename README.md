@@ -13,7 +13,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 
 ## xDai Stable Chain
 
-The xDai chain is a stable payments blockchain designed for fast and inexpensive transactions. The chain uses a unique dual-token model;  [xDai ](for-users/get-xdai-tokens/)is a stable token used for transactions, payments, and fees, and [STAKE](for-stakers/stake-token/) is a governance token used to support the underlying [POSDAO Proof-of-Stake](for-validators/posdao-whitepaper.md) consensus.
+The xDai chain is a stable payments blockchain designed for fast and inexpensive transactions. The chain uses a unique dual-token model; [xDai ](for-users/get-xdai-tokens/)is a stable token used for transactions, payments, and fees, and [STAKE](for-stakers/stake-token/) is a governance token used to support the underlying [POSDAO Proof-of-Stake](for-validators/posdao-whitepaper.md) consensus.
 
 <table>
   <thead>
@@ -67,9 +67,9 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 
 ## **xDai Developers**
 
-Development on xDai is easy and intuitive for Ethereum developers. xDai is an EVM sidechain, and smart contracts can be written and deployed in exactly the same way simply by setting a [different RPC endpoint.](for-developers/developer-resources/#json-rpc-endpoints) ****
+Development on xDai is easy and intuitive for Ethereum developers. xDai is an EVM sidechain, and smart contracts can be written and deployed in exactly the same way simply by setting a [different RPC endpoint.](for-developers/developer-resources/#json-rpc-endpoints) _\*\*_
 
-Any contract that works on the Ethereum mainnet can be redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai. ****Many tools supporting Ethereum development ****are compatible with xDai, including: 
+Any contract that works on the Ethereum mainnet can be redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai. **Many tools supporting Ethereum development** are compatible with xDai, including:
 
 * TheGraph
 * Tenderly
@@ -98,6 +98,4 @@ Any contract that works on the Ethereum mainnet can be redeployed to the xDai ch
 * ✅Open Source full-featured [BlockScout Explorer](https://blockscout.com/xdai/mainnet).
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
-
-xDai - the Stable Chain
 
