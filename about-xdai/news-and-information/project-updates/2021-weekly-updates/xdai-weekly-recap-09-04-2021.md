@@ -8,7 +8,7 @@ description: 3 April - 9 April 2021
 
 ## 📽️ Project News & Updates
 
-### 🦉 Gnosis Auction
+### 🦉Gnosis Auction
 
 [Gnosis Auction](https://gnosis-auction.eth.link/#/start) is live on Mainnet and xDai! Auctions have already started on Ethereum, and we expect a large auction coming to xDai  🔜!
 
@@ -20,7 +20,7 @@ description: 3 April - 9 April 2021
 
 {% embed url="https://medium.com/cardstack/cardstack-integrates-with-xdai-30e2fbd9d5aa" %}
 
-### 📜 Request Network
+###   📜 Request Network
 
 [Request](https://request.network) integrates with xDai to provide invoicing and crypto payment services with low fees!
 
@@ -44,19 +44,19 @@ Events are back! A custom burner wallet was featured at the World Economic Fund 
 
 {% embed url="https://twitter.com/xdaichain/status/1379192246361284610" %}
 
-### ⛓ Chainlink
+### ⛓Chainlink
 
 Chainlink continues their support for xDai with a new tutorial on their blog.
 
 {% embed url="https://twitter.com/chainlink/status/1379498202555121664" %}
 
-### 👖 TokenPocket
+### 👖TokenPocket
 
 TokenPocket announced they support xDai - users will be able to connect their wallet to xDai chain to access xDai-based DeFis and DApps.
 
 {% embed url="https://tokenpocket-gm.medium.com/tokenpocket-has-reached-a-strategy-collaboration-with-xdai-chain-57739f01d8f7" %}
 
-### 🦈 Mixsome Cash
+###   🦈 Mixsome Cash
 
 Mixsome is running on xDai with their DeFi action flows, all with varying APYs. Transactions are bundled and simplified to give more DeFi access to new users.
 
