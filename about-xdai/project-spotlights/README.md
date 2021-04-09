@@ -47,16 +47,18 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
 * [SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
 * [BaoFinance](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO.
+* [Component Finance](https://xdai.component.finance/): Stable Coin Swap
 * [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface.
 * [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
 * [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker.
-* [Component Finance](https://xdai.component.finance/): Stable Coin Swap
 * [DeFi Wizard](https://defiwizard.xyz/): DeFi Smart Contract Building Platform
 * [pNetwork](https://p.network/network): Cross-chain pBTC.
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 * [Hedgey Finance](https://www.hedgey.finance/): Decentralized Financial Derivatives Protocol
 * [Agave](https://agave.finance/): DeFi Lending Protocol \(coming soon\)
 * [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity.
+* [DeBank](https://debank.com/): DeFi Dashboard
+* [MixSome](https://mixsome.cash/): DeFi Yeild Flows
 
 ### **Community Engagement**
 
@@ -117,11 +119,12 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement.
 * [DXdao](https://dxdao.eth.link/#/):  A sovereign collective bringing decentralization to DeFi.
 
-### **Universal Basic Income \(UBI\) & Streaming Income**
+### **Universal Basic Income \(UBI\), Payments & Streaming Income**
 
 * [Circles](https://circles.garden/welcome): A basic income on the blockchain
 * [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
-* [Superfluid](https://www.superfluid.finance/): Programmable cashflows 
+* [Superfluid](https://www.superfluid.finance/): Programmable cashflows
+* [Request Network](https://request.network/): Crypto payments and invoices
 
 ### **Analytics**
 
@@ -148,4 +151,5 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [RealT](https://realt.co/): fractionalized real estate investing.
 * [MtPelerin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management.
 * [SmokeSignal](https://smokesignal.eth.link/): Decentralized Messaging Platform
+* [CardStack](https://cardstack.com/): Card Pay crypto payment and reward network
 

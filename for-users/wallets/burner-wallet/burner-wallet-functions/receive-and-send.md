@@ -10,7 +10,7 @@ Sending & Receiving is intuitive, and is based around QR codes for mobile. You c
 
 1\) Click the Receive button.
 
-![](../../../../.gitbook/assets/bw-receive-1%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](../../../../.gitbook/assets/bw-receive-1%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 2\) The Sender can scan the QR, or you can copy the address and send manually.
 
@@ -45,7 +45,7 @@ You can also switch to the Ethereum mainnet to check your address on the mainnet
 * Enter an optional message to appear with your transaction
 * Click **Send**
 
-![](../../../../.gitbook/assets/bw-send%20%282%29%20%282%29%20%282%29.png)
+![](../../../../.gitbook/assets/bw-send%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 3\) It will send very quickly \(due to xDai speed\)
 

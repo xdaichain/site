@@ -7,8 +7,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-* xDai at World Economic Fund Global Technology Governance Summit. [More](https://twitter.com/xdaichain/status/1379192246361284610)
-* Gnosis Auction Platform Launch. [More](about-xdai/project-spotlights/gnosis/gnosis-auction.md)
+* Weekly Highlights -&gt; CardStack, Gnosis Auction, Ankr, Request ++
 {% endhint %}
 
 ## xDai Stable Chain
@@ -56,7 +55,7 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
 
 The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
 
-![](.gitbook/assets/xdai-projects%20%281%29%20%281%29.png)
+![](.gitbook/assets/xdai-projects%20%281%29%20%281%29%20%281%29.png)
 
 | Integrations | Infrastructure | DeFi | NFTs | DAOs |
 | :--- | :--- | :--- | :--- | :--- |
