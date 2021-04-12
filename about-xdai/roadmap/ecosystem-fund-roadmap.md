@@ -28,6 +28,7 @@ We are exploring additional measures to ensure fund transparency and funding ali
 
 * 250,000 STAKE
 * Our partnership with Gnosis includes their investment in STAKE along with deployments of their product suite. More on this investment and collaboration is [available here](https://blog.gnosis.pm/gnosis-protocol-and-xdai-partnership-1de0e48fb14b).
+* ✅ Completed April 12, 2021 [https://etherscan.io/tx/0x3eccd969b495b55fa71714f6656d7b764c49f1adb07dc9a31dff318dbe247e74](https://etherscan.io/tx/0x3eccd969b495b55fa71714f6656d7b764c49f1adb07dc9a31dff318dbe247e74)
 
 ### Immunefi Bug Bounties
 
