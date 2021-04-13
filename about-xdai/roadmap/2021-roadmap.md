@@ -1,4 +1,4 @@
-# 2021 Roadmap
+# 2021 Base Roadmap
 
 ## 2021 Base Roadmap
 
@@ -9,7 +9,7 @@ _Last update: April 13, 2021 \|_ [_Changelog_](./#change-log)\_\_
 {% hint style="warning" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
 
-If you have a direction you would like the xDai team to explore, consider adding a [post to our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43) to begin the discussion.
+If you have a direction you would like the xDai team to explore on our roadmap, consider adding a [post to our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43) to begin the discussion.
 {% endhint %}
 
 ![](../../.gitbook/assets/5-year-roadmap.png)

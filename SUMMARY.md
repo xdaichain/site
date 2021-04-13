@@ -121,7 +121,7 @@
   * [Interviews & Media Articles](about-xdai/news-and-information/media-articles/README.md)
     * [xDai Chain: Basic Overview Presentation](about-xdai/news-and-information/media-articles/xdai-chain-basic-overview-presentation.md)
 * [Roadmaps](about-xdai/roadmap/README.md)
-  * [2021 Roadmap](about-xdai/roadmap/2021-roadmap.md)
+  * [2021 Base Roadmap](about-xdai/roadmap/2021-roadmap.md)
   * [Ecosystem Fund Roadmap](about-xdai/roadmap/ecosystem-fund-roadmap.md)
   * [The Road to Ethereum 2.0](about-xdai/roadmap/the-road-to-ethereum-2.0.md)
   * [Decentralization Planning](about-xdai/roadmap/decentralization-planning.md)
