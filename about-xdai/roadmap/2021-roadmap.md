@@ -1,13 +1,15 @@
 # 2021 Roadmap
 
-## 2021 Preliminary Roadmap
+## 2021 Base Roadmap
 
-We will continue to add items and adjust priorities as the year continues. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020.
+We continue to add items and adjust priorities as the year unfolds. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020, and the changelog for any adjustments and additions.
 
-_Last update: April 6, 2021 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: April 13, 2021 \|_ [_Changelog_](./#change-log)\_\_
 
 {% hint style="warning" %}
-The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. Target dates and details are reviewed regularly and subject to move, adjust and change as the project evolves. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
+The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
+
+If you have a direction you would like the xDai team to explore, consider adding a [post to our forum](https://forum.poa.network/c/xdai-chain/xdai-proposals/43) to begin the discussion.
 {% endhint %}
 
 ![](../../.gitbook/assets/5-year-roadmap.png)
@@ -53,6 +55,13 @@ STAKE is used for community signaling with [snapshot](https://snapshot.org/#/xda
 
 OpenEthereum is now running `3.2.2-rc.1-stable` and it includes the latest xDai POSDAO features. xDai validators will upgrade to the latest build, with several also migrating to the Nethermind client to support client diversity on xDai.  We plan to activate the Berlin hard fork shortly after it goes live on the Ethereum mainnet. The exact date is TBD but planned to be completed by the end of April.
 
+## **POSDAO Staking Application Improvements**
+
+🎯 **Target Date:** Q2  
+☑ **Status:** Ongoing, security audit in queue
+
+[POSDAO v0.2.2](https://github.com/poanetwork/posdao-contracts/releases/tag/v0.2.2) was released on March 18, 2021 and is now in queue for an additional security audit. POSDAO support is now included with the latest [OpenEthereum release](https://github.com/openethereum/openethereum/releases/tag/v3.2.1).  Additional validator pool metadata was added to the interface.
+
 ## **Privacy Preserving Transactions**
 
 🎯 **Target Date:** Q2-Q3 2021  
@@ -64,23 +73,23 @@ Since xDai is a stable token, the primary use of the chain is peer-to-peer payme
 
 Currently, [Tornado.cash](https://tornado.cash/) is available to users to ensure Dai anonymity on the Ethereum mainnet. Dai can be used with tornado.cash before and after bridging to xDai to ensure transaction anonymity. However, it is not available directly on xDai.
 
-We plan to research and implement privacy preserving transactions on xDai directly, as well as enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum.
+We plan to research and implement privacy preserving transactions on xDai directly, as well as enable privacy for STAKE transactions, allowing for anonymous staking on xDai and Ethereum. We have invested in several [different approaches ](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)to implement different ZK protocols into xDai based applications and wallets.
 
-We have invested in several [different approaches ](https://forum.poa.network/t/introducing-the-poa-zero-knowledge-fund/2698)to implement different ZK protocols into xDai based applications and wallets.
+{% hint style="info" %}
+Update: We are currently working on a [ZeroPool](https://zeropool.network/) integration with the bridge infrastructure to provide transaction encryption capabilities.
+{% endhint %}
 
-## Synthetic Assets on xDai based on UMA protocol
+## EIP-1559 Test Implementation
 
-🎯 **Target Date**: Q2-Q3 2021  
-☑ **Status:** In process. 50% implementation
+🎯 **Target Date**: Q2 2021  
+☑ **Status:** Research and implementation details in progress
 
-UMA is a decentralized financial contracts platform built to enable Universal Market Access. Use UMA’s self-enforcing contract design patterns and provably honest oracle mechanism to create your own financial products using standards like ERC20
-
-xDai will leverage UMA protocol to create derivatives on fiat currencies and enable them in supporting wallets. We currently have a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. [sUSD example](https://docs.tokenbridge.net/eth-xdai-amb-bridge/susd-bridge-extension/transfer-susd-through-the-bridge-extension).
+We are planning to implement a test implementation of [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559)  to explore its dynamics and benefits for the xDai chain as well as the broader Ethereum ecosystem. With successful testing, we plan to activate on xDai. _More details available soon._
 
 ## OmniBridge Phase 2
 
 🎯 **Target Date**: Q1-Q2 2021  
-☑ **Status:** [Security Audit](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge) for Phase 2 in process.
+☑ **Status:** [Security Audit](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge) for Phase 2 now in process.
 
 Additional features will be added including bi-directional support \(ability to move tokens minted on xDai to Ethereum\) and additional decentralization mechanisms \(governance, additional validators, user-enabled signature execution\). 
 
@@ -89,7 +98,11 @@ Additional features will be added including bi-directional support \(ability to 
 🎯 **Target Date**: Q1-Q2 2021  
 ☑ **Status:** In process
 
-An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers. _Update: Bridge is operational, UI is in development._  [_More information_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/nft-omnibridge-extension)\_\_
+An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers.
+
+{% hint style="info" %}
+_Update: Bridge is operational, UI is in development._  [_More information_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/nft-omnibridge-extension)\_\_
+{% endhint %}
 
 ## L2 scalability and composability for token transfers on xDai
 
@@ -103,6 +116,15 @@ We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [op
 
 A chain created specifically to leverage [POSDAO](../../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../../for-stakers/stake-token/)tokens and HBBFT consensus.
 
+## Synthetic Asset Exploration and Implementation
+
+🎯 **Target Date**: Q4 2021  
+☑ **Status:** In process. 50% implementation with additional research upcoming.
+
+Explore and implement collateral-based synthetic asset creation on xDai. We plan to leverage an UMA-based protocol. UMA \(Universal Market Access\) is an open-source infrastructure for deploying and enforcing synthetic assets. 
+
+There is currently  a reference implementation where sUSD can be transferred from the Ethereum Mainnet to the xDai chain and back. [sUSD example](https://docs.tokenbridge.net/eth-xdai-amb-bridge/susd-bridge-extension/transfer-susd-through-the-bridge-extension).
+
 ## Change Log
 
 <table>
@@ -113,6 +135,19 @@ A chain created specifically to leverage [POSDAO](../../for-validators/posdao-wh
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>13.04.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Move Synthetic Asset Exploration to Q4.</li>
+          <li>Add ZeroPool integration to private transactions item.</li>
+          <li>Add POSDAO Staking Application Improvements (ongoing).</li>
+          <li>Add EIP 1559 test implementation.</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>06.04.2021</em>
       </td>
