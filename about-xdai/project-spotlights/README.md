@@ -152,4 +152,5 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [MtPelerin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management.
 * [SmokeSignal](https://smokesignal.eth.link/): Decentralized Messaging Platform
 * [CardStack](https://cardstack.com/): Card Pay crypto payment and reward network
+* [PoolTogether](https://docs.pooltogether.com/resources-1/networks/xdai): No loss savings games
 
