@@ -155,4 +155,5 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [SmokeSignal](https://smokesignal.eth.link/): Decentralized Messaging Platform
 * [CardStack](https://cardstack.com/): Card Pay crypto payment and reward network
 * [PoolTogether](https://community.pooltogether.com/pools/xdai): No-loss savings games
+* [Unlock Protocol](https://unlock-protocol.com/): Content, apps, and community management.
 
