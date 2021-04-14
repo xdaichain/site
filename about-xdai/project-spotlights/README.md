@@ -125,6 +125,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Sablier](https://sablier-xdai.on.fleek.co/): Streaming money
 * [Superfluid](https://www.superfluid.finance/): Programmable cashflows
 * [Request Network](https://request.network/): Crypto payments and invoices
+* [Smart Invoice](https://smartinvoice.xyz/): Transparent invoice escrow
 
 ### **Analytics**
 
