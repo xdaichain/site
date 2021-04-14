@@ -17,7 +17,7 @@ description: Dai is converted to xDai through the TokenBridge
 There are currently multiple bridges on xDai with different purposes.
 
 1. The xDai Bridge for converting xDai to Dai. This section covers this bridge
-2.  The OmniBridge for bridging all other types of ERC20s. [Omnibridge section](../omnibridge.md).
+2.  The OmniBridge for bridging all other types of ERC20s. [Omnibridge section](../omnibridge/).
 3. The [xDai - BSC Omnibridge](../binance-smart-chain-omnibridge/) for moving assets between these chains.
 {% endhint %}
 

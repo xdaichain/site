@@ -25,7 +25,7 @@ There are [several ways to get STAKE](get-stake/) either on Ethereum or directly
 
 ## Staking STAKE
 
-Individuals who own STAKE tokens on xDai \(bridged from STAKE on Ethereum\) can place them into the protocol through a [user friendly interface on BlockScout](https://blockscout.com/xdai/mainnet/validators). Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) with the [OmniBridge U](../../for-users/bridges/omnibridge.md)I which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.
+Individuals who own STAKE tokens on xDai \(bridged from STAKE on Ethereum\) can place them into the protocol through a [user friendly interface on BlockScout](https://blockscout.com/xdai/mainnet/validators). Functionality includes an [AMB Bridge extension](https://docs.tokenbridge.net/amb-bridge/about-amb-bridge) with the [OmniBridge U](../../for-users/bridges/omnibridge/)I which allows users to move STAKE tokens between the Ethereum mainnet and the xDai chain.
 
 In addition, exchanges may offer the opportunity to provide delegator staking on Ethereum directly from the exchange. Typically, this means STAKE holders select the option to stake the token, and the exchange processes the request \(determining which validator to stake on, aggregating rewards and other tasks for a small percentage fee\). Staking functionality is initiated by the participating exchange.
 
