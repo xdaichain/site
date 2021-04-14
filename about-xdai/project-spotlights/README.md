@@ -58,7 +58,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Agave](https://agave.finance/): DeFi Lending Protocol \(coming soon\)
 * [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity.
 * [DeBank](https://debank.com/): DeFi Dashboard
-* [MixSome](https://mixsome.cash/): DeFi Yeild Flows
+* [MixSome](https://mixsome.cash/): DeFi Yield Flows
+* [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM from DXdao.
 
 ### **Community Engagement**
 
