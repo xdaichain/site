@@ -8,7 +8,7 @@ description: >-
 
 The xDai to BSC Bridge now supports wrapped BNB \(WBNB\) to BNB conversions directly from xDai. Tokens are transferred AND unwrapped to native BNB during the bridging process!
 
-1. Swap your token\(s\) for for WBNB on xDai
+1. Swap your token\(s\) for WBNB on xDai
 2. Bridge WBNB to BNB on Binance Smart Chain \(BSC\)
 3. Use this BNB for transactions on BSC \(including bridging additional tokens from xDai to BSC\).
 
