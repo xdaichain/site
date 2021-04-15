@@ -158,6 +158,7 @@
   * [OmniBridge to Ethereum: ERC20 tokens](for-users/bridges/omnibridge/README.md)
     * [Exceptions and Special Cases](for-users/bridges/omnibridge/exceptions.md)
   * [Binance Smart Chain Omnibridge](for-users/bridges/binance-smart-chain-omnibridge/README.md)
+    * [WBNB auto-conversion to BNB](for-users/bridges/binance-smart-chain-omnibridge/wbnb-auto-conversion-to-bnb.md)
     * [BSC OmniBridge Example](for-users/bridges/binance-smart-chain-omnibridge/bsc-omnibridge-example.md)
     * [Binance-Peg Dai Token on xDai](for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
   * [xDai &lt;-&gt; Polygon \(Matic\) State Channels Bridge Powered by Connext](for-users/bridges/xdai-matic-connext-bridge.md)

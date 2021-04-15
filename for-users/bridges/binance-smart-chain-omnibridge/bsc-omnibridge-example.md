@@ -10,7 +10,7 @@ Here we show the bridging steps to transfer STAKE on xDai to STAKE on BSC. The c
 
 * A [token on the xDai chain](https://blockscout.com/xdai/mainnet/bridged-tokens/eth) you want to swap.
 * A small amount of xDai to complete the transfer. [Use the faucet if you just need some for transactions](https://blockscout.com/xdai/mainnet/faucet).
-* BNB on the Binance Smart Chain. If you have BNB on BEP2 you will need to swap it to BSC. [Trust Wallet](https://trustwallet.com/) works well for this \(however Trust Wallet does not yet support xDai, so once you swap you'll need to send BNB from your Trust Wallet to your BSC address in MetaMask for this tutorial\).
+* BNB on the Binance Smart Chain. You can now get BNB by transferring wBNB from xDai. If you have BNB on BEP2 you will need to swap it to BSC. [Trust Wallet](https://trustwallet.com/) works well for this \(however Trust Wallet does not yet support xDai, so once you swap you'll need to send BNB from your Trust Wallet to your BSC address in MetaMask for this tutorial\).
 * MetaMask custom RPCs [setup for xDai](../../wallets/metamask/metamask-setup.md) and for the Binance Smart Chain \( Network Name: BSC Mainnet New RPC URL: [https://bsc-dataseed.binance.org/](https://bsc-dataseed.binance.org/) ChainID: 56 Symbol: BNB Block Explorer URL: [https://bscscan.com/](https://bscscan.com/)\) or find [more detailed instructions here](https://docs.binance.org/smart-chain/wallet/metamask.html).
 
 {% hint style="info" %}
