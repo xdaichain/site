@@ -7,7 +7,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-* [Weekly Highlights](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-09-04-2021.md) -&gt; CardStack, Gnosis Auction, Ankr, Request ++
+* [Weekly Highlights](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-16-04-2021.md) -&gt; BSC Bridge, Pool Together, MakerDAO ++
 {% endhint %}
 
 ## xDai Stable Chain
