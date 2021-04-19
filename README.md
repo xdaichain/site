@@ -51,6 +51,8 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
 
 🔎 [BlockScout Block Explorer](https://blockscout.com/xdai/mainnet) provides transactional transparency, custom features and a portal for xDai apps such as xDai staking, the xDai faucet, cross-chain bridge access and monitoring. 
 
+📊Chain usage stats available with [Dune Analytics](https://duneanalytics.com/maxaleks/xDai-Usage).
+
 ## Projects on xDai
 
 The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
@@ -66,7 +68,7 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 
 ## **xDai Developers**
 
-Development on xDai is easy and intuitive for Ethereum developers. xDai is an EVM sidechain, and smart contracts can be written and deployed in exactly the same way simply by setting a [different RPC endpoint.](for-developers/developer-resources/#json-rpc-endpoints) _\*\*_
+Development on xDai is easy and intuitive for Ethereum developers. xDai is an EVM sidechain, and smart contracts can be written and deployed in exactly the same way simply by setting a [different RPC endpoint.](for-developers/developer-resources/#json-rpc-endpoints) 
 
 Any contract that works on the Ethereum mainnet can be redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai. **Many tools supporting Ethereum development** are compatible with xDai, including:
 
