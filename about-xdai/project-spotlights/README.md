@@ -73,6 +73,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [clr.fund](http://clr.fund/#/): Decentralized Quadratic Funding
 * [Chievmint](https://app.chiev.net/about): Community Achievement awards \(NFTs\)
 * [Giveth](https://giveth.io/): Community Philanthropy and Donation Platform
+* [HiveShares](https://hiveshares.finance/): Community Powered xDai chain incubator for new projects.
 
 ### **Prediction Markets**
 
