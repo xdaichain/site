@@ -10,9 +10,9 @@ description: >-
 Faucet is now live with SMS phone verification through Twilio\* and multiple hCaptcha prompts to prevent abuse.
 {% endhint %}
 
-A small amount of xDai is needed to use the chain and process transactions. Thousands of simple transactions can be completed with $.10 xDai, and it doesn't make sense to bridge this amount. 
+A small amount of xDai is needed to use the chain and process transactions. Thousands of simple transactions can be completed with $0.10 xDai, and it doesn't make sense to bridge this amount. 
 
-The [xDai Faucet on Blockscout](https://blockscout.com/xdai/mainnet/faucet) sens $.10 xDai to your account with ease! It can be used once every 24 hours at your convenience. 
+The [xDai Faucet on Blockscout](https://blockscout.com/xdai/mainnet/faucet) sens $0.10 xDai to your account with ease! It can be used once every 24 hours.
 
 _\*Raw phone numbers are not stored in the database, only used to prevent faucet abuse._
 
