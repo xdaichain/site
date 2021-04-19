@@ -50,6 +50,13 @@ All other processes are the same. See the [Dune Documentation](https://hackmd.io
 
 ![](../../.gitbook/assets/posdao-dune.png)
 
+### xDai Chain Usage Dashboard
+
+* Total Txs per day, transactions by project and active accounts
+* Link: [https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
+
+![](../../.gitbook/assets/tx-day%20%282%29.png)
+
 
 
 
