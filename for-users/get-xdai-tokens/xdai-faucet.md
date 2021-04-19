@@ -1,32 +1,45 @@
 ---
-description: 'Faucet provides .01 xDai, enough for lots of transactions on the xDai chain!'
+description: >-
+  Faucet provides .10 xDai, enough for thousands of transactions on the xDai
+  chain!
 ---
 
 # xDai Faucet
 
-{% hint style="warning" %}
-Unfortunately, the xDai Faucet was consistently abused and "farmed" out of funds despite our best efforts to maintain funds for the community. It is currently not project funded, individual users can add a deposit to the faucet if desired. We are exploring ways to re-instate project funding, but it is deprecated for the foreseeable future.
+{% hint style="success" %}
+Faucet is now live with SMS phone verification through Twilio\* and multiple hCaptcha prompts to prevent abuse.
 {% endhint %}
 
-A small amount of xDai is needed to use the chain and process transactions. Hundreds of simple transactions can be completed with $.01 xDai, and it doesn't make sense to bridge this amount. 
+A small amount of xDai is needed to use the chain and process transactions. Thousands of simple transactions can be completed with $.10 xDai, and it doesn't make sense to bridge this amount. 
 
-The [xDai Faucet on Blockscout](https://blockscout.com/xdai/mainnet/faucet) will send $.01 xDai to your account with ease! It can be used once every 24 hours at your convenience.
+The [xDai Faucet on Blockscout](https://blockscout.com/xdai/mainnet/faucet) sens $.10 xDai to your account with ease! It can be used once every 24 hours at your convenience. 
+
+_\*Raw phone numbers are not stored in the database, only used to prevent faucet abuse._
 
 ## Instructions
 
 1\) Go to [https://blockscout.com/xdai/mainnet/faucet](https://blockscout.com/xdai/mainnet/faucet)
 
-2\) Enter in your address, complete the Captcha info and click **Request 0.01 xDai**.
+1. Enter an `0x...` address where you will receive xDai
+2. Enter a valid phone number where you can receive a SMS text message. Be sure to select the correct country with the flag icon.
+3. Complete the hCaptcha process.
+4. Click **Send SMS.**
 
-![](../../.gitbook/assets/img2%20%281%29.png)
+![](../../.gitbook/assets/f1.png)
 
-![](../../.gitbook/assets/img3%20%281%29.png)
+2\) You will be forwarded to the next screen and should receive a text message with a 6 digit code.
 
-3\) Check you balance on the xDai network. If you have already setup the custom RPC in MetaMask, simply switch to xDai to see your balance. If you need to setup, see the [MetaMask Setup page](../wallets/metamask/metamask-setup.md).
+1. Enter the 6-digit verification code.
+2. Complete the hCaptcha.
+3. Click **Request 0.1 xDai**
 
-![](../../.gitbook/assets/img4%20%281%29.png)
+![](../../.gitbook/assets/f2.png)
 
-![](../../.gitbook/assets/img5.png)
+You will see a success message. Check your balance on the xDai chain to see that that you received funds from the faucet. \(more on connecting to xDai on [getting started with xDai](../getting-started-with-xdai.md)\)
+
+3\) It is also possible to donate to the faucet and help your community! Click the **Donate button** and complete the transaction in MetaMask to add xDai to the faucet. Donations are automatically set to 10 xDai.
+
+![](../../.gitbook/assets/f3.png)
 
 4\) You are ready to start transacting! You can acquire more xDai directly using a DEX like [HoneySwap](https://honeyswap.org/) without paying high gas fees to bridge Dai from Ethereum.
 
