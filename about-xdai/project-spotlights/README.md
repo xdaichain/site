@@ -59,6 +59,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity.
 * [DeBank](https://debank.com/): DeFi Dashboard
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
+* [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app.
 * [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM from DXdao.
 
 ### **Community Engagement**
@@ -96,13 +97,14 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
   * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
   * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art 
+  * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
 * [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
 * [Shenanigan](../../): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
-* [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs crated and owned by the community
+* [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community
 * Projects that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
@@ -152,6 +154,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [MintGate](https://mintgate.app/): Tokenized Content Protection.
 * [RealT](https://realt.co/): fractionalized real estate investing.
 * [MtPelerin](https://www.mtpelerin.com/bridge-protocol): asset issuance and management.
+* [BrightUnion](https://brightunion.io/): Match supply/demand for risk markets.
 * [SmokeSignal](https://smokesignal.eth.link/): Decentralized Messaging Platform
 * [CardStack](https://cardstack.com/): Card Pay crypto payment and reward network
 * [PoolTogether](https://community.pooltogether.com/pools/xdai): No-loss savings games
