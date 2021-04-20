@@ -21,4 +21,6 @@ description: A list of social media channels for the xDai project
 | Social Media | URL |
 | :--- | :--- |
 | Telegram Spanish Speaking | [https://t.me/xDai\_Spanish\_oficial](https://t.me/xDai_Spanish_oficial) |
+| Reddit  | [https://www.reddit.com/r/xDai/](https://www.reddit.com/r/xDai/) |
+| Unofficial Price Discussion Group | [https://t.me/staketoken](https://t.me/staketoken) |
 
