@@ -72,7 +72,7 @@ For more information see the EIP677 standard [https://github.com/ethereum/EIPs/i
 
 xDai is the first developed use-case for STAKE. However, it may be adopted by other chains in the future and used as a staking token for their consensus as well. POSDAO consensus is an algorithm we’ve developed that may be adopted by other chains, and those chains would have the opportunity to also incorporate a ready-made solution with STAKE to protect their chain.
 
-## Can I move STAKE from the xDai Chain directly to the Huobi Exchange or AscendEx exchange?
+## Can I move STAKE on the xDai Chain directly to the Huobi Exchange or AscendEx exchange?
 
 ### Huobi
 
@@ -80,9 +80,11 @@ To move to Huobi, you will first **need to have your STAKE on the Ethereum mainn
 
 If you send STAKE on xDai directly to Huobi, the xDai team cannot help with this issue and you will need to contact Huobi directly.
 
-_Note: The transfer operation can be costly,_ [_more on gas fees associated with bridging to Ethereum_](bridges-xdai-bridge-and-omnibridge.md#metamask-is-showing-very-high-fees-to-claim-a-transaction-on-ethereum-tokens-bridged-from-xdai-to-ethereum-is-this-estimate-accurate)_._
+_Note: The transfer operation between xDai and STAKE can be costly,_ [_more on gas fees associated with bridging to Ethereum_](bridges-xdai-bridge-and-omnibridge.md#metamask-is-showing-very-high-fees-to-claim-a-transaction-on-ethereum-tokens-bridged-from-xdai-to-ethereum-is-this-estimate-accurate)_._
 
 ### AscendEx \(formerly BitMax\)
 
-It is possible to send STAKE on xDai to the AscendEx exchange. However, if you have STAKE on xDai on AscendEx and want to transfer it to Huobi, be sure to exchange to STAKE on Ethereum before transferring.
+It is possible to send STAKE on xDai to the AscendEx exchange. Be sure to connect to the correct chain when sending STAKE to AscendEx. [More information](https://bitmax.io/en/help-center/articles/1500003245861)
+
+Note: if you have STAKE on xDai on AscendEx and want to transfer it to Huobi, be sure to exchange it to STAKE on Ethereum before transferring between exchanges.
 
