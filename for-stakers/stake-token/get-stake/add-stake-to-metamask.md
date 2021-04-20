@@ -29,3 +29,7 @@ The STAKE address on xDai \([STAKE from Ethereum](https://blockscout.com/xdai/ma
 1. Connect your MetaMask instance to xDai.[ Instructions on adding a custom RPC are available here if needed](../../../for-users/wallets/metamask/metamask-setup.md).
 2. The STAKE from Ethereum address on xDai is: [0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e](https://blockscout.com/xdai/mainnet/address/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/transactions)
 
+You can also add STAKE [directly from BlockScout](https://blockscout.com/xdai/mainnet/tokens/0xb7D311E2Eb55F2f68a9440da38e7989210b9A05e/token-transfers), by clicking on the fox icon and following the prompts.
+
+![](../../../.gitbook/assets/stake1.png)
+

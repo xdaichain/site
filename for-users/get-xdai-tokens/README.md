@@ -19,7 +19,7 @@ The xDai ecosystem is a [dual token environment](../../for-stakers/stake-token/s
 
 * From another user on the xDai Chain.
 * Converting Dai to xDai using the [xDai Bridge](../bridges/converting-xdai-via-bridge/).
-* Purchase directly on [BitMax with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).
+* Purchase directly on [AscendEx \(formerly Bitmax\) with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).
 * Purchase directly with fiat using [Ramp.Network](https://ramp.network/buy/?swapAsset=XDAI) or [MtPelerin](https://www.mtpelerin.com/buy-xdai#).
 * Trading on [Honeyswap](https://honeyswap.org/) \(you will need a small amount of xDai to start trading\).
 

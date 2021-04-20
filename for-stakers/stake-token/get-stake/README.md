@@ -1,5 +1,5 @@
 ---
-description: 'Instructions for public investors, private investor and advisors'
+description: 'Exchanges, DEXS and other resources'
 ---
 
 # How to get STAKE Tokens
@@ -16,6 +16,10 @@ STAKE token address on Ethereum [0x0Ae055097C6d159879521C384F1D2123D1f195e6](htt
 
 ### CEX \(Centralized Exchange\)
 
+* Huobi Global
+  * [STAKE/USDT Pair](https://www.huobi.com/en-us/exchange/stake_usdt) 
+  * [STAKE/BTC Pair](https://www.huobi.com/en-us/exchange/stake_btc) 
+  * [STAKE/ETH Pair ](https://www.huobi.com/en-us/exchange/stake_eth)
 * [AscendEX \(BitMax\)](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308453-xDai-Chain-STAKE-): STAKE/USDT trading pair.
 * [Poloniex](https://medium.com/poloniex/xdai-stake-is-now-available-on-poloniex-12b8a40d74bc): You can now [deposit STAKE](https://poloniex.com/wallet/STAKE/receive) and trade [STAKE/USDT](https://poloniex.com/exchange#usdt_stake).
 * [Bilaxy](https://bilaxy.com/trade/STAKE_USDT): STAKE/USDT trading pair.
