@@ -7,7 +7,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-🎉 STAKE is now trading on Huobi Global Exchange with several supported pairs \(STAKE/USDT, STAKE/BTC, STAKE/ETH\). Learn more about the [listing campaign with 12.4K STAKE in additional rewards](https://www.huobi.li/support/en-us/detail/24873225477472)!
+🎉 STAKE is now trading on Huobi Global Exchange with several supported pairs \(STAKE/USDT, STAKE/BTC, STAKE/ETH\). Learn more about the [listing campaign with 12.4K STAKE in additional rewards for trading and staking](https://www.huobi.li/support/en-us/detail/24873225477472)!
 
 * Listing Details [https://www.huobi.li/support/en-us/detail/84873223691263](https://www.huobi.li/support/en-us/detail/84873223691263)
 * Campaign [https://www.huobi.li/support/en-us/detail/24873225477472](https://www.huobi.li/support/en-us/detail/24873225477472)
