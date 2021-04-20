@@ -63,9 +63,12 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
 | Archive node | [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com/) |  |
 | Network ID \(Decimal, Hexadecimal\) | 100 | 0x64 |
 
-🚀 QuikNode also supports xDai. Devs can get their own custom endpoint for DApps or other needs. [https://blog.quiknode.io/xdai-network-is-live-on-quiknode/](https://blog.quiknode.io/xdai-network-is-live-on-quiknode/)
+🚀 **QuikNode** also supports xDai. Devs can get their own custom endpoint for DApps or other needs. [https://blog.quiknode.io/xdai-network-is-live-on-quiknode/](https://blog.quiknode.io/xdai-network-is-live-on-quiknode/)
 
-⚓ Ankr offers API endpoint access available with a free tier up to 100K requests/day. Additional paid tiers are available for developers. [https://www.ankr.com/](https://www.ankr.com/)
+⚓ **Ankr** offers API endpoint access available with a free tier up to 100K requests/day. Additional paid tiers are available for developers. [https://www.ankr.com/](https://www.ankr.com/)
+
+⏹ **GetBlock.io** provides fast and easy API connection services to an xDai archive node. Both free and paid levels available. [https://getblock.io/nodes/stake](https://getblock.io/nodes/stake
+)
 
 ### JSON-RPC Method Info
 
