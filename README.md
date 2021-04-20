@@ -7,7 +7,10 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-* [Weekly Highlights](about-xdai/news-and-information/project-updates/2021-weekly-updates/xdai-weekly-recap-16-04-2021.md) -&gt; BSC Bridge, Pool Together, MakerDAO ++
+🎉 STAKE is now trading on Huobi Global Exchange with several supported pairs \(STAKE/USDT, STAKE/BTC, STAKE/ETH\). Learn more about the [listing campaign with 12.4K STAKE in additional rewards](https://www.huobi.li/support/en-us/detail/24873225477472)!
+
+* Listing Details [https://www.huobi.li/support/en-us/detail/84873223691263](https://www.huobi.li/support/en-us/detail/84873223691263)
+* Campaign [https://www.huobi.li/support/en-us/detail/24873225477472](https://www.huobi.li/support/en-us/detail/24873225477472)
 {% endhint %}
 
 ## xDai Stable Chain
