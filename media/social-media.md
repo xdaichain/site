@@ -4,7 +4,7 @@ description: A list of social media channels for the xDai project
 
 # Social Media & Community Channels
 
-## Official channels
+## Official Channels
 
 | Social Media | URL |
 | :--- | :--- |
@@ -16,7 +16,7 @@ description: A list of social media channels for the xDai project
 | Forum | [https://forum.poa.network/c/xdai-chain](https://forum.poa.network/c/xdai-chain) |
 | YouTube | [https://www.youtube.com/channel/UC93IarcktP0-dZzpI\_vvO3g/videos](https://www.youtube.com/channel/UC93IarcktP0-dZzpI_vvO3g/videos) |
 
-## Community channels
+## Unofficial Community Channels
 
 | Social Media | URL |
 | :--- | :--- |
