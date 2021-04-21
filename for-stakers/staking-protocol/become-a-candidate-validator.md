@@ -12,6 +12,8 @@ If you do not want to become a validator, but are interested in placing stake on
 
 {% hint style="warning" %}
 If you have any questions or concerns about becoming a candidate or validator, or experience any issues during setup, please contact us in [Discord](https://discord.com/invite/mPJ9zkq) or [our forum](https://forum.poa.network/c/xdai-chain/validators-intro/42).
+
+The initial steps are also outlined in the [New Validator Process Flow](../../for-validators/new-validator-process-flow/) section. Please reference for additional details.
 {% endhint %}
 
 1\) Create \(or use addresses you have access to\) 2 Ethereum addresses. One will be used for **mining**, and a second for **staking**. Addresses are the same on xDai & Ethereum, so can be generated in a normal manner.
@@ -29,24 +31,24 @@ _**OpenEthereum Notes:**_
 openethereum account new --keys-path <path_to_save_json_keystore>
 ```
 
-4\) Setup your node.
+4\) Setup your node following instructions from the New Validator Process Flow Section for the client you will use.
 
 * [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md)
 * [OpenEthereum](../../for-validators/new-validator-process-flow/openethereum-node-instructions.md)
 
 ### Proceed to step 5 after mining node is configured and functional.
 
-5\) Once your node is setup and ready, go to BlockScout and select Validators from the Apps dropdown menu.
+5\) Once your node is setup and ready, go to BlockScout and select Staking on xDai from the Apps Dropdown menu.
 
-![](../../.gitbook/assets/new-menu.png)
+![](../../.gitbook/assets/validator-1.png)
 
-6\) Set your web3wallet \(Metamask/Nifty\) account to your Staking address and connect to the app. Once connected, you should see your address and STAKE balance in the site banner. If you are a delegator, you will also see information related to any STAKE already in use \(staked or ordered for withdrawal\).
+6\) Set your web3wallet \(Metamask/Nifty\) account to your **Staking Address** and connect to the app. Once connected, you should see your address and STAKE balance in the site banner. If you are a delegator, you will also see information related to any STAKE already in use \(staked or ordered for withdrawal\).
 
 ![This address is already staking as a delegator, and does not have enough STAKE to become a candidate.](../../.gitbook/assets/candidate2.png)
 
-7\)  Click the **Become a Candidate** button. A modal will appear where you enter the amount of you initial STAKE \(20,000 minimum - you can add more now as well or more at a later time \) and the mining address of your node. 
+7\)  Click the **Become a Candidate** button. A modal will appear where you enter the amount of you initial STAKE \(20,000 minimum - you can add more now as well or more at a later time \) and the mining address of your node.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
 
-![](../../.gitbook/assets/becme.png)
+![](../../.gitbook/assets/become-a-candidate.png)
 
 8\) Once filled, click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface.
 
