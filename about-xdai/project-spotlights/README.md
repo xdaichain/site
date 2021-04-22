@@ -60,7 +60,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [DeBank](https://debank.com/): DeFi Dashboard
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
 * [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app.
-* [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM from DXdao.
+* [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities.
 
 ### **Community Engagement**
 
