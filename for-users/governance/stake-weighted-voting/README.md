@@ -1,4 +1,4 @@
-# STAKE weighted voting
+# STAKE weighted voting with Snapshot
 
 STAKE holders participate in the governance process through an integration with snapshot. Community members can vote on proposals and introduce proposals for voting by other members. Once a proposal passes, the xDai team works with validators to support the protocol update. 
 

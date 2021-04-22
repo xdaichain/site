@@ -51,7 +51,7 @@ The candidate pool is the total amount of STAKE currently placed on a candidate.
 
 ### Delegator
 
-Delegators are participants who provide additional stake to protect the chain, but are not validators themselves. They do not need to run a node, and do not assume responsibility for consensus. To delegate, a participant must have both bridged STAKE and xDai, and place at least the minimum amount of delegator stake \(currently 200 STAKE, [can be changed through governance](../../stake-token/stake-weighted-voting/)\) on a candidate pool. Delegators can place stake on multiple candidates, move stake from one candidate to another, or withdraw stake from candidates at any time.
+Delegators are participants who provide additional stake to protect the chain, but are not validators themselves. They do not need to run a node, and do not assume responsibility for consensus. To delegate, a participant must have both bridged STAKE and xDai, and place at least the minimum amount of delegator stake \(currently 200 STAKE, [can be changed through governance](../../../for-users/governance/stake-weighted-voting/)\) on a candidate pool. Delegators can place stake on multiple candidates, move stake from one candidate to another, or withdraw stake from candidates at any time.
 
 Delegators place stake on candidates they believe will make good validators. Once a candidate becomes a validator, the delegator’s stake is activated and may not be withdrawn or removed during the current staking epoch. However, active stake can be ordered for withdrawal, and additional stake can be placed on an active validator \(within the staking window\) in anticipation of the next staking epoch.
 

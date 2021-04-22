@@ -29,7 +29,7 @@ We are working to display additional statistics around expected APY for delegato
 
 The Snapshot protocol is setup for voting by address rather than multi-sig contracts. However, with the help of WalletConnect, users can delegate STAKE stored in a Gnosis Safe on Ethereum to an address which can then vote on xDai proposals.
 
-* [Learn how to delegate](../../../../for-stakers/stake-token/stake-weighted-voting/delegate-stake-voting-weight-with-gnosis-safe.md)
+* [Learn how to delegate](../../../../for-users/governance/stake-weighted-voting/delegate-stake-voting-weight-with-gnosis-safe.md)
 * [xDai Snapshot Portal](https://snapshot.page/#/xdaistake.eth)
 
 ## 💸 Wallets

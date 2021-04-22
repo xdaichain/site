@@ -196,7 +196,9 @@
 * [Explorers](for-users/explorers/README.md)
   * [BlockScout](for-users/explorers/blockscout.md)
   * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)
-* [Governance](for-users/governance.md)
+* [Governance](for-users/governance/README.md)
+  * [STAKE weighted voting with Snapshot](for-users/governance/stake-weighted-voting/README.md)
+    * [Delegate STAKE voting weight with Gnosis Safe](for-users/governance/stake-weighted-voting/delegate-stake-voting-weight-with-gnosis-safe.md)
 
 ## For Stakers
 
@@ -206,8 +208,6 @@
     * [Manual Instructions - Private Investors](for-stakers/stake-token/get-stake/manual-instruction-private-investors.md)
     * [Manual Instructions - Advisors](for-stakers/stake-token/get-stake/manual-instructions-advisors.md)
     * [Add STAKE to MetaMask](for-stakers/stake-token/get-stake/add-stake-to-metamask.md)
-  * [STAKE weighted voting](for-stakers/stake-token/stake-weighted-voting/README.md)
-    * [Delegate STAKE voting weight with Gnosis Safe](for-stakers/stake-token/stake-weighted-voting/delegate-stake-voting-weight-with-gnosis-safe.md)
   * [STAKE Token Contracts](for-stakers/stake-token/stake-token-contracts.md)
   * [STAKE Tools](for-stakers/stake-token/tools-supporting-stake/README.md)
     * [Exchanges](for-stakers/stake-token/tools-supporting-stake/exchanges/README.md)

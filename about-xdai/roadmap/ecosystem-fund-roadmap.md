@@ -52,7 +52,7 @@ We are exploring additional measures to ensure fund transparency and funding ali
 
 * Amount TBD
 * Community members can suggest usage for funds by creating a proposal and a linked snapshot where users can vote on proposed usage of the funds. This acts a signaling mechanism for the community and what innovations they would like to see on xDai. 
-* More on the [Decentralized Community Governance Process](../../for-users/governance.md).
+* More on the [Decentralized Community Governance Process](../../for-users/governance/).
 
 
 
