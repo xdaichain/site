@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to xDai STAKE](README.md)
+* [Welcome to xDai](README.md)
 
 ## About xDai
 
