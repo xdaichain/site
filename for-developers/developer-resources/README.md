@@ -70,6 +70,8 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
 ⏹ **GetBlock.io** provides fast and easy API connection services to an xDai archive node. Both free and paid levels available. [https://getblock.io/nodes/stake](https://getblock.io/nodes/stake
 )
 
+🌎 **AnyBlock Analytics** provides a JSON-RPC professional service for users. As xDai validators, they have a deep understanding of the network as well as the broader Ethereum ecosystem. [https://www.anyblockanalytics.com/json-rpc](https://www.anyblockanalytics.com/json-rpc/?utm_source=xDAI&utm_medium=Organic-Social&utm_campaign=forum)
+
 ### JSON-RPC Method Info
 
 * Eth Wiki: [https://eth.wiki/json-rpc/API](https://eth.wiki/json-rpc/API)
