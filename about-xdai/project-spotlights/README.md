@@ -61,6 +61,9 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
 * [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app.
 * [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities.
+* Coin-focused Projects
+  * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
+  * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
 
 ### **Community Engagement**
 
@@ -107,6 +110,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
 * [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community
+* [MCDC](http://mcdccoin.net/): McDonaldsCoin parody project NFT farming on Unifty.
 * Projects that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
@@ -123,6 +127,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Stakehaus](stakehaus.md): By and For the xDai Community.
 * [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement.
 * [DXdao](https://dxdao.eth.link/#/):  A sovereign collective bringing decentralization to DeFi.
+* [Peerion](https://peerion.io/pools/): DAO-owned DeFi liquidity provider and staking service.
 
 ### **Universal Basic Income \(UBI\), Payments & Streaming Income**
 
@@ -146,6 +151,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game.
 * [GUStakes](https://gustakes.gg/): Stake xDai on Gods Unchained matchups.
 * [FunFair Labs](https://funfair.io/funfair-labs-launches-this-friday/):  Payloads on xDai
+* [McDonaldsCoin](http://mcdccoin.net): Gamified art token and parody project featuring a Drivethru crypto food trading game.
 
 ### **More**
 
