@@ -111,6 +111,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
 * [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community
 * [MCDC](http://mcdccoin.net/): McDonaldsCoin parody project NFT farming on Unifty.
+* [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai.
 * Projects that use xDai for NFT minting include 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
