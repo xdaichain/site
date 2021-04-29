@@ -2,13 +2,13 @@
 description: Move xDai - Dai with the 3rd party Connext State Channels Bridge
 ---
 
-# xDai &lt;-&gt; Polygon \(Matic\) State Channels Bridge Powered by Connext
+# xDai &lt;-&gt; Polygon \(Matic\) &lt;-&gt; Binance Smart Chain State Channels Bridge Powered by Connext
 
 {% hint style="info" %}
-The xDai-Polygon \(Matic\) Bridge powered by [Connext](https://connext.network/) is developed by the [1Hive Collective](https://1hive.org/#/home), and not directly supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the [Connext Discord Channel](https://discord.gg/8YcWCfbp).
+The xDai-Polygon \(Matic\)-BSC Bridge powered by [Connext](https://connext.network/) is developed by the [1Hive Collective](https://1hive.org/#/home), and not directly supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the [Connext Discord Channel](https://discord.gg/8YcWCfbp).
 {% endhint %}
 
-A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on Polygon \(Matic\) to xDai using state channels!  It's simple and inexpensive, and you can send any amount, large or small, between chains.
+A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on Polygon \(Matic\) to xDai, or to/from BSC using state channels!  It's simple and inexpensive, and you can send any amount, large or small, between chains.
 
 ### Video
 
@@ -18,7 +18,7 @@ A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on P
 
 ### xDai to Polygon \(Matic\)
 
-1\) Go to [https://xdai-matic-connext.vercel.app/](https://xdai-matic-connext.vercel.app/) and connect your web3Wallet. In this example we use MetaMask. If you need to add Matic or xDai, you can do so easily at [Chainlist.org](https://chainlist.org/). Also, if you are using Brave browser, disable shields.
+1\) Go to [https://xpollinate.io/](https://xpollinate.io/) and connect your web3Wallet. In this example we use MetaMask. If you need to add Matic or xDai, you can do so easily at [Chainlist.org](https://chainlist.org/). Also, if you are using Brave browser, disable shields.
 
 ![](../../.gitbook/assets/1connext.png)
 
