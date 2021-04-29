@@ -65,6 +65,30 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
   * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
 
+### **NFT-based projects**
+
+* **NFT Marketplaces**
+  * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
+  * [Unique.one](http://Unique.One): NFT Marketplace
+  * [Eporio](https://epor.io/): NFT Marketplace
+  * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
+  * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
+  * [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
+  * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai.
+  * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
+* [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
+* [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
+* [Shenanigan](../../): Grassroots athletic sponsorship
+* [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
+* [BeyondNFT](https://beyondnft.io/): Generative NFTs
+* [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
+* [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community.
+* [MCDC](http://mcdccoin.net/): McDonaldsCoin parody project NFT farming on Unifty.
+* [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai.
+* Projects that use xDai for NFT minting include: 
+  * [POAP](https://www.poap.xyz/)
+  * [Reality Cards](https://realitycards.io/)
+
 ### **Community Engagement**
 
 * [POAP](https://www.poap.xyz/):  Proof of Attendance Protocol \(NFTs\). [More on xDai integration](https://medium.com/@poap/poap-ethereum-xdai-the-experiment-continues-301e08a472ff).
@@ -91,30 +115,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [The Commons Stack](https://cv.commonsstack.org/#/): Conviction voting
 * [Vocdoni](https://vocdoni.io/): Secure digital voting
 * [Akropolis](https://akropolis.io/): DeFi governance with Delphi
-
-### **NFT-based projects**
-
-* **NFT Marketplaces**
-  * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
-  * [Unique.one](http://Unique.One): NFT Marketplace
-  * [Eporio](https://epor.io/): NFT Marketplace
-  * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
-  * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art 
-  * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
-  * [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
-  * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
-* [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
-* [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
-* [Shenanigan](../../): Grassroots athletic sponsorship
-* [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
-* [BeyondNFT](https://beyondnft.io/): Generative NFTs
-* [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
-* [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community
-* [MCDC](http://mcdccoin.net/): McDonaldsCoin parody project NFT farming on Unifty.
-* [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai.
-* Projects that use xDai for NFT minting include 
-  * [POAP](https://www.poap.xyz/)
-  * [Reality Cards](https://realitycards.io/)
 
 ### **DAOs**
 
