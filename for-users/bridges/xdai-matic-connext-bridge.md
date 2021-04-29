@@ -2,13 +2,13 @@
 description: Move xDai - Dai with the 3rd party Connext State Channels Bridge
 ---
 
-# xDai &lt;-&gt; Polygon \(Matic\) &lt;-&gt; Binance Smart Chain State Channels Bridge Powered by Connext
+# xDai &lt;-&gt; Polygon \(Matic\) &lt;-&gt; BSC State Channels Bridge Powered by Connext
 
 {% hint style="info" %}
 The xDai-Polygon \(Matic\)-BSC Bridge powered by [Connext](https://connext.network/) is developed by the [1Hive Collective](https://1hive.org/#/home), and not directly supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the [Connext Discord Channel](https://discord.gg/8YcWCfbp).
 {% endhint %}
 
-A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on Polygon \(Matic\) to xDai, or to/from BSC using state channels!  It's simple and inexpensive, and you can send any amount, large or small, between chains.
+A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on Polygon \(Matic\) to xDai, or to/from BSC using state channels! It's simple and inexpensive, and you can send any amount, large or small, between chains.
 
 ### Video
 
@@ -22,7 +22,7 @@ A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on P
 
 ![](../../.gitbook/assets/1connext.png)
 
-2\) Connect to the chain you want to transfer from. 
+2\) Connect to the chain you want to transfer from.
 
 1. Enter the Receiver's address \(it can be the same address on the other chain, or you can choose a different address.
 2. Press Cross-Chain Transfer.
@@ -60,18 +60,4 @@ Note, you will need a very small amount of **Matic** to pay the transaction fees
 {% endhint %}
 
 ![](../../.gitbook/assets/matic1.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

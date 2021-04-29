@@ -163,7 +163,7 @@
     * [WBNB auto-conversion to BNB](for-users/bridges/binance-smart-chain-omnibridge/wbnb-auto-conversion-to-bnb.md)
     * [BSC OmniBridge Example](for-users/bridges/binance-smart-chain-omnibridge/bsc-omnibridge-example.md)
     * [Binance-Peg Dai Token on xDai](for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
-  * [xDai &lt;-&gt; Polygon \(Matic\) State Channels Bridge Powered by Connext](for-users/bridges/xdai-matic-connext-bridge.md)
+  * [xDai &lt;-&gt; Polygon \(Matic\) &lt;-&gt; BSC State Channels Bridge Powered by Connext](for-users/bridges/xdai-matic-connext-bridge.md)
   * [xDai Bridges: Compatibility and Interoperability](for-users/bridges/how-xdai-bridges-create-compatibility-and-interoperability.md)
   * [Bridge FAQs](for-users/bridges/bridge-faqs.md)
 * [Wallets](for-users/wallets/README.md)

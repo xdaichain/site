@@ -60,7 +60,7 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
 
 The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
 
-![](.gitbook/assets/xdai-projects%20%281%29%20%281%29%20%281%29.png)
+![](.gitbook/assets/xdai-projects%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
 | Integrations | Infrastructure | DeFi | NFTs | DAOs |
 | :--- | :--- | :--- | :--- | :--- |

@@ -51,7 +51,7 @@ When bridging tokens from Ethereum, BSC or elsewhere you may need to add the cus
 
 The easiest way is to click on the fox icon in BlockScout or OmniBridge for the token you are adding, then complete the process through the MetaMask popup.
 
-![](../../../.gitbook/assets/foxes%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../../../.gitbook/assets/foxes%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 If you want to add manually in MetaMask, go to **Assets** -&gt; **Add Token**, Paste in the address \(symbol and decimals should populate if you are connected to xDai\) and save.
 
