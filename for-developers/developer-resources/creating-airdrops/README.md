@@ -1,2 +1,2 @@
-# Creating / Receiving Airdrops
+# Airdrops: Creating & Receiving
 
