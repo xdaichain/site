@@ -1,5 +1,7 @@
 ---
-description: Blocknative supports xDai with real-time notification tools
+description: >-
+  Blocknative supports xDai with real-time notification and mempool exploration
+  tools
 ---
 
 # Blocknative Notifications
@@ -15,17 +17,19 @@ Developers and users can follow data using webhooks and access tools and resourc
 
 ## Example: Add address notifications with API / Webhooks & Slack 
 
-In this example we setup Slack notifications. For instructions on adding to a DApp or developing with BlockNative tools, see the [BlockNative docs](https://docs.blocknative.com/).
+In this example we setup Slack notifications. For instructions on adding to a DApp, streaming mempool data from a contract, or developing with BlockNative tools, see the [BlockNative docs](https://docs.blocknative.com/).
 
 1\) Sign up for a Blocknative account on [https://account.blocknative.com](https://account.blocknative.com). Account creation requires an email confirmation.
 
 2\) Create an API key for your application.
 
-1. Go to API Keys in the Dashboard.
+![](../../.gitbook/assets/blck-native-1.png)
+
+1. Go to your account page and Click Add new API key
 2. Enter a name for this key \(you can create additional keys later\).
 3. Click **Generate New API Key.**
 
-![](../../.gitbook/assets/api-keys.png)
+![](../../.gitbook/assets/blck-native2%20%281%29.png)
 
 3\) Go to Slack and add the **Incoming Webhooks**. Search for Apps and add the integration. Instructions: [https://api.slack.com/messaging/webhooks](https://api.slack.com/messaging/webhooks).   
 Once enabled and added to a channel of your choice, **copy the Webhook url.**
@@ -35,21 +39,21 @@ Once enabled and added to a channel of your choice, **copy the Webhook url.**
 4\) Return to Blocknative dashboard and click **Add a Webhook**. Fill in the following:
 
 * URL \(from step 3\)
-* Blockchain: Ethereum
-* Network: xdai
+* Blockchain: ethereum
+* Network: **xdai**
 * Username \(optional\)
 * Password \(optional\)
-* Click **Create New Webhook** button
+* Click **Create** button
 
-![Enter details to create a new Webhook ](../../.gitbook/assets/img3.png)
+![](../../.gitbook/assets/webhook.png)
 
-5\) Add an address\(es\) to monitor.
+5\) Add address\(es\) to monitor.
 
 1. Click Watch Address.
 2. Enter an 0x address to watch \(can be a regular address, smart contract etc\).
 3. Click **Watch**. Address will be added. You can add multiple addresses / smart contract addresses if desired.
 
-![](../../.gitbook/assets/img4.png)
+![](../../.gitbook/assets/blocknative-watch.png)
 
 6\) Submit a transaction to test.
 
