@@ -116,7 +116,7 @@ See the dropdown menu under Developer Resources and Tools for related tutorials.
 * [Pocket](https://www.pokt.network/) provides a decentralized API layer for DApp developers \(IOS, Android & Web SDKs available\) and blockchain users.
 * [CurveGrid MultiBaas](https://www.curvegrid.com/) provides smart contract deployment, interaction and updating capabilities through a web UI as well as a comprehensive REST API.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
-* [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring with API and SDK tools.
+* [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring and mempool streaming with API and SDK tools.
 * [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout](https://github.com/xdaichain/site/tree/79d38a816d4feece3a4ec12a3d28b5f9c994593c/xdai/mainnet/README.md).
 * [Remix IDE](https://remix-project.org/):  It's easy to deploy to xDai with Remix, simply choose injected web3 and add the [xDai custom RPC to your metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup).
 * [OpenZeppelin Defender: ](https://defender.openzeppelin.com/)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) Multisig.

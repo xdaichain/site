@@ -4,7 +4,9 @@ description: Blocknative supports xDai with real-time notification tools
 
 # Blocknative Notifications
 
-Blocknative provides tools to access a real-time data feed as transactions are added to the transaction pool/queue and moved to blocks. Developers and users can follow data using webhooks and access tools and resources for integrating these features into their DApps. Tools include an API, SDK and javascript library.  BlockNative also provides an Onboard tool DApp devs can integrate for wallet integration. The xDai Network is supported by all of their tooling.
+Blocknative provides tools to access a real-time data feed as transactions are added to the transaction pool/queue and moved to blocks. This includes mempool streaming and other offerings from BlockNative.
+
+Developers and users can follow data using webhooks and access tools and resources for integrating these features into their DApps. Tools include an API, SDK and javascript library.  BlockNative also provides an Onboard tool DApp devs can integrate for wallet integration. **The xDai Network is supported by all of their tooling.**
 
 ## Resources
 
