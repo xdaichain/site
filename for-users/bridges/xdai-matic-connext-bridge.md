@@ -6,6 +6,8 @@ description: Move xDai - Dai with the 3rd party Connext State Channels Bridge
 
 {% hint style="info" %}
 The xDai-Polygon \(Matic\)-BSC Bridge powered by [Connext](https://connext.network/) is developed by the [1Hive Collective](https://1hive.org/#/home), and not directly supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the [Connext Discord Channel](https://discord.gg/8YcWCfbp).
+
+🐝 [https://xpollinate.io/](https://xpollinate.io/) 
 {% endhint %}
 
 A new beta bridge lets users move xDai to Dai on Polygon \(Matic\), and Dai on Polygon \(Matic\) to xDai, or to/from BSC using state channels! It's simple and inexpensive, and you can send any amount, large or small, between chains.
