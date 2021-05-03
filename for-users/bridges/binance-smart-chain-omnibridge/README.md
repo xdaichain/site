@@ -40,7 +40,7 @@ You can view different instances in BlockScout - tokens are labeled with the ETH
 
 ## Additional Information
 
-{% embed url="https://docs.tokenbridge.net/bsc-xdai-amb/omnibridge-extension" caption="" %}
+{% embed url="https://yostari.medium.com/traversing-the-eth-polygon-xdai-bsc-cross-chain-bridges-cfe3b29d49d4" caption="Cross-Chain Bridging Tutorial" %}
 
-{% embed url="https://twitter.com/yostari/status/1363583863604224000" caption="" %}
+{% embed url="https://docs.tokenbridge.net/bsc-xdai-amb/omnibridge-extension" caption="OmniBridge Docs" %}
 
