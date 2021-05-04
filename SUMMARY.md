@@ -166,6 +166,7 @@
     * [Binance-Peg Dai Token on xDai](for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
   * [xDai &lt;-&gt; Polygon \(Matic\) &lt;-&gt; BSC State Channels Bridge Powered by Connext](for-users/bridges/xdai-matic-connext-bridge.md)
   * [xDai Bridges: Compatibility and Interoperability](for-users/bridges/how-xdai-bridges-create-compatibility-and-interoperability.md)
+  * [OmniBridge + Gnosis Safe App](for-users/bridges/omnibridge-+-gnosis-safe-app.md)
   * [Bridge FAQs](for-users/bridges/bridge-faqs.md)
 * [Wallets](for-users/wallets/README.md)
   * [Alpha Wallet](for-users/wallets/alpha-wallet/README.md)
