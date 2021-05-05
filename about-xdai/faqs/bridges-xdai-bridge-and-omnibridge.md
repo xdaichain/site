@@ -215,9 +215,21 @@ Yes, it is possible to use BlockScout and Etherscan to interact with the contrac
 
 To improve the user experience, several warnings are provided related to specific bridge operations. Common Warnings:
 
+**Binance Pegged Asset Warning**:  Transferring assets such as WXDAI or USDC from Ethereum directly to Binance can result in assets on BSC with no liquidity. Before bridging, these assets should be exchanged to BSC compatible assets using Component. [Learn More](../../for-users/bridges/omnibridge/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
 
+![](../../.gitbook/assets/warning-1.png)
 
+**Gas Price Warning**:  Displays if the gas price is high on Ethereum \(relative to the recent median price\). You can still bridge and claim with the current gas price, bridge later, or complete the first bridge action and come back to claim when gas prices are lower.
 
+![](../../.gitbook/assets/warning-2.png)
+
+**Inflationary Token Warning**: Inflationary tokens do not accumulate gains for users while these funds are locked in the bridge. Gains remain in the contract on exit.  These tokens can be bridged, but users must check a box to proceed with the understanding they will not receive gains. [More information and inflationary token examples](../../for-users/bridges/omnibridge/exceptions.md#inflationary-eth-2-0-staking-tokens).
+
+![](../../.gitbook/assets/warning-3.png)
+
+**Rebasing Token Warning**: Rebasing tokes cannot be bridged, and a warning message alerts users to this fact. Transfer of these types of tokens to xDai is disallowed due to bridging mechanics. [More information and examples](../../for-users/bridges/omnibridge/exceptions.md#rebasing-tokens).
+
+![](../../.gitbook/assets/warning-4.png)
 
 ### Is a token I want to bridge traded on HoneySwap?  I am confused if it was bridged from Ethereum or BSC.
 
