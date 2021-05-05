@@ -145,6 +145,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Tenderly](https://tenderly.co/): xDai transaction inspection - smart contracts can also be pushed to the dashboard for real-time monitoring.
 * [Chainbeat](https://chainbeat.io/): Monitoring and analytics tools for DApp developers.
 * [LiquidityFolio](https://www.liquidityfolio.com/#): Comparisons and forecasts across liquidity pools assets.
+* [AnyBlock Analytics](https://dashboards.anyblock.tools/ethereum/poa/xdai/network-metrics/): Network Metric Dashboards
 
 ### **Games**
 
