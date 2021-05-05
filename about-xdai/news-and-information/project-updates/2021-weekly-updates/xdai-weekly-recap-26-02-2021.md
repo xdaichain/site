@@ -21,7 +21,7 @@ Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://du
 
 ### Binance Smart Chain OmniBridge
 
-The bridge between xDai and BSC is providing users additional and unique options for cross-chain interoperability. One aspect of the bridge is that 2 instances of the same token can co-exist \(ie USDC bridged from Ethereum and USDC bridged from BSC\). Component exchange is available to convert these stable tokens between instances. We have a [Component tutorial](../../../../for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md) available here, as well as a [general tutorial on using the BSC OmniBridge](../../../../for-users/bridges/binance-smart-chain-omnibridge/bsc-omnibridge-example.md).
+The bridge between xDai and BSC is providing users additional and unique options for cross-chain interoperability. One aspect of the bridge is that 2 instances of the same token can co-exist \(ie USDC bridged from Ethereum and USDC bridged from BSC\). Component exchange is available to convert these stable tokens between instances. We have a [Component tutorial](../../../../for-users/bridges/omnibridge/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md) available here, as well as a [general tutorial on using the BSC OmniBridge](../../../../for-users/bridges/omnibridge/binance-smart-chain-omnibridge/bsc-omnibridge-example.md).
 
 {% embed url="https://twitter.com/xdaichain/status/1364888342324772867" %}
 

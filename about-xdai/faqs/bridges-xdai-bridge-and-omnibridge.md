@@ -107,6 +107,8 @@ Successful transactions are recorded with Status "Success", and additional valid
 
 ## OmniBridge FAQs
 
+## OmniBridge Basics
+
 ### What is the OmniBridge URL?
 
 [https://omni.xdaichain.com/](https://omni.xdaichain.com/)
@@ -137,10 +139,6 @@ The easiest way is to connect MetaMask to xDai and click on the "MetaMask" icon 
 
 If preferred, you can also add manually. [Here are some instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20#add-the-new-token-to-metamask).
 
-### Does the OmniBridge use the same validators / governors as the xDai bridge?
-
-No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a [4/7 signature requirement ](../../for-validators/for-bridge-validators/#current-amb-bridge-validators)for Omnibridge transfers.
-
 ### What is the minimum number of a certain token that can be transferred using OmniBridge?
 
 This can vary by token. The default setting when a token is first bridged is 1, but this can be changed by bridge governance. To check the minimum for a particular token, query the `minPerTx` method of the omnibridge mediator contract.
@@ -158,9 +156,17 @@ For more details about other OmniBridge parameters, see the[ OmniBridge docs](ht
 
 Yes you can. [Instructions](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/how-to-transfer-tokens).
 
+## OmniBridge Validators
+
+### Does the OmniBridge use the same validators / governors as the xDai bridge?
+
+No, OmniBridge is an extension \(similar to a DApp\) unrelated to chain consensus and it uses a separate set of validators and governors. Currently, there is a [4/7 signature requirement ](../../for-validators/for-bridge-validators/#current-amb-bridge-validators)for Omnibridge transfers.
+
 ### Do validators replace transactions that are taking a long time to mine?
 
 Yes, attempts are made to replace transactions with a higher gas price after 20 minutes. This occurs if it receives a price provided by the gas price oracle, and is repeated every 20 minutes until the transaction is successful.
+
+## Troubleshooting Issues
 
 ### MetaMask is showing very high fees to claim a transaction on Ethereum \(tokens bridged from xDai to Ethereum\). Is this estimate accurate?
 
@@ -205,6 +211,14 @@ Unfortunately not, once you have started the transfer process it is non-reversib
 
 Yes, it is possible to use BlockScout and Etherscan to interact with the contracts and submit manually, or if you are familiar with the contract interaction through a Web3 provider, you can importing the contract's ABI to your application. [This post details how](https://docs.tokenbridge.net/eth-xdai-amb-bridge/about-the-eth-xdai-amb/submit-confirmations-manually).
 
+### I am seeing a warning while bridging. What does it mean?
+
+To improve the user experience, several warnings are provided related to specific bridge operations. Common Warnings:
+
+
+
+
+
 ### Is a token I want to bridge traded on HoneySwap?  I am confused if it was bridged from Ethereum or BSC.
 
 There can be confusion when tokens are bridged to xDai from both Ethereum and Binance Smart Chain. To check where a token was bridged from, and if there is liquidity for trading:
@@ -228,7 +242,7 @@ In this example, Click on the LINK token.
 
 ### How can I convert USDC from Binance Smart Chain to USDC on xDai, or DAI from BSC to xDai?
 
-Use [https://xdai.component.finance/](https://xdai.component.finance/) to swap between USDC bridged from Ethereum or Binance Smart Chain. You can also use to swap between Dai bridged from Binance Smart Chain and wxDai. [More instructions are here.](../../for-users/bridges/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
+Use [https://xdai.component.finance/](https://xdai.component.finance/) to swap between USDC bridged from Ethereum or Binance Smart Chain. You can also use to swap between Dai bridged from Binance Smart Chain and wxDai. [More instructions are here.](../../for-users/bridges/omnibridge/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
 
 ### I'm having issues related to Bridging & HoneySwap 🐝
 

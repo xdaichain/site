@@ -1,4 +1,42 @@
-# OmniBridge to Ethereum: ERC20 tokens
+---
+description: Cross Chain Bridge for Ethereum <-> xDai and BSC <-> xDai
+---
+
+# OmniBridge: ERC20 Token Transfers
+
+## Basics
+
+* Bridge any existing ERC20 between Ethereum and xDai & BSC and xDai.
+* The first time a token is bridged, a new ERC677 token contract is deployed on xDai and the token name is extended to include "on xDai". 
+* If a token has been bridged previously, the previously deployed contract is used. 
+* In either case, the requested amount of tokens is minted and sent to the account that initiated the transfer.
+
+{% hint style="success" %}
+🌉 OmniBridge is available at [https://omni.xdaichain.com](https://omni.xdaichain.com/bridge)  
+  
+Connect your wallet to the network you want to bridge from and set the chain to either Eth &lt;-&gt; xDai or BSC &lt;-&gt; xDai  from the dropdown menu. [Bridge Tutorial](https://honeyswap.org/xdai-bridges)  
+  
+Monitor the status of OmniBridge Transactions with the [ALM Monitor](https://alm-xdai.herokuapp.com/)
+{% endhint %}
+
+![OmniBridge UI](../../../.gitbook/assets/omni1%20%282%29.png)
+
+## **Features**
+
+* Alternate Receiver \(bridge tokens from an address on one chain to a second address on another chain\).
+* Infinite Unlock
+* Define Custom RPCs
+* Reverse Mode \(Bridge tokens minted on xDai to Ethereum/BSC Coming soon\)
+
+## Resources
+
+* Video Tutorial - [Move STAKE between Ethereum to xDai with the OmniBridge](https://youtu.be/qbuBqur9lcE)
+* Instructions to [Bridge any ERC20 from Ethereum to xDai](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20)
+* OMNI Bridged Token List on BlockScout: [https://blockscout.com/xdai/mainnet/bridged-tokens](https://blockscout.com/xdai/mainnet/bridged-tokens)
+* OmniBridge Documentation Site: [https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension)
+* 3rd party explainers
+  * HoneySwap tutorials: Basics for swapping tokens and other information related to HoneySwap exchange -  [https://honeyswap.org/xdai-bridges](https://honeyswap.org/xdai-bridges) [https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217)
+  * Cross-Bridge Explainer by Yostari - [https://yostari.medium.com/traversing-the-eth-polygon-xdai-bsc-cross-chain-bridges-cfe3b29d49d4](https://yostari.medium.com/traversing-the-eth-polygon-xdai-bsc-cross-chain-bridges-cfe3b29d49d4)
 
 {% hint style="warning" %}
 **Transfers are non-reversible**. If you initiate and complete the first request transaction, you will need to complete the 2nd claim transaction at some time to receive your tokens on chain. This can be very expensive on Ethereum Mainnet. You can wait for gas prices to drop and claim at a later time if you like. In addition, MetaMask cost estimates may be inaccurate.
@@ -7,32 +45,8 @@
 {% endhint %}
 
 {% hint style="warning" %}
-Note there are 2 bridges to xDai, the xDai - Dai bridge and the Omnibridge. **If you want to bridge xDai to Dai or vice versa, use the** [**xDai Bridge.**](../converting-xdai-via-bridge/)\*\*\*\*
+Note there are multiple bridges to xDai, the OmniBridge is used for ERC20 cross-chain transfers. It is not used to mint Native xDai - to bridge Dai to xDai or xDai to Dai.  
+  
+**If you want to bridge xDai to Dai or vice versa, use the** [**xDai Bridge.**](../converting-xdai-via-bridge/)\*\*\*\*
 {% endhint %}
-
-OmniBridge can be used to bridge any existing ERC20 on Ethereum Mainnet to xDai and back. The first time a token is bridged, a new ERC677 token contract is deployed on xDai and the token name is extended to include "on xDai". If a token has been bridged previously, the previously deployed contract is used. In both cases, the requested amount of tokens is minted and sent to the account that initiated the transfer.
-
-{% hint style="info" %}
-**OmniBridge and OmniBridge UI are Beta software, use at your own risk.**
-
-**Bridge Interfaces**
-
-🌉[OmniBridge UI ](https://omni.xdaichain.com/)live link
-
-🌉[Transaction Monitor](https://alm-xdai.herokuapp.com/): Use it to see updated transaction status.
-{% endhint %}
-
-{% hint style="success" %}
-**Resources**
-
-* Video Tutorial - [Move STAKE between Ethereum to xDai with the OmniBridge](https://youtu.be/qbuBqur9lcE)
-* Instructions to [Bridge any ERC20 from Ethereum to xDai](https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension/ui-to-transfer-tokens/transfer-erc20)
-* OMNI Bridged Token List on BlockScout: [https://blockscout.com/xdai/mainnet/bridged-tokens](https://blockscout.com/xdai/mainnet/bridged-tokens)
-* HoneySwap tutorials: Basics for swapping tokens and other information related to HoneySwap exchange - [https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217](https://forum.1hive.org/t/1hive-101-beeginner-video-tutorials/217)
-* Cross-Bridge Explainer by Yostari - [https://yostari.medium.com/traversing-the-eth-polygon-xdai-bsc-cross-chain-bridges-cfe3b29d49d4](https://yostari.medium.com/traversing-the-eth-polygon-xdai-bsc-cross-chain-bridges-cfe3b29d49d4)
-{% endhint %}
-
-## Additional Information
-
-{% embed url="https://docs.tokenbridge.net/eth-xdai-amb-bridge/multi-token-extension" caption="OmniBridge Docs" %}
 

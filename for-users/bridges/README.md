@@ -4,13 +4,16 @@ description: xDai TokenBridges provide multi-chain compatibility and interoperab
 
 # Bridges
 
+## Bridge Resources
+
 * [xDai Bridge](converting-xdai-via-bridge/): Bridge from Ethereum to the xDai network designed for the xDai native token. Convert Dai to xDai and bridge xDai to Dai on Ethereum. 
-* [Ethereum Omnibridge](omnibridge/): Bridge ERC20 tokens between Ethereum and xDai. 
-* [Binance Smart Chain OmniBridge](binance-smart-chain-omnibridge/): Bridge ERC20s between BSC and xDai. Provides beta access to inexpensive interoperability.
+* [Omnibridge](omnibridge/): Bridge ERC20 tokens between Ethereum and xDai. OmniBridge is also available fro bridging between [Binance Smart Chain and xDai](omnibridge/binance-smart-chain-omnibridge/).
 
 {% hint style="success" %}
 For In-depth bridge specific documentation, please see the [TokenBridge Docs](https://docs.tokenbridge.net/).
 {% endhint %}
+
+### Multiple Token Instances
 
 With multi-chain bridging, there is a possibility that multiple instances of an underlying asset can be created on a single chain. 
 
@@ -20,11 +23,7 @@ A suffix is added to the token name in BlockScout, specifying the origin chain o
 
 ![Tether on xDai: 1 is bridged from ETH, the other from BSC](../../.gitbook/assets/tether1.png)
 
-Though not available for all tokens \(pairs can be added as community need arises\), swaps are available for certain cross-chain token pairs using [component.finance](https://xdai.component.finance/).  
+Though not available for all tokens \(pairs can be added as community need arises\), **swaps are available for certain cross-chain token pairs using** [**component.finance**](https://xdai.component.finance/)**.**  
   
--&gt; [Learn more here](../../about-xdai/project-spotlights/component-finance.md)
-
-{% hint style="info" %}
-We are working to further address this issue in a decentralized manner without requiring prior approval to bridge. **Look for more details soon**.
-{% endhint %}
+ ☑ [Learn more here](../../about-xdai/project-spotlights/component-finance.md)
 
