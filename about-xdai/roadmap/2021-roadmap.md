@@ -4,7 +4,7 @@
 
 We continue to add items and adjust priorities as the year unfolds. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020, and the changelog for any adjustments and additions.
 
-_Last update: April 13, 2021 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: May 06, 2021 \|_ [_Changelog_](./#change-log)\_\_
 
 {% hint style="warning" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
@@ -135,6 +135,16 @@ There is currently  a reference implementation where sUSD can be transferred fro
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>06.05.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Add date confirmation for Berlin HF</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>13.04.2021</em>
       </td>
