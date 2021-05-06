@@ -50,10 +50,10 @@ STAKE is used for community signaling with [snapshot](https://snapshot.org/#/xda
 
 ## **Berlin HF activation and client updates**
 
-🎯 **Target Date:** Q2 2021  
- ☑**Status:** Planned for mid-late April 2021
+🎯 **Target Date:** May 2021  
+ ☑**Status Update:** **Scheduled for May 17, Block \#16101500**
 
-OpenEthereum is now running `3.2.2-rc.1-stable` and it includes the latest xDai POSDAO features. xDai validators will upgrade to the latest build, with several also migrating to the Nethermind client to support client diversity on xDai.  We plan to activate the Berlin hard fork shortly after it goes live on the Ethereum mainnet. The exact date is TBD but planned to be completed by the end of April.
+OpenEthereum is now running `3.2.5` and it includes the latest xDai POSDAO features. xDai validators will upgrade to the latest build, with several also migrating to the Nethermind client to support client diversity on xDai.  We plan to activate the Berlin hard fork shortly after it goes live on the Ethereum mainnet.
 
 ## **POSDAO Staking Application Improvements**
 
