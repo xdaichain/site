@@ -6,17 +6,19 @@ description: Cross Chain Bridge for Ethereum <-> xDai and BSC <-> xDai
 
 ## Basics
 
-* Bridge any existing ERC20 between Ethereum and xDai & BSC and xDai.
-* The first time a token is bridged, a new ERC677 token contract is deployed on xDai and the token name is extended to include "on xDai". 
+* Bridge any existing ERC20 between
+  *  **Ethereum and xDai**
+  * **Binance Smart Chain\(BSC\) and xDai**.
+* The first time a token is bridged, a new ERC677 token contract is deployed on xDai with an additional suffix to differentiate the token on xDai. 
 * If a token has been bridged previously, the previously deployed contract is used. 
-* In either case, the requested amount of tokens is minted and sent to the account that initiated the transfer.
+* The requested token amount is minted and sent to the account initiating the transfer \(or an [alternate receiver ](alternate-receiver.md)account specified by the sender\).
 
 {% hint style="success" %}
 🌉 OmniBridge is available at [https://omni.xdaichain.com](https://omni.xdaichain.com/bridge)  
   
-Connect your wallet to the network you want to bridge from and set the chain to either Eth &lt;-&gt; xDai or BSC &lt;-&gt; xDai  from the dropdown menu. [Bridge Tutorial](https://honeyswap.org/xdai-bridges)  
+ 🔗 Connect your wallet to the network you want to bridge from and set the chain to either Eth &lt;-&gt; xDai or BSC &lt;-&gt; xDai  from the dropdown menu. [Bridge Tutorial](https://honeyswap.org/xdai-bridges)  
   
-Monitor the status of OmniBridge Transactions with the [ALM Monitor](https://alm-xdai.herokuapp.com/)
+ ⏱ Monitor the status of OmniBridge Transactions with the [ALM Monitor](https://alm-xdai.herokuapp.com/)
 {% endhint %}
 
 ![OmniBridge UI](../../../.gitbook/assets/omni1%20%282%29.png)
@@ -25,7 +27,7 @@ Monitor the status of OmniBridge Transactions with the [ALM Monitor](https://alm
 
 * [Alternate Receiver](../converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md): Bridge tokens from an address on one chain to a second address on another chain\).
 * [Define Custom RPCs:](set-custom-rpc-endpoints.md) Set your own RPC endpoints for bridge interaction.
-* Infinite Unlock: Approve all transfers of a token with a single tx rather than for each transfer.
+* [Infinite Unlock](infinite-unlock.md): Approve all transfers of a token with a single tx rather than for each transfer.
 * Reverse Mode: _Coming Soon_. Bridge tokens minted on xDai to Ethereum/BSC
 
 ## Resources
