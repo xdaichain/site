@@ -162,6 +162,7 @@
     * [Exceptions and Special Cases](for-users/bridges/omnibridge/exceptions.md)
     * [Alternate Receiver](for-users/bridges/omnibridge/alternate-receiver.md)
     * [Set Custom RPC Endpoints](for-users/bridges/omnibridge/set-custom-rpc-endpoints.md)
+    * [Infinite Unlock](for-users/bridges/omnibridge/infinite-unlock.md)
     * [OmniBridge + Gnosis Safe App](for-users/bridges/omnibridge/omnibridge-+-gnosis-safe-app.md)
     * [Binance Smart Chain](for-users/bridges/omnibridge/binance-smart-chain-omnibridge/README.md)
       * [BSC OmniBridge Example](for-users/bridges/omnibridge/binance-smart-chain-omnibridge/bsc-omnibridge-example.md)
