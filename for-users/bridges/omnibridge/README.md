@@ -23,10 +23,10 @@ Monitor the status of OmniBridge Transactions with the [ALM Monitor](https://alm
 
 ## **Features**
 
-* [Alternate Receiver](../converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md) \(bridge tokens from an address on one chain to a second address on another chain\).
-* Infinite Unlock
-* Define Custom RPCs
-* Reverse Mode \(Bridge tokens minted on xDai to Ethereum/BSC Coming soon\)
+* [Alternate Receiver](../converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md): Bridge tokens from an address on one chain to a second address on another chain\).
+* [Define Custom RPCs:](set-custom-rpc-endpoints.md) Set your own RPC endpoints for bridge interaction.
+* Infinite Unlock: All transfers unlocked, eliminate need to set value and submit separate tx for each bridge interaction.
+* Reverse Mode: _Coming Soon_. Bridge tokens minted on xDai to Ethereum/BSC
 
 ## Resources
 
