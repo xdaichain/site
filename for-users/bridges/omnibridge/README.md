@@ -23,7 +23,7 @@ Monitor the status of OmniBridge Transactions with the [ALM Monitor](https://alm
 
 ## **Features**
 
-* Alternate Receiver \(bridge tokens from an address on one chain to a second address on another chain\).
+* [Alternate Receiver](../converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md) \(bridge tokens from an address on one chain to a second address on another chain\).
 * Infinite Unlock
 * Define Custom RPCs
 * Reverse Mode \(Bridge tokens minted on xDai to Ethereum/BSC Coming soon\)
