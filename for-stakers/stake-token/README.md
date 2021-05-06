@@ -1,5 +1,5 @@
 ---
-description: For Staking and Governance
+description: For Staking Utility and Governance
 ---
 
 # STAKE Token
@@ -37,7 +37,7 @@ When STAKE is locked in the protocol, rewards for sealing blocks are generated i
 
 The STAKE circulating supply is **8,537,500 tokens** \(once all tokens are unlocked in the protocol\). Emissions will increase this value by a maximum of 15% annually.
 
-## STAKE Governance
+## STAKE Governance Utility
 
 As the ecosystem matures, STAKE will be used for chain governance, giving holders a chance to update network parameters for optimal performance. This will include items such as validator/delegator minimums, fees, and other aspects of the xDai chain.
 
