@@ -30,7 +30,7 @@ We use a variety of tools to view xDai Metrics including:
 
 ### Total OverView: BlockScout
 
-* 1.1Million Unique Wallets
+* 1.1Million Wallets
 * 23 Million Total Transactions
 
 ![https://blockscout.com/xdai/mainnet](../../../../.gitbook/assets/wallets-1.png)
@@ -58,7 +58,6 @@ We use a variety of tools to view xDai Metrics including:
 * Bao Finance: 1426
 * AMB Bridge: 1288
 * xDai Bridge: 579
-* Dark Forest: 2
 
 ![](../../../../.gitbook/assets/dune1%20%281%29.png)
 
@@ -90,7 +89,7 @@ Top 10 according to [https://ethhole.link/project/xDai](https://ethhole.link/pro
 
 ### Berlin Hardfork on xDai
 
-The date and block number have been announced for the xDai upgrade to Berlin. All validators and any projects using xDai should update their nodes. \(OpenEthereum v3.2.5, Nethermind v\)
+The date and block number have been announced for the xDai upgrade to Berlin. All validators and any projects using xDai should update their nodes. \(OpenEthereum v3.2.5, Nethermind v1.10.67\)
 
 * Date: **May 17** 
 * Block: **\#16101500**
