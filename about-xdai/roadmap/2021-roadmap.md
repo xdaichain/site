@@ -27,13 +27,6 @@ Analytics or EasyStaking rewards Liquidity Pool \(LP\) participants, stakers in 
 
 We will integrate statistics views for the EasyStaking platform and POSDAO as well as develop additional analytics tools \(currently exploring options like Dune Analytics\). We will continue to add stats and views for stakers on all platforms.
 
-## **xDai Grant Program** 
-
-🎯 **Target Date:** Q2 2021  
-☑ **Status:** In Process
-
-Once the Ecosystem Fund unlock begins, we will finalize the program and begin accepting applications for developers and projects requiring support for wave 1 of the Grants Program.
-
 ## **Establish Bug Bounty for High Value Contracts**
 
 🎯 **Target Date:** Q2 2021  
@@ -48,12 +41,26 @@ The first bounty is for OmniBridge contracts with a potential reward of $2,000,0
 
 STAKE is used for community signaling with [snapshot](https://snapshot.org/#/xdaistake.eth), and STAKE held on xDai is important for this process to reflect community sentiment. STAKE holders on xDai include POSDAO delegators and validators, perhaps the biggest supporters of the chain. There is a vital need to include these holders in the governance process. Snapshot compatibility will be expanded to include STAKE on xDai and STAKE currently staked in the POSDAO protocol. In addition, the governance process will be optimized to facilitate more community driven proposals and voting for the [Ecosystem Fund allocation](ecosystem-fund-roadmap.md).
 
+## OmniBridge Phase 2
+
+🎯 **Target Date**: Q1-Q2 2021  
+  **✅** **Status:** [Security Audit](https://docs.tokenbridge.net/about-tokenbridge/security-audits#omnibridge-audit-by-chainsecurity) Completed by Chain Security April 27, 2021
+
+Additional features include bi-directional support \(ability to move tokens minted on xDai to Ethereum\), relayTokensAndCall functionality, and additional decentralization mechanisms \(governance, additional validators, user-enabled signature execution\). 
+
 ## **Berlin HF activation and client updates**
 
 🎯 **Target Date:** May 2021  
  ☑**Status Update:** **Scheduled for May 17, Block \#16101500**
 
 OpenEthereum is now running `3.2.5` and it includes the latest xDai POSDAO features. xDai validators will upgrade to the latest build, with several also migrating to the Nethermind client to support client diversity on xDai.  We plan to activate the Berlin hard fork shortly after it goes live on the Ethereum mainnet.
+
+## **xDai Grant Program** 
+
+🎯 **Target Date:** Q2 2021  
+☑ **Status:** In Process
+
+Once the Ecosystem Fund unlock begins, we will finalize the program and begin accepting applications for developers and projects requiring support for wave 1 of the Grants Program.
 
 ## **POSDAO Staking Application Improvements**
 
@@ -85,13 +92,6 @@ Update: We are currently working on a [ZeroPool](https://zeropool.network/) inte
 ☑ **Status:** Research and implementation details in progress
 
 We are planning to implement a test implementation of [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559)  to explore its dynamics and benefits for the xDai chain as well as the broader Ethereum ecosystem. With successful testing, we plan to activate on xDai. _More details available soon._
-
-## OmniBridge Phase 2
-
-🎯 **Target Date**: Q1-Q2 2021  
-☑ **Status:** [Security Audit](../../for-developers/security-audits.md#tokenbridge-audit-by-quantstamp-covers-omnibridge) for Phase 2 now in process.
-
-Additional features will be added including bi-directional support \(ability to move tokens minted on xDai to Ethereum\) and additional decentralization mechanisms \(governance, additional validators, user-enabled signature execution\). 
 
 ## Universal NFT Bridge
 
@@ -135,6 +135,16 @@ There is currently  a reference implementation where sUSD can be transferred fro
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>07.05.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Update OmniBridge Phase 2 to complete</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>06.05.2021</em>
       </td>
