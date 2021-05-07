@@ -60,7 +60,7 @@ OpenEthereum is now running `3.2.5` and it includes the latest xDai POSDAO featu
 🎯 **Target Date:** Q2  
 ☑ **Status:** Ongoing, security audit in queue
 
-[POSDAO v0.2.2](https://github.com/poanetwork/posdao-contracts/releases/tag/v0.2.2) was released on March 18, 2021 and is now in queue for an additional security audit. POSDAO support is now included with the latest [OpenEthereum release](https://github.com/openethereum/openethereum/releases/tag/v3.2.1).  Additional validator pool metadata was added to the interface.
+[POSDAO v0.2.2](https://github.com/poanetwork/posdao-contracts/releases/tag/v0.2.2) was released on March 18, 2021 and is now in queue for an additional security audit. POSDAO support is now included with the latest [OpenEthereum release](https://github.com/openethereum/openethereum/releases/tag/v3.2.5).  Additional validator pool metadata was added to the interface.
 
 ## **Privacy Preserving Transactions**
 
