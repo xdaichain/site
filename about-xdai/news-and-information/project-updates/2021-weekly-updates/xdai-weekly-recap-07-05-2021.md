@@ -4,9 +4,7 @@ description: 01 May - 07 May 2021
 
 # ⚔️ xDai Weekly Recap - 07/05/2021
 
-## 
-
-This week's update focuses on protocol and network updates.
+![This week&apos;s update focuses on protocol and network updates.](../../../../.gitbook/assets/weekly-stats.png)
 
 ## 👷♂ POSDAO Updates
 
@@ -30,7 +28,7 @@ We use a variety of tools to view xDai Metrics including:
 * [AnyBlock Analytics](https://dashboards.anyblock.tools/ethereum/poa/xdai/network-metrics/)
 * [Ethhole](https://ethhole.link/project/xDai)
 
-### Overhead View: BlockScout
+### Total OverView: BlockScout
 
 * 1.1Million Unique Wallets
 * 23 Million Total Transactions
@@ -42,6 +40,8 @@ We use a variety of tools to view xDai Metrics including:
 * 4.2 Million Transactions
 * 1 Trillion Gas Usage
 * 46 Thousand Distinct Senders
+
+![https://dashboards.anyblock.tools/ethereum/poa/xdai/network-metrics/](../../../../.gitbook/assets/anyblock-monthly.png)
 
 
 
@@ -62,7 +62,7 @@ We use a variety of tools to view xDai Metrics including:
 
 ![](../../../../.gitbook/assets/dune1%20%281%29.png)
 
-## Bridged Token Analytics
+### Bridged Token Analytics
 
 * 397 Distinct Tokens bridged from Ethereum \([https://blockscout.com/xdai/mainnet/bridged-tokens/eth](https://blockscout.com/xdai/mainnet/bridged-tokens/eth)\)
 * 74 Distinct Tokens bridged from BSC \([https://blockscout.com/xdai/mainnet/bridged-tokens/bsc](https://blockscout.com/xdai/mainnet/bridged-tokens/bsc)\)
@@ -86,28 +86,55 @@ Top 10 according to [https://ethhole.link/project/xDai](https://ethhole.link/pro
 | [STAKE](https://etherscan.io/token/0x0ae055097c6d159879521c384f1d2123d1f195e6?a=0x88ad09518695c6c3712ac10a214be5109a655671) | $6.71M | note: missing locked validator tokens, actual value $13,780,797 USD |
 | [LIEN](https://etherscan.io/token/0xab37e1358b639fd877f015027bb62d3ddaa7557e?a=0x88ad09518695c6c3712ac10a214be5109a655671) | $6.48M |  |
 
-## Protocol Updates
+## ✏ Protocol Updates
 
 ### Berlin Hardfork on xDai
 
-The date and block number have been announced for the xDai upgrade to Berlin. All validators and any projects using xDai should update their nodes. \(OpenEthereum v3.2.5\)
+The date and block number have been announced for the xDai upgrade to Berlin. All validators and any projects using xDai should update their nodes. \(OpenEthereum v3.2.5, Nethermind v\)
 
 * Date: **May 17** 
 * Block: **\#16101500**
 
 ### Client Support
 
-Both OpenEthereum and Nethermind support the latest xDai updates including POSDAO consensus.
+Both OpenEthereum and Nethermind support the latest xDai updates.
 
-tweet 1
+{% embed url="https://github.com/openethereum/openethereum/releases/tag/v3.2.5" %}
 
-tweet 2
+{% embed url="https://twitter.com/nethermindeth/status/1389479673827037187" %}
 
-## 🌉 OmniBridge Audit Completed
+## 🌉 OmniBridge Updates
 
-[ChainSecurity](https://chainsecurity.com/) completed an audit of the OmniBridge contracts. The final report identified 0 Critical or High Risk Issues, 2 Medium Issues and 3 Low Risk Issues all of which were acknowledged and/or accepted. Next, the team will implement the latest contracts which will include reverse functionality \(token minting on xDai, bridge minted tokens to Ethereum\) and other audited features.
+After a successful security audit, OmniBridge upgrades are underway. Documentation was added for the following:
 
-See the report: [https://chainsecurity.com/security-audit/poa-network-omnibridge/](https://chainsecurity.com/security-audit/poa-network-omnibridge/)
+* [Alternate Receiver](../../../../for-users/bridges/converting-xdai-via-bridge/alternate-receiver-send-dai-to-another-xdai-address.md): Bridge tokens from an address on one chain to a second address on another chain\).
+* [Define Custom RPCs:](../../../../for-users/bridges/omnibridge/set-custom-rpc-endpoints.md) Set your own RPC endpoints for bridge interaction.
+* [Infinite Unlock](../../../../for-users/bridges/omnibridge/infinite-unlock.md): Approve all transfers of a token with a single tx rather than for each transfer.
+* Reverse Mode: _Coming Soon_. Bridge tokens minted on xDai to Ethereum/BSC
 
-## 
+## 🔎 BlockScout Updates
+
+BlockScout now supports EIP1155 Tokens, with recent updates to include Metadata support. 
+
+{% embed url="https://twitter.com/blockscoutcom/status/1386748075004370949" %}
+
+### 1155 MetaData Support Added
+
+![](../../../../.gitbook/assets/metadata-support.png)
+
+## 🦋 Project Updates
+
+### Opium 
+
+{% embed url="https://twitter.com/Opium\_Network/status/1390681252739653632" %}
+
+### GnosisSafe Application
+
+{% embed url="https://twitter.com/xdaichain/status/1389693232704102400" %}
+
+### Mt Pelerin Bridge Wallet
+
+{% embed url="https://twitter.com/mtpelerin/status/1369297227131273220" %}
+
+
 
