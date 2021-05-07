@@ -343,6 +343,7 @@
   * [Current Validators: How to Add a New Bridge Validator](for-validators/for-bridge-validators/current-validators-how-to-add-a-new-bridge-validator.md)
   * [xDai Bridge Contracts Management](https://docs.tokenbridge.net/xdai-bridge/xdai-bridge-contracts-management)
 * [Hard Forks](for-validators/hard-forks/README.md)
+  * [2021-05-17 \| \#16101500](for-validators/hard-forks/2021-05-17-or-16101500.md)
   * [2020-04-01 \| \#9186425](for-validators/hard-forks/2020-04-01-or-9186425.md)
   * [2019-12-12 \| \#7298030](for-validators/hard-forks/2019-12-12-or-7298030.md)
   * [2019-03-06 \| \#2508800](for-validators/hard-forks/2019-03-06-or-2508800.md)

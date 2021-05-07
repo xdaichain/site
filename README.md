@@ -7,10 +7,10 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-🎉 STAKE is now trading on Huobi Global Exchange with several supported pairs \(STAKE/USDT, STAKE/BTC, STAKE/ETH\). Learn more about the [listing campaign with 12.4K STAKE in additional rewards for trading and staking](https://www.huobi.li/support/en-us/detail/24873225477472)!
+Berlin HardFork is scheduled for **May 17, Block 16101500** on xDai! If you are running an xDai node, it is time to update!
 
-* Listing Details [https://www.huobi.li/support/en-us/detail/84873223691263](https://www.huobi.li/support/en-us/detail/84873223691263)
-* Campaign [https://www.huobi.li/support/en-us/detail/24873225477472](https://www.huobi.li/support/en-us/detail/24873225477472)
+* OpenEthereum v3.2.5. [More Info](for-developers/install-xdai-client/parity.md)
+* Nethermind v16101500. [More Info](for-developers/install-xdai-client/nethermind.md)
 {% endhint %}
 
 ## xDai Stable Chain

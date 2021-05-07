@@ -1,7 +1,7 @@
 # Nethermind
 
 {% hint style="warning" %}
-Nethermind Validator is currently running on POSDAO in Beta. A new release is expected in the near future:
+A Nethermind Validator is currently running on POSDAO.
 
 Validator: [https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations](https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations)
 

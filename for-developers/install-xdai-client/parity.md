@@ -7,13 +7,15 @@ description: xDai with POSDAO runs on OpenEthereum v3.0.0
 ## Install OpenEthereum
 
 {% hint style="warning" %}
-DO NOT use the latest version of OpenEthereum \(3.1+\), as it does not include important POSDAO features needed for xDai. Version 3.0.1 supports xDai, as does 3.0.0 and 2.7.2. Download binaries here for Linux, Mac & Windows: [https://github.com/openethereum/parity-ethereum/releases](https://github.com/openethereum/parity-ethereum/releases)  
-  
-_Note: if binary does not come up, check the url to ensure it includes parity-ethereum rather than forwarding to the new repo._
+Please update to `v3.2.5` which contains Berlin hard fork transition and the new enodes: [https://github.com/openethereum/openethereum/releases/tag/v3.2.5](https://github.com/openethereum/openethereum/releases/tag/v3.2.5)
+
+Perform a DB migration if your run OE version &lt; v3.2.0
+
+If your node works on an old version of Parity, you need to convert node's DB to the format compatible with OpenEthereum v3.2.x. You can use this tool [https://github.com/openethereum/3.1-db-upgrade-tool](https://github.com/openethereum/3.1-db-upgrade-tool)
 {% endhint %}
 
 {% hint style="success" %}
-_For a non-dev user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)\_\_
+_For a non-dev user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)_. Note this uses the previous version_ 3.0.1 - clients should now run v3.2.5
 {% endhint %}
 
 ### Binary Instructions
