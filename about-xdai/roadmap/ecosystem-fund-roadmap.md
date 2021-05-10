@@ -40,7 +40,7 @@ We are exploring additional measures to ensure fund transparency and funding ali
 * 43,000 STAKE Wave 1
 * The xDai Grants Program will begin to support projects requiring funds for development, adoption, use-case support or other features. A form for wave 1 applicants will be available when the program begins. [More info](../../for-developers/grants/)
 
-### Increase STAKE liquidity on DEX platforms
+### Increase STAKE liquidity on DEX / Exchange platforms
 
 * Amount TBD
 * When providing liquidity to DEXs in the ecosystem it is necessary to provide 2 different assets. To prevent the sale of STAKE to acquire these assets, we will leverage protocols such as [Unit Protocol](https://unit.xyz/) and MakerDAO to lock in STAKE and acquire additional collateral to support liquidity. Any positions we open will be with a high collateral to debt ratio to prevent unexpected liquidation and unnecessary risk. 
@@ -48,11 +48,13 @@ We are exploring additional measures to ensure fund transparency and funding ali
   * 6000 STAKE [https://etherscan.io/tx/0x98f49591b190c1b1da20d9877991e55a06aacb40b4e2dd933e50acea7c3eb8e8](https://etherscan.io/tx/0x98f49591b190c1b1da20d9877991e55a06aacb40b4e2dd933e50acea7c3eb8e8)
   * 4000 STAKE [https://etherscan.io/tx/0xf62dcc5ebaab81efd17639889c320a40f241a90e1fd700897417fdc1a0e99fbb](https://etherscan.io/tx/0xf62dcc5ebaab81efd17639889c320a40f241a90e1fd700897417fdc1a0e99fbb)
 
-### Community Initiatives
+### Community Initiatives and Other Use Cases
 
 * Amount TBD
 * Community members can suggest usage for funds by creating a proposal and a linked snapshot where users can vote on proposed usage of the funds. This acts a signaling mechanism for the community and what innovations they would like to see on xDai. 
 * More on the [Decentralized Community Governance Process](../../for-users/governance/).
+* ✅  Community member support.  A community member sent a large amount of STAKE accidentally to an unrecoverable address. They were able to prove their identity and mistake and the community voted to support this member, while the member pledged to burn 30% of the amount received to benefit STAKE holders.
+  * 1,451.6036 STAKE [https://etherscan.io/tx/0xfce79d4f6593b9b72c2763e49fd613b39a2a120403bf56241e6c49fc72eb5232](https://etherscan.io/tx/0xfce79d4f6593b9b72c2763e49fd613b39a2a120403bf56241e6c49fc72eb5232)
 
 
 
