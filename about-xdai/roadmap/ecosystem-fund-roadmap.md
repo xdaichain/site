@@ -40,7 +40,7 @@ We are exploring additional measures to ensure fund transparency and funding ali
 * 43,000 STAKE Wave 1
 * The xDai Grants Program will begin to support projects requiring funds for development, adoption, use-case support or other features. A form for wave 1 applicants will be available when the program begins. [More info](../../for-developers/grants/)
 
-### Increase STAKE liquidity on DEX / Exchange platforms
+### Increase STAKE Liquidity on DEX / Exchange Platforms
 
 * Amount TBD
 * When providing liquidity to DEXs in the ecosystem it is necessary to provide 2 different assets. To prevent the sale of STAKE to acquire these assets, we will leverage protocols such as [Unit Protocol](https://unit.xyz/) and MakerDAO to lock in STAKE and acquire additional collateral to support liquidity. Any positions we open will be with a high collateral to debt ratio to prevent unexpected liquidation and unnecessary risk. 
