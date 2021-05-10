@@ -4,7 +4,7 @@ description: How to add stake for your own pool or a pool you are delegating on
 
 # Add Stake
 
-![](../../../.gitbook/assets/new-menu.png)
+![](../../../.gitbook/assets/staking-1.png)
 
 To add stake for the first time, you can either [Become a Candidate](../become-a-candidate-validator.md) or [Become a Delegator](../become-a-delegator.md), depending on whether you want to create your own pool \(become a candidate\) or stake into an existing pool \(become a delegator\).
 
