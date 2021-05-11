@@ -323,6 +323,7 @@
 * [New Validator Process Flow](for-validators/new-validator-process-flow/README.md)
   * [Nethermind Node Setup](for-validators/new-validator-process-flow/nethermind-node-setup.md)
   * [OpenEthereum / Parity Node Setup](for-validators/new-validator-process-flow/openethereum-node-instructions.md)
+  * [Node Monitoring Script](for-validators/new-validator-process-flow/node-monitoring-script.md)
 * [New Validator Node Deployment](for-validators/node-deployment/README.md)
   * [Manual Deployment](for-validators/node-deployment/manual-deployment.md)
   * [Deprecated Instructions](for-validators/node-deployment/deprecated-instructions/README.md)
