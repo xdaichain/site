@@ -23,7 +23,7 @@ _Note: The process may be expedited when used by the xDai team to address infras
 
 ### 1\) Forum post in proposals section of xDai forum
 
-This is a first step to introduce your proposal and provide reasoning for why you are creating it and what benefits it will bring to the ecosystem. The community can voice their opinions and you can add more information about your proposal during and/or after the snapshot vote to clarify. A forum post should be shared with the community to allow for community comment before the snapshot proposal.  
+This is a first step to introduce your proposal and provide reasoning for why you are creating it and what benefits it will bring to the ecosystem. The community can voice their opinions and you can add more information about your proposal during and/or after the snapshot vote to clarify. A forum post should be shared with the community to allow for community comment.  
   
 🔗 [Proposals Forum link](https://forum.poa.network/c/xdai-chain/xdai-proposals/43)  
 ⌚ Community feedback & discussion: 2 week suggested duration \(can be expedited if required\)  
@@ -32,7 +32,7 @@ This is a first step to introduce your proposal and provide reasoning for why yo
 
 ### 2\) Create a Snapshot Vote Proposal
 
-This can be a simple proposal to assess community sentiment. It should reference your proposal in step 1. Set for at least 1 week to get community engagement.  
+This can be a simple proposal to assess community sentiment. It should reference your proposal in step 1. If there is not a need for faster resolution, set for at least 1 week to get community engagement.  
   
 🔗 [xDai Snapshot Link](https://snapshot.org/#/xdaistake.eth)  
 ⌚ Voting Period: 1 week suggested duration \(can be expedited if required\)  
@@ -41,7 +41,9 @@ This can be a simple proposal to assess community sentiment. It should reference
 
 ### 3\) Forward Proposal Status for Governance Vote 
 
-Reach out to the xDai team \(tag in your forum post or on [discord](https://discord.gg/mPJ9zkq)\) to let them know your proposal status. Depending on the nature and type of proposal the team will provide feedback and forward to the governance board \(See below\) for an inclusion vote.  Results of the vote will be shared with the community once it is complete.
+Reach out to the xDai team \(tag in your forum post or on [discord](https://discord.gg/mPJ9zkq)\) to let them know your proposal status. Depending on the nature and type of proposal the team will provide feedback and discuss internally regarding technical merits, ability to implement, internal priorities etc. If the proposal requires code modifications or changes to mechanisms requiring bridge signatures, it can be forwarded to the governance board \(see below\) for an inclusion vote.   
+  
+Results of the vote will be shared with the community once it is complete.
 
 {% hint style="warning" %}
 Proposals act as signaling events, but are never automatically enacted. Even if a proposal is popular in the community, snapshot/forum posts are suggestions and depending on technical requirements or other issues may not be enacted by the xDai technical team or bridge governors. If this is the case, reasoning will be discussed in the forum post \(step 1\).
