@@ -7,15 +7,19 @@ description: xDai with POSDAO runs on OpenEthereum v3.0.0
 ## Install OpenEthereum
 
 {% hint style="warning" %}
-Please update to `v3.2.5` which contains Berlin hard fork transition and the new enodes: [https://github.com/openethereum/openethereum/releases/tag/v3.2.5](https://github.com/openethereum/openethereum/releases/tag/v3.2.5)
+**Updating OE**
 
-Perform a DB migration if your run OE version &lt; v3.2.0
+✅ Please update to `v3.2.5` which contains Berlin hard fork transition and the new enodes: [https://github.com/openethereum/openethereum/releases/tag/v3.2.5](https://github.com/openethereum/openethereum/releases/tag/v3.2.5)
 
-If your node works on an old version of Parity, you need to convert node's DB to the format compatible with OpenEthereum v3.2.x. You can use this tool [https://github.com/openethereum/3.1-db-upgrade-tool](https://github.com/openethereum/3.1-db-upgrade-tool)
+✅ Perform a DB migration if your run OE version &lt; v3.2.0
+
+✅ **dataDir** in chain spec has changed from DaiChain to **xdai** - manually rename the folder to avoid syncing from genesis.
+
+✅ If your node works on an old version of Parity, you need to convert node's DB to the format compatible with OpenEthereum v3.2.x. You can use this tool [https://github.com/openethereum/3.1-db-upgrade-tool](https://github.com/openethereum/3.1-db-upgrade-tool)
 {% endhint %}
 
 {% hint style="success" %}
-_For a non-dev user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)_. Note this uses the previous version_ 3.0.1 - clients should now run v3.2.5
+_For a non-dev user friendly version, see_ [_https://forum.1hive.org/t/run-your-own-local-xdai-node/2875_](https://forum.1hive.org/t/run-your-own-local-xdai-node/2875)
 {% endhint %}
 
 ### Binary Instructions
