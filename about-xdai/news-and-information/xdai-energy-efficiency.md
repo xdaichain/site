@@ -8,6 +8,12 @@ description: >-
 
 In this article we present an overall energy usage overview \(provided by [Lab10Collective](https://lab10.coop/)\) of different blockchains as well as VISA. The data shows that the xDai chain is extremely efficient while providing fast block times and a scaleable infrastructure. 
 
+{% hint style="info" %}
+This overview was done in 2020. In 2021 Energy Consumption for both Bitcoin and Ethereum has increased dramatically.
+{% endhint %}
+
+![](../../.gitbook/assets/energy-consumption.png)
+
 ## Energy Usage Overview
 
 Energy usage equivalents \(number of average US households consume the same amount of energy as the following chains/Visa\). 
@@ -25,9 +31,11 @@ Energy usage equivalents \(number of average US households consume the same amou
 
 A frequently mentioned concern about blockchain technology is energy consumption. Bitcoin is known to use incredible amounts of energy.  The annual footprint is alarming. 
 
-![Graphic and information from https://digiconomist.net/bitcoin-energy-consumption](../../.gitbook/assets/carbon-footprint.png)
+![](../../.gitbook/assets/bitcoin-1.png)
 
 Ethereum currently consumes much less energy, but it is still equivalent to the energy needed to power 721,223 US homes. [https://digiconomist.net/ethereum-energy-consumption](https://digiconomist.net/ethereum-energy-consumption). This will change with Ethereum 2.0\*
+
+![](../../.gitbook/assets/ethereum.png)
 
 Large centralized companies like VISA can process many transactions per second and require less energy: 42,702 US households. Keep in mind, however, this is just for transaction processing, not all of the power that VISA uses for things like offices, travel, banking infrastructure etc. Not to mention they are a giant centralized corporation that charges high transaction fees.
 
