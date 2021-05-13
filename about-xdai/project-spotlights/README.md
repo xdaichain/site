@@ -48,6 +48,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
 * [BaoFinance](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO.
 * [Component Finance](https://xdai.component.finance/): Stable Coin Swap
+* [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities.
 * [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface.
 * [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
 * [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker.
@@ -60,7 +61,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [DeBank](https://debank.com/): DeFi Dashboard
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
 * [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app.
-* [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities.
 * Coin-focused Projects
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
   * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
@@ -69,7 +69,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 * **NFT Marketplaces**
   * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
-  * [Unique.one](http://Unique.One): NFT Marketplace
+  * [Unique.one](https://xdai.unique.one/): NFT Marketplace
   * [Eporio](https://epor.io/): NFT Marketplace
   * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
   * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs

@@ -56,11 +56,11 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
 
 📊Chain usage stats available with [Dune Analytics](https://duneanalytics.com/maxaleks/xDai-Usage).
 
-## Projects on xDai
+## Project Highlights on xDai
 
 The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
 
-![](.gitbook/assets/xdai-projects%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![](.gitbook/assets/projects-2.png)
 
 | Integrations | Infrastructure | DeFi | NFTs | DAOs |
 | :--- | :--- | :--- | :--- | :--- |
@@ -68,6 +68,10 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 | [Chainlink](about-xdai/project-spotlights/chainlink/) | [RealT](https://realt.co/) | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io/) |
 | [HOPR](https://hoprnet.org/) | [Circles UBI](about-xdai/project-spotlights/circles-ubi.md) | [Component Finance](about-xdai/project-spotlights/component-finance.md) | [Unifty](https://unifty.io) | [DXdao](https://dxdao.medium.com/) |
 | [Ramp Network](https://ramp.network/) | [clr.fund](about-xdai/project-spotlights/clr-fund.md) | [BaoSwap](https://www.bao.finance/) | [Chievmint](https://chiev.net/) | [RaidGuild](https://raidguild.org/) |
+| [Giveth](https://giveth.io/) | [Orchid](https://www.orchid.com/) | [SushiSwap](https://sushi.com/) | [Cargo](https://cargo.build) | [Peerion](https://peerion.io/pools/) |
+| [Tenderly](https://tenderly.co/) | [Streamr](https://streamr.network/) | [Omen](https://xdai.omen.eth.link/#/liquidity) | [Eporio](https://epor.io/) |  |
+| [Ankr](https://www.ankr.com/) | [Request](https://request.network/en/) | [Swapr](https://swapr.eth.link/#/swap) | [Unique.One](https://www.unique.one/) |  |
+|  | [CardStack](https://cardstack.com/) | [Agave](https://agave.finance/) |  |  |
 
 ## **xDai Developers**
 
