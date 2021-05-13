@@ -79,31 +79,32 @@ Development on xDai is easy and intuitive for Ethereum developers. xDai is an EV
 
 Any contract that works on the Ethereum mainnet can be redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai. **Many tools supporting Ethereum development** are compatible with xDai, including:
 
-* TheGraph
-* Tenderly
-* Remix
-* OpenZeppelin
-* Gnosis MultiSig
-* Dune Analytics
-* Many more...
+* [TheGraph](https://thegraph.com/)
+* [Tenderly](https://tenderly.co/)
+* [Remix](https://remix-project.org/)
+* [OpenZeppelin](https://openzeppelin.com/)
+* [BlockNative](https://www.blocknative.com/)
+* [Gnosis Safe MultiSig](https://gnosis-safe.io/)
+* [Dune Analytics](https://duneanalytics.com/home)
+* Many more......
 
 🛠 See [Developer Resources and Tools](for-developers/developer-resources/) to get up-and-running quickly.
 
-![BlockScout at https://blockscout.com/xdai/mainnet](.gitbook/assets/bs1.png)
+![](.gitbook/assets/blockscout-1.png)
 
 ## **Why xDai?**
 
 * ✅Fast transaction times \(5 seconds\) & low transaction fees \(500 tx for $.01\).
 * ✅Digital cash. A stable chain is ideal for real world value exchange where 1 xDai = 1 US Dollar.
-* ✅A single token for transactions & gas fees.
+* ✅A stable token for transactions & gas fees.
+* ✅A green, energy-efficient and [ecologically aware](about-xdai/news-and-information/xdai-energy-efficiency.md) blockchain network.
 * ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
-* ✅[STAKE token](for-stakers/stake-token/) allows community consensus participation and incentives. 
+* ✅[STAKE token](for-stakers/stake-token/) for community consensus participation and incentives. 
 * ✅Wide-ranging Community Support \(see [xDai Validator Organizations](for-validators/about-xdai-validators/original-xdai-validators/)\).
-* ✅Outstanding energy efficiency.
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet/) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
-* ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md) and more.
-* ✅Open Source full-featured [BlockScout Explorer](https://blockscout.com/xdai/mainnet).
-* ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic and others.
+* ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md), DeFi, NFTs, DAOs and more.
+* ✅Full-featured  [BlockScout Explorer](https://blockscout.com/xdai/mainnet).
+* ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic, BSC and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
 
