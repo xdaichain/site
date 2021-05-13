@@ -34,6 +34,8 @@ Using a RANDAO-based Random Number Generator, validators on xDai produce random 
 
 The xDai Stable Chain uses a delegated Proof of Stake \(DPOS\) consensus mechanism called POSDAO. The [POSDAO white paper](../for-validators/posdao-whitepaper.md) describes all aspects of this new consensus protocol including a complete overview of the theory, rationale, security, and a detailed implementation section.
 
+📗[ More on xDai's energy efficient network](news-and-information/xdai-energy-efficiency.md)
+
 ## Bridges to Ethereum
 
 Two bridges connect the xDai Stable Chain to the Ethereum mainnet, supporting seamless two-way asset transfer between chains. Tokens are acquired on the mainnet, then bridged to the xDai Stable Chain sidechain using either the Dai-xDai bridge for transactional tokens, or the OmniBridge for any cross-chain transfers. Once a user is finished transacting or staking, tokens can be bridged back to the mainnet with ease.
