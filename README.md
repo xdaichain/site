@@ -56,7 +56,7 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
 
 📊Chain usage stats available with [Dune Analytics](https://duneanalytics.com/maxaleks/xDai-Usage).
 
-## Project Highlights on xDai
+## Project Highlights
 
 The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
 
