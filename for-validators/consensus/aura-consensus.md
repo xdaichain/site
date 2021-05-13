@@ -15,6 +15,11 @@ xDai uses delegated Proof of Stake to provide sybil protection. Validators and d
 
 View current xDai validator pools in the [BlockScout Staking Application](https://blockscout.com/xdai/mainnet/validators).
 
+{% hint style="info" %}
+Finality delay  
+A minimum of `n_v/2 + 1` validations being required, with `n_v` the number of validators. At least `2(n_v/2 + 1) = n_v + 2` message round trips are therefore necessary before a block is finalized by all validators. In the worst case, after exactly `n_v` validations, the delay will instead be of `2n_v + 2`. For xDai running with 19 validators, this is the equivalent of 40 blocks.
+{% endhint %}
+
 ## Additional Information on AuRa:
 
 {% embed url="https://openethereum.github.io/Aura" caption="" %}
