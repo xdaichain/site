@@ -7,10 +7,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-Berlin HardFork is scheduled for **May 17, Block 16101500** on xDai! If you are running an xDai node, it is time to update!
-
-* OpenEthereum v3.2.5. [More Info](for-developers/install-xdai-client/parity.md)
-* Nethermind v1.10.67. [More Info](for-developers/install-xdai-client/nethermind.md)
+🎉 Berlin HardFork successfully activated **May 17, Block 16101500** on xDai! Requires [OpenEthereum](for-developers/install-xdai-client/parity.md) v3.2.5 or [Nethermind v1.10.67](for-developers/install-xdai-client/nethermind.md)
 {% endhint %}
 
 ## xDai Stable Chain

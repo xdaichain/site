@@ -1,5 +1,5 @@
 ---
-description: xDai with POSDAO runs on OpenEthereum v3.0.0
+description: xDai with POSDAO runs on OpenEthereum v3.2.5
 ---
 
 # OpenEthereum \(formerly Parity\)
