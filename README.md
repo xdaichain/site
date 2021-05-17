@@ -7,7 +7,9 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-🎉 Berlin HardFork successfully activated **May 17, Block 16101500** on xDai! Requires [OpenEthereum](for-developers/install-xdai-client/parity.md) v3.2.5 or [Nethermind v1.10.67](for-developers/install-xdai-client/nethermind.md)
+🎉 Berlin HardFork successfully activated **May 17,** Block **16101500** on xDai. Users should notice no major differences with these optimizations and security enhancements. 
+
+If running a node, please upgrade to  [OpenEthereum](for-developers/install-xdai-client/parity.md) v3.2.5 or [Nethermind v1.10.67](for-developers/install-xdai-client/nethermind.md)
 {% endhint %}
 
 ## xDai Stable Chain
