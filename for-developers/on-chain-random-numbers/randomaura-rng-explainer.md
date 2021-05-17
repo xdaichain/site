@@ -3,7 +3,7 @@
 {% hint style="success" %}
 The following example uses methods from the [RandomAura](https://github.com/poanetwork/posdao-contracts/blob/master/contracts/RandomAuRa.sol) contract. A [RANDAO ](https://github.com/randao/randao)methodology implemented by the validator nodes generates pseudorandom numbers.
 
-The following is designed to work with[ OpenEthereum's AuRa ](https://openethereum.github.io/Aura)consensus protocol v2.7.2 - v3.0.1. In this protocol, validators take turns sealing blocks, one after the other, in a prescribed order.
+The following is designed to work with[ OpenEthereum's AuRa ](https://openethereum.github.io/Aura)consensus protocol v3.2.5. In this protocol, validators take turns sealing blocks, one after the other, in a prescribed order.
 {% endhint %}
 
 ### Collection Rounds
