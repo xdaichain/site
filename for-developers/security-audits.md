@@ -1,5 +1,15 @@
 # Security Audits
 
+## OmniBridge Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
+
+**Completed:** April 27, 2021
+
+**Conclusion**: 0 Critical or High Risk Issues, 2 Medium Issues Accepted, 3 Low Risk Issues Accepted/Acknowledged
+
+**Contracts:** [https://github.com/poanetwork/omnibridge](https://github.com/poanetwork/omnibridge)​
+
+{% embed url="https://chainsecurity.com/security-audit/poa-network-omnibridge/" caption="ChainSecurity Audit Report" %}
+
 ## TokenBridge Audit by Quantstamp \(covers OmniBridge\)
 
 **Completed:** November 6, 2020
