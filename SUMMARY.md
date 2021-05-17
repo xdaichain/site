@@ -200,6 +200,7 @@
   * [Torus Wallet](for-users/wallets/torus-wallet.md)
 * [Applications](for-users/applications/README.md)
   * [Revoke](for-users/applications/revoke.md)
+  * [Crypto Tax Calculator](for-users/applications/crypto-tax-calculator.md)
 * [Explorers](for-users/explorers/README.md)
   * [BlockScout](for-users/explorers/blockscout.md)
   * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)
