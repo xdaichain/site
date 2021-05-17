@@ -9,7 +9,13 @@ Staking Stats are available here \(Scroll down to find Staking on xDai stats\)
 [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 {% endhint %}
 
-{% embed url="https://youtu.be/ekfQzIcBEp0" caption="Preview of the public staking application in BlockScout " %}
+Staking Videos
+
+{% embed url="https://youtu.be/TAOJ-k\_1AVE" %}
+
+
+
+{% embed url="https://youtu.be/ekfQzIcBEp0" caption="Public Staking preview \(older interface\) " %}
 
 #### **Getting STAKE**
 

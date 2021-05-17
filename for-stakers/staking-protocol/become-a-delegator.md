@@ -8,7 +8,9 @@ While each validator pool receives the same reward during a staking epoch, rewar
 
 To start you will need **200 STAKE on xDai** \(video shows 1000, was previous minimum\). See below for how to get STAKE to xDai.
 
-{% embed url="https://youtu.be/DVSqVaut\_Vc" caption="How to Delegate STAKE using BlockScout \(uses v1 interface, processes are the same\)" %}
+{% embed url="https://youtu.be/TAOJ-k\_1AVE" caption="Tutorial from Stakefish" %}
+
+{% embed url="https://youtu.be/DVSqVaut\_Vc" caption="Delegate STAKE using BlockScout \(uses v1 interface, processes are the same\)" %}
 
 ![Apps menu to access Staking on xDai](../../.gitbook/assets/staking-1.png)
 
