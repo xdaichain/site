@@ -1,7 +1,7 @@
 # Nethermind
 
 {% hint style="warning" %}
-A Nethermind Validator is currently running on POSDAO.
+Several Nethermind Validators are currently running on POSDAO. Requires the latest version 1.10.71
 
 Validator: [https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations](https://blockscout.com/xdai/mainnet/address/0x1A740616e96E07d86203707C1619d9871614922A/validations)
 
