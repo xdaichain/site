@@ -69,7 +69,7 @@ A proposal to introduce matching incentives as LP rewards \(1M in Stake from xDa
 
 ### Berlin Hardfork on xDai
 
-May 17 is quickly approaching for the xDai upgrade to Berlin. All validators and any projects using xDai should update their nodes. \(OpenEthereum v3.2.5+, Nethermind v1.10.67+\)
+May 17 is quickly approaching for the xDai upgrade to Berlin. All validators and any projects using xDai should update their nodes. \(OpenEthereum v3.2.5+, Nethermind v1.10.71+\)
 
 * Date: **May 17** 
 * Block: **\#16101500**
