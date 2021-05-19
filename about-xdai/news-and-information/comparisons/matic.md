@@ -1,20 +1,77 @@
 ---
-description: xDai & Matic Ethereum Sidechains
+description: xDai & Matic Differences and Similarities
 ---
 
-# Matic Network
+# Matic/Polygon Network
 
-|  | xDai | Matic |
-| :--- | :--- | :--- |
-| 1: Chain Type | Stable Chain \(stable tx costs\) | Volatile Chain \(volatile tx costs based on market rate\) |
-| 2: Token Structure | Dual token | Single Token |
-| 3. Interoperability | xDai Bridge and OmniBridge | Plasma Bridge & PoS Bridge |
-| 4. Staking | Staking Minimums, withdrawals after staking epoch \(1 week\) | No staking minimums, 21 day waiting period for validator exits |
-| 5. Mainnet Launch | October 2018 | May 2020 |
-| 6. Block Time/TPS | 5 second blocks, 70 TPS with future scaling ability to meet demand | 2 second blocks, 7000 TPS reported |
-| 7. Total Value Locked | [Dynamic](https://defipulse.com/xdai) | [Dynamic](https://etherscan.io/address/0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf#tokentxns) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">xDai</th>
+      <th style="text-align:left">Matic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">1: Chain Type</td>
+      <td style="text-align:left">Stable Chain (stable tx costs)</td>
+      <td style="text-align:left">Volatile Chain (volatile tx costs based on market rate)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">2: Token Structure</td>
+      <td style="text-align:left">Dual token</td>
+      <td style="text-align:left">Single Token</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">3. Interoperability</td>
+      <td style="text-align:left">xDai Bridge and OmniBridge</td>
+      <td style="text-align:left">Plasma Bridge &amp; PoS Bridge</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">4. Staking</td>
+      <td style="text-align:left">Staking Minimums, withdrawals after staking epoch (1 week)</td>
+      <td style="text-align:left">No staking minimums, 21 day waiting period for validator exits</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">5. Mainnet Launch</td>
+      <td style="text-align:left">October 2018</td>
+      <td style="text-align:left">May 2020</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">6. Block Time/TPS</td>
+      <td style="text-align:left">5 second blocks, 90 TPS with future scaling ability to meet demand</td>
+      <td
+      style="text-align:left">2 second blocks, 7000 TPS reported</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7. Block Gas Limit</td>
+      <td style="text-align:left">17M*</td>
+      <td style="text-align:left">20M</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">8. Multisig for Bridge/Staking Contract Updates</td>
+      <td style="text-align:left">
+        <p><a href="../../../for-users/governance/#governance-board">7/13</a>*</p>
+        <p>2 addresses attributed to xDai</p>
+      </td>
+      <td style="text-align:left">
+        <p><a href="https://docs.matic.network/docs/faq/commit-chain-multisigs/">5/8</a> 
+        </p>
+        <p>4 addresses attributed to Matic</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">7. Total Value Locked</td>
+      <td style="text-align:left"><a href="https://defipulse.com/xdai">Dynamic</a>
+      </td>
+      <td style="text-align:left"><a href="https://etherscan.io/address/0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf#tokentxns">Dynamic</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-_\*See below for more details. Comparison revised October 2020_
+_\*Updates in progress to increase block gas limit and add additional signers to bridge multisig._
 
 ## Similarities & Differences
 
@@ -23,9 +80,9 @@ _\*See below for more details. Comparison revised October 2020_
 As we compare chains, we see that xDai and Matic share several things in common:
 
 1. Both are Ethereum-based Proof-of-Stake \(PoS\) sidechains designed to address Ethereum mainnet issues like slow transactions, high fees, and throughput concerns. 
-2. Both are completely compatible with Ethereum 1.0, meaning smart contracts, tokens, and other functionality can be ported over from Ethereum with very few changes, and run with more efficiency on a sidechain. 
+2. Both are compatible with Ethereum 1.0, meaning smart contracts, tokens, and other functionality can be ported over from Ethereum with very few changes, and run with more efficiency. 
 3. Both implement delegated staking.
-4. Both chains incorporate 2 bridges for different use cases.
+4. Both chains incorporate multiple bridges for different use cases.
 
 ### Differences
 
@@ -35,7 +92,7 @@ These different algorithms impact how each chain functions, but we will not go i
 
 Here we focus on key differences from a user perspective when interacting and or staking with Matic and xDai.
 
-1. **Stable chain vs volatile chain**: xDai is a stable chain, meaning transactions as well as fees are paid with a stable token \(xDai, which inherits the Dai peg to the US dollar\). On xDai, buyers and sellers know that transactions retain their value, and developers can plan for costs related to micro-transactions. On Matic, users can send stable currencies but fees are still paid with MATIC tokens, and tx costs are low but unpredictable.  
+1. **Stable chain vs volatile chain**: xDai is a stable chain. Transactions as well as fees are paid with a stable token \(xDai, which inherits the Dai peg to the US dollar\). On xDai, buyers and sellers know that transactions retain their value, and developers and B2B operators can plan for costs related to micro-transactions. On Matic, users can send stable currencies but fees are still paid with MATIC tokens, and tx costs are unpredictable.  
 2. **Single Token vs Dual Token structure.** The Matic token is used for both transactions and as a staking/delegation token. Token prices, supply, and market forces impact chain transaction prices as well as the underlying Proof-of-Stake consensus. The xDai chain separates these concerns, with a stable transactional coin and market-driven staking coin. The STAKE staking token is also a multi-chain staking token, and may be used for staking on other chains as well as governance purposes and other utilities. 
 3. **Asset transfers between chains:** Both chains are efficient when transferring assets from the Ethereum Mainnet, it takes a short amount of time to move ERC20 or ERC721 tokens from Ethereum to Matic or xDai.   In addition, both chains employ multiple bridges. Matic has recently introduced the[ PoS bridge](https://docs.matic.network/docs/develop/ethereum-matic/pos/getting-started) which provides faster transfers \(with lower security guarantees\) than the Plasma bridge, which requires a 7 day waiting period for withdrawals.   The Matic POS bridge takes 10-30 mins to process a burn transaction. xDai transactions are typically finalized in 2-3 minutes.    xDai includes the xDai bridge for xDai &lt;-&gt; Dai transfers as well as the OmniBridge, where any ERC20 asset can be bridged immediately by anyone. While Matic's bridge also allows for asset transfers, users must request a specific asset be added to the setup through a mapping request. Both chains also allow for arbitrary messages \(data calls\) to pass between chains.   The xDai bridge is more decentralized with additional bridge governors responsible for upgrades and bridge protection.     The xDai chain is currently researching an Optimistic OmniBridge model with plans to implement as an option for users in the near future. [More info is available here](https://ethresear.ch/t/optimistic-bridge-between-mainnet-and-a-pos-chain/7965).    
 4. **Staking**: Both chains offer validator and delegated staking opportunities as well as a UI for staking. However, the functionality and underlying processes differ. With Matic, validators and delegators can stake with just 1 Matic token. Validators take a % of any delegators commission, and the reward pool of 1.2 Billion Matic tokens is designed to support the network for 5 years. After that time, rewards will transition to tx fees. Validators are chosen based on stake amounts, and when they want to exit the protocol, [must wait for 21 days before withdrawing their funds](https://docs.matic.network/docs/validate/validator/responsibilities).  xDai validators must have 20,000 STAKE in order to declare node candidacy, and delegators must have 200 STAKE. This makes potential collusion much more costly for any malicious actors. Validators do not charge commission, but are guaranteed 30% of staking rewards from their node. Reward emissions are created continuously as rewards and are based on how much STAKE is staked into the protocol. Validators can submit a withdrawal claim during a staking epoch \(7 days\) and can withdraw their funds once the epoch is over.  Since misbehavior is accounted for during the staking epoch, there is no need to wait for 21 days as with Matic to ensure there was no malicious activity. 

@@ -115,7 +115,7 @@
       * [⚔️ xDai Weekly Recap - 08/05/2020](about-xdai/news-and-information/project-updates/2020-weekly-updates-archive/xdai-weekly-recap-05-08.md)
       * [⚔️ xDai Weekly Recap - 18/12/2020](about-xdai/news-and-information/project-updates/2020-weekly-updates-archive/xdai-weekly-recap-18-12-2020.md)
   * [Comparisons](about-xdai/news-and-information/comparisons/README.md)
-    * [Matic Network](about-xdai/news-and-information/comparisons/matic.md)
+    * [Matic/Polygon Network](about-xdai/news-and-information/comparisons/matic.md)
     * [POA Network](about-xdai/news-and-information/comparisons/poa.md)
     * [OMG Network](about-xdai/news-and-information/comparisons/omg-network.md)
     * [STAKE vs MKR](about-xdai/news-and-information/comparisons/stake-vs-mkr.md)
