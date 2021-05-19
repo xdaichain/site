@@ -4,12 +4,12 @@ description: Community signaling with Snapshot and Forum proposals
 
 # Governance
 
-Community members can create and vote on proposals related to changes, improvements or anything they would like to see with the xDai ecosystem. Users can also add proposals related to [xDai Ecosystem Funds](../../about-xdai/roadmap/ecosystem-fund-roadmap.md) usage.  Voting is done with STAKE, and STAKE balances are retrieved from both Ethereum and xDai. STAKE in the following protocols can be used for voting purposes.
+Community members can [create and vote on proposals ](https://forum.poa.network/c/xdai-chain/xdai-proposals/43)related to changes, improvements or anything they would like to see with the xDai ecosystem. Users can also add proposals related to [xDai Ecosystem Funds](../../about-xdai/roadmap/ecosystem-fund-roadmap.md) usage.  Voting is done with STAKE, and STAKE balances are retrieved from both Ethereum and xDai. STAKE in the following protocols can be used for voting purposes.
 
 * Stake held either on Ethereum or xDai
 * Stake staked in EasyStaking on Ethereum
 * Delegated stake \(From a multisig wallet - [more info](stake-weighted-voting/delegate-stake-voting-weight-with-gnosis-safe.md)\)
-* Stake on xDai in POSDAO \(validators and delegators\)
+* Stake on xDai protecting the chain in POSDAO \(validators and delegators\)
 
 ## **Standard Order of Events for Community Governance**
 
@@ -26,7 +26,7 @@ _Note: The process may be expedited when used by the xDai team to address infras
 This is a first step to introduce your proposal and provide reasoning for why you are creating it and what benefits it will bring to the ecosystem. The community can voice their opinions and you can add more information about your proposal during and/or after the snapshot vote to clarify. A forum post should be shared with the community to allow for community comment.  
   
 🔗 [Proposals Forum link](https://forum.poa.network/c/xdai-chain/xdai-proposals/43)  
-⌚ Community feedback & discussion: 2 week suggested duration \(can be expedited if required\)  
+⌚ Community feedback & discussion: 2 week suggested duration \(can be expedited when required\)  
 ☑ Proposals without any discussion/comments should not proceed to step 2. Try to engage the [telegram](https://t.me/xdaistable) and [discord](https://discord.gg/mPJ9zkq) communities for input and feedback.  
 
 
@@ -35,7 +35,7 @@ This is a first step to introduce your proposal and provide reasoning for why yo
 This can be a simple proposal to assess community sentiment. It should reference your proposal in step 1. If there is not a need for faster resolution, set for at least 1 week to get community engagement.  
   
 🔗 [xDai Snapshot Link](https://snapshot.org/#/xdaistake.eth)  
-⌚ Voting Period: 1 week suggested duration \(can be expedited if required\)  
+⌚ Voting Period: 1 week suggested duration \(can be expedited when required\)  
 ☑ Proposals that don't receive a yes vote, or are not engaged with will not be considered for the next step. Proposals that do see broad support will be considered for the governance board.  
  ⚖ [How to create and vote on a Snapshot Proposal with STAKE](stake-weighted-voting/)
 
