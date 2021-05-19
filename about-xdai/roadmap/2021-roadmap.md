@@ -4,7 +4,7 @@
 
 We continue to add items and adjust priorities as the year unfolds. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020, and the changelog for any adjustments and additions.
 
-_Last update: May 07, 2021 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: May 19, 2021 \|_ [_Changelog_](./#change-log)\_\_
 
 {% hint style="warning" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
@@ -51,9 +51,11 @@ Additional features include bi-directional support \(ability to move tokens mint
 ## **Berlin HF activation and client updates**
 
 🎯 **Target Date:** May 2021  
- ☑**Status Update:** **Scheduled for May 17, Block \#16101500**
+  **✅ Status Update:** **Completed May 17, Block \#16101500**
 
-OpenEthereum is now running `3.2.5` and it includes the latest xDai POSDAO features. xDai validators will upgrade to the latest build, with several also migrating to the Nethermind client to support client diversity on xDai.  We plan to activate the Berlin hard fork shortly after it goes live on the Ethereum mainnet.
+OpenEthereum is now running `3.2.5` and it includes the latest xDai POSDAO features. xDai validators will upgrade to the latest build, with several also migrating to the Nethermind client to support client diversity on xDai.  
+
+Following the Berlin HF, the gas limit per block was raised from 12.5M to 17M, resulting in 30%+ additional space on the xDai chain. Theoretical TPS for simple transactions at 160+ per second, in practice at 90 per second.
 
 ## **xDai Grant Program** 
 
@@ -64,8 +66,8 @@ Once the Ecosystem Fund unlock begins, we will finalize the program and begin ac
 
 ## **POSDAO Staking Application Improvements**
 
-🎯 **Target Date:** Q2  
-☑ **Status:** Ongoing, security audit in queue
+🎯 **Target Date:** Q2 2021  
+☑ **Status:** Ongoing, security audit underway
 
 [POSDAO v0.2.2](https://github.com/poanetwork/posdao-contracts/releases/tag/v0.2.2) was released on March 18, 2021 and is now in queue for an additional security audit. POSDAO support is now included with the latest [OpenEthereum release](https://github.com/openethereum/openethereum/releases/tag/v3.2.5).  Additional validator pool metadata was added to the interface.
 
@@ -88,14 +90,14 @@ Update: We are currently working on a [ZeroPool](https://zeropool.network/) inte
 
 ## EIP-1559 Test Implementation
 
-🎯 **Target Date**: Q2 2021  
+🎯 **Target Date**: Q2-Q3 2021  
 ☑ **Status:** Research and implementation details in progress
 
 We are planning to implement a test implementation of [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559)  to explore its dynamics and benefits for the xDai chain as well as the broader Ethereum ecosystem. With successful testing, we plan to activate on xDai. _More details available soon._
 
 ## Universal NFT Bridge
 
-🎯 **Target Date**: Q1-Q2 2021  
+🎯 **Target Date**: Q2_-_ Q3 2021  
 ☑ **Status:** In process
 
 An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers.
@@ -104,9 +106,11 @@ An NFT bridge to allow users easy portability between xDai and Ethereum for all 
 _Update: Bridge is operational, UI is in development._  [_More information_](https://docs.tokenbridge.net/eth-xdai-amb-bridge/nft-omnibridge-extension)\_\_
 {% endhint %}
 
+![UI Preview](../../.gitbook/assets/nft-bridge.png)
+
 ## L2 scalability and composability for token transfers on xDai
 
-🎯 **Target Date**: Q2 2021
+🎯 **Target Date**: Research ongoing, no definitive end date.
 
 We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [optimistic rollups](https://docs.ethhub.io/ethereum-roadmap/layer-2-scaling/optimistic_rollups/) deployed to xDai to implement a scalability solution on xDai. This will enable scaling of transfers \(up to 1000x\) for native tokens and synthetic tokens on top of xDai. 
 
@@ -135,6 +139,18 @@ There is currently  a reference implementation where sUSD can be transferred fro
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>19.05.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Update Berlin HF to complete</li>
+          <li>Adjust date for NFT Omnibridge to Q2-Q3, add UI prototype image</li>
+          <li>Adjust EIP1559 to Q2-Q3</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>07.05.2021</em>
       </td>

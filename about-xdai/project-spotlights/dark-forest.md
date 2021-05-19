@@ -4,6 +4,10 @@ description: zkSNARK space warfare
 
 # Dark Forest
 
+{% hint style="info" %}
+V0.6 Coming Soon!
+{% endhint %}
+
 [Dark Forest](https://zkga.me/) is an MMO space-conquest game where players discover and conquer planets in an infinite, procedurally-generated, cryptographically-specified universe! Featuring:
 
 * **Super-easy onboarding**: A customized burner wallet airdropped with a few cents in xDai lets users start immediately, no MetaMask or other wallet needed.
