@@ -80,6 +80,7 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
   * GraphQL: [https://blockscout.com/poa/xdai/graphiql](https://blockscout.com/poa/xdai/graphiql)
   * RPC: [https://blockscout.com/xdai/mainnet/api-docs](https://blockscout.com/xdai/mainnet/api-docs)
   * Eth RPC: [https://blockscout.com/xdai/mainnet/eth-rpc-api-docs](https://blockscout.com/xdai/mainnet/eth-rpc-api-docs)
+  * Gas Price Oracle: [https://blockscout.com/xdai/mainnet/api/v1/gas-price-oracle](https://blockscout.com/xdai/mainnet/api/v1/gas-price-oracle)
 
 {% hint style="info" %}
 If using `eth_getLogs`to pull logs frequently WebSockets are recommended to push new logs as available.

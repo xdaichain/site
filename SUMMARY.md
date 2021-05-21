@@ -284,6 +284,7 @@
   * [Meta Transactions](for-developers/developer-resources/meta-transactions.md)
   * [ERC20 Test Token Faucet](for-developers/developer-resources/erc20-test-token-faucet.md)
   * [Wrapped xDai \(wxDai\)](for-developers/developer-resources/wrapped-xdai.md)
+  * [Gas Price Oracle](for-developers/developer-resources/gas-price-oracle.md)
 * [Install xDai Client - Run a Non-Validator Node](for-developers/install-xdai-client/README.md)
   * [Multi-Client Support](for-developers/install-xdai-client/multi-client-support.md)
   * [OpenEthereum \(formerly Parity\)](for-developers/install-xdai-client/parity.md)
