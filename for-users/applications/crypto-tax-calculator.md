@@ -4,7 +4,7 @@ description: Supports xDai addresses including Honeyswap DEX and manual imports
 
 # Crypto Tax Calculator
 
-[Crypto Tax Calculator](https://cryptotaxcalculator.io/) directly supports many exchanges across the ecosystem including the xDai Network. It is easy to add and customize transactions by address to prepare taxes for many different countries.  For detailed instructions on usage, please see the [Crypto Tax Calculator guides](https://cryptotaxcalculator.io/blog).
+[Crypto Tax Calculator](https://cryptotaxcalculator.io/) directly supports many exchanges across the ecosystem including the xDai Network. It is easy to add and customize transactions by address to prepare taxes for many different countries.  For detailed instructions on usage including Bridge and Honeyswap, please see the [Crypto Tax Calculator guide.](https://cryptotaxcalculator.io/exchanges/xdai-tax/)
 
 ![](../../.gitbook/assets/cryptotax1.png)
 

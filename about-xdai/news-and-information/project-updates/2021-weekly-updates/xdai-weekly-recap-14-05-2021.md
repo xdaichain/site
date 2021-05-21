@@ -1,5 +1,5 @@
 ---
-description: 01 May - 08 May 2021
+description: 09 May - 14 May 2021
 ---
 
 # ⚔️ xDai Weekly Recap - 14/05/2021
