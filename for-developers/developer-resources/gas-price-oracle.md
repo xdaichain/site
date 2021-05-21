@@ -13,7 +13,7 @@ The BlockScout gas price api endpoint shows a recommended gas price for average,
 ### Example response
 
 ```text
-{"average":1.0,"fast":7.5,"slow":1.0}
+{"average":3.08,"fast":30.0,"slow":1.0}
 ```
 
 | Response | Denomination | Response Threshold  \(Min gas price per block from previous 200 blocks\) |
@@ -21,4 +21,6 @@ The BlockScout gas price api endpoint shows a recommended gas price for average,
 | average | gwei | 60th percentile of min gas price txs |
 | fast | gwei | 90th percentile of min gas price txs \(top 10%\) |
 | slow | gwei | 35th percentile of min gas price txs |
+
+![Gas price display on BlockScout](../../.gitbook/assets/bs-1%20%282%29.png)
 
