@@ -20,5 +20,5 @@ The BlockScout gas price api endpoint shows a recommended gas price for average,
 | :--- | :--- | :--- |
 | average | gwei | 60th percentile of min gas price txs |
 | fast | gwei | 90th percentile of min gas price txs \(top 10%\) |
-| slow | gwei | 35th percentile of min gas price. |
+| slow | gwei | 35th percentile of min gas price txs |
 
