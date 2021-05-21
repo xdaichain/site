@@ -93,7 +93,9 @@ The number of the current staking epoch. The staking epoch increments every 1209
 Fees are collected from users of the xDai chain and divided amongst validator pools. Fees are charged for bridge events and transactions.
 
 * **Bridge fees**: A transaction percentage fee may be charged whenever tokens are locked or unlocked in a bridge contract. Entrance and exit fees may be collected for both Dai &lt;-&gt; xDai transfers \(collected in xDai\) as well as STAKE \(mainnet\) &lt;-&gt; STAKE \(xDai chain\) transfers \(collected in STAKE\). Assessed bridge fees are split equally between validator pools active at the end of staking epoch. Fee percentages are determined through the [Bridge Governing Process](../../../about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md#what-is-the-bridge-governance-board).
-* **Transaction Fees \(Gas fees\)**: Transaction fees are assessed for any xDai transactions such as sending xDai to another wallet or interacting with a smart contract. These fees are sent to the validator who seals the block in which the transactions take place \(transaction fees are not split among pool participants, they are only received by the validator\). Transaction fees on the xDai chain are extremely low. As an example, during EthDenver over 38,000.00 of transactions were cumulatively charged less than .20 in transaction fees.
+* **Transaction Fees \(Gas fees\)**: Transaction fees are assessed for any xDai transactions such as sending xDai to another wallet or interacting with a smart contract. These fees are currently sent to the validator who seals the block in which the transactions take place \(transaction fees are not split among pool participants, they are only received by the validator\).  Currently, 
+
+  transaction fees on the xDai chain are extremely low. As chain usage grows, these fees may be redirected to support additional aspects of the protocol. 
 
 ### Hard Cap
 
