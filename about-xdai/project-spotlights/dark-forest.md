@@ -5,8 +5,10 @@ description: zkSNARK space warfare
 # Dark Forest
 
 {% hint style="info" %}
-V0.6 Coming Soon!
+V0.6 The Seekers Journey is now available! Learn more about all of the new features and how you can start exploring the universe with DF & xDai!  [https://blog.zkga.me/announcing-v6](https://blog.zkga.me/announcing-v6)
 {% endhint %}
+
+![](../../.gitbook/assets/image%20%288%29.png)
 
 [Dark Forest](https://zkga.me/) is an MMO space-conquest game where players discover and conquer planets in an infinite, procedurally-generated, cryptographically-specified universe! Featuring:
 
