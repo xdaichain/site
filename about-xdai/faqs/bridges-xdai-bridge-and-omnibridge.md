@@ -83,6 +83,12 @@ Example transaction executing a transfer: [https://blockscout.com/xdai/mainnet/t
 
 No, anyone can pay the fees to process the claim transaction and receive DAI, but the DAI will always be sent to the account set as the receiver in the initial originating request. This functionality opens the door for projects or other entities to pay for gas fees/subsidize the claims on Ethereum.
 
+#### Claim Amnesty
+
+A claim amnesty was initiated by the xDai team on May 21, 2021 to assist users whose DAI had gone unclaimed on the mainnet. Over 160K in DAI was returned to 461 Ethereum addresses. The xDai team paid the fees for these transfers totaling 3.58 ETH - the equivalent of $8,985 USD. The average costs was $19.50 per claim transaction. Amnesty was also processed for [OmniBridge users](bridges-xdai-bridge-and-omnibridge.md#claim-amnesty-1). The amnesty was provided as a one-time service to the community with no immediate plans for future amnesty.
+
+Address processing the amnesty claims: [https://etherscan.io/address/0xbf74fdd93597f8e4fafbe7fa777e5d14195d7905](https://etherscan.io/address/0xbf74fdd93597f8e4fafbe7fa777e5d14195d7905)
+
 ### I didn't claim my Dai on Ethereum yet \(completed 1st transaction on xDai but not the claim transaction\). Is there a time limit to claim my Dai?
 
 No. The amount will remain locked in the contract until you decide to claim it. If gas prices are high, you may want to wait to execute the claim transaction when prices are more in your favor. For more on dealing with high gas fees for claims, [see this troubleshooting question.](../../for-users/bridges/converting-xdai-via-bridge/troubleshooting.md#gas-fees-for-an-exit-claim-are-very-high-how-can-i-reduce-them)
@@ -206,6 +212,12 @@ With the example in the question above, the MetaMask estimate tx fee was 0.109 E
 ### I completed the first transaction but decided I don't want to complete the 2nd \(claim\). Can I revert?
 
 Unfortunately not, once you have started the transfer process it is non-reversible. The only way to complete is to claim the token on Ethereum. If too expensive, you can wait until gas fees come down. There is not a time limit to claim the transaction.
+
+#### Claim Amnesty
+
+A claim amnesty was initiated by the xDai team on May 22, 2021 to assist users whose tokens had gone unclaimed on the mainnet. Over 200K worth of tokens were returned to 570 Ethereum addresses. The xDai team paid the fees for these transfers totaling 6.06 ETH - the equivalent of $15,200 USD. The average costs was $26.66 per claim transaction. Amnesty was also processed for [xDai Bridge ](bridges-xdai-bridge-and-omnibridge.md#claim-amnesty)users. The amnesty was provided as a one-time service to the community with no immediate plans for future amnesty.
+
+Address that processed the claims: [https://etherscan.io/address/0xbf74fdd93597f8e4fafbe7fa777e5d14195d7905](https://etherscan.io/address/0xbf74fdd93597f8e4fafbe7fa777e5d14195d7905)
 
 ### Can I claim transactions manually?
 
