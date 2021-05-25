@@ -7,7 +7,9 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
- ⏹ Gas Limit/Block increased to 17M, resulting in 30%+ increase in TPS capacity.
+🚰 The new OmniBridge auto-faucet sends $0.005 xDai when bridging tokens from Ethereum or BSC. This provides instant transaction capabilities for new users! [Learn More](for-users/get-xdai-tokens/xdai-faucet.md#omnibridge-faucet)
+
+⏹ Gas Limit/Block increased to 17M, resulting in 30%+ increase in TPS capacity.
 
 🎉 Berlin HardFork successfully activated **May 17,** Block **16101500** on xDai. If running a node, please upgrade to [OpenEthereum](for-developers/install-xdai-client/parity.md) v3.2.5 or [Nethermind v1.10.71](for-developers/install-xdai-client/nethermind.md).
 {% endhint %}
