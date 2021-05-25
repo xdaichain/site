@@ -22,7 +22,7 @@ Faucet is now live with SMS phone verification through Twilio\* and multiple hCa
 If the faucet is empty there is no time table for a refill. You can use the [OmniBridge faucet ](xdai-faucet.md#blockscout-faucet)when bridging, try the [3rd party faucets](xdai-faucet.md#3rd-party-faucets) below, or [obtain xDai in other ways](../getting-started-with-xdai.md#2-get-a-little-xdai).
 {% endhint %}
 
-## Instructions
+### Instructions
 
 1\) Go to [https://blockscout.com/xdai/mainnet/faucet](https://blockscout.com/xdai/mainnet/faucet)
 
