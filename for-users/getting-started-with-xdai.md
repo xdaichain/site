@@ -15,11 +15,15 @@ To get started on xDai, you will need to setup your externally owned address \(w
 
 ## 2\) Get a Little xDai  
 
-* Use the [xDai Faucet](https://blockscout.com/xdai/mainnet/faucet) to get $0.10 xDai.
+* Use the [xDai Faucet](https://blockscout.com/xdai/mainnet/faucet)
 * Convert Dai on Ethereum to xDai with the [xDai bridge](bridges/converting-xdai-via-bridge/)
 * [Purchase xDai directly from AscendEX \(BitMax\)](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai)
 * With Fiat using the [Ramp Network](get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md) or [Mt Pelerin](get-xdai-tokens/buying-xdai-with-fiat/mt-pelerin.md)
 * Ask on [xDai Discord](https://discord.gg/mPJ9zkq) or [Telegram](https://t.me/xdaistable) ... friends may be willing to help with small amounts 😊 
+
+{% hint style="info" %}
+A new OmniBridge faucet script provides users with a small amount \(.005\) of xDai when bridging tokens from Ethereum or BSC. This is enough to start transacting on the chain, and more can be obtained through swapping bridged tokens for xDai[ on DEXs](../about-xdai/project-spotlights/#defi). Only empty wallets receive xDai.
+{% endhint %}
 
 ## 3\) BlockScout is your Home Base
 

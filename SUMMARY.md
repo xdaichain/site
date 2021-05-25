@@ -145,7 +145,7 @@
 
 * [Getting Started with xDai](for-users/getting-started-with-xdai.md)
 * [xDai Token](for-users/get-xdai-tokens/README.md)
-  * [xDai Faucet](for-users/get-xdai-tokens/xdai-faucet.md)
+  * [xDai Faucets](for-users/get-xdai-tokens/xdai-faucet.md)
   * [Buying xDai with Fiat](for-users/get-xdai-tokens/buying-xdai-with-fiat/README.md)
     * [Ramp Network](for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network.md)
     * [Mt Pelerin](for-users/get-xdai-tokens/buying-xdai-with-fiat/mt-pelerin.md)

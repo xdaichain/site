@@ -1,20 +1,26 @@
 ---
-description: >-
-  Faucet provides .10 xDai, enough for thousands of transactions on the xDai
-  chain!
+description: Different ways to obtain small amounts of xDai
 ---
 
-# xDai Faucet
+# xDai Faucets
 
-{% hint style="success" %}
-Faucet is now live with SMS phone verification through Twilio\* and multiple hCaptcha prompts to prevent abuse.
+## OmniBridge Faucet Script
 
-**Note: Virtual numbers are not accepted for faucet transactions.**
+The OmniBridge faucet script now automatically deposits a small amount of xDai \($0.005\) to users bridging tokens from Ethereum or BSC. This is enough to start making transactions. If more is needed, bridged tokens can be [swapped on a DEX](../../about-xdai/project-spotlights/#defi) for additional xDai. Only empty wallets \(non-contract wallets with a 0 xDai balance\) receive xDai when bridging. 
+
+Example transaction: [https://blockscout.com/poa/xdai/tx/0xb2620fbd45aa745b3df74058eae9a6fff21242a9ff9645cf55dd2f7a9a47f3c9](https://blockscout.com/poa/xdai/tx/0xb2620fbd45aa745b3df74058eae9a6fff21242a9ff9645cf55dd2f7a9a47f3c9)
+
+Change raw input field from HEX to UTF-8 to view the corresponding note. 
+
+![](../../.gitbook/assets/omni-capture.png)
+
+## BlockScout Faucet
+
+Faucet is now live with SMS phone verification through Twilio\* and multiple hCaptcha prompts to prevent abuse. Virtual numbers are not accepted for faucet transactions.
+
+{% hint style="info" %}
+If the faucet is empty there is no time table for a refill. You can use the [OmniBridge faucet ](xdai-faucet.md#blockscout-faucet)when bridging, try the [3rd party faucets](xdai-faucet.md#3rd-party-faucets) below, or [obtain xDai in other ways](../getting-started-with-xdai.md#2-get-a-little-xdai).
 {% endhint %}
-
-A small amount of xDai is needed to use the chain and process transactions. Thousands of simple transactions can be completed with $0.10 xDai, and it doesn't make sense to bridge this amount. The [xDai Faucet on Blockscout](https://blockscout.com/xdai/mainnet/faucet) sends $0.10 xDai to your account with ease! It can be used once every 24 hours.
-
-_\*Raw phone numbers are not stored in the database, only used to prevent faucet abuse._
 
 ## Instructions
 
@@ -46,4 +52,11 @@ You will see a success message. Check your balance on the xDai chain to see that
 {% hint style="info" %}
 The xDai Faucet can be used by an address once every 24 hours to top-off your xDai balance.
 {% endhint %}
+
+## 3rd Party Faucets
+
+A number of additional xDai faucets have been created by projects to assist with xDai onboarding.
+
+* [BAO Community xDai Faucet](https://xdai-app.herokuapp.com/faucet)
+* [Minerva Wallet Faucet ](https://minerva.digital/)\(scroll down page to see, must have MIVA to use\)
 
