@@ -40,7 +40,7 @@ See the [Nethermind Docs](https://docs.nethermind.io/nethermind/) for additional
 
 Login to your node to begin.
 
-For basic instructions, see the github repo at [https://github.com/xdaichain/validator-node-dockerized/tree/nethermind\#readme](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme
+**For basic docker instructions**, see the github repo at [https://github.com/xdaichain/validator-node-dockerized/tree/nethermind\#readme](https://github.com/xdaichain/validator-node-dockerized/tree/nethermind#readme
 )
 
 ### 1\) Install Docker Engine & Docker Compose
