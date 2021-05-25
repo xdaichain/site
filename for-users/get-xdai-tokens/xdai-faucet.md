@@ -6,7 +6,7 @@ description: Different ways to obtain small amounts of xDai
 
 ## OmniBridge Faucet
 
-The OmniBridge faucet  now automatically deposits a small amount of xDai \($0.005\) to users bridging tokens from Ethereum or BSC. This is enough to start making transactions. If more is needed, bridged tokens can be [swapped on a DEX](../../about-xdai/project-spotlights/#defi) for additional xDai. Only empty wallets \(non-contract wallets with a 0 xDai balance\) receive xDai when bridging. 
+The OmniBridge faucet now automatically deposits a small amount of xDai \($0.005\) to users bridging tokens from Ethereum or BSC. This is enough to start making transactions. If more is needed, bridged tokens can be [swapped on a DEX](../../about-xdai/project-spotlights/#defi) for additional xDai. Only empty wallets \(non-contract wallets with a 0 xDai balance\) receive xDai when bridging. 
 
 Example transaction: [https://blockscout.com/poa/xdai/tx/0xb2620fbd45aa745b3df74058eae9a6fff21242a9ff9645cf55dd2f7a9a47f3c9](https://blockscout.com/poa/xdai/tx/0xb2620fbd45aa745b3df74058eae9a6fff21242a9ff9645cf55dd2f7a9a47f3c9)
 
