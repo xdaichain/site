@@ -52,6 +52,7 @@
     * [EthWaterloo II](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethwaterloo.md)
     * [EthCC Afterparty](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/ethcc-afterparty.md)
     * [Pony Purse \(Conference & Event Wallet\)](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/pony-purse-conference-and-event-wallet.md)
+* [Untitled](about-xdai/untitled.md)
 * [News & Information](about-xdai/news-and-information/README.md)
   * [Updates, Integrations and Weekly News](about-xdai/news-and-information/project-updates/README.md)
     * [2021 Weekly Updates](about-xdai/news-and-information/project-updates/2021-weekly-updates/README.md)
