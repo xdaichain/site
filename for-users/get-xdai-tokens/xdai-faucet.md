@@ -60,3 +60,5 @@ A number of additional xDai faucets have been created by projects to assist with
 * [BAO Community xDai Faucet](https://xdai-app.herokuapp.com/faucet)
 * [Minerva Wallet Faucet ](https://minerva.digital/)\(scroll down page to see, must have MIVA to use\)
 
+If you've gotten this far and still haven't received any xDai, try the [xDai Discord](https://discord.gg/mPJ9zkq) \#faucet-requests channel!
+
