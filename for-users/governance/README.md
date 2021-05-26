@@ -69,6 +69,10 @@ All actions are managed through Gnosis Safe accounts, one on the Ethereum mainne
 
 ### Current Governing Board
 
+{% hint style="info" %}
+Several additional candidates are in review.
+{% endhint %}
+
 Requires 7/13 signatures to pass a proposal. Board is organized in a private telegram channel for discussion purposes. Results of any vote will be broadcast to the community.
 
 * Gnosis
