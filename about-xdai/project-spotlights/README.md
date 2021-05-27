@@ -46,24 +46,26 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Honeyswap](https://honeyswap.org/): xDai Dex \(Uniswap fork\)
 * [Perpetual Protocol](https://perp.fi/):   Democratizing Futures and other derivatives. [Learn more about why they chose xDai](https://medium.com/@perpetualprotocol/why-we-chose-xdai-chain-to-scale-perpetual-protocol-5b6cfd6cf5aa).
 * [SushiSwap](https://exchange.sushi.com/#/swap): Cross-chain Dex
-* [BaoFinance](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO.
+* [BaoFinance](https://xdai.bao.finance/): Stake Sushiswap and Baoswap LP tokens to earn BAO
 * [Component Finance](https://xdai.component.finance/): Stable Coin Swap
-* [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities.
-* [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface.
+* [Swapr](https://swapr.eth.link/#/swap): Governance enabled AMM with multi-platform capabilities
+* [Xion Finance](https://xion.finance/): Earn Interest and trading fees with a one-click interface
 * [Dmex](https://xdai.dmex.app/f): Decentralized Derivatives Exchange
-* [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker.
+* [Unicrypt](https://unicrypt.network/): Yield Farming, Presale Platform and Liquidity Token Locker
 * [DeFi Wizard](https://defiwizard.xyz/): DeFi Smart Contract Building Platform
-* [pNetwork](https://p.network/network): Cross-chain pBTC.
+* [pNetwork](https://p.network/network): Cross-chain pBTC
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 * [Hedgey Finance](https://www.hedgey.finance/): Decentralized Financial Derivatives Protocol
 * [Agave](https://agave.finance/): DeFi Lending Protocol \(coming soon\)
-* [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity.
+* [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity
 * [DeBank](https://debank.com/): DeFi Dashboard
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
-* [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app.
-* Coin-focused Projects
+* [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app
+* [Clover Finance](https://clover.finance/): Multi-chain indexing, compatibility and payments.
+* **Coin & Token Focused Projects**
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
   * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
+  * [MIVA Supertoken](https://docs.minerva.digital/miva-and-xdai-chain/miva-token): Streamable utility token for Minerva Wallet Users
 
 ### **NFT-based projects**
 
@@ -149,7 +151,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### **Games**
 
-* [Darkforest](https://zkga.me/): zkSNARK space warfare game.
+* [Darkforest](https://zkga.me/): zkSNARK space warfare game .
 * [Galleass](galleass.io.md): Decentralized resource management game.
 * [Slugroad](https://snailking.github.io/slugroad/game_xdai): Simple take the wheel game.
 * [GUStakes](https://gustakes.gg/): Stake xDai on Gods Unchained matchups.

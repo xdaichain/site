@@ -11,6 +11,7 @@ For STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum.
 * [imToken](imtoken.md)
 * [Mt Pelerin](mt-pelerin.md)
 * [MetaMask](metamask/)
+* [Minerva Wallet](https://minerva.digital/)
 * [MyCrypto](mycrypto.md)
 * [Nifty Wallet](nifty-wallet.md)
 * [Poketto Cash](poketto.md)
