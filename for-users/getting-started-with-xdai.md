@@ -22,7 +22,7 @@ To get started on xDai, you will need to setup your externally owned address \(w
 * Ask on [xDai Discord](https://discord.gg/mPJ9zkq) or [Telegram](https://t.me/xdaistable) ... friends may be willing to help with small amounts 😊 
 
 {% hint style="info" %}
-A new OmniBridge faucet script provides users with a small amount \(.005\) of xDai when bridging tokens from Ethereum or BSC. This is enough to start transacting on the chain, and more can be obtained through swapping bridged tokens for xDai[ on DEXs](../about-xdai/project-spotlights/#defi). Only empty wallets receive xDai.
+A new [OmniBridge faucet ](get-xdai-tokens/xdai-faucet.md#omnibridge-faucet) provides users with a small amount \(0.01\) of xDai when bridging tokens from Ethereum or BSC. This is enough to start transacting on the chain, and more can be obtained through swapping bridged tokens for xDai[ on DEXs](../about-xdai/project-spotlights/#defi). Only empty wallets receive xDai.
 {% endhint %}
 
 ## 3\) BlockScout is your Home Base
