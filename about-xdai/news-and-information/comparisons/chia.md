@@ -1,6 +1,6 @@
 ---
 description: >-
-  Chia and xDai are both energy-efficient consensus, but SSD burnout with Chia
+  Chia and xDai are both energy-efficient consensus, but SSD overusage with Chia
   is creating unintended environmental consequences
 ---
 
