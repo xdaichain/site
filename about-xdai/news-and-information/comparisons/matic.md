@@ -86,7 +86,7 @@ As we compare chains, we see that xDai and Matic share several things in common:
 
 ### Differences
 
-Under the hood, the PoS consensus process between the two chains is quite different. Matic uses a plasma-based framework with Tendermint BFT consensus. xDai uses POSDAO with Authority Round consensus.
+Under the hood, the PoS consensus process between the two chains is quite different. Matic uses a plasma-based framework with Tendermint BFT consensus. xDai uses POSDAO with Authority Round consensus. xDai protocol follows the Ethereum patchset and is supported by 2 clients: Nethermind and OpenEthereum.
 
 These different algorithms impact how each chain functions, but we will not go into the details here. Please see the links at the end of the article for more on the potential benefits and drawbacks of each.
 
@@ -122,7 +122,7 @@ Here we focus on key differences from a user perspective when interacting and or
     </tr>
     <tr>
       <td style="text-align:left">Compatibility with Ethereum</td>
-      <td style="text-align:left">Following all Eth Patch sets - Berlin HF complete</td>
+      <td style="text-align:left">Following all Eth patchsets - Berlin HF complete</td>
       <td style="text-align:left">EVM compatible.</td>
     </tr>
     <tr>
@@ -187,14 +187,6 @@ Here we focus on key differences from a user perspective when interacting and or
       <td style="text-align:left">Staking UI</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Client Support</td>
-      <td style="text-align:left"><b>2 Client implementations</b> with
-        <br />OpenEthereum &amp; Nethermind support xDai and POSDAO consensus</td>
-      <td
-      style="text-align:left">Single client built on top of <code>geth</code> using <code>bor</code> consensus
-        mechanism.</td>
     </tr>
     <tr>
       <td style="text-align:left">Scalability</td>

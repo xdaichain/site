@@ -119,6 +119,7 @@
     * [Polygon/Matic Network](about-xdai/news-and-information/comparisons/matic.md)
     * [POA Network](about-xdai/news-and-information/comparisons/poa.md)
     * [OMG Network](about-xdai/news-and-information/comparisons/omg-network.md)
+    * [Chia](about-xdai/news-and-information/comparisons/chia.md)
     * [STAKE vs MKR](about-xdai/news-and-information/comparisons/stake-vs-mkr.md)
     * [EasyStaking v POSDAO](about-xdai/news-and-information/comparisons/easystaking-v-posdao.md)
   * [Crypto Influencers on xDai](about-xdai/news-and-information/crypto-influencers-on-xdai.md)
