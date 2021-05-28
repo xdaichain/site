@@ -37,7 +37,7 @@ If the faucet is empty there is no time table for a refill. You can use the [Omn
 
 1. Enter the 6-digit verification code.
 2. Complete the hCaptcha.
-3. Click **Request 0.1 xDai**
+3. Click **Request 0.01 xDai**
 
 ![](../../.gitbook/assets/f2.png)
 
