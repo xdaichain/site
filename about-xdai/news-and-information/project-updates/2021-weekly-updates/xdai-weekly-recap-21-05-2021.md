@@ -23,7 +23,7 @@ Following the HF, the gas limit per block was increased from 12.5M to 17M to acc
 ## 👷♀ POSDAO Updates
 
 {% hint style="success" %}
-The protocol is currently in Epoch **56.**  
+The protocol is currently in Epoch **57.**  
   
 There are **16** validator pools with **249** delegators staking a total of **568,553** STAKE.  
   
