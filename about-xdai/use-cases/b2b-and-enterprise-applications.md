@@ -6,7 +6,7 @@ _The following assessment materials were compiled by an xDai community member. T
 
 by [Alexander C](https://github.com/ice09)
 
-The xDai Stable Chain is an Ethereum sidechain with a native stable coin and a bridge to the Ethereum Mainnet for the native currency xDai, which represents DAI on the Ethereum Mainnet.
+The xDai Stable Chain is an EVM chain with a native stable coin and a bridge to the Ethereum Mainnet for the native currency xDai, which represents DAI on the Ethereum Mainnet.
 
 A native stable coin is a distinctive feature for financial and other Enterprise use cases which could profit from the decentralized aspects of Blockchains, but cannot accept the usage of a highly volatile native crypto currencies.
 

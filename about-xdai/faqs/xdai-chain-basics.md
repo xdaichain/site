@@ -2,14 +2,14 @@
 
 ## Who is xDai?
 
-* The [xDai development team](https://www.xdaichain.com/media/xdai-dev-team) is made up of an experienced group of long-time blockchain & sidechain developers. 
+* The [xDai development team](https://www.xdaichain.com/media/xdai-dev-team) is made up of an experienced group of long-time blockchain & EVM chains developers. 
 * Collaborators include [initial validators ](../../for-validators/about-xdai-validators/original-xdai-validators/)like MakerDAO, Gnosis, and SyncNode & [projects that support the ecosystem](../../for-developers/developer-resources/#dapp-management-and-developer-tools) like theGraph, Tenderly and AnyBlock Analytics. 
 * Users are worldwide, from crypto veterans to first-time users.
 
 ## What is xDai?
 
-* xDai is the name of the stablechain **and** the stable native coin that lives on the chain. 
-* The xDai chain is an Ethereum-based stable sidechain implementing a dPOS consensus called POSDAO. 
+* xDai is the name of the EVM chain **and** the stable native coin that lives on the chain. 
+* The xDai chain is an Ethereum-based stable EVM chain implementing a dPOS consensus called POSDAO. 
 * The xDai coin is used for stable transactions and low, stable fees. It can also be used to back on-chain tokens \(use cases for this include [Event Currencies](../use-cases/cryptocurrency-for-events-and-conferences/) and [Community Currencies](../use-cases/community-currencies.md)\)
 
 ## When is xDai?
@@ -22,7 +22,7 @@
 
 ## Where is xDai?
 
-xDai is a stablechain located within the vast Ethereum ecosystem. xDai users are located around the world, from small gatherings, to 1000+ participant conferences, to networks of villages in Kenya.
+xDai is an EVM chain located within the vast Ethereum ecosystem. xDai users are located around the world, from small gatherings, to 1000+ participant conferences, to networks of villages in Kenya.
 
 **Connecting to xDai:**
 

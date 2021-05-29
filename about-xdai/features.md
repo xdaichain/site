@@ -1,12 +1,12 @@
 ---
-description: The following features make xDai a unique and secure sidechain solution.
+description: The following features make xDai a unique and secure scalability solution.
 ---
 
 # Features
 
 ## xDai Native Stable Coin
 
-A stable coin means peace of mind. Predictable currencies allow buyers and sellers to exchange value without the risks of volatility. In the xDai Stable Chain implementation, transactions are conducted using xDai, a stable coin with 1:1 value ratio to Dai. Because transactions occur on a bridged sidechain, they are extremely fast and inexpensive. In addition, transactions and fees are paid with a single coin.
+A stable coin means peace of mind. Predictable currencies allow buyers and sellers to exchange value without the risks of volatility. In the xDai Stable Chain implementation, transactions are conducted using xDai, a stable coin with 1:1 value ratio to Dai. Because transactions occur on a bridged chain, they are extremely fast and inexpensive. In addition, transactions and fees are paid with a single coin.
 
 ## STAKE Multi-Chain Staking & GovernanceToken
 
@@ -14,7 +14,7 @@ The STAKE token on xDai is used by validators and delegators to secure the xDai 
 
 STAKE also serves in a governance capacity. Community members can [create and vote on proposals](../for-users/governance/stake-weighted-voting/) to change or update the protocol. These changes are then taken into consideration by the xDai validators and team.
 
-Additional sidechains will also have the opportunity to use STAKE to secure their chains, making this the first multi-chain enabled staking token.
+Additional chains will also have the opportunity to use STAKE to secure their chains, making this the first multi-chain enabled staking token.
 
 ## Neutral Network
 
@@ -38,11 +38,11 @@ The xDai Stable Chain uses a delegated Proof of Stake \(DPOS\) consensus mechani
 
 ## Bridges to Ethereum
 
-Two bridges connect the xDai Stable Chain to the Ethereum mainnet, supporting seamless two-way asset transfer between chains. Tokens are acquired on the mainnet, then bridged to the xDai Stable Chain sidechain using either the Dai-xDai bridge for transactional tokens, or the OmniBridge for any cross-chain transfers. Once a user is finished transacting or staking, tokens can be bridged back to the mainnet with ease.
+Two bridges connect the xDai Chain to the Ethereum mainnet, supporting seamless two-way asset transfer between chains. Tokens are acquired on the mainnet, then bridged to the xDai Chain using either the Dai-xDai bridge for transactional tokens, or the OmniBridge for any cross-chain transfers. Once a user is finished transacting or staking, tokens can be bridged back to the mainnet with ease.
 
 ### L2 Chain Bridges
 
-Additional bridges exist to move tokens between xDai and other L2 sidechains, including moving assets between  [Binance Smart Chain](https://bsc-to-xdai-omnibridge.web.app/) and Polygon \(using a [Connext state channel bridge](https://xdai-matic-connext.vercel.app/)\).
+Additional bridges exist to move tokens between xDai and other EVM chains, including moving assets between  [Binance Smart Chain](https://bsc-to-xdai-omnibridge.web.app/) and Polygon \(using a [Connext state channel bridge](https://xdai-matic-connext.vercel.app/)\).
 
 ### Bridged Tokens
 

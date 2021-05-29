@@ -28,15 +28,15 @@ In either case, the STAKE token would continue to provide value as a source of t
 _1\)_ [_https://blog.ethereum.org/2021/01/20/the-state-of-eth2-january-2021/_](https://blog.ethereum.org/2021/01/20/the-state-of-eth2-january-2021/)  
 _2\)_ [_https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698_](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)\_\_
 
-### **2\) L2 EVM Chain Consortium** 
+### **2\)  EVM Chain Consortium** 
 
-We cannot predict when Ethereum 2.0 will be fully operational or what exact form it will take. In the meantime, L2 side chains including xDai, [Polygon](https://polygon.technology/), [BSC](https://www.binance.org/en/smartChain) and others continue to gain traction, users, and projects. As the available tooling expands and becomes easier to use, many users may decide to stay within the chain architecture they are currently using. 
+We cannot predict when Ethereum 2.0 will be fully operational or what exact form it will take. In the meantime, EVM chains including xDai, [Polygon](https://polygon.technology/), [BSC](https://www.binance.org/en/smartChain) and others continue to gain traction, users, and projects. As the available tooling expands and becomes easier to use, many users may decide to stay within the chain architecture they are currently using. 
 
-The ability for L2 EVM chains to provide a complete user experience with all the tools users expect, faster transactions and lower fees make a case for this ecosystem to continue to grow. For example, roll-ups in the near term will likely be considerably more expensive than using xDai.
+The ability for EVM chains to provide a complete user experience with all the tools users expect, faster transactions and lower fees make a case for this ecosystem to continue to grow. For example, roll-ups in the near term will likely be considerably more expensive than using xDai.
 
 Each chain has its own set of advantages and challenges, and interoperability mechanisms \(cross-chain bridges, state channels etc\) allow users and projects to move seamlessly across these different chains based on their desired usage and security tolerance. 
 
-This can continue when Eth 2.0 is realized;  L2 chains can maintain their own consensus processes and implementations while communicating with one another as well as the Eth 1.0 shard and other L1 chains. While base-layer security remains the responsibility of each chain - in xDai this means POSDAO with STAKE - users can move funds to any chain they see fit, depending on the tooling and available features they want \(ie users and projects may continue to leverage the xDai stable chain for predictable payments, streaming payments, and native applications\).
+This can continue when Eth 2.0 is realized;  EVM chains can maintain their own consensus processes and implementations while communicating with one another as well as the Eth 1.0 shard and other L1 chains. While base-layer security remains the responsibility of each chain - in xDai this means POSDAO with STAKE - users can move funds to any chain they see fit, depending on the tooling and available features they want \(ie users and projects may continue to leverage the xDai stable chain for predictable payments, streaming payments, and native applications\).
 
 ### **3\) Eth 1.0 Legacy Chain**
 
