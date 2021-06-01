@@ -1,4 +1,4 @@
-# Ledger & Trezor
+# Hardware Wallets: Ledger & Trezor
 
 Hardware wallets support includes Ledger & Trezor. The easiest way to use these wallets is to use MetaMask:
 
