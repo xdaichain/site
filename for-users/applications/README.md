@@ -1,6 +1,8 @@
 # Applications
 
-See the [Projects and DApps section](../../about-xdai/project-spotlights/) for DeFi apps and access, games, DAOs, NFTs and many other projects running within the xDai ecosystem. In this section you can find links to additional tools to assist and enhance your xDai experience. 
+See the [Projects and DApps section](../../about-xdai/project-spotlights/) for DeFi apps and access, games, DAOs, NFTs and many other projects running within the xDai ecosystem. 
+
+In this section you can find links to additional tools to assist and enhance your xDai experience. 
 
 * [Chainlist](https://chainlist.org/):  Add xDai to MetaMask with a single click
 * [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) provides multi-sig wallet capabilities on xDai. 
@@ -8,4 +10,7 @@ See the [Projects and DApps section](../../about-xdai/project-spotlights/) for D
 * [Wrapeth](../../for-developers/developer-resources/wrapped-xdai.md): When you need to convert your xDai to wxDai \(often when transferring between chains\) or vice versa.
 * [Nifty Wallet](../wallets/nifty-wallet.md): MetaMask fork with built-in xDai support and other advanced features.
 * [Crypto Tax Calculator](ttps://cryptotaxcalculator.io/): Supports xDai for transaction categorization
+* [Component Finance](https://xdai.component.finance/): Stable coin swaps, useful when moving assets cross chain with the omnibridge \(ie xDai - BSC\)
+* [Analytics Dashboards](analytics-dashboards.md): Find information on xDai current and historical usage, smart contract usage and more. 
+* [Cryptofees](https://cryptofees.info/): Shows daily transaction fees collected from xDai and allows for comparisons between protocols and chains during different time frames.
 
