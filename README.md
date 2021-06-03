@@ -25,7 +25,7 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
     <tr>
       <th style="text-align:left"></th>
       <th style="text-align:left">xDai &#x2694;</th>
-      <th style="text-align:left">STAKE &#x1F9B8;&#x2642;</th>
+      <th style="text-align:left">STAKE &#x1F9B8;</th>
     </tr>
   </thead>
   <tbody>
