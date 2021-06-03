@@ -15,7 +15,7 @@ If you are interested in development or extending dune analytics for xDai, the  
 
 ### xDai Chain Usage Dashboard
 
-* Total Txs per day, transactions by project and active accounts
+* Total Txs per day, transactions by project and active accounts. Includes info on transaction costs broken down by project.
 * Link: [https://duneanalytics.com/maxaleks/xDai-Usage](https://duneanalytics.com/maxaleks/xDai-Usage)
 
 ![](../../.gitbook/assets/tx-day%20%282%29.png)
