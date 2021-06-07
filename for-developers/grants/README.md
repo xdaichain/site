@@ -1,5 +1,5 @@
 ---
-description: There are two tracks for building features/applications on xDai
+description: Wave 1 is open for applicants
 ---
 
 # Grants for building on xDai
