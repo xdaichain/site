@@ -320,8 +320,7 @@
   * [Accessing a Random Seed with a Smart Contract](for-developers/on-chain-random-numbers/accessing-a-random-seed-with-a-smart-contract.md)
   * [Randomness FAQs](for-developers/on-chain-random-numbers/randomness-faqs.md)
 * [Grants for building on xDai](for-developers/grants/README.md)
-  * [xDai Adoption Fund](for-developers/grants/xdai-adoption-fund.md)
-  * [ZK \(Zero Knowledge\) Privacy Fund](for-developers/grants/zk-zero-knowledge-privacy-fund.md)
+  * [Previous Grant Recipients](for-developers/grants/xdai-adoption-fund.md)
 * [Immunefi Bug Bounty](for-developers/immunefi-bug-bounty.md)
 * [Security Audits](for-developers/security-audits.md)
 
