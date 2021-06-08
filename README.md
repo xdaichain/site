@@ -59,6 +59,10 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
 
 📊Chain usage stats available with [Dune Analytics](https://duneanalytics.com/maxaleks/xDai-Usage).
 
+{% hint style="success" %}
+Brand new to xDai? [Get started here](for-users/getting-started-with-xdai.md).
+{% endhint %}
+
 ## Project Highlights
 
 The xDai ecosystem continues to flourish with many new project migrations, integrations, applications, and a mature toolset for developers. Explore the depth of the xDai ecosystem in the [Project & DApps](about-xdai/project-spotlights/) section.
@@ -101,13 +105,13 @@ Any contract that works on the Ethereum mainnet can be redeployed to the xDai ch
 * ✅Digital cash. A stable chain is ideal for real world value exchange where 1 xDai = 1 US Dollar.
 * ✅A stable token for transactions & gas fees.
 * ✅A green, energy-efficient and [ecologically aware](about-xdai/news-and-information/xdai-energy-efficiency.md) blockchain network.
-* ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
 * ✅[STAKE token](for-stakers/stake-token/) for community consensus participation and incentives. 
 * ✅Wide-ranging Community Support \(see [xDai Validator Organizations](for-validators/about-xdai-validators/original-xdai-validators/)\).
 * ✅Extreme usability with tools like [Burner Wallet](for-users/wallets/burner-wallet/) & [Burner Wallet 2](for-users/wallets/burner-wallet-2.md).
-* ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md), DeFi, NFTs, DAOs and more.
+* ✅Growing ecosystem designed to support stable person-to-person transactions, micro transactions, [conference currencies](about-xdai/use-cases/cryptocurrency-for-events-and-conferences/), [community currencies](about-xdai/use-cases/community-currencies.md), DeFi, NFTs, DAOs, games and more.
 * ✅Full-featured  [BlockScout Explorer](https://blockscout.com/xdai/mainnet).
+* ✅On-chain, decentralized [Random Number Generator](for-developers/on-chain-random-numbers/).
 * ✅Smart Contract, DApp & toolset compatibility with other Ethereum-based chains like Ethereum, Ethereum Classic, BSC and others.
 * ✅Experiencing the [magic of crypto](about-xdai/news-and-information/crypto-influencers-on-xdai.md#anthony-pompliano) for the first time!
 
