@@ -8,7 +8,7 @@ description: General Information and Links
 
 | Block Size | Block Speed | Gas price | Patchset | Native token | Network ID |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 12,500,000 Gas | 5 sec | 1 GWei | Istanbul | xDai | 100 |
+| 17,000,000 Gas | 5 sec | 1 GWei | Berlin | xDai | 100 |
 
 ## Blockchain Explorer
 
@@ -107,7 +107,7 @@ There are two bridge implementations connecting xDai and the Ethereum Mainnet.
 ## DApp Management & Developer Tools
 
 {% hint style="info" %}
-See the dropdown menu under Developer Resources and Tools for related tutorials.
+See the dropdown menu under Developer Resources and Tools for tutorials related to many of these tools.
 {% endhint %}
 
 * [Biconomy](https://medium.com/biconomy/biconomy-supports-xdai-chain-4d21d1f70222) allows for gasless transactions and improved DApp UX.
@@ -119,6 +119,7 @@ See the dropdown menu under Developer Resources and Tools for related tutorials.
 * [3Box](https://www.3box.io/):  Externally Owned Account \(EOA\) addresses are the same on xDai as they are on other EVM networks, so no changes are needed to implement 3box functionality.
 * [BlockNative](https://docs.blocknative.com/) supports real-time notification & transaction monitoring and mempool streaming with API and SDK tools.
 * [Sourcify](https://sourcify.dev/) Smart Contract Source Verification. Contracts can also be verified with [BlockScout](https://github.com/xdaichain/site/tree/79d38a816d4feece3a4ec12a3d28b5f9c994593c/xdai/mainnet/README.md).
+* [Ethers.js](connect-to-xdai-with-ethers.js.md) lightweight javascript library - can be used as an alternative to [web3.js](https://web3js.readthedocs.io/en/v1.3.4/) for simple application development.
 * [Remix IDE](https://remix-project.org/):  It's easy to deploy to xDai with Remix, simply choose injected web3 and add the [xDai custom RPC to your metamask](https://www.xdaichain.com/for-users/wallets/metamask/metamask-setup).
 * [OpenZeppelin Defender: ](https://defender.openzeppelin.com/)Manage smart contract administration including access controls, upgrades, and pausing. Works with [Gnosis Safe](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md) Multisig.
 * [Chainlink](https://docs.chain.link/docs/xdai-price-feeds): xDai Price Feeds integration. 
@@ -147,25 +148,12 @@ See the dropdown menu under Developer Resources and Tools for related tutorials.
 
 ## **Additional Resources**
 
-**General Migration Guide:** A fun and easy xDai migration guide from DAOHaus: [https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a](https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a)
-
-Tutorial on how to use GasRelay in your Dapp by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience.  
-[https://docs.portis.io/\#/gas-relay](https://docs.portis.io/#/gas-relay)
-
-WebSockets Endpoint \(can be useful to setup BlockScout for xDai\)  
-[wss://dai-trace-ws.blockscout.com/ws](wss://dai-trace-ws.blockscout.com/ws)
-
-Archive Fullnode Endpoint \(Useful for setting up BlockScout for xDai\)  
-[https://dai-trace-ws.blockscout.com](https://dai-trace-ws.blockscout.com)
-
-Chain [spec](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) files and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network  
-[https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
-
-Netstats, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network/)
-
-DApps Deployed to xDai: Partial list of deployed DApps along with statistics and links: [https://www.stateofthedapps.com/rankings/platform/xdai](https://www.stateofthedapps.com/rankings/platform/xdai)
-
-xDai is available in the Anyblock Index \(aka [http://eth.events](http://eth.events)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)
-
-[Gnosis Safe on xDai](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md).
+* **General Migration Guide:** A fun and easy xDai migration guide from DAOHaus: [https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a](https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a)
+* **GasRelay tutorial** by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience. [https://docs.portis.io/\#/gas-relay](https://docs.portis.io/#/gas-relay)
+* **WebSockets Endpoint** \(can be useful to setup BlockScout for xDai\) [wss://dai-trace-ws.blockscout.com/ws](wss://dai-trace-ws.blockscout.com/ws)
+* **Archive Fullnode Endpoint** \(Useful for setting up BlockScout for xDai\) [https://dai-trace-ws.blockscout.com](https://dai-trace-ws.blockscout.com)
+* **Chain** [**spec**](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) **files** and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network [https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
+* **Netstats**, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network/)
+* **Anyblock Index** \(aka [http://eth.events](http://eth.events)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)
+* **Gnosis Safe** [on xDai.](../../about-xdai/project-spotlights/gnosis/gnosis-safe.md)
 
