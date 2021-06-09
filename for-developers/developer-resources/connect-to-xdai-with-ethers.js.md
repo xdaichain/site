@@ -1,6 +1,6 @@
 # Connect to xDai with Ethers.js
 
-[ethers.js](https://github.com/ethers-io/ethers.js/) is a small library that can be used as an alternative to web3.js for blockchain interaction. It is open-source and easy to navigate. Here we use ether.js with xDai to complete a simple query. 
+[ethers.js](https://github.com/ethers-io/ethers.js/) is a lightweight javascript library that can be used as an alternative to web3.js for blockchain interaction and development. It is open-source and easy to navigate. Here we use ether.js with xDai to complete a simple query on the xDai chain. 
 
 {% hint style="info" %}
 Instructions adapted from a [quicknode guide](https://www.quicknode.com/guides/web3-sdks/how-to-connect-to-ethereum-network-with-ethers-js).
@@ -45,7 +45,7 @@ _**Notes:**_
 $ node index.js
 ```
 
-Output
+**Output**
 
 ```text
 Current block: {
@@ -79,5 +79,7 @@ Current block: {
 
 {% hint style="success" %}
 ether.js documentation is [available here](https://docs.ethers.io/v5/).
+
+To start diving into development with ethers.js, try this quick tutorial from [Zastrin](https://medium.com/zastrin/build-an-ethereum-dapp-using-ethers-js-c561f9c4dd2f).
 {% endhint %}
 
