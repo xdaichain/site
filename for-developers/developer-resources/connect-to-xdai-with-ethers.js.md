@@ -40,10 +40,7 @@ customHttpProvider.getBlock(16488144).then((result) => {
 
 _**Notes:**_
 
-* This example uses the xDai public RPC endpoint. Feel free to replace `https://rpc.xdaichain.com/`
-
-  with an rpc of your choice.
-
+* This example uses the xDai public RPC endpoint. Feel free to replace `https://rpc.xdaichain.com/`with an rpc of your choice.
 * `getBlock` returns an object for the specified block number \(16488144\), so we use JSON.stringify to print results to the console for viewing purposes.
 
 4\) Run the script & see the results!
