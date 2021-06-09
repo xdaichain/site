@@ -55,7 +55,7 @@ $ node index.js
 **Output**
 
 ```text
-Current block: {
+Block Info: {
     "hash": "0xd19228f8e38621769cd51de5d33e5a0660d241fdddce3f6f545a5d1c2c2e3281",
     "parentHash": "0x354db1b35390f5bc83dba5cec0acf2b5aca2b38eba3f9797753872eb17cebf88",
     "number": 16488144,
