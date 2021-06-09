@@ -266,6 +266,7 @@
 
 * [Developer Resources & Tools](for-developers/developer-resources/README.md)
   * [Smart Contract Deployment](for-developers/developer-resources/smart-contract-deployment.md)
+  * [Connect to xDai with Ethers.js](for-developers/developer-resources/connect-to-xdai-with-ethers.js.md)
   * [API & SQL Access with AnyBlock Analytics](for-developers/developer-resources/api-and-sql-access.md)
   * [Blocknative Notifications](for-developers/developer-resources/blocknative-notifications.md)
   * [Airdrops: Creating & Receiving](for-developers/developer-resources/creating-airdrops/README.md)
