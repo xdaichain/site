@@ -1,6 +1,10 @@
+---
+description: A lightweight alternative to web3.js for simple development
+---
+
 # Connect to xDai with Ethers.js
 
-[ethers.js](https://github.com/ethers-io/ethers.js/) is a lightweight javascript library that can be used as an alternative to web3.js for blockchain interaction and development. It is open-source and easy to work with. Here we use ether.js with xDai to complete a simple query on the xDai chain. 
+[ethers.js](https://github.com/ethers-io/ethers.js/) is a small javascript library that can be used as a lightweight alternative to [web3.js](https://web3js.readthedocs.io/en/v1.3.4/) for blockchain interaction and development. It is open-source and easy to work with. Here we use ether.js with xDai to connect and complete a simple query. 
 
 {% hint style="info" %}
 Instructions adapted from a [quicknode guide](https://www.quicknode.com/guides/web3-sdks/how-to-connect-to-ethereum-network-with-ethers-js).
@@ -36,8 +40,11 @@ customHttpProvider.getBlock(16488144).then((result) => {
 
 _**Notes:**_
 
-* This example uses the xDai public RPC. Feel free to use any working node rpc for var url = `https://rpc.xdaichain.com/`
-* `getBlock` returns an object for the specified block number \(16488144\), so we use JSON.stringify to print results to the console.
+* This example uses the xDai public RPC endpoint. Feel free to replace `https://rpc.xdaichain.com/`
+
+  with an rpc of your choice.
+
+* `getBlock` returns an object for the specified block number \(16488144\), so we use JSON.stringify to print results to the console for viewing purposes.
 
 4\) Run the script & see the results!
 
@@ -78,10 +85,8 @@ Current block: {
 ```
 
 {% hint style="success" %}
-ether.js documentation is [available here](https://docs.ethers.io/v5/).
-
-For more detailed information, see the [quiknode guide](https://www.quicknode.com/guides/web3-sdks/how-to-connect-to-ethereum-network-with-ethers-js).
-
-To start diving into development with ethers.js, try this quick tutorial from [Zastrin](https://medium.com/zastrin/build-an-ethereum-dapp-using-ethers-js-c561f9c4dd2f).
+* ether.js documentation is [available here](https://docs.ethers.io/v5/).
+* For more detailed information, see the [quiknode guide](https://www.quicknode.com/guides/web3-sdks/how-to-connect-to-ethereum-network-with-ethers-js).
+* To start diving into development with ethers.js, try this quick tutorial from [Zastrin](https://medium.com/zastrin/build-an-ethereum-dapp-using-ethers-js-c561f9c4dd2f).
 {% endhint %}
 
