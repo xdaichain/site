@@ -287,6 +287,7 @@
   * [Chainbeat Smart Contract Dashboard](for-developers/developer-resources/smart-contract-dashboard.md)
   * [Curvegrid MultiBaas Smart Contract Interaction](for-developers/developer-resources/curvegrid-smart-contract-interaction.md)
   * [Ankr API](for-developers/developer-resources/ankr-api.md)
+  * [GetBlock Node Access](for-developers/developer-resources/getblock-node-access.md)
   * [Dune Analytics](for-developers/developer-resources/dune-analytics.md)
   * [TheGraph Data Indexing](for-developers/developer-resources/thegraph-data-indexing.md)
   * [Dappquery Smart Contract Analytics & Visualizations](for-developers/developer-resources/dappquery-visual-contract-analytics.md)
