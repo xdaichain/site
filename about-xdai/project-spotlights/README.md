@@ -64,6 +64,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app
 * [Clover Finance](https://clover.finance/): Multi-chain indexing, compatibility and payments.
 * [DxSale](https://dxsale.network): Token mint, launch and lock platform.
+* [Rubic](https://rubic.exchange/cross-chain/bridge?chain=ETH): Cross-chain swaps
 * **Coin & Token Focused Projects**
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
   * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
