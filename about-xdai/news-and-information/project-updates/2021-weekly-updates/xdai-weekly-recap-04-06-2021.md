@@ -13,7 +13,7 @@ The protocol is currently in Epoch **59.**
   
 There are **17** validator pools with **278** delegators - over 200 of them are unique - staking a total of **652,442** STAKE.  
   
-High pool APY is currently **28.88%**, low is **5.5%** _\(stats as of 28/05/2021 16:00 UTC\)_.
+High pool APY is currently **28.88%**, low is **5.5%** _\(stats as of 04/06/2021 16:00 UTC\)_.
 
 * Staking Statistics: [https://duneanalytics.com/maxaleks/xdai-staking](https://duneanalytics.com/maxaleks/xdai-staking)
 * Staking Platform: [https://blockscout.com/xdai/mainnet/validators](https://blockscout.com/xdai/mainnet/validators)
