@@ -4,7 +4,7 @@ description: 05 June - 11 June 2021
 
 # ⚔️ xDai Weekly Recap - 11/06/2021
 
-![](../../../../.gitbook/assets/green-and-black-modern-sales-marketing-presentation-1-.png)
+![](../../../../.gitbook/assets/weekly.png)
 
 ## POSDAO & Protocol Updates
 
