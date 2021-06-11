@@ -5,7 +5,7 @@ description: Project FAQs
 # FAQs
 
 {% hint style="info" %}
-FAQs are in progress, we are continuing to add as new questions arise. If you have a question that is not answered here, please ask in our [Telegram](https://t.me/xdaistable), [Discord](https://discord.gg/mPJ9zkq) or [Forum](../use-cases/stable-platform-for-smart-contracts.md).
+We continue to add to our FAQs as new questions arise. If you have a question that is not answered here, please ask in our [Telegram](https://t.me/xdaistable), [Discord](https://discord.gg/mPJ9zkq) or [Forum](../use-cases/stable-platform-for-smart-contracts.md).
 
 See the FAQ sections below for topic based questions and answers:
 
