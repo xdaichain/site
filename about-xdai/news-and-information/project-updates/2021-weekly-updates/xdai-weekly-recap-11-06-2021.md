@@ -67,15 +67,11 @@ Eporio is partnering with Minerva to provide a marketplace forstreaming “Farm 
 
 ### Snafu Artist Collective
 
-Collection 2 has been released, and is described as " an epiphany of looks, a chorus of images that represent our present and includes a physical artbook available to the 5 users with the highest number of NFTs. One artist is dropped per day, for a total of 17 artists, and the campaign ends on 30 June, 2021.
+Collection 2 has been released, and is described as "an epiphany of looks, a chorus of images that represent our present" and includes a physical artbook available to the 5 users with the highest number of NFTs. One artist is dropped per day, for a total of 17 artists, and the campaign ends on 30 June, 2021.
 
 {% embed url="https://twitter.com/nftsnafu/status/1401125519052181510" %}
 
-
-
 {% embed url="https://www.nftsnafu.org/collection-2" %}
-
-
 
 ### HoneyComb Farming Updates
 
