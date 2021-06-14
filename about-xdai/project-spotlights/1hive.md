@@ -18,9 +18,8 @@ Honey is issued on each block and accumulates in a common pool. In the proposal 
 
 ## Honey Liquidity & Exchange
 
-To enable currency exchange and improve liquidity of Honey, Hive1 has deployed a fork of the Uniswap v1 protocol on xDai. This provides users a way to buy, sell, or contribute liquidity for Honey. Additional token pairs and liquidity incentives for providers may also be added in the future
+Users can buy, sell, or contribute liquidity for Honey. Additional token pairs and liquidity incentives for providers may also be added in the future
 
-* **Honey Swap** \([Uniswap v1](https://uniswap.org/) fork\): [https://uniswap.1hive.org/swap](https://uniswap.1hive.org/swap). Base asset is xDai
 * **Honeyswap** \(Uniswap v2\) : [https://honeyswap.org/\#/swap](https://honeyswap.org/#/swap)
 
 {% hint style="info" %}

@@ -20,7 +20,7 @@ See the [xDai Netstats page](https://dai-netstat.poa.network/) for a dynamic lis
 
 👨✈ ****[**POA Network**](https://www.poa.network/)**:** A Network and an R&D organization that builds infrastructure and tools for the Ethereum ecosystem. POA projects are focused on users, developers and the greater community.
 
-👨🚀\*\*\*\*[**Maker Foundation**](https://makerdao.com/en/about/)**:** The Maker Foundation is tasked with bootstrapping MakerDAO to fuel growth and drive the organization toward complete decentralization. While the Foundation provided development support through the launch of Multi-Collateral Dai \(MCD\), it is currently spearheading efforts to decentralize development.
+👨🚀\*\*\*\*[**Maker Foundation**](https://makerdao.com/en/)**:** The Maker Foundation is tasked with bootstrapping MakerDAO to fuel growth and drive the organization toward complete decentralization. While the Foundation provided development support through the launch of Multi-Collateral Dai \(MCD\), it is currently spearheading efforts to decentralize development.
 
 🕵♂\*\*\*\*[**Protofire**](https://protofire.io/)**:** A team of engineers who deliver decentralized infrastructure, protocols and applications to accelerate the growth of blockchain ecosystems. By delivering hands-on coding and contributions, Protofire specializes in supercharging developer adoption and network usage.
 

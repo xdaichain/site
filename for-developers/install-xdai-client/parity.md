@@ -69,7 +69,7 @@ openethereum --chain xdai --no-warp
 
 #### Optional
 
-`--no-warp` flag is optional: [more information.](https://openethereum.github.io/wiki/Getting-Synced)
+`--no-warp` flag is optional: [more information.](https://openethereum.github.io/Beginner-Introduction)
 
 _If you would like to limit or choose specific bootnodes, you can obtain the bootnodes.txt file from POA github:_
 

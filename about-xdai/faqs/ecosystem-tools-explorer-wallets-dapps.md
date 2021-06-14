@@ -6,7 +6,7 @@ BlockScout is a full-featured, open-source explorer that supports xDai. It lets 
 
 * BlockScout access: [https://blockscout.com/xdai/mainnet](https://blockscout.com/xdai/mainnet)
 * BlockScout docs: [https://docs.blockscout.com/](https://docs.blockscout.com/)
-* A second explorer is supported by AnyBlock Analytics and available at [https://explorer.anyblock.tools/ethereum/xdai/mainnet/](https://explorer.anyblock.tools/ethereum/xdai/mainnet/)
+* A second explorer is supported by AnyBlock Analytics and available at [https://explorer.anyblock.tools/ethereum/poa/xdai/](https://explorer.anyblock.tools/ethereum/poa/xdai/)
 
 📊 For usage statistics, see the [Dune Analytics Dashboard](https://duneanalytics.com/maxaleks/xDai-Usage).
 

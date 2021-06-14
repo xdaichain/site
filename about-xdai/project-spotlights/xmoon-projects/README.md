@@ -19,8 +19,8 @@ A few applications for xMOONs have already been created, including the xMOON exc
 
 ### 1Hive Uniswap v1 Fork
 
-* Link:  [https://uniswap.1hive.org/swap](https://uniswap.1hive.org/swap)
-* The Uniswap v1 fork enables swapping of different assets on the xDai chain. Currently, xDai, xMOONs and HNY \(the 1hive governance currency\) are available on the platform, with more to come.
+* Link:  [https://app.honeyswap.org/\#/swap](https://app.honeyswap.org/#/swap)
+* The Uniswap fork enables swapping of different assets on the xDai chain.
 
 _Note that the exchange requires 2 transactions, 1 to unlock a token, and a second to exchange value, send tokens or add liquidit_y.
 
