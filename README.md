@@ -78,7 +78,7 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 | [Giveth](https://giveth.io/) | [Orchid](https://www.orchid.com/) | [SushiSwap](https://sushi.com/) | [Cargo](https://cargo.build) | [Peerion](https://peerion.io/pools/) |
 | [Tenderly](https://tenderly.co/) | [Streamr](https://streamr.network/) | [Omen](https://xdai.omen.eth.link/#/liquidity) | [Eporio](https://epor.io/) |  |
 | [Ankr](https://www.ankr.com/) | [Request](https://request.network/en/) | [Swapr](https://swapr.eth.link/#/swap) | [Unique.One](https://www.unique.one/) |  |
-|  | [CardStack](https://cardstack.com/) | [Agave](https://agave.finance/) |  |  |
+|  | [CardStack](https://cardstack.com/) | [Agave](https://agave.finance/) | [Crypto Stamps](https://crypto.post.at/) |  |
 
 ## **xDai Developers**
 
