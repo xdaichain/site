@@ -1,6 +1,6 @@
 # Accessing a Random Seed with a Smart Contract
 
-The  [RandomAura](https://github.com/poanetwork/posdao-contracts/blob/master/contracts/RandomAuRa.sol) contract allows smart contracts to access a random number generated on-chain by the protocol.
+The  RandomAura contract allows smart contracts to access a random number generated on-chain by the protocol.
 
 #### Public getters:
 
@@ -20,7 +20,14 @@ For example, a gambling application that relies on a random value should only al
 
 To determine the current phase, use the `isCommitPhase` public getter: it returns `true` if the current block is in the `commit phase` and `false` if the block is in the `reveal phase`. 
 
-To retrieve the number of the first block of the next `commit phase`, use the `nextCommitPhaseStartBlock` public getter. To do the same for the `reveal phase`, use the `nextRevealPhaseStartBlock` public getter.
+To retrieve the number of the first block of the next `commit phase`, use the `nextCommitPhaseStartBlock` public getter. To do the same for the `reveal phase`, use the `nextRevealPhaseStartBlock` public getter.  
+
+
+{% hint style="info" %}
+Random numbers are updated during the reveal phase when validators produce block for the first time.  For example, there can be 17 validators, but the reveal phase length is 38 blocks. So, during the reveal phase, the current seed will only be updated 17 times.
+
+The commit & reveal phases have lengths of 38 blocks each. The total collection round \(commit phase + reveal phase\) has 76 blocks \(38+38\).
+{% endhint %}
 
 ## Example code to retrieve a random seed
 

@@ -14,14 +14,14 @@ The following article explains on-chain randomness functions and how they will b
 
 ## Randomness Contract \(RandomAuRa\) 
 
-RandomAura is an upgradeable contract, so it includes both an implementation and proxy address. To access, utilize the proxy address \(`RandomAuraProxy`\) along with the ABI of the implementation contract \(`RandomAuraCode`\).
+RandomAura is an upgradeable contract, so it includes both an implementation and proxy address. To access, utilize the proxy address \(`RandomAuraProxy`\) along with the ABI of the implementation contract \(`RandomAuraCode`\).  Seed values are read from the proxy contract.
 
 | Contract | Address |
 | :--- | :--- |
-| RandomAuRaCode | 0x5452c62412E12B87e29D8E5ef72783ADE4de93a4 |
-| RandomAuRaProxy | 0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766 |
+| RandomAuRaCode | [0x5452c62412E12B87e29D8E5ef72783ADE4de93a4](https://blockscout.com/poa/xdai/address/0x5452c62412E12B87e29D8E5ef72783ADE4de93a4/read-contract) |
+| RandomAuRaProxy | [0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766](https://blockscout.com/poa/xdai/address/0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766/read-proxy) |
 
 {% hint style="info" %}
-The current implementation requires a chain running Parity's AuRa consensus mechanism with version 2.7.2+. The Random Number generation contract was [introduced in this PR](https://github.com/paritytech/parity-ethereum/pull/10946).
+The current implementation requires a chain running Parity's AuRa consensus mechanism with version 3.2.5+ or Nethermind v 1.10.71. The Random Number generation contract was [introduced in this PR](https://github.com/paritytech/parity-ethereum/pull/10946).
 {% endhint %}
 

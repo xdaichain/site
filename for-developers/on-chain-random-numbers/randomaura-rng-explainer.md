@@ -179,9 +179,9 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
     // existing storage variables, do not change their order,
     // and do not change their types!
 
-    mapping(uint256 => mapping(address => bytes)) internal _ciphers;
-    mapping(uint256 => mapping(address => bytes32)) internal _commits;
-    mapping(uint256 => address[]) internal _committedValidators;
+    mapping(uint256 => mapping(uint256 => bytes)) internal _ciphers;
+    mapping(uint256 => mapping(uint256 => bytes32)) internal _commits;
+    mapping(uint256 => uint256[]) internal _committedValidators;
 
     /// @dev The length of the collection round (in blocks).
     uint256 public collectRoundLength;
@@ -194,11 +194,11 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
     bool public punishForUnreveal;
 
     /// @dev The number of reveal skips made by the specified validator during the specified staking epoch.
-    mapping(uint256 => mapping(address => uint256)) public revealSkips;
+    mapping(uint256 => mapping(uint256 => uint256)) internal _revealSkips;
 
     /// @dev A boolean flag of whether the specified validator has revealed their number for the
     /// specified collection round.
-    mapping(uint256 => mapping(address => bool)) public sentReveal;
+    mapping(uint256 => mapping(uint256 => bool)) internal _sentReveal;
 
     /// @dev The address of the `ValidatorSetAuRa` contract.
     IValidatorSetAuRa public validatorSetContract;
@@ -217,7 +217,25 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
         _;
     }
 
+    /// @dev Ensures the caller is the ValidatorSetAuRa contract address.
+    modifier onlyValidatorSet() {
+        require(msg.sender == address(validatorSetContract));
+        _;
+    }
+
     // =============================================== Setters ========================================================
+
+    /// @dev Clears commit and cipher for the given validator's pool if the pool
+    /// hasn't yet revealed their number.
+    /// Called by the ValidatorSetAuRa.changeMiningAddress function
+    /// when a validator creates a request to change their mining address.
+    function clearCommit(uint256 _poolId) external onlyValidatorSet {
+        uint256 collectRound = currentCollectRound();
+        if (!_sentReveal[collectRound][_poolId]) {
+            delete _commits[collectRound][_poolId];
+            delete _ciphers[collectRound][_poolId];
+        }
+    }
 
     /// @dev Called by the validator's node to store a hash and a cipher of the validator's number on each collection
     /// round. The validator's node must use its mining address to call this function.
@@ -232,10 +250,11 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
         require(_getCoinbase() == miningAddress); // make sure validator node is live
 
         uint256 collectRound = currentCollectRound();
+        uint256 poolId = validatorSetContract.idByMiningAddress(miningAddress);
 
-        _commits[collectRound][miningAddress] = _numberHash;
-        _ciphers[collectRound][miningAddress] = _cipher;
-        _committedValidators[collectRound].push(miningAddress);
+        _commits[collectRound][poolId] = _numberHash;
+        _ciphers[collectRound][poolId] = _cipher;
+        _committedValidators[collectRound].push(poolId);
     }
 
     /// @dev Called by the validator's node to XOR its number with the current random seed.
@@ -310,8 +329,9 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
             validators = validatorSetContract.getValidators();
             for (i = 0; i < validators.length; i++) {
                 validator = validators[i];
-                if (!sentReveal[currentRound][validator]) {
-                    revealSkips[stakingEpoch][validator]++;
+                if (!sentReveal(currentRound, validator)) {
+                    uint256 poolId = validatorSetContract.idByMiningAddress(validator);
+                    _revealSkips[stakingEpoch][poolId]++;
                 }
             }
         }
@@ -342,8 +362,8 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
             for (i = 0; i < validators.length; i++) {
                 validator = validators[i];
                 if (
-                    !sentReveal[currentRound][validator] ||
-                    revealSkips[stakingEpoch][validator] > maxRevealSkipsAllowed
+                    !sentReveal(currentRound, validator) ||
+                    revealSkips(stakingEpoch, validator) > maxRevealSkipsAllowed
                 ) {
                     // Mark the validator as malicious
                     maliciousValidators[maliciousValidatorsLength++] = validator;
@@ -382,37 +402,58 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
 
     /// @dev Returns the cipher of the validator's number for the specified collection round and the specified validator
     /// stored by the validator through the `commitHash` function.
+    /// For the past collection rounds the cipher is empty as it's erased by the internal `_clearOldCiphers` function.
     /// @param _collectRound The serial number of the collection round for which the cipher should be retrieved.
     /// @param _miningAddress The mining address of validator.
     function getCipher(uint256 _collectRound, address _miningAddress) public view returns(bytes memory) {
-        return _ciphers[_collectRound][_miningAddress];
+        uint256 poolId = validatorSetContract.idByMiningAddress(_miningAddress);
+        return _ciphers[_collectRound][poolId];
     }
 
     /// @dev Returns the Keccak-256 hash of the validator's number for the specified collection round and the specified
-    /// validator stored by the validator through the `commitHash` function.
+    /// validator stored by the validator through the `commitHash` function. Note that for the past collection rounds
+    /// it can return empty results because there was a migration from mining addresses to staking addresses.
     /// @param _collectRound The serial number of the collection round for which the hash should be retrieved.
     /// @param _miningAddress The mining address of validator.
     function getCommit(uint256 _collectRound, address _miningAddress) public view returns(bytes32) {
-        return _commits[_collectRound][_miningAddress];
+        uint256 poolId = validatorSetContract.idByMiningAddress(_miningAddress);
+        return _commits[_collectRound][poolId];
     }
 
     /// @dev Returns the Keccak-256 hash and cipher of the validator's number for the specified collection round
     /// and the specified validator stored by the validator through the `commitHash` function.
+    /// For the past collection rounds the cipher is empty. Note that for the past collection rounds
+    /// it can return empty results because there was a migration from mining addresses to staking addresses.
     /// @param _collectRound The serial number of the collection round for which hash and cipher should be retrieved.
     /// @param _miningAddress The mining address of validator.
     function getCommitAndCipher(
         uint256 _collectRound,
         address _miningAddress
     ) public view returns(bytes32, bytes memory) {
-        return (_commits[_collectRound][_miningAddress], _ciphers[_collectRound][_miningAddress]);
+        uint256 poolId = validatorSetContract.idByMiningAddress(_miningAddress);
+        return (_commits[_collectRound][poolId], _ciphers[_collectRound][poolId]);
     }
 
     /// @dev Returns a boolean flag indicating whether the specified validator has committed their number's hash for the
-    /// specified collection round.
+    /// specified collection round. Note that for the past collection rounds it can return false-negative results
+    /// because there was a migration from mining addresses to staking addresses (on xDai chain).
+    /// Also, it intentionally returns a false-positive result during the commit phase when the specified
+    /// mining address of a validator is about to be changed. This is needed to prevent committing hash/cipher pair
+    /// by Ethereum node to guarantee that a new validator's node (with a new mining address) won't try to wrongly
+    /// decrypt the cipher stored by the previous node (created by the private key of the previous mining address).
     /// @param _collectRound The serial number of the collection round for which the checkup should be done.
     /// @param _miningAddress The mining address of the validator.
     function isCommitted(uint256 _collectRound, address _miningAddress) public view returns(bool) {
-        return getCommit(_collectRound, _miningAddress) != bytes32(0);
+        uint256 poolId = validatorSetContract.idByMiningAddress(_miningAddress);
+
+        if (poolId != 0 && isCommitPhase()) {
+            (uint256 requestPoolId,) = validatorSetContract.miningAddressChangeRequest();
+            if (poolId == requestPoolId) {
+                return true;
+            }
+        }
+
+        return _commits[_collectRound][poolId] != bytes32(0);
     }
 
     /// @dev Returns a boolean flag indicating whether the current phase of the current collection round
@@ -489,9 +530,28 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
         return _revealNumberCallable(_miningAddress, _number);
     }
 
+    /// @dev Returns the number of reveal skips made by the specified validator during the specified staking epoch.
+    /// @param _stakingEpoch The number of staking epoch.
+    /// @param _miningAddress The mining address of the validator.
+    function revealSkips(uint256 _stakingEpoch, address _miningAddress) public view returns(uint256) {
+        uint256 poolId = validatorSetContract.idByMiningAddress(_miningAddress);
+        return _revealSkips[_stakingEpoch][poolId];
+    }
+
+    /// @dev Returns a boolean flag indicating whether the specified validator has revealed their number for the
+    /// specified collection round. Note that for the past collection rounds it can return false-negative results
+    /// because there was a migration from mining addresses to staking addresses.
+    /// @param _collectRound The serial number of the collection round for which the checkup should be done.
+    /// @param _miningAddress The mining address of the validator.
+    function sentReveal(uint256 _collectRound, address _miningAddress) public view returns(bool) {
+        uint256 poolId = validatorSetContract.idByMiningAddress(_miningAddress);
+        return _sentReveal[_collectRound][poolId];
+    }
+
     // ============================================== Internal ========================================================
 
-    /// @dev Removes the ciphers of all committed validators for the specified collection round.
+    /// @dev Removes the ciphers of all committed validators for the collection round
+    /// preceding to the specified collection round.
     /// @param _collectRound The serial number of the collection round.
     function _clearOldCiphers(uint256 _collectRound) internal {
         if (_collectRound == 0) {
@@ -499,12 +559,14 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
         }
 
         uint256 collectRound = _collectRound - 1;
-        address[] storage miningAddresses = _committedValidators[collectRound];
-        uint256 miningAddressesLength = miningAddresses.length;
+        uint256[] storage poolIds = _committedValidators[collectRound];
+        uint256 poolIdsLength = poolIds.length;
 
-        for (uint256 i = 0; i < miningAddressesLength; i++) {
-            delete _ciphers[collectRound][miningAddresses[i]];
+        for (uint256 i = 0; i < poolIdsLength; i++) {
+            delete _ciphers[collectRound][poolIds[i]];
         }
+
+        poolIds.length = 0;
     }
 
     /// @dev Used by the `revealNumber` function.
@@ -515,8 +577,10 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
         require(revealNumberCallable(miningAddress, _number));
         require(_getCoinbase() == miningAddress); // make sure validator node is live
 
+        uint256 poolId = validatorSetContract.idByMiningAddress(miningAddress);
+
         currentSeed = currentSeed ^ _number;
-        sentReveal[currentCollectRound()][miningAddress] = true;
+        _sentReveal[currentCollectRound()][poolId] = true;
     }
 
     /// @dev Returns the current `coinbase` address. Needed mostly for unit tests.
@@ -543,7 +607,7 @@ contract RandomAuRa is UpgradeableOwned, IRandomAuRa {
 
         uint256 collectRound = currentCollectRound();
 
-        if (sentReveal[collectRound][_miningAddress]) {
+        if (sentReveal(collectRound, _miningAddress)) {
             return false; // cannot reveal more than once during the same collectRound
         }
 

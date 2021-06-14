@@ -10,8 +10,8 @@ description: On-chain randomness questions and answers
 
 | Name | Address |
 | :--- | :--- |
-| RandomAuRaCode | 0x5452c62412E12B87e29D8E5ef72783ADE4de93a4 |
-| RandomAuRaProxy | 0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766 |
+| RandomAuRaCode | [0x5452c62412E12B87e29D8E5ef72783ADE4de93a4](https://blockscout.com/poa/xdai/address/0x5452c62412E12B87e29D8E5ef72783ADE4de93a4/read-contract) |
+| RandomAuRaProxy | [0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766](https://blockscout.com/poa/xdai/address/0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766/read-contract) |
 
 ## How is randomness created on-chain? <a id="how-is-randomness-created-on-chain"></a>
 
@@ -41,15 +41,15 @@ It is possible to create an on-chain PRNG where the `currentSeed` value is used 
 
 ## How secure is this method of on-chain random number generation? <a id="how-secure-is-this-method-of-on-chain-random-number-generation"></a>
 
-While secure, there are considerations to keep in mind. They have to do with malicious validators who may choose to manipulate the outcome by not revealing their number. Validators cannot change the number they have committed, but they can choose to not commit or not reveal a number.
+While secure, there are considerations to keep in mind. It is possible that malicious validators may choose to manipulate the outcome by not revealing their number. Validators cannot change the number they have committed, but they can choose to not commit or not reveal a number.
 
 This means that during the reveal phase, a validator can effectively choose between 2 numbers, either the current number or the new one that will be created when they reveal their number. If an application uses the final number of the reveals phase, only the final validator can make this choice, limiting the scope of this issue.
 
-To discourage skipping, validators who skip too often \(or skip at the end of an epoch\) will be reported as malicious. In POSDAO, malicious validators will be banned from the protocol for 90 days and their STAKE frozen. 
+To discourage skipping, validators who skip too often \(or skip at the end of an epoch\) will be reported as malicious. In POSDAO, malicious validators are banned from the protocol for 90 days and their STAKE frozen. 
 
 ## Will on-chain, unpredictable random numbers per block be available in the future? <a id="will-on-chain-unpredictable-random-numbers-per-block-be-available-in-the-future"></a>
 
-**YES!** When we move to HoneyBadger BFT, reliable random numbers will be produced per block via threshold signatures.
+With HoneyBadger BFT, reliable random numbers will be produced per block via threshold signatures.
 
 Using this approach, validators will signal their approval of a block by providing a portion of a signature \(a signature share\) rather than the entire signature. Once a predetermined number of shares are received by the algorithm \(the threshold\), they are combined to create a single signature which cannot be known beforehand. Because this number is secret until it is revealed, it can be used as a random number. A special property of this algorithm is that any combination of validators can collaborate to create the same final signature.
 
