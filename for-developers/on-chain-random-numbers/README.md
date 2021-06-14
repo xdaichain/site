@@ -18,7 +18,7 @@ RandomAura is an upgradeable contract, so it includes both an implementation and
 
 | Contract | Address |
 | :--- | :--- |
-| RandomAuRaCode | 0x77bfEd71b26998Bb9eBd9864e3eC169A5C91504C |
+| RandomAuRaCode | 0x5452c62412E12B87e29D8E5ef72783ADE4de93a4 |
 | RandomAuRaProxy | 0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766 |
 
 {% hint style="info" %}
