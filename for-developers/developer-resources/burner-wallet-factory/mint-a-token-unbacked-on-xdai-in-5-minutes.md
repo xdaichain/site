@@ -2,7 +2,7 @@
 
 🍬 In _\*\*_this tutorial we create and mint an unbacked token on the xDai chain. This type of token does not have any intrinsic value \(these tokens can be assigned value later however you choose to use them\). See our tutorial on [Creating your own backed token](creating-your-own-burner-wallet-token.md) if you want to create tokens from existing amounts of xDai.
 
-We assume you have already created a wallet \(see [Creating a Quick Burner Wallet](creating-a-quick-burner-wallet.md)\) and are already logged into [Burner Factory ](https://github.com/xdaichain/site/tree/79d38a816d4feece3a4ec12a3d28b5f9c994593c/for-developers/developer-resources/burner-wallet-factory/www.burnerfactory.com)through Github.
+We assume you have already created a wallet \(see [Creating a Quick Burner Wallet](creating-a-quick-burner-wallet.md)\) and are already logged into [Burner Factory ](./)through Github.
 
 1\) Go to **TOKENS** in the top menu and select **New Token**.
 

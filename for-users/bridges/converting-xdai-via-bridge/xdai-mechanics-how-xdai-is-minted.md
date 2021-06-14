@@ -17,10 +17,10 @@ You can view a receiver's address and amount of xDai received in the block rewar
 `AddedReceiver(uint256 amount, address indexed receiver, address indexed bridge)`
 
 **Example:**  
-[https://blockscout.com/xdai/mainnet/tx/0x5892a695860f6087a2d93140f05e6365142ff77fd7128e39dbc03128d5797ac4/logs.](https://blockscout.com/xdai/mainnet/tx/0x5892a695860f6087a2d93140f05e6365142ff77fd7128e39dbc03128d5797ac4/logs.)
+[https://blockscout.com/xdai/mainnet/tx/0x5892a695860f6087a2d93140f05e6365142ff77fd7128e39dbc03128d5797ac4/logs](https://blockscout.com/xdai/mainnet/tx/0x5892a695860f6087a2d93140f05e6365142ff77fd7128e39dbc03128d5797ac4/logs)
 
 ## More Information
 
 * To view xDai minting transactions from an account that received xDai, you can [find the block and subsequent transaction using the coin history tab in BlockScout](viewing-inbound-transactions.md). 
-* More information on the [OpenEthereum Block Reward contract is available here](https://openethereum.wiki/Block-Reward-Contract).
+* More information on the [OpenEthereum Block Reward contract is available here](https://openethereum.github.io/Block-Reward-Contract.html).
 

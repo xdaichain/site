@@ -9,7 +9,7 @@ description: >-
 ## Pre-Staking on BitMax
 
 {% hint style="warning" %}
-The Pre-staking program has expired, but you can still stake through BitMax. BitMax staking using the EasyStaking engine to provide APR emissions. 💡[BitMax Staking ](https://bitmax.io/#/staking/investment-product-details/STAKE-S)
+The Pre-staking program has expired, but you can still stake through BitMax. BitMax staking using the EasyStaking engine to provide APR emissions. 💡[BitMax Staking ](https://ascendex.com/en/global-digital-asset-platform#/staking/investment-product-details/STAKE-S)
 {% endhint %}
 
 BitMax 3 month pre-staking provided an estimated 36.4% return on STAKE  though the StakeVault program.
@@ -27,7 +27,7 @@ Participants lock tokens in a simulated staking environment on BitMax. Rewards a
 When open public staking starts, users may continue to use StakeVault or may choose to use the xDai user interface for staking and delegated staking.  [Rewards for public staking on xDai are described here.](../stake-token/stake-reward-mechanics/rewards-in-a-dual-token-environment.md)
 
 * **To start**:  [Earn STAKE rewards via StakeVault](https://btmx.com/#/staking/details/STAKE-S)
-* **More details**: Additional info and benefits are noted in the [BitMax announcement](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047202914-Join-a-3-month-Pre-Staking-for-xDai-with-36-4-Est-Annualized-Return-and-Additional-Incentive-Program), including a sweepstakes associated with the StakeVault launch. 
+* **More details**: Additional info and benefits are noted in the [BitMax announcement](https://ascendex.com/en/help-center/articles/360052047914), including a sweepstakes associated with the StakeVault launch. 
 
 ## STAKE Pre-staking parameters
 

@@ -54,7 +54,7 @@ An exclusive offering available to a group of pre-approved investors.
 
 400,000 offered offered in the public auction round.
 
-**Details:** [https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308193](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308193)
+**Details:** [https://ascendex.com/en/help-center/articles/360047308193](https://ascendex.com/en/help-center/articles/360047308193)
 
 * Total: 400,000
 * Released at listing: 400,000 \(100%\)

@@ -51,7 +51,7 @@ You can also switch to the Ethereum mainnet to check your address on the mainnet
 
 ![](../../../../.gitbook/assets/bw-note.png)
 
-4\) Check the [tx on BlockScout.](https://blockscout.com/xdai/mainnet/tx/0x102200f7e55558abdfcc091b99bc5e944d02f406d17e59e1af48f63c474d00c9/internal_transactions) If you switch Raw Input from Hex to UTF-8 you will see the unencrypted message!
+4\) Check the [tx on BlockScout](https://blockscout.com/xdai/mainnet/tx/0x102200f7e55558abdfcc091b99bc5e944d02f406d17e59e1af48f63c474d00c9). If you switch Raw Input from Hex to UTF-8 you will see the unencrypted message!
 
 ![](../../../../.gitbook/assets/blockscout-transaction.png)
 

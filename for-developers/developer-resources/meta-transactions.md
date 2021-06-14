@@ -8,7 +8,7 @@ description: Using Meta Transaction to enable new Burner Wallet users
 
 Meta transactions are an important method for onboarding new users. A user without crypto of any kind \(no Eth, no Dai, no xDai\) can still sign a message and interact with the blockchain without paying transaction fees. These costs are paid instead through an off-chain relayer and relay hub which interacts with a proxy \(recipient\) contract on the user’s behalf.
 
-In the [Burner Wallet \(BW\)](../../for-users/wallets/burner-wallet/) application, a browser-based instant wallet created by [Austin Griffith](https://twitter.com/austingriffith), a user receives a new wallet simply by visiting [xdai.org](https://www.xdai.org). However, this newly created wallet does not contain any funds, so a new user must figure out how to get xDai. If they don’t have a friend to send it to them, this means they need to somehow get Dai, or get Eth and convert it to Dai - then bridge the Dai to xDai. While none of these processes is extremely difficult, they are a lot to ask of someone who has never used crypto.
+In the [Burner Wallet \(BW\)](../../for-users/wallets/burner-wallet/) application, a browser-based instant wallet created by [Austin Griffith](https://twitter.com/austingriffith), a user receives a new wallet simply by visiting [https://xdai.io/](https://xdai.io/). However, this newly created wallet does not contain any funds, so a new user must figure out how to get xDai. If they don’t have a friend to send it to them, this means they need to somehow get Dai, or get Eth and convert it to Dai - then bridge the Dai to xDai. While none of these processes is extremely difficult, they are a lot to ask of someone who has never used crypto.
 
 This is where the link functionality and meta transactions come in.
 
@@ -39,7 +39,7 @@ A user can then claim a link. **Claiming a link uses meta transactions**. Here w
 
 ## Meta Transaction process for link claiming with Burner Wallet \(BW\)
 
-1. A new BW is created \(or an old one is used if keys exist in local storage\) at [xDai.org](http://xdai.org/)
+1. A new BW is created \(or an old one is used if keys exist in local storage\) at [https://xdai.io/](https://xdai.io/)
 2. This BW calls the `Links recipient contract` to get the Relay Hub Address
 3. BW queries the Relay Hub Contract to get a list of available relayers
 4. BW sends a signed tx with hashed call data \(or requests a signature if connected with metamask\) off-chain to the relayers. This does not require gas. 
@@ -62,18 +62,18 @@ Below is an example claim meta transaction where you can follow the details on e
 
 In our updated implementation, we use an OpenZeppelin Relayer as well as the OpenZeppelin Relay Hub deployed to the xDai network. The Links recipient contract was created to enable link claiming. A prior implementation using version 0.3 was not functional with the new version of Gas Station Network, so we updated this version to work with GSN v1.
 
-* Links Recipient Contract  [0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f](https://blockscout.com/xdai/mainnet/address/0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f/read_contract)
+* Links Recipient Contract  [0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f](https://blockscout.com/xdai/mainnet/address/0x5170DA7a3eF514c9F12A3A49EACAF9d026162a1f/read-contract)
 * On-chain Relayer Address \(intermediary between off-chain relayer and relay hub\) [0xc94A34a3f388be34AcaF158FD84331240DAb39a](https://blockscout.com/xdai/mainnet/address/0xc94a34a3f388be34acaf158fd84331240dab39af)
-* Relay Hub. This address is the same on all chains where it is deployed. [0xD216153c06E857cD7f72665E0aF1d7D82172F494](https://blockscout.com/xdai/mainnet/address/0xD216153c06E857cD7f72665E0aF1d7D82172F494/read_contract) 
+* Relay Hub. This address is the same on all chains where it is deployed. [0xD216153c06E857cD7f72665E0aF1d7D82172F494 ](https://blockscout.com/xdai/mainnet/address/0xD216153c06E857cD7f72665E0aF1d7D82172F494/read-contract)
 * Pull request where changes were implemented to update contracts to GSNv1: [https://github.com/austintgriffith/burner-wallet/pull/255/files](https://github.com/austintgriffith/burner-wallet/pull/255/files)
 
 _Note: A registration script runs twice daily from the on-chain relayer and calls the `registerRelay` method on the `RelayHub` Contract. This maintains relayer registration on the relay hub.  
-Example transaction:_ [_https://blockscout.com/xdai/mainnet/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b/internal\_transactions_](https://blockscout.com/xdai/mainnet/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b/internal_transactions)\_\_
+Example transaction:_ [https://blockscout.com/xdai/mainnet/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b](https://blockscout.com/xdai/mainnet/tx/0xf968e16b7c9ffc57622213365601d89067aee04a7615da8674ebc2404a9c810b)
 
 ## Running a GSN Relay Server
 
 In many instances you may want to run your own GSN relayers which interface with the xDai chain. This provides redundancy if a relayer is not functional, expands capacity, and ensures availability if relayers were removed for some reason from the OpenZeppelin implementation.
 
 * David Mihal created a [Docker Image which makes it easy to run on xDai.](https://hub.docker.com/repository/docker/dmihal/gsn-relay-xdai)
-* Additional information about launching your own relayer is [available in the GSN docs](https://docs.opengsn.org/tutorials/relay.html#introduction). 
+* Additional information about launching your own relayer is [available in the GSN docs](https://docs.opengsn.org/relay-server/tutorial.html#relays-as-an-investment). 
 

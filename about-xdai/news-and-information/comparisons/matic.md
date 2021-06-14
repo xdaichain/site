@@ -195,9 +195,9 @@ Here we focus on key differences from a user perspective when interacting and or
     </tr>
     <tr>
       <td style="text-align:left">Real World Use Cases</td>
-      <td style="text-align:left"><a href="../../project-spotlights/">Project List</a>
+      <td style="text-align:left"><a href="../../project-spotlights/">Project / DApps List</a>
       </td>
-      <td style="text-align:left">Project list: <a href="https://matic.network/dapps">https://matic.network/dapps</a>
+      <td style="text-align:left"><a href="https://awesomepolygon.com/">Project/ DApps list</a>
       </td>
     </tr>
     <tr>

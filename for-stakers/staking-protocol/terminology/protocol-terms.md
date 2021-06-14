@@ -22,9 +22,9 @@
 
 ### AuRa Algorithm
 
-AuRa stands for Authority Round. It is the underlying algorithm used by the xDai chain to ensure validators produce blocks in an honest and timely fashion. In AuRa, validators selected for each staking epoch take turns proposing blocks. A majority of validators in the current active set must agree a block is valid before it is finalized. For more information, see [https://openethereum.wiki/Pluggable-Consensus/\#aura](https://openethereum.wiki/Pluggable-Consensus/#aura)
+AuRa stands for Authority Round. It is the underlying algorithm used by the xDai chain to ensure validators produce blocks in an honest and timely fashion. In AuRa, validators selected for each staking epoch take turns proposing blocks. A majority of validators in the current active set must agree a block is valid before it is finalized. For more information, see [https://openethereum.github.io/Aura](https://openethereum.github.io/Aura)
 
-There are plans to explore pluggable consensus options in future iterations of the xDai Stable Chain. This includes the Honey Badger BFT consensus; more information on Honey Badger is available here [https://forum.poa.network/c/posdao/hbbft](https://forum.poa.network/c/posdao/hbbft)
+There are plans to explore pluggable consensus options in future iterations of the xDai Stable Chain. This includes the Honey Badger BFT consensus; more information on [Honey Badger](../../../for-validators/consensus/honeybadger-bft-consensus/) is available here.
 
 ### Block/Bridge Rewards
 

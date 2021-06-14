@@ -8,7 +8,7 @@
 See [https://thegraph.com/docs/quick-start](https://thegraph.com/docs/quick-start#hosted-service) for more details, local installation and more. The docs include an example for learning how subgraphs work and  [this video provides a good introduction.](https://thegraph.com/hackathons/2019/12)
 {% endhint %}
 
-The article below from [multiply.charity](https://multiply.charity/) also covers the initializing a graph using a smart contract address on xDai.
+The article below also covers the initializing a graph using a smart contract address on xDai.
 
 {% embed url="https://medium.com/multiply-impact/impact-insights-b793289085b2" %}
 
