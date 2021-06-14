@@ -10,7 +10,7 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 
 ## LP Resources
 
-* Uniswap ETH/STAKE Pool: [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7) 
+* Uniswap ETH/STAKE Pool \(Uniswap v2\): [https://v2.info.uniswap.org/pair/0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7](https://v2.info.uniswap.org/pair/0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7) 
 * LP Distributions Tracker: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/) Click on a Round Number to view details in Etherscan
 
 ![](../../.gitbook/assets/stake-lp.png)
@@ -22,7 +22,7 @@ Participating as an LP carries certain risks, such as the risk of impermanent \(
 
 For now there is a single liquidity pool with Uniswap. More pools may be added in the future. You can use [Zapper.fi](../stake-token/tools-supporting-stake/zapper.md) to stake, or add with Uniswap:
 
-1\) Go to [https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7](https://uniswap.info/pair/0x3B3d4EeFDc603b232907a7f3d0Ed1Eea5C62b5f7) and click Add Liquidity
+1\) Go to [https://v2.info.uniswap.org/pair/0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7](https://v2.info.uniswap.org/pair/0x3b3d4eefdc603b232907a7f3d0ed1eea5c62b5f7) and click Add Liquidity
 
 ![](../../.gitbook/assets/liquidity-1.png)
 
@@ -56,7 +56,7 @@ For now there is a single liquidity pool with Uniswap. More pools may be added i
 
 Rewards are automatically distributed to your account when the script runs if you are in the top 100 providers. The script runs every 5-10 days.   
   
-Once a distribution occurs, simply go to your wallet and check your updated STAKE balance. If you need to add STAKE to your wallet, you can Search and Add, or enter in the STAKE contract: [0x0ae055097c6d159879521c384f1d2123d1f195e6](https://etherscan.io/token/0x0ae055097c6d159879521c384f1d2123d1f195e6)
+Once a distribution occurs, simply go to your wallet and check your updated STAKE balance. If you need to add STAKE to your wallet, you can Search and Add, or enter in the STAKE contract: 0x0ae055097c6d159879521c384f1d2123d1f195e6
 
 Check past distributions with the distribution tracking tool: [https://stake-reward-distribution.xdaichain.com/](https://stake-reward-distribution.xdaichain.com/) 
 
