@@ -72,15 +72,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### **NFT-based projects**
 
-* **NFT Marketplaces**
-  * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
-  * [Unique.one](https://xdai.unique.one/): NFT Marketplace
-  * [Eporio](https://epor.io/): NFT Marketplace
-  * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
-  * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
-  * [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
-  * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai.
-  * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
+* [Crypto stamp](https://crypto.post.at/):  Digital NFT + Physical Postage Stamps from the Austrian Post.
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
 * [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
 * [Shenanigan](../../): Grassroots athletic sponsorship
@@ -90,6 +82,15 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community.
 * [MCDC](http://mcdccoin.net/): McDonaldsCoin parody project NFT farming on Unifty.
 * [HashAvatars](https://thehashavatars.com/#/created-avatars): generated with a hash name on xDai.
+* **NFT Marketplaces**
+  * [Cargo](https://cargo.build): Create, share, sell and buy digital collectibles
+  * [Unique.one](https://xdai.unique.one/): NFT Marketplace
+  * [Eporio](https://epor.io/): NFT Marketplace
+  * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
+  * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
+  * [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
+  * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai.
+  * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
 * Projects that use xDai for NFT minting include: 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
