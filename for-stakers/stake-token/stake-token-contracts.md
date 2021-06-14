@@ -71,7 +71,7 @@ The Distribution Contract is called with the corresponding number value below \(
         <p><em>Begins 336 days post listing, continues daily for 336 days</em>
         </p>
       </td>
-      <td style="text-align:left"><a href="https://etherscan.io/address/0x86edd0c110d1fc7f8a5e1108623b3b1b4e3740f9">0x86edd0c110D1Fc7F8A5e1108623b3B1B4E3740f9</a>
+      <td style="text-align:left"><a href="https://etherscan.io/address/0x5E78C09984bd6608f8E913F0924062C043eD6ad7">0x5E78C09984bd6608f8E913F0924062C043eD6ad7</a>
       </td>
     </tr>
     <tr>

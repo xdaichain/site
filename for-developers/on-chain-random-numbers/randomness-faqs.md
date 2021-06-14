@@ -8,10 +8,10 @@ description: On-chain randomness questions and answers
 
 **Yes!** it is activated on the xDai Chain. The RandomAura contract provides on-chain random numbers.
 
-| Name | Address |
-| :--- | :--- |
-| RandomAuRaCode | [0x5452c62412E12B87e29D8E5ef72783ADE4de93a4](https://blockscout.com/xdai/mainnet/address/0x5452c62412E12B87e29D8E5ef72783ADE4de93a4/transactions) |
-| RandomAuRaProxy | [0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766](https://blockscout.com/xdai/mainnet/address/0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766/transactions) |
+| Name | Address | Last Update |
+| :--- | :--- | :--- |
+| RandomAuRaCode | [0x5452c62412E12B87e29D8E5ef72783ADE4de93a4](https://blockscout.com/xdai/mainnet/address/0x5452c62412E12B87e29D8E5ef72783ADE4de93a4/transactions) | June 2021 |
+| RandomAuRaProxy | [0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766](https://blockscout.com/xdai/mainnet/address/0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766/transactions) | June 2021 |
 
 ## How is randomness created on-chain? <a id="how-is-randomness-created-on-chain"></a>
 
