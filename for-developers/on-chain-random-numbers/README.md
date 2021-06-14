@@ -18,8 +18,8 @@ RandomAura is an upgradeable contract, so it includes both an implementation and
 
 | Contract | Address |
 | :--- | :--- |
-| RandomAuRaCode | [0x5452c62412E12B87e29D8E5ef72783ADE4de93a4](https://blockscout.com/poa/xdai/address/0x5452c62412E12B87e29D8E5ef72783ADE4de93a4/read-contract) |
-| RandomAuRaProxy | [0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766](https://blockscout.com/poa/xdai/address/0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766/read-proxy) |
+| RandomAuRaCode | [0x5452c62412E12B87e29D8E5ef72783ADE4de93a4](https://blockscout.com/xdai/mainnet/address/0x5452c62412E12B87e29D8E5ef72783ADE4de93a4/transactions) |
+| RandomAuRaProxy | [0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766](https://blockscout.com/xdai/mainnet/address/0x5870b0527DeDB1cFBD9534343Feda1a41Ce47766/transactions) |
 
 {% hint style="info" %}
 The current implementation requires a chain running Parity's AuRa consensus mechanism with version 3.2.5+ or Nethermind v 1.10.71. The Random Number generation contract was [introduced in this PR](https://github.com/paritytech/parity-ethereum/pull/10946).
