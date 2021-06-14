@@ -1,5 +1,5 @@
 ---
-description: Digital + Physical stamps from the Austrian Post
+description: Digital + Physical Stamps from the Austrian Post
 ---
 
 # Crypto stamp
