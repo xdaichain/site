@@ -20,7 +20,7 @@ STAKE token address on Ethereum [0x0Ae055097C6d159879521C384F1D2123D1f195e6](htt
   * [STAKE/USDT Pair](https://www.huobi.com/en-us/exchange/stake_usdt) 
   * [STAKE/BTC Pair](https://www.huobi.com/en-us/exchange/stake_btc) 
   * [STAKE/ETH Pair ](https://www.huobi.com/en-us/exchange/stake_eth)
-* [AscendEX \(BitMax\)](https://bitmaxhelp.zendesk.com/hc/en-us/articles/360047308453-xDai-Chain-STAKE-): STAKE/USDT trading pair.
+* [AscendEX \(BitMax\)](https://ascendex.com/en/basic/cashtrade-spottrading/usdt/stake): STAKE/USDT trading pair.
 * [Poloniex](https://medium.com/poloniex/xdai-stake-is-now-available-on-poloniex-12b8a40d74bc): You can now [deposit STAKE](https://poloniex.com/wallet/STAKE/receive) and trade [STAKE/USDT](https://poloniex.com/exchange#usdt_stake).
 * [Bilaxy](https://bilaxy.com/trade/STAKE_USDT): STAKE/USDT trading pair.
 
@@ -28,9 +28,9 @@ Additional exchanges listing STAKE are shown on the [CoinGecko page](https://www
 
 ### DEX \(Decentralized Exchanges\)
 
-* Uniswap [https://info.uniswap.org/token/0x0ae055097c6d159879521c384f1d2123d1f195e6](https://info.uniswap.org/token/0x0ae055097c6d159879521c384f1d2123d1f195e6)
+* Uniswap [https://v2.info.uniswap.org/token/0x0ae055097c6d159879521c384f1d2123d1f195e6](https://v2.info.uniswap.org/token/0x0ae055097c6d159879521c384f1d2123d1f195e6)
 * Balancer Pool [https://pools.balancer.exchange/\#/pool/0x834fb8276B4E8a24010e2108fDd7F8417C8922bD](https://pools.balancer.exchange/#/pool/0x1ddf0976ac842c696d01a86b39d25b067ed8c7ff/)
-* 1inch.exchange DEX aggregator [https://1inch.exchange/\#/ETH/STAKE](https://1inch.exchange/#/ETH/STAKE)
+* 1inch.exchange DEX aggregator [https://app.1inch.io/\#/1/swap/ETH/STAKE](https://app.1inch.io/#/1/swap/ETH/STAKE) 
 * Sushiswap [https://app.sushi.com/token/0x0ae055097c6d159879521c384f1d2123d1f195e6](https://app.sushi.com/token/0x0ae055097c6d159879521c384f1d2123d1f195e6)
 
 ### Bridge

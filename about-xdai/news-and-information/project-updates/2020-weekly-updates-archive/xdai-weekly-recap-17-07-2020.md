@@ -31,7 +31,7 @@ The TokenBridge project has been releasing instructions and tools for devs build
 A Uniswap fork has been added to xDai by the 1Hive team, and xMoons and HNY tokens are available to swap! We expect to see additional currencies added to this exchange soon on xDai. There are now 2 ways to exchange xMoons for xDai:
 
 * Austin Griffith’s xMoon Exchange [https://xmoon.exchange/](https://xmoon.exchange/)
-* Uniswap fork at [https://uniswap.1hive.org/swap](https://uniswap.1hive.org/swap)
+* Uniswap fork at https://uniswap.1hive.org/swap _&lt;link deprecated -_ [_honeyswap_](https://honeyswap.org/) _now available for Uniswap v2&gt;_
 
 ## 📰 Media
 

@@ -201,7 +201,6 @@
   * [ParJar Wallet \(STAKE support\)](for-users/wallets/parjar-wallet-stake-support.md)
   * [Poketto Cash](for-users/wallets/poketto.md)
   * [Portis Wallet](for-users/wallets/portis-wallet.md)
-  * [Saturn Wallet](for-users/wallets/saturn-wallet.md)
   * [Status Wallet](for-users/wallets/status-wallet.md)
   * [Torus Wallet](for-users/wallets/torus-wallet.md)
   * [Hardware Wallets: Ledger & Trezor](for-users/wallets/ledger-and-trezor.md)
