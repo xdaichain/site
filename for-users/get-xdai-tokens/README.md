@@ -19,7 +19,7 @@ xDai tokens are used to pay for gas and transactions on the xDai chain. They are
 
 ### xDai Native Token
 
-xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com/). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card](evernote-html-snippet:///@poa/s/xdai/~/drafts/-MUjaXNW6ZqobKM39Hbv/for-users/get-xdai-tokens/buying-xdai-with-fiat/ramp-network)\) but behind the scenes it is always created from Dai, and the value of xDai corresponds 1:1 with Dai. Here's how xDai is created:
+xDai is a cryptocurrency created from the [MakerDAO DAI token](https://makerdao.com/). Dai is a stable token on the Ethereum mainnet pegged to the US dollar. xDai can be acquired by users in a number of ways \([for example with a credit card](buying-xdai-with-fiat/ramp-network.md)\) but behind the scenes it is always created from Dai, and the value of xDai corresponds 1:1 with Dai. Here's how xDai is created:
 
 1. Dai is locked into a smart contract on Ethereum. This means it must remain in that contract and cannot be moved until the contract receives a verified signal to unlock it.
 2. Using a bridge mechanism called the [TokenBridge](https://docs.tokenbridge.net/), data about the locked Dai is transmitted to a smart contract on the xDai chain.

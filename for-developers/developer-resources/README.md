@@ -18,7 +18,7 @@ description: General Information and Links
 
 2\) **AnyBlock Analytics Explorer** is convenient for exploring recent transactions and blocks and locating common information quickly**.**
 
-👉 [https://explorer.anyblock.tools/ethereum/xdai/mainnet/](https://explorer.anyblock.tools/ethereum/xdai/mainnet/)
+👉 [https://explorer.anyblock.tools/ethereum/poa/xdai/](https://explorer.anyblock.tools/ethereum/poa/xdai/)
 
 ## JSON RPC endpoints
 
@@ -44,10 +44,8 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
     <tr>
       <td style="text-align:left">WebSockets WSS endpoint</td>
       <td style="text-align:left">
-        <p><a href="wss://rpc.xdaichain.com/wss">wss://rpc.xdaichain.com/wss</a>
-        </p>
-        <p>(alternative) <a href="wss://xdai.poanetwork.dev/wss">wss://xdai.poanetwork.dev/wss</a>
-        </p>
+        <p>wss://rpc.xdaichain.com/wss</p>
+        <p>(alternative) wss://xdai.poanetwork.dev/wss</p>
       </td>
     </tr>
   </tbody>
@@ -59,7 +57,7 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
 | :--- | :--- | :--- |
 | JSON RPC endpoint over HTTP \(non-secure\) | [http://xdai.poanetwork.dev](http://xdai.poanetwork.dev/) |  |
 | JSON RPC endpoint via Cloudflare | [https://dai.poa.network](https://dai.poa.network) |  |
-| WebSockets WS \(non-secure\) | [ws://xdai.poanetwork.dev:8546](ws://xdai.poanetwork.dev:8546) |  |
+| WebSockets WS \(non-secure\) | ws://xdai.poanetwork.dev:8546 |  |
 | Archive node | [https://xdai-archive.blockscout.com](https://xdai-archive.blockscout.com/) |  |
 | Network ID \(Decimal, Hexadecimal\) | 100 | 0x64 |
 
@@ -154,8 +152,8 @@ See the dropdown menu under Developer Resources and Tools for tutorials related 
 
 * **General Migration Guide:** A fun and easy xDai migration guide from DAOHaus: [https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a](https://medium.com/daohaus-club/daohaus-xdai-dapp-migration-83dca1fc590a)
 * **GasRelay tutorial** by Portis. With a few lines of code, gas fees are shifted to DApp owners rather than users, creating an intuitive user experience. [https://docs.portis.io/\#/gas-relay](https://docs.portis.io/#/gas-relay)
-* **WebSockets Endpoint** \(can be useful to setup BlockScout for xDai\) [wss://dai-trace-ws.blockscout.com/ws](wss://dai-trace-ws.blockscout.com/ws)
-* **Archive Fullnode Endpoint** \(Useful for setting up BlockScout for xDai\) [https://dai-trace-ws.blockscout.com](https://dai-trace-ws.blockscout.com)
+* **WebSockets Endpoint** \(can be useful to setup BlockScout for xDai\) wss://dai-trace-ws.blockscout.com/ws
+* **Archive Fullnode Endpoint** \(Useful for setting up BlockScout for xDai\) https://dai-trace-ws.blockscout.com
 * **Chain** [**spec**](https://github.com/poanetwork/poa-chain-spec/blob/dai/spec.json) **files** and known [bootnodes](https://github.com/poanetwork/poa-chain-spec/blob/dai/bootnodes.txt) of the xDai network [https://github.com/poanetwork/poa-chain-spec/tree/dai](https://github.com/poanetwork/poa-chain-spec/tree/dai)
 * **Netstats**, an overview of xDai Chain nodes [http://dai-netstat.poa.network](http://dai-netstat.poa.network/)
 * **Anyblock Index** \(aka [http://eth.events](http://eth.events)\), so you can query it via the Elasticsearch API or search in PostgreSQL: [https://account.anyblock.tools/status/](https://account.anyblock.tools/status/)

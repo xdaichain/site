@@ -128,7 +128,6 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [ChievDAO](https://app.daohaus.club/dao/0x64/0xc71cf78d98dcd155559b9bf77a6b5cde44b7d881): Recognizing creators in the DAO and the wider Ethereum ecosystem
 * [The ShillShop](https://app.daohaus.club/dao/0x64/0x50d9fbebdd7fd36c0716fc1faaa9248bab6bbcc0): We Provide marketing, community, and content
 * [Defiant Pixel Society](https://app.daohaus.club/dao/0x64/0x39b9317a1400f29d00224eca6f282ce09cc21f9b): A secret organization dedicated to creation with a focus on NFTs, DeFi, and DAOs
-* [FacebookFly](https://fbfly.xyz/): Bringing DAOs to Facebook
 * [PrinterDAO](https://aragon.1hive.org/#/printerdao/): Decentralized platform to access large scale printing
 * [Stakehaus](stakehaus.md): DAO by and for the xDai Community
 * [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement

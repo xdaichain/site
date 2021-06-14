@@ -42,7 +42,7 @@ Two bridges connect the xDai Chain to the Ethereum mainnet, supporting seamless 
 
 ### L2 Chain Bridges
 
-Additional bridges exist to move tokens between xDai and other EVM chains, including moving assets between  [Binance Smart Chain](https://bsc-to-xdai-omnibridge.web.app/) and Polygon \(using a [Connext state channel bridge](https://xdai-matic-connext.vercel.app/)\).
+Additional bridges exist to move tokens between xDai and other EVM chains, including moving assets between [Binance Smart Chain](https://bsc-to-xdai-omnibridge.web.app/) and Polygon \(using the [xpollinate Connext state channel bridge](https://www.xpollinate.io/)\).
 
 ### Bridged Tokens
 

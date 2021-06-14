@@ -48,7 +48,7 @@ The xDai chain is a stable payments blockchain designed for fast and inexpensive
   </tbody>
 </table>
 
-🌉 [xDai Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.com). Tokens and arbitrary messages can also be passed across chain.
+🌉 [xDai Bridges](about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md) provide the seamless ability to move tokens between chains using the unique [TokenBridge Architecture](https://docs.tokenbridge.net/). Tokens and arbitrary messages can also be passed across chain.
 
 [![](.gitbook/assets/xDai-bridge.svg)](https://bridge.xdaichain.com/) [![](.gitbook/assets/OmniBridge.svg)](https://omni.xdaichain.com/bridge)
 
