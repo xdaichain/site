@@ -134,6 +134,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [PrimeDAO](https://medium.com/primedao/from-incubation-to-growth-598df6c6f902): Builder collective committed to systemic DeFi advancement
 * [DXdao](https://dxdao.eth.link/#/):  A sovereign collective bringing decentralization to DeFi
 * [Peerion](https://peerion.io/pools/): DAO-owned DeFi liquidity provider and staking service
+* [DAOSquare](https://www.daosquare.io/): Web3 Incubator
 
 ### **Universal Basic Income \(UBI\), Payments & Streaming Income**
 
