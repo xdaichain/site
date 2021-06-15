@@ -214,6 +214,7 @@
   * [BlockScout](for-users/explorers/blockscout.md)
   * [AnyBlock Analytics](for-users/explorers/anyblock-analytics.md)
 * [Governance](for-users/governance/README.md)
+  * [Governance Board Summary of Decisions](for-users/governance/governance-board-summary-of-decisions.md)
   * [STAKE weighted voting with Snapshot](for-users/governance/stake-weighted-voting/README.md)
     * [Delegate STAKE voting weight with Gnosis Safe](for-users/governance/stake-weighted-voting/delegate-stake-voting-weight-with-gnosis-safe.md)
 

@@ -49,9 +49,9 @@ Results of the vote will be shared with the community once it is complete.
 Proposals act as signaling events, but are never automatically enacted. Even if a proposal is popular in the community, snapshot/forum posts are suggestions and depending on technical requirements or other issues may not be enacted by the xDai technical team or bridge governors. If this is the case, reasoning will be discussed in the forum post \(step 1\).
 {% endhint %}
 
-## Governance Board
+## Bridge Governance Board
 
-In response to increased usage and value locked in the xDai bridge, a proposal was introduced to extend security and decision making powers to a wider group of participants \(governors\).
+In response to increased usage and value locked in the xDai bridge and OmniBridge, a proposal was introduced to extend security and decision making powers to a wider group of participants \(governors\).
 
 The proposal was accepted, and governance by means of a multi-signature Gnosis Safe was put into place initially on the Ethereum side on 2 October, 2020. Once Gnosis Safe was deployed to xDai, updated governance was enacted on the xDai chain on 23 October, 2020.
 
