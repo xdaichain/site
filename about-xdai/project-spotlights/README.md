@@ -93,6 +93,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
   * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai.
   * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
+  * [xlr8r+](https://xlr8r.io/nft-marketplace)**:** Art and Music NFT Marketplace
 * Projects that use xDai for NFT minting include: 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
