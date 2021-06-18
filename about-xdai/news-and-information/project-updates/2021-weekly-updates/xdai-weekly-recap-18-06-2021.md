@@ -27,6 +27,14 @@ A [new summary page](../../../../for-users/governance/governance-board-summary-o
 
 {% embed url="https://twitter.com/xdaichain/status/1404899764332896259" %}
 
+### BlockScout
+
+BlockScout now supports Vyper Smart Contract verification.
+
+{% embed url="https://twitter.com/blockscoutcom/status/1405934889665544194" %}
+
+
+
 ## 🦋 Project Updates
 
 ### Gnosis Safe
