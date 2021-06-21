@@ -8,7 +8,7 @@ description: Decentralized data storage and distribution running on xDai
 
 👍 **Solution**: Swarm decentralized and secure blockchain data networking ecosystem.
 
-[Swarm is a global p2p network](https://www.ethswarm.org/) for storing and distributing the world's data on the blockchain. This includes public datasets and well as storage and access for private data. Swarm provides a complete environment for data sharing along with incentives \(BZZ\) for distributed nodes to store, maintain and provide honest accessibility for permissionless data. 
+🐝 [Swarm is a global p2p network](https://www.ethswarm.org/) for storing and distributing the world's data on the blockchain. This includes public datasets and well as storage and access for private data. Swarm provides a complete environment for data sharing along with incentives \(BZZ\) for distributed nodes to store, maintain and provide honest accessibility for permissionless data. 
 
 Swarm is secure, decentralized, and uncensorable. Owners are given back control of how, where, and when their data is used. 
 
