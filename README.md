@@ -9,11 +9,9 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-🚰 The new OmniBridge auto-faucet sends $0.01 xDai when bridging tokens from Ethereum or BSC. This provides instant transaction capabilities for new users! [Learn More](for-users/get-xdai-tokens/xdai-faucet.md#omnibridge-faucet)
+🐝 [Swarm One Mainnet Launch](https://youtu.be/FnEztuLaJvQ)! Bee nodes are running on xDai, with a BZZ drop for current users coming [August 2, 2020](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2). Learn more about [Swarm on xDai](about-xdai/project-spotlights/swarm.md).
 
-⏹ Gas Limit/Block increased to 17M, resulting in 30%+ increase in TPS capacity.
-
-🎉 Berlin HardFork successfully activated **May 17,** Block **16101500** on xDai. If running a node, please upgrade to [OpenEthereum](for-developers/install-xdai-client/parity.md) v3.2.5 or [Nethermind v1.10.71](for-developers/install-xdai-client/nethermind.md).
+📬 The Austrian Post successfully launched the [Crypto Stamp](https://crypto.post.at/onchainshop/) project on xDai. 100,000 stamps were available and sold out within hours of launch.
 {% endhint %}
 
 ## xDai Stable Chain

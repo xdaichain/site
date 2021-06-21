@@ -42,6 +42,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Origin Trail](https://origintrail.io/): Universal, collaborative and trusted data exchange for supply chains. [More info](https://medium.com/origintrail/origintrail-multichain-decentralized-knowledge-graph-is-now-live-mainnet-launch-on-xdai-claiming-9ce037305508)
 * [Streamr](https://streamr.network/): Real-time data streams with scalable crowdsourced data sets.
 * [Orchid](https://www.orchid.com/): Pay-per-use VPN
+* [Swarm](https://www.ethswarm.org/): A global p2p network tasked for storing and distributing all of the world's data.
 
 ### DeFi
 

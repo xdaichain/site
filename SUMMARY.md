@@ -16,6 +16,7 @@
   * [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md)
   * [Dark Forest](about-xdai/project-spotlights/dark-forest.md)
   * [Crypto stamp](about-xdai/project-spotlights/crypto-stamp.md)
+  * [Swarm](about-xdai/project-spotlights/swarm.md)
   * [HoneySwap](about-xdai/project-spotlights/honeyswap.md)
   * [1Hive](about-xdai/project-spotlights/1hive.md)
   * [Orchid VPN](about-xdai/project-spotlights/orchid-vpn.md)
