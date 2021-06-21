@@ -10,9 +10,9 @@ description: Decentralized data storage and distribution running on xDai
 
 🐝 [Swarm is a global p2p network](https://www.ethswarm.org/) for storing and distributing the world's data on the blockchain. This includes public datasets and well as storage and access for private data. Swarm provides a complete environment for data sharing along with incentives \(BZZ\) for distributed nodes to store, maintain and provide honest accessibility for permissionless data. 
 
-Swarm is secure, decentralized, and uncensorable. Owners are given back control of how, where, and when their data is used. 
+Swarm is secure, decentralized, and uncensorable. The bee client runs on xDai to provide data availability, security and resiliency. 
 
-[BZZ on xDai is coming soon, with a planned airdrop for a BZZ tokens on Goerli ](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2)[August 2, 2020](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2). This will give node operators and users instant access to the infrastructure on xDai without having to bridge from the Ethereum mainnet.
+[BZZ airdrop on xDai is coming soon for holders of aBZZ tokens on Goerli ](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2)[August 2, 2020](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2). This will give node operators and users instant access to the infrastructure on xDai without having to bridge from the Ethereum mainnet.
 
 {% hint style="success" %}
 Details on the latest Swarm offerings and development are available in their Swarm One Mainnet Launch Video: [https://www.youtube.com/watch?v=FnEztuLaJvQ](https://www.youtube.com/watch?v=FnEztuLaJvQ)
