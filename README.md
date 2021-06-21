@@ -9,14 +9,14 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 {% hint style="success" %}
 **Latest News**
 
-🐝 [Swarm One Mainnet Launch](https://youtu.be/FnEztuLaJvQ)! The bee client connects to xDai, and a BZZ drop for current users coming [August 2, 2020](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2). Learn more about [Swarm on xDai](about-xdai/project-spotlights/swarm.md).
+🐝 [Swarm One Mainnet Launch](https://youtu.be/FnEztuLaJvQ)! The bee client is now integrated with xDai, and a BZZ drop for current users coming [August 2, 2020](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2). Learn more about [Swarm on xDai](about-xdai/project-spotlights/swarm.md).
 
 📬 The Austrian Post successfully launched the [Crypto Stamp](https://crypto.post.at/onchainshop/) project on xDai. 100,000 stamps were available and sold out within hours of launch.
 {% endhint %}
 
 ## xDai Stable Chain
 
-The xDai chain is a stable payments blockchain designed for fast and inexpensive transactions. The chain uses a unique dual-token model; [xDai ](for-users/get-xdai-tokens/)is a stable token used for transactions, payments, and fees, and [STAKE](for-stakers/stake-token/) is a governance token used to support the underlying [POSDAO Proof-of-Stake](for-validators/posdao-whitepaper.md) consensus.
+The xDai chain is a stable payments EVM \(Ethereum Virtual Machine\) blockchain designed for fast and inexpensive transactions. The chain uses a unique dual-token model; [xDai ](for-users/get-xdai-tokens/)is a stable token used for transactions, payments, and fees, and [STAKE](for-stakers/stake-token/) is a governance token used to support the underlying [POSDAO Proof-of-Stake](for-validators/posdao-whitepaper.md) consensus.
 
 <table>
   <thead>
@@ -80,7 +80,7 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 
 ## **xDai Developers**
 
-Development on xDai is easy and intuitive for Ethereum developers. xDai is an EVM sidechain, and smart contracts can be written and deployed in exactly the same way simply by setting a [different RPC endpoint.](for-developers/developer-resources/#json-rpc-endpoints) 
+Development on xDai is easy and intuitive for Ethereum developers. xDai is an EVM chain, and smart contracts can be written and deployed in exactly the same way simply by setting a [different RPC endpoint.](for-developers/developer-resources/#json-rpc-endpoints) 
 
 Any contract that works on the Ethereum mainnet can be redeployed to the xDai chain. On the xDai chain, transaction costs are minimized, and all fees and transactions are paid with a single token, xDai. **Many tools supporting Ethereum development** are compatible with xDai, including:
 
