@@ -16,7 +16,7 @@ This overview was done in 2020. In 2021 Energy Consumption for both Bitcoin and 
 
 ## Energy Usage Overview
 
-Energy usage equivalents \(number of average US households consume the same amount of energy as the following chains/Visa\). Note this figure is for 2020, energy usage has increased dramatically for Ethereum and Bitcoin in 2021.
+Energy usage equivalents \(number of average US households consume the same amount of energy as the following chains/Visa\). Note this figure is for 2020, **energy usage has increased dramatically for Ethereum and Bitcoin in 2021**.
 
 | Chain / System | \# of US Households |
 | :--- | :--- |
