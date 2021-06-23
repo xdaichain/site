@@ -1,5 +1,5 @@
 ---
-description: Wave 1 is open for applicants
+description: Wave 1 is open for early applications
 ---
 
 # Grants for building on xDai
