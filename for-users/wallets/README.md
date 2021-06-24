@@ -16,7 +16,6 @@ For STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum.
 * [Nifty Wallet](nifty-wallet.md)
 * [Poketto Cash](poketto.md)
 * [Portis Wallet](portis-wallet.md)
-* [Saturn Wallet]()
 * [Status Wallet](status-wallet.md)
 * [Torus Wallet](https://toruswallet.io/)
 * [TokenPocket](https://www.tokenpocket.pro/)

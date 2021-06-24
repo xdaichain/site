@@ -207,6 +207,7 @@
   * [Portis Wallet](for-users/wallets/portis-wallet.md)
   * [Status Wallet](for-users/wallets/status-wallet.md)
   * [Torus Wallet](for-users/wallets/torus-wallet.md)
+  * [TokenPocket](for-users/wallets/tokenpocket.md)
   * [Hardware Wallets: Ledger & Trezor](for-users/wallets/ledger-and-trezor.md)
 * [Applications](for-users/applications/README.md)
   * [Revoke](for-users/applications/revoke.md)
