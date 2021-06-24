@@ -54,7 +54,7 @@ The team answered questions from Twitter, ran a quiz for participants, then answ
 
 ### ✅ xDai Energy Efficiency Article
 
-We released an article with data from lab10 Collective which shows just how energy efficient xDai is. For a quick comparison, Bitcoin uses the equivalent energy of 5,250,408 US Households, Ethereum 721,223 US Households, and xDai 2.1 US Households!  [Read the full article here](../../xdai-energy-efficiency.md).
+We released an article with data from lab10 Collective which shows just how energy efficient xDai is. For a quick comparison, Bitcoin uses the equivalent energy of 5,250,408 US Households, Ethereum 721,223 US Households, and xDai 2.1 US Households!  [Read the full article here](../../xdai-energy-efficiency/).
 
 ### ✅ YellowBlock Video
 

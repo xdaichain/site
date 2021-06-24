@@ -12,7 +12,7 @@ In this article we present an overall energy usage overview \(provided by [Lab10
 This overview was done in 2020. In 2021 Energy Consumption for both Bitcoin and Ethereum has increased dramatically.
 {% endhint %}
 
-![](../../.gitbook/assets/energy-consumption.png)
+![](../../../.gitbook/assets/energy-consumption.png)
 
 ## Energy Usage Overview
 
@@ -31,11 +31,11 @@ Energy usage equivalents \(number of average US households consume the same amou
 
 A frequently mentioned concern about blockchain technology is energy consumption. Bitcoin is known to use incredible amounts of energy.  The annual footprint is alarming. 
 
-![](../../.gitbook/assets/bitcoin-1.png)
+![](../../../.gitbook/assets/bitcoin-1.png)
 
 Ethereum currently consumes much less energy, but it is still equivalent to the energy needed to power 721,223 US homes. [https://digiconomist.net/ethereum-energy-consumption](https://digiconomist.net/ethereum-energy-consumption). This will change with Ethereum 2.0\*
 
-![](../../.gitbook/assets/ethereum.png)
+![](../../../.gitbook/assets/ethereum.png)
 
 Large centralized companies like VISA can process many transactions per second and require less energy: 42,702 US households. Keep in mind, however, this is just for transaction processing, not all of the power that VISA uses for things like offices, travel, banking infrastructure etc. Not to mention they are a giant centralized corporation that charges high transaction fees.
 
@@ -47,7 +47,7 @@ Efficiency is based on the number of operating nodes, hardware requirements, and
 
 The energy consumption required to run the ARTIS is equivalent to 0.8 US households annually. For xDai it is 2.1 households.  ARTIS is ~ 600x more efficient than Visa, and **xDai 300x+ more efficient than VISA**.
 
-Visa does have a much higher TPS \(7896 max vs 119 max for xDai\) at them moment. If required however, xDai can scale to offer more TPS through bridging \(horizontal scalability\) or node improvements \(vertical scalability\). These solutions would slightly increase energy requirements, but these increases would be minor relative to VISA or POW blockchains. In addition, [HoneyBadger BFT](../../for-validators/consensus/honeybadger-bft-consensus/) consensus will improve the TPS to 476 without vastly increasing the energy consumption per TX.
+Visa does have a much higher TPS \(7896 max vs 119 max for xDai\) at them moment. If required however, xDai can scale to offer more TPS through bridging \(horizontal scalability\) or node improvements \(vertical scalability\). These solutions would slightly increase energy requirements, but these increases would be minor relative to VISA or POW blockchains. In addition, [HoneyBadger BFT](../../../for-validators/consensus/honeybadger-bft-consensus/) consensus will improve the TPS to 476 without vastly increasing the energy consumption per TX.
 
 xDai is extremely efficient, and further decentralization with public POSDAO will improve security and usefulness for the chain.   
 

@@ -2,7 +2,7 @@
 description: Digital + Physical Stamps from the Austrian Post
 ---
 
-# Crypto Stamp
+# Crypto stamp
 
 {% hint style="info" %}
 The official launch of the Crypto stamp 3.0 is **21 June 2021**. It will be available online and onchain at [crypto.post.at](https://crypto.post.at/), in post office branches, philately shops and sales points, as well as via the Collectors’ Service.

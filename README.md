@@ -102,7 +102,7 @@ Any contract that works on the Ethereum mainnet can be redeployed to the xDai ch
 * ✅Fast transaction times \(5 seconds\) & low transaction fees \(500 tx for $.01\).
 * ✅Digital cash. A stable chain is ideal for real world value exchange where 1 xDai = 1 US Dollar.
 * ✅A stable token for transactions & gas fees.
-* ✅A green, energy-efficient and [ecologically aware](about-xdai/news-and-information/xdai-energy-efficiency.md) blockchain network.
+* ✅A green, energy-efficient and [ecologically aware](about-xdai/news-and-information/xdai-energy-efficiency/) blockchain network.
 * ✅Permissionless delegated Proof-Of-Stake based consensus with public [POSDAO](for-validators/posdao-whitepaper.md).
 * ✅[STAKE token](for-stakers/stake-token/) for community consensus participation and incentives. 
 * ✅Wide-ranging Community Support \(see [xDai Validator Organizations](for-validators/about-xdai-validators/original-xdai-validators/)\).

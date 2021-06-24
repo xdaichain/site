@@ -29,7 +29,7 @@ Transactions on xDai continue to grow. May 12 saw the largest number of txs to d
 
 ### Green Chain
 
-Bitcoin and Ethereum mining energy expenditure is back in the news. xDai has always been a green chain - last year total energy expenditure was equal to **2.1 US Households**. [More on xDai Energy Efficiency](../../xdai-energy-efficiency.md).
+Bitcoin and Ethereum mining energy expenditure is back in the news. xDai has always been a green chain - last year total energy expenditure was equal to **2.1 US Households**. [More on xDai Energy Efficiency](../../xdai-energy-efficiency/).
 
 Bitcoin and Ethereum combined use the equivalent of the **23rd largest country in the world**.
 

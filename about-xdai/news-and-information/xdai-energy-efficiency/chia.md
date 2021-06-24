@@ -4,7 +4,7 @@ description: >-
   is creating unintended environmental consequences
 ---
 
-# Chia
+# xDai vs Chia: Energy Efficiency includes SSD usage
 
 ## Introduction
 
@@ -18,7 +18,7 @@ Here we look at differences between Chia and xDai related to the overall environ
 
 ## **Energy Expenditure**
 
-Average power consumption on both xDai network and Chia is very low. On May 26, 2021 [Chia reported average consumption of 18,361 kW](https://www.chiastatus.com/). This is a huge improvement relative to Bitcoin and Ethereum, and in fact slightly lower than [xDai’s estimated annual consumption of 21,900 kW](../xdai-energy-efficiency.md). Both are roughly equivalent to the energy usage of 2 US households annually.  
+Average power consumption on both xDai network and Chia is very low. On May 26, 2021 [Chia reported average consumption of 18,361 kW](https://www.chiastatus.com/). This is a huge improvement relative to Bitcoin and Ethereum, and in fact slightly lower than [xDai’s estimated annual consumption of 21,900 kW](./). Both are roughly equivalent to the energy usage of 2 US households annually.  
 
 For context, Bitcoin energy consumption is estimated at 121.86 TW and more than 1332 kW for a single transaction, and Ethereum logging 51.62 and 95 kW for a single transaction. Combined, these two Proof of Work chains consume more energy than the entire country of Ukraine.
 
