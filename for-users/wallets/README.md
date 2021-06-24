@@ -1,3 +1,7 @@
+---
+description: A large group of wallets support the xDai network
+---
+
 # Wallets
 
 The wallets in the list below support the xDai Network. 
