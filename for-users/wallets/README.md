@@ -18,6 +18,6 @@ For STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum.
 * [Portis Wallet](portis-wallet.md)
 * [Status Wallet](status-wallet.md)
 * [Torus Wallet](https://toruswallet.io/)
-* [TokenPocket](https://www.tokenpocket.pro/)
+* [TokenPocket](tokenpocket.md)
 * [Hardware Wallets: Ledger & Trezor](ledger-and-trezor.md)
 
