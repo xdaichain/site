@@ -4,7 +4,7 @@
 
 **Completed:** June 25, 2021
 
-**Conclusion**: Our assessment uncovered a few issues, but no "critical" severity security flaws which would prevent the launch of the smart contracts. 0 Critical Issues, 1 High Risk Issue Accepted, 4 Medium Issues Accepted/Acknowledged, 4 Low Risk Issues Accepted/Acknowledged.
+**Conclusion**: The assessment uncovered a few issues, but no "critical" severity security flaws preventing continued usage or launch of contracts in future contexts. 0 Critical Issues, 1 High Risk Issue Accepted, 4 Medium Issues Accepted/Acknowledged, 4 Low Risk Issues Accepted/Acknowledged.
 
 **Contracts:** [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts)
 
