@@ -1,5 +1,15 @@
 # Security Audits
 
+## POSDAO Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
+
+**Completed:** June 25, 2021
+
+**Conclusion**: Our assessment uncovered a few issues, but no "critical" severity security flaws which would prevent the launch of the smart contracts. 0 Critical Issues, 1 High Risk Issue Accepted, 4 Medium Issues Accepted/Acknowledged, 4 Low Risk Issues Accepted/Acknowledged.
+
+**Contracts:** [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts)
+
+{% file src="../.gitbook/assets/210625\_poa-network-\_-posdao-smart-contract-audit\_final-report.pdf" caption="Final Audit Report" %}
+
 ## OmniBridge Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** April 27, 2021
