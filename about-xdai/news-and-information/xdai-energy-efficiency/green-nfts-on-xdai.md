@@ -78,12 +78,14 @@ Nifty.Ink allows users to draw and mint NFTs directly on xDai. These operations 
 
 ## **NFT Marketplaces**
 
-Marketplaces on xDai also support the sale and transfers of NFTs. Popular marketplaces include:
+Marketplaces on xDai also support the sale and transfers of NFTs, further reducing carbon output. Some of the largest contributors to high energy expenditure on Ethereum are actually the marketplaces that handle NFT creation, bidding, selling and transfers. Popular marketplaces  on xDai include:
 
 * [Cargo](https://cargo.build/): Create, share, sell and buy digital collectibles
 * [Unique.one](https://xdai.unique.one/): NFT Marketplace
 * [Eporio](https://epor.io/): NFT Marketplace
 * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
+
+A [complete list is available here](../../project-spotlights/#nft-based-projects), and includes smaller, innovative NFT collectives pushing the boundaries.
 
 ## Recycle or Toss?
 
