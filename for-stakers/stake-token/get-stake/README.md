@@ -59,7 +59,7 @@ Move STAKE from Ethereum to xDai using the OmniBridge.
 
 ### **DEX**
 
-Use [Honeyswap](../../../about-xdai/project-spotlights/honeyswap.md) to acquire STAKE directly on xDai.
+Use [Honeyswap](../../../about-xdai/project-spotlights/1hive/honeyswap.md) to acquire STAKE directly on xDai.
 {% endtab %}
 {% endtabs %}
 

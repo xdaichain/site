@@ -32,7 +32,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 ### **Infrastructure**
 
-* [1Hive](1hive.md): DAO with a Community Currency & DEX on xDai
+* [1Hive](1hive/): DAO with a Community Currency & DEX on xDai
   * [Aragon Connect](https://1hive.org/): Deployed by 1Hive, provides DAO governance and proposal functionality.
 * RaidGuild:  
   * [WrapEth](https://wrapeth.com/): xDai wrapper to convert native xDai to wrapped wxDai

@@ -14,7 +14,7 @@ Honey is issued on each block and accumulates in a common pool. In the proposal 
 
 * **Proposal Dashboard** \([Aragon Connect](https://aragon.org/connect)\): [https://1hive.org/](https://1hive.org/#/)
 
-![](../../.gitbook/assets/1hive-1.png)
+![](../../../.gitbook/assets/1hive-1.png)
 
 ## Honey Liquidity & Exchange
 

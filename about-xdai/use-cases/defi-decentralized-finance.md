@@ -10,7 +10,7 @@ There are costs associated with moving assets to xDai \(and bridging them back t
 Learn more in the [Projects and DApps](../project-spotlights/) section
 {% endhint %}
 
-* [HoneySwap](../project-spotlights/honeyswap.md), a Uniswap fork on xDai, enables fast and inexpensive trading. 
+* [HoneySwap](../project-spotlights/1hive/honeyswap.md), a Uniswap fork on xDai, enables fast and inexpensive trading. 
 * [Perpetual Protocol ](../project-spotlights/perpetual-protocol.md)allows traders to go long or short on many different types of assets. 0 fee trading for users, as xDai fees are small enough to be subsidized by the protocol.
 * [Swapr](https://swapr.eth.link/#/swap) multi-platform Dex compares trades across several platforms.
 

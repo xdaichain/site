@@ -18,7 +18,7 @@ More on the [Dual Token Model](../../for-stakers/stake-token/stake-reward-mechan
 ## How do I get STAKE on xDai?
 
 * Move from Ethereum to xDai with the OmniBridge
-* Acquire on xDai with [Honeyswap](../project-spotlights/honeyswap.md)
+* Acquire on xDai with [Honeyswap](../project-spotlights/1hive/honeyswap.md)
 
 ## What are the STAKE contract addresses?
 

@@ -5,7 +5,7 @@ description: Setup your custom RPC to connect to Metamask
 # Metamask Setup
 
 {% hint style="warning" %}
-Note: Sending tokens to exchanges or other addresses you do not control may result in a loss of funds if the address is not supported by xDai. For example, sending tokens to Coinbase, Trustwallet, etc directly from the xDai network.
+Note: Sending tokens to exchanges or other addresses you do not control may result in a loss of funds if the address is not supported by xDai. For example, sending tokens to Coinbase, Trustwallet, etc directly from the xDai network. 
 
 **Bridge to your address on Ethereum first, then transfer!**
 
@@ -16,8 +16,15 @@ Note: Sending tokens to exchanges or other addresses you do not control may resu
 ## Setting up MetaMask for xDai
 
 {% hint style="info" %}
-For a quick method, visit [Chainlist](https://chainlist.org/) to quickly add to MetaMask. You may still need to add BlockScout
+See instructions below for manual entry.
+
+Quick Methods
+
+1. [Chainlist](https://chainlist.org/). Click xDai to add You may still need to add BlockScout as the Block Explorer.
+2. [Sushiswap](https://app.sushi.com/swap). With MetaMask enabled on Ethereum, click on the network dropdown and select xDai. MetaMask will ask for approval to add the xDai chain.
 {% endhint %}
+
+## Manual Instructions
 
 1\) Open Metamask, and select "Custom RPC" from the Network Dropdown.
 
