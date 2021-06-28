@@ -34,7 +34,7 @@ There are several bridges available for moving assets. Fees vary based on the or
 
 ![](../../.gitbook/assets/switch-2.png)
 
-3\) Select 1.Token you want to trade with and 2.Token you want to trade for. Exchange amount will auto-populate for the trade. 
+3\) Select the token you want to exchange and the token you want to receive. Exchange amount will auto-populate for the trade. Clicking on an asset brings up the Select a token menu for available assets.
 
 ![](../../.gitbook/assets/swap1.png)
 
@@ -57,25 +57,30 @@ There are several bridges available for moving assets. Fees vary based on the or
 
 Once you have the required assets you can provide liquidity for a trading pair. You will need 50% of each asset to fund a pair. For example if you provide $100 worth of xDai you will also need to provide $100 worth of STAKE at current prices, or the corresponding 50/50 amount for any other pair you chose.
 
-1\) Go to the Liquidity tab and select the assets you will provide. The second asset will auto-populate based on the amount provided for the first asset. Click **Confirm Adding Liquidity** to proceed.
+1\) Go to the Liquidity tab and select the assets you will provide. 
 
 ![](../../.gitbook/assets/liquidity-1%20%282%29.png)
 
+2\) Enter the amount of the first asset. The second asset will auto-populate based on the amount provided. Click **Confirm Adding Liquidity** to proceed.
+
 ![](../../.gitbook/assets/liquidity-2.png)
 
-2\) Confirm Adding Liquidity. You will see the amount of LP tokens you will receive for providing liquidity. Note that you adjust gas price for this transaction as well.
+3\) **Confirm Supply**. You will see the amount of LP tokens you will receive for providing liquidity. Note that you adjust gas price for this transaction as well.
 
 ![](../../.gitbook/assets/confirm-supply.png)
 
 ![](../../.gitbook/assets/confirm-supply2.png)
 
-3\) Check your transaction in BlockScout to verify.
+4\) Check your transaction in BlockScout to verify.   
+[https://blockscout.com/poa/xdai/tx/0xcf6d9dcc4544dd263a424856cb4d7791c260d3e306b5aa0479d457645b5d5178](https://blockscout.com/poa/xdai/tx/0xcf6d9dcc4544dd263a424856cb4d7791c260d3e306b5aa0479d457645b5d5178)
 
 ![xDai was converted automatically to wxDai when adding liquidity to the pool](../../.gitbook/assets/view-bs-details.png)
 
-4\) You can add additional liquidity or withdraw all or some LP tokens from pools you have funded. With your xDai account connected, go to the liquidity tab and press **View your Liquidity Positions**. Click Manage to find buttons to **Add** or **Remove** liquidity, and follow the MetaMask prompts to confirm these transactions as you normally would.
+4\) You can add additional liquidity or withdraw all or some LP tokens from pools you have funded. With your xDai account connected, go to the liquidity tab and press **View your Liquidity Positions**. 
 
 ![](../../.gitbook/assets/view-liquidity-1%20%281%29.png)
+
+Click Manage to find buttons to **Add** or **Remove** liquidity, and follow the MetaMask prompts to confirm these transactions as you normally would.
 
 ![](../../.gitbook/assets/view-liquidity-2.png)
 
@@ -83,13 +88,15 @@ Once you have the required assets you can provide liquidity for a trading pair. 
 
 It's easy to add custom tokens to MetaMask with BlockScout. 
 
-1. Find the transaction in BlockScout and click on the SLA token
-2. On the token page, click on the MetaMask icon next to the token address.
-3. Confirm the add in MetaMask. The token will now appear in your list of tokens.
+1\) Find your LP transaction in [BlockScout](https://blockscout.com/poa/xdai) and click on the SLP token.
 
-![Click SLP to go to the token page](../../.gitbook/assets/add-1.png)
+![](../../.gitbook/assets/add-1.png)
 
-![Click the MM icon](../../.gitbook/assets/add-2.png)
+2\) On the token page, click on the **MetaMask icon** next to the token address.
+
+![](../../.gitbook/assets/add-2.png)
+
+3\) **Add Token** in MetaMask. The token will appear in your list of assets.
 
 ![Add Token to MM](../../.gitbook/assets/add-3.png)
 
@@ -99,9 +106,7 @@ It's easy to add custom tokens to MetaMask with BlockScout.
 
 Providing liquidity to some pairs will provide additional incentives for SushiSwap on xDai users. See the [Analytics Dashboard](https://analytics-xdai.sushi.com/) for more information on fees, volume and other metrics. 
 
-LP token farming, lending and other features are in the works for Sushi, stay tuned for more details.
-
-
+LP token farming, lending and other features are in the works for Sushi, **stay tuned for more details**.
 
 
 
