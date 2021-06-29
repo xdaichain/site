@@ -8,7 +8,9 @@
 
 **Contracts:** [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts)
 
-{% file src="../.gitbook/assets/210625\_poa-network-\_-posdao-smart-contract-audit\_final-report.pdf" caption="Final Audit Report" %}
+{% hint style="success" %}
+[Final Audit Report PDF](https://github.com/poanetwork/posdao-contracts/blob/master/audit/ChainSecurity/report.pdf)
+{% endhint %}
 
 ## OmniBridge Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
 

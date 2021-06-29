@@ -8,11 +8,11 @@ Since Dai was introduced, a large number of Dai derivatives have been created wi
 
 xDai is created by locking Dai into a bridge contract. The same amount of xDai is then minted on the xDai chain. In reverse, xDai is burned and the original Dai is unlocked back on the mainnet. 
 
-![A line at Bank of Ethereum](../../.gitbook/assets/levi-jones-n0ctq0rroso-unsplash.jpg)
+![A line at Bank of Ethereum](../../../.gitbook/assets/levi-jones-n0ctq0rroso-unsplash.jpg)
 
 We may think of the Ethereum blockchain as an awesome trustless, permissionless bank run by and for the people, but sometimes there is still a line \(sometimes short, sometimes winding around the block!\). You can pay to get closer to the front of the line, wait for a while….. or you can use the xDai chain - an ATM with no line at all. 
 
-xDai is designed for lightning fast transactions with known, stable fees. The [Burner Wallet](../../for-users/wallets/burner-wallet/), a prominent xDai UI, is designed for carrying small amounts of xDai - just like the $40 you get from the ATM on your way to a night on the town. Other use cases demand different interfaces, and wallets like [AlphaWallet](../../for-users/wallets/alpha-wallet/) & [Portis](../../for-users/wallets/portis-wallet.md) provide more advanced features as needed.
+xDai is designed for lightning fast transactions with known, stable fees. The [Burner Wallet](../../../for-users/wallets/burner-wallet/), a prominent xDai UI, is designed for carrying small amounts of xDai - just like the $40 you get from the ATM on your way to a night on the town. Other use cases demand different interfaces, and wallets like [AlphaWallet](../../../for-users/wallets/alpha-wallet/) & [Portis](../../../for-users/wallets/portis-wallet.md) provide more advanced features as needed.
 
 Beyond xDai, other Dai derivatives are designed to capture additional interest for the user.[ cDai](https://defipulse.com/blog/what-is-cdai/), [rDai](https://rdai.money/) and others use decentralized lending protocols to pool and loan Dai and capture interest in return.
 
@@ -20,7 +20,7 @@ xDai originally had plans incorporate an interest earning derivative called [Cha
 
 Chai tokenizes the Dai Savings Rate \(DSR\), so that the value of each Chai grows according to that rate. With this model, the Dai locked in the bridge contract \(it is locked to create xDai\) can be converted to Chai, and immediately start earning interest.
 
-![](../../.gitbook/assets/stakers-2.png)
+![](../../../.gitbook/assets/stakers-2.png)
 
 When a user wants to exit the xDai chain \(move their xDai back to Dai on the mainnet\), Chai is converted back to Dai. The Dai they locked is redeemed, and the interest earned on that Dai is distributed as a reward to xDai stakers \(validators and delegators\).
 
