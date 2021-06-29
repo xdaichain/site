@@ -1,10 +1,14 @@
+---
+description: Audits of xDai and related infrastructure
+---
+
 # Security Audits
 
 ## POSDAO Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
 
 **Completed:** June 25, 2021
 
-**Conclusion**: The assessment uncovered a few issues, but no "critical" severity security flaws preventing continued usage or launch of contracts in future contexts. 0 Critical Issues, 1 High Risk Issue Accepted, 4 Medium Issues Accepted/Acknowledged, 4 Low Risk Issues Accepted/Acknowledged.
+**Conclusion**: The assessment uncovered several issues which were addressed or acknowledged by the team. No "critical" severity security flaws preventing continued usage or launch of contracts in future contexts were found. 0 Critical Issues, 1 High Risk Issue Accepted, 4 Medium Issues Accepted/Acknowledged, 4 Low Risk Issues Accepted/Acknowledged.
 
 **Contracts:** [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts)
 
