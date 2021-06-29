@@ -53,7 +53,7 @@ We've added additional xDai stats including historical overviews \(30, 60 and 90
 
 A new [Gas Price Oracle API endpoint](../../../../for-developers/developer-resources/gas-price-oracle.md) was added and recommended gas prices are now displayed in the header. Users can see averages from the past 200 blocks, updated every 5 seconds, to determine recommended gwei price for slow, average, and fast txs.
 
-![](../../../../.gitbook/assets/bs-1%20%283%29.png)
+![](../../../../.gitbook/assets/bs-1%20%283%29%20%281%29.png)
 
 ## 🦋 Project Updates
 

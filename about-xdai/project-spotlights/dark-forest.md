@@ -5,10 +5,10 @@ description: zkSNARK space warfare
 # Dark Forest
 
 {% hint style="info" %}
-V0.6 The Seekers Journey is now available! Learn more about all of the new features and how you can start exploring the universe with DF & xDai!  [https://blog.zkga.me/announcing-v6](https://blog.zkga.me/announcing-v6)
+ v0.6 Round 2: Inspire Hallowed: Into the Depths has begun! This round will last 9 days, and will end on Wednesday July 7th at 9PM PT. [Round 1 recap, Valhalla NFTs and more on the df blog](https://blog.zkga.me/v6-r2-announce).
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![df round2 graphic from https://blog.zkga.me/v6-r2-announce](../../.gitbook/assets/df-2.jpeg)
 
 [Dark Forest](https://zkga.me/) is an MMO space-conquest game where players discover and conquer planets in an infinite, procedurally-generated, cryptographically-specified universe! Featuring:
 
@@ -26,7 +26,7 @@ BlockScout block explorer for dark forest has been themed to match the game! Sta
 ## Dark Forest Update
 
 {% hint style="success" %}
-Version v.05 is running and optimized on xDai as of 25.12.2020.
+Version v.06 Round 2 is running and optimized on xDai as of 29.06.2021.
 {% endhint %}
 
 {% embed url="https://twitter.com/darkforest\_eth/status/1343285550870978560" caption="" %}

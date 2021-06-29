@@ -63,7 +63,7 @@ Honeyswap liquidity pair resource: [https://www.liquidityfolio.com](https://www.
 
 7a\) If using ALM, click on the Execute Button to finalize the claim.
 
-![](../../../../.gitbook/assets/alm1%20%281%29%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../../../../.gitbook/assets/alm1%20%281%29%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 ![](../../../../.gitbook/assets/alm2.png)
 

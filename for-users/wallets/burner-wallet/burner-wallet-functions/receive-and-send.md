@@ -45,7 +45,7 @@ You can also switch to the Ethereum mainnet to check your address on the mainnet
 * Enter an optional message to appear with your transaction
 * Click **Send**
 
-![](../../../../.gitbook/assets/bw-send%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+![](../../../../.gitbook/assets/bw-send%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 3\) It will send very quickly \(due to xDai speed\)
 
