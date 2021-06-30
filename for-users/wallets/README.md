@@ -18,6 +18,7 @@ For STAKE on Ethereum, you can use any [Ethereum based wallet](https://ethereum.
 * [Minerva Wallet](https://minerva.digital/)
 * [MyCrypto](mycrypto.md)
 * [Nifty Wallet](nifty-wallet.md)
+* [Pillar Wallet](pillar-wallet.md)
 * [Poketto Cash](poketto.md)
 * [Portis Wallet](portis-wallet.md)
 * [Status Wallet](status-wallet.md)

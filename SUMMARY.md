@@ -207,6 +207,7 @@
   * [Mt Pelerin](for-users/wallets/mt-pelerin.md)
   * [Nifty Wallet](for-users/wallets/nifty-wallet.md)
   * [ParJar Wallet \(STAKE support\)](for-users/wallets/parjar-wallet-stake-support.md)
+  * [Pillar Wallet](for-users/wallets/pillar-wallet.md)
   * [Poketto Cash](for-users/wallets/poketto.md)
   * [Portis Wallet](for-users/wallets/portis-wallet.md)
   * [Status Wallet](for-users/wallets/status-wallet.md)
