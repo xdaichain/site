@@ -4,7 +4,7 @@ description: Swap and add liquidity on xDai
 
 # SushiSwap
 
-SushiSwap is a multi-chain DEX \(decentralized exchange\) with AMM \(automated market-making\) capabilities. It is deployed on several chains, and includes support for xDai. To incentivize usage, an [additional 2M in liquidity will be provided for select trading pairs](https://forum.poa.network/t/proposal-to-add-stake-incentives-matched-to-the-sushiswap-deployment-on-xdai/5821).
+SushiSwap is a multi-chain DEX \(decentralized exchange\) with AMM \(automated market-making\) capabilities. It is deployed on several chains, and includes support for xDai. To incentivize usage, an [additional $2M in liquidity will be provided for select trading pairs](https://forum.poa.network/t/proposal-to-add-stake-incentives-matched-to-the-sushiswap-deployment-on-xdai/5821).
 
 Detailed instructions follow. If you are familiar with trading on xDai and want to get started right away, go to [https://app.sushi.com](https://app.sushi.com/swap) and select xDai from the dropdown network list.
 
