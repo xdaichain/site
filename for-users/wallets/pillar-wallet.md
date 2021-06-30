@@ -1,3 +1,7 @@
+---
+description: Multi-chain Mobile Wallet
+---
+
 # Pillar Wallet
 
 **Wallet Type**: [iOs](https://apps.apple.com/app/apple-store/id1346582238) and [Android Mobile](https://play.google.com/store/apps/details?id=com.pillarproject.wallet)
