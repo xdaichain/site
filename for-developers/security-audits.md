@@ -10,11 +10,10 @@ description: Audits of xDai and related infrastructure
 
 **Conclusion**: The assessment uncovered several issues which were addressed or acknowledged by the team. No "critical" severity security flaws preventing continued usage or launch of contracts in future contexts were found. 0 Critical Issues, 1 High Risk Issue Accepted, 4 Medium Issues Accepted/Acknowledged, 4 Low Risk Issues Accepted/Acknowledged.
 
-**Contracts:** [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts)
+* **Contracts:** [https://github.com/poanetwork/posdao-contracts](https://github.com/poanetwork/posdao-contracts)
+* **Audit Report in repo**: [https://github.com/poanetwork/posdao-contracts/blob/master/audit/ChainSecurity/report.pdf](https://github.com/poanetwork/posdao-contracts/blob/master/audit/ChainSecurity/report.pdf)
 
-{% hint style="success" %}
-[Final Audit Report PDF](https://github.com/poanetwork/posdao-contracts/blob/master/audit/ChainSecurity/report.pdf)
-{% endhint %}
+{% embed url="https://chainsecurity.com/security-audit/poa-network-posdao/" %}
 
 ## OmniBridge Audit by ChainSecurity <a id="omnibridge-audit-by-chainsecurity"></a>
 
