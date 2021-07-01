@@ -4,7 +4,7 @@ description: Stablecoin Trading
 
 # Curve Finance
 
-Curve gives users & protocols the ability to exchange stablecoins with low fees and low slippage. Users can also provide liquidity and receive rewards for providing stable liquidity to the protocol.  Curve is a major protocol in the DeFi space, and we are excited to welcome them to the xDai stable ecosystem!
+Curve gives users & protocols the ability to exchange stablecoins with low fees and low slippage. Users can also provide liquidity and receive high-APR rewards for providing liquidity to the protocol.  Curve is a major protocol in the DeFi space, and we are excited to welcome them to the xDai stable ecosystem!
 
 * **Curve on xDai**: [https://xdai.curve.fi](https://xdai.curve.fi/pools)
 * **Curve Announcement**: [https://curve.substack.com/p/july-1-2021-the-xdai-is-cast-](https://curve.substack.com/p/july-1-2021-the-xdai-is-cast-)
