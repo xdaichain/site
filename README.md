@@ -5,11 +5,11 @@ description: The first-ever USD stable blockchain and multi-chain staking token
 # Welcome to xDai
 
 {% hint style="success" %}
-**Latest News**
+**Latest News**  
+  
+🎇Curve Finance arrives on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in here  [https://xdai.curve.fi/](https://xdai.curve.fi/). More info on pools & rewards coming soon.
 
-🐝 [Swarm One Mainnet Launch](https://youtu.be/FnEztuLaJvQ)! The bee client is now integrated with xDai, and a BZZ drop for current users coming [August 2, 2021](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2). Learn more about [Swarm on xDai](about-xdai/project-spotlights/swarm.md).
-
-📬 The Austrian Post successfully launched the [Crypto Stamp](https://crypto.post.at/onchainshop/) project on xDai. 100,000 stamps were available and sold out within hours of launch.
+🐝 [Swarm One Mainnet Launch](https://youtu.be/FnEztuLaJvQ). The bee client is now integrated with xDai, and a BZZ drop for current users coming [August 2, 2021](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2). Learn more about [Swarm on xDai](about-xdai/project-spotlights/swarm.md).
 {% endhint %}
 
 ## xDai Stable Chain
