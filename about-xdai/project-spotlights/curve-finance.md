@@ -1,5 +1,5 @@
 ---
-description: Stablecoin Trading
+description: High APR stablecoin pools on xDai
 ---
 
 # Curve Finance
