@@ -69,12 +69,13 @@ The xDai ecosystem continues to flourish with many new project migrations, integ
 | :--- | :--- | :--- | :--- | :--- |
 | [Gnosis](about-xdai/project-spotlights/gnosis/) | [Origin Trail](https://origintrail.io/) | [HoneySwap](about-xdai/project-spotlights/1hive/honeyswap.md) | [POAP](https://www.poap.xyz/) | [DaoHaus](about-xdai/project-spotlights/daohaus.md) |
 | [Chainlink](about-xdai/project-spotlights/chainlink/) | [RealT](https://realt.co/) | [Perpetual Protocol](about-xdai/project-spotlights/perpetual-protocol.md) | [Nifty.Ink](about-xdai/project-spotlights/nifty.ink.md) | [Colony](https://colony.io/) |
-| [HOPR](https://hoprnet.org/) | [Circles UBI](about-xdai/project-spotlights/circles-ubi.md) | [Component Finance](about-xdai/project-spotlights/component-finance.md) | [Unifty](https://unifty.io) | [DXdao](https://dxdao.medium.com/) |
-| [Ramp Network](https://ramp.network/) | [clr.fund](about-xdai/project-spotlights/clr-fund.md) | [BaoSwap](https://www.bao.finance/) | [Chievmint](https://chiev.net/) | [RaidGuild](https://raidguild.org/) |
-| [Giveth](https://giveth.io/) | [Orchid](https://www.orchid.com/) | [SushiSwap](https://sushi.com/) | [Cargo](https://cargo.build) | [Peerion](https://peerion.io/pools/) |
-| [Tenderly](https://tenderly.co/) | [Streamr](https://streamr.network/) | [Omen](https://xdai.omen.eth.link/#/liquidity) | [Eporio](https://epor.io/) |  |
+| [HOPR](https://hoprnet.org/) | [Circles UBI](about-xdai/project-spotlights/circles-ubi.md) | [Curve Finance](https://xdai.curve.fi/) | [Unifty](https://unifty.io) | [DXdao](https://dxdao.medium.com/) |
+| [Ramp Network](https://ramp.network/) | [Streamr](https://streamr.network/) | [SushiSwap](https://sushi.com/) | [Crypto Stamps](https://crypto.post.at/) | [RaidGuild](https://raidguild.org/) |
+| [Giveth](https://giveth.io/) | [Orchid](https://www.orchid.com/) | [BaoSwap](https://www.bao.finance/) | [Cargo](https://cargo.build) | [Peerion](https://peerion.io/pools/) |
+| [Tenderly](https://tenderly.co/) | [CardStack](https://cardstack.com/) | [Omen](https://xdai.omen.eth.link/#/liquidity) | [Eporio](https://epor.io/) |  |
 | [Ankr](https://www.ankr.com/) | [Request](https://request.network/en/) | [Swapr](https://swapr.eth.link/#/swap) | [Unique.One](https://www.unique.one/) |  |
-|  | [CardStack](https://cardstack.com/) | [Agave](https://agave.finance/) | [Crypto Stamps](https://crypto.post.at/) |  |
+|  | [clr.fund](about-xdai/project-spotlights/clr-fund.md) | [Agave](https://agave.finance/) | [Chievmint](https://chiev.net/) |  |
+|  |  | [Component Finance](about-xdai/project-spotlights/component-finance.md) |  |  |
 
 ## **xDai Developers**
 
