@@ -61,6 +61,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [pNetwork](https://p.network/network): Cross-chain pBTC
 * [Deus](https://app.deus.finance/crosschain/xdai/synchronizer/): Stock and Commodities trading
 * [Hedgey Finance](https://www.hedgey.finance/): Decentralized Financial Derivatives Protocol
+* [YFX](https://help.yfx.com/portal/en/kb/articles/detailed-tutorial-on-using-yfx-layer-2-%E6%8E%92%E7%89%88%E9%99%84%E5%9B%BE-1-docx-1300#Login_to_YFX_on_MetaMask): Futures Trading Platform
 * [Agave](https://agave.finance/): DeFi Lending Protocol \(coming soon\)
 * [LevinSwap](https://info.levinswap.org/home): DEX on xDai, includes RealT liquidity
 * [DeBank](https://debank.com/): DeFi Dashboard
