@@ -22,7 +22,7 @@ If you experience any issues during installation, post questions here: [https://
 
 Nethermind can be supported by a variety of cloud-based providers. Instructions are available here for [UpCloud](https://docs.nethermind.io/nethermind/guides-and-helpers/cloud-providers/upcloud), which can be generalized to other providers. If you are already with a provider, we recommend launching a new, clean instance.
 
-### Minimum specifications:
+### Minimum specifications
 
 * OS: Ubuntu,  Windows & MacOs. [See supported platforms ](https://docs.nethermind.io/nethermind/first-steps-with-nethermind/supported-platforms)
 * CPU: minimum 2 cores
@@ -134,4 +134,8 @@ To check the logs and verify operations \(look for the `Sealed block` log\).
 ```text
 docker-compose logs -f nethermind
 ```
+
+## Become a POSDAO Candidate
+
+Once the node is operational, proceed to [Becoming a Candidate instructions step 5](../../for-stakers/staking-protocol/become-a-candidate-validator.md#proceed-to-step-5-after-mining-node-is-configured-and-functional). Here you will access the staking DApp with your staking address in order to fund the mining node.
 
