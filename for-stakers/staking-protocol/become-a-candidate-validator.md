@@ -46,7 +46,7 @@ openethereum account new --keys-path <path_to_save_json_keystore>
 
 ![This address is already staking as a delegator, and does not have enough STAKE to become a candidate.](../../.gitbook/assets/candidate2.png)
 
-7\)  Click the **Become a Candidate** button. A modal will appear where you enter the amount of you initial STAKE \(20,000 minimum - you can add more now as well or more at a later time \) and the mining address of your node.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
+7\)  Click the **Become a Candidate** button. A modal will appear where you enter the amount of you initial STAKE \(20,000 minimum - you can add more now as well or more at a later time \) and the **mining address of your nod**e.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
 
 ![](../../.gitbook/assets/become-a-candidate.png)
 
