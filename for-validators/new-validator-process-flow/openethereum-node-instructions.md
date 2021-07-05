@@ -1,6 +1,10 @@
 # OpenEthereum / Parity Node Setup
 
 {% hint style="warning" %}
+Due to the upcoming deprecation of OE, we recommend running the [Nethermind Client](../../for-developers/install-xdai-client/nethermind.md). However, OE does still work. You will need to run `v3.2.5` which contains Berlin hard fork transition and the new enodes: 
+{% endhint %}
+
+{% hint style="warning" %}
 If you experience any issues during installation, post your questions in the [https://forum.poa.network/c/xdai-chain/validators-support-private](https://forum.poa.network/c/xdai-chain/validators-support-private).
 
 Additional reference: [https://github.com/xdaichain/validator-node-dockerized\#readme](https://github.com/xdaichain/validator-node-dockerized#readme)
@@ -28,7 +32,7 @@ OpenEthereum can be supported by a variety of cloud-based providers. If you are 
 
 ## Node setup
 
-Login to your node to begin.
+Login to your node to begin. If needed, update to `v3.2.5`
 
 For basic instructions, see the github repo at [https://github.com/xdaichain/validator-node-dockerized](https://github.com/xdaichain/validator-node-dockerized)
 
