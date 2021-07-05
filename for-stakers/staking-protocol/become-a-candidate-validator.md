@@ -24,8 +24,9 @@ The initial steps are also outlined in the [New Validator Process Flow](../../fo
 
 _**OpenEthereum Notes:**_ 
 
-* Use version 3.0.0 or 3.0.1 **do not use the latest version of OpenEthereum as it does not support POSDAO**!
-* You can generate a key with the following OpenEthereum's CLI command or use the You use the [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)  tool made by [Peppersec.com](https://peppersec.com/).
+* We recommend running [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) as OE may be deprecated in the future. If you decide to stay wit OE
+  * Use version 3.2.5 
+  * You can generate a key with the following OpenEthereum's CLI command or use the You use the [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)  tool made by [Peppersec.com](https://peppersec.com/).
 
 ```text
 openethereum account new --keys-path <path_to_save_json_keystore>
@@ -33,24 +34,31 @@ openethereum account new --keys-path <path_to_save_json_keystore>
 
 4\) Setup your node following instructions from the New Validator Process Flow Section for the client you will use.
 
-* [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md)
+* [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) \(recommended\)
 * [OpenEthereum](../../for-validators/new-validator-process-flow/openethereum-node-instructions.md)
 
-### Proceed to step 5 after mining node is configured and functional.
+### Proceed to step 5 below after mining node is configured and functional.
 
-5\) Once your node is setup and ready, go to BlockScout and select Staking on xDai from the Apps Dropdown menu.
+5\) Once your node is setup and ready, go to BlockScout and select **Staking on xDai** from the **Apps** Dropdown menu.
 
-![](../../.gitbook/assets/validator-1.png)
+![](../../.gitbook/assets/staking-1%20%281%29.png)
 
-6\) Set your web3wallet \(Metamask/Nifty\) account to your **Staking Address** and connect to the app. Once connected, you should see your address and STAKE balance in the site banner. If you are a delegator, you will also see information related to any STAKE already in use \(staked or ordered for withdrawal\).
+6\) Connect your web3wallet \(Metamask/Nifty\) to the xDai chain with your **Staking Address**
 
-![This address is already staking as a delegator, and does not have enough STAKE to become a candidate.](../../.gitbook/assets/candidate2.png)
+1. Login to the Staking App in BlockScout. Once connected, you should see your address and STAKE balance in the site banner. If you are a delegator, you will also see information related to any STAKE already in use \(staked or ordered for withdrawal\).
+2. Click the **Become a Candidate** button**.**
 
-7\)  Click the **Become a Candidate** button. A modal will appear where you enter the amount of you initial STAKE \(20,000 minimum - you can add more now as well or more at a later time \) and the **mining address of your nod**e.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
+![](../../.gitbook/assets/2-login-become.png)
+
+7\)  A modal will appear where you enter the amount of you initial STAKE \(20,000 minimum - you can add more now as well or more at a later time \) and the **mining address of your node**.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
 
 ![](../../.gitbook/assets/become-a-candidate.png)
 
-8\) Once filled, click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface.
+{% hint style="warning" %}
+If you are trying to become a candidate at the end of an epoch, you may see the Actions temporarily disallowed popup. Wait until the next epoch begins to start the process.
+{% endhint %}
 
-9\) If successful, your pool will appear in the **Active Pools** tab. You will be eligible to join the next staking epoch as a Validator! If there are more than 19 candidates, you will be chosen based on the total stake amount in your pool \(your stake + any delegators stake\) plus a random number.
+8\) Once you've filled the information in the modal, click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface using your staking address.
+
+9\) If successful, your pool will appear in the **Active Pools** tab of the staking Dapp. You will be eligible to join the next staking epoch as a Validator! If there are more than 19 candidates, you will be chosen based on the total Stake amount in your pool \(your Stake + any delegators Stake\) plus a random number.
 
