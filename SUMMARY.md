@@ -200,6 +200,7 @@
       * [Send xDai with a Loaded Link](for-users/wallets/burner-wallet/burner-wallet-functions/send-xdai-with-a-loaded-link.md)
       * [Request Specific xDai Amount](for-users/wallets/burner-wallet/burner-wallet-functions/request-specific-xdai-amount.md)
   * [Burner Wallet 2](for-users/wallets/burner-wallet-2.md)
+  * [D'CENT](for-users/wallets/dcent.md)
   * [DEX Wallet](for-users/wallets/dex-wallet.md)
   * [Frame](for-users/wallets/frame.md)
   * [imToken](for-users/wallets/imtoken.md)
