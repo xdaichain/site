@@ -43,7 +43,7 @@ You can move tokens between xDai and Ethereum, Binance Smart Chain and Polygon \
 * [OmniBridge](https://omni.xdaichain.com/): All ERC20 token transfers between xDai, Ethereum and Binance Smart Chain.
 * [Polygon \(Matic\) / BSC Connext Bridge](https://www.xpollinate.io/):  DAI, USDC, USDT cross-chain transfers for xDai/BSC/Polygon
 
-![Add tokens bridged to xDai to your MetaMask Wallet by clicking the Fox icon](../.gitbook/assets/foxes%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
+![Add tokens bridged to xDai to your MetaMask Wallet by clicking the Fox icon](../.gitbook/assets/foxes%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%282%29%20%281%29.png)
 
 ## 5\) Explore and Enjoy
 

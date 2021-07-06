@@ -9,7 +9,7 @@ description: The first-ever USD stable blockchain and multi-chain staking token
   
  ⛱ Curve Finance arrives on xDai! [Learn more](about-xdai/project-spotlights/curve-finance.md) or dive in here  [https://xdai.curve.fi/](https://xdai.curve.fi/). More info on pools & rewards coming soon.
 
-🐝 [Swarm One Mainnet Launch](https://youtu.be/FnEztuLaJvQ). The bee client is now integrated with xDai, and a BZZ drop for current users coming [August 2, 2021](https://medium.com/ethereum-swarm/swarm-airdrop-is-finishing-on-21-june-2021-important-notice-to-all-participants-6a58f29017a2). Learn more about [Swarm on xDai](about-xdai/project-spotlights/swarm.md).
+💌 [xDai Substack Newsletter](https://xdai.substack.com/) is now available with weekly updates and other news directly to your inbox.
 {% endhint %}
 
 ## xDai Stable Chain

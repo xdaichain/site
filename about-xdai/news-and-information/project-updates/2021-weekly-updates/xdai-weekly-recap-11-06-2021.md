@@ -4,7 +4,7 @@ description: 05 June - 11 June 2021
 
 # ⚔️ xDai Weekly Recap - 11/06/2021
 
-![](../../../../.gitbook/assets/weekly.png)
+![](../../../../.gitbook/assets/weekly%20%281%29.png)
 
 ## POSDAO & Protocol Updates
 

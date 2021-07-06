@@ -14,6 +14,7 @@ description: A list of social media channels for the xDai project
 | Telegram Announcement Channel | [https://t.me/xdai\_official](https://t.me/xdai_official) |
 | GitHub | [https://github.com/xdaichain](https://github.com/xdaichain) |
 | Forum | [https://forum.poa.network/c/xdai-chain](https://forum.poa.network/c/xdai-chain) |
+| Substack \(email newsletter\) | [https://xdai.substack.com/](https://xdai.substack.com/) |
 | YouTube | [https://www.youtube.com/channel/UC93IarcktP0-dZzpI\_vvO3g/videos](https://www.youtube.com/channel/UC93IarcktP0-dZzpI_vvO3g/videos) |
 
 ## Unofficial Community Channels

@@ -1,7 +1,7 @@
 # OpenEthereum / Parity Node Setup
 
 {% hint style="warning" %}
-Due to the upcoming deprecation of OE, we recommend running the [Nethermind Client](../../for-developers/install-xdai-client/nethermind.md). However, OE does still work. You will need to run `v3.2.5` which contains Berlin hard fork transition and the new enodes: 
+Due to the upcoming deprecation of OE, we recommend running the [Nethermind Client](../../for-developers/install-xdai-client/nethermind.md). However, OE does still work. You will need to run `v3.2.5` which contains Berlin hard fork transition and the new enodes.
 {% endhint %}
 
 {% hint style="warning" %}

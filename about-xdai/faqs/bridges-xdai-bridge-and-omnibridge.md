@@ -229,7 +229,7 @@ To improve the user experience, several warnings are provided related to specifi
 
 **Binance Pegged Asset Warning**:  Transferring assets such as WXDAI or USDC from Ethereum directly to Binance can result in assets on BSC with no liquidity. Before bridging, these assets should be exchanged to BSC compatible assets using Component. [Learn More](../../for-users/bridges/omnibridge/binance-smart-chain-omnibridge/dai-token-on-xdai-bsc.md)
 
-![](../../.gitbook/assets/warning-1.png)
+![](../../.gitbook/assets/warning-1%20%281%29.png)
 
 **Gas Price Warning**:  Displays if the gas price is high on Ethereum \(relative to the recent median price\). You can still bridge and claim with the current gas price, bridge later, or complete the first bridge action and come back to claim when gas prices are lower.
 

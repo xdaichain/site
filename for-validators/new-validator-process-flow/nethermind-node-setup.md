@@ -121,13 +121,7 @@ $ docker-compose up -d
 
 Once docker containers are created, the node will sync with the chain \(may take a while\).
 
-### 6\) Remove Private Key from .env File \(optional but recommended\)
-
-After your docker container is created and started, it doesn't need the key anymore, so the key can be removed from `.env` for security reasons. **But note, that if you `down` your container, you will need to specify the key again before you `up` \(recreate\) the docker container.**
-
-To restart, cd into the  `validator-node-dockerized` directory and use `docker-compose stop` then `docker-compose start`
-
-### 7\) Check Logs
+### 6\) Check Logs
 
 To check the logs and verify operations \(look for the `Sealed block` log\).
 
@@ -135,7 +129,7 @@ To check the logs and verify operations \(look for the `Sealed block` log\).
 docker-compose logs -f nethermind
 ```
 
-## Become a POSDAO Candidate
+### 7\) Become a POSDAO Candidate
 
-Once the node is operational, proceed to [Becoming a Candidate instructions step 5](../../for-stakers/staking-protocol/become-a-candidate-validator.md#proceed-to-step-5-after-mining-node-is-configured-and-functional). Here you will access the staking DApp with your staking address in order to fund the mining node.
+Once the node is operational, proceed to [Becoming a Candidate instructions step 5](../../for-stakers/staking-protocol/become-a-candidate-validator.md#proceed-to-step-5-after-mining-node-is-configured-and-functional). Here you will access the staking DApp with your staking address to fund the mining node.
 

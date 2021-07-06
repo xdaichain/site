@@ -24,7 +24,7 @@ The initial steps are also outlined in the [New Validator Process Flow](../../fo
 
 _**OpenEthereum Notes:**_ 
 
-* We recommend running [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) as OE may be deprecated in the future. If you decide to stay wit OE
+* We recommend running [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) as OE may be deprecated in the future. If you decide to stay with OE
   * Use version 3.2.5 
   * You can generate a key with the following OpenEthereum's CLI command or use the You use the [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)  tool made by [Peppersec.com](https://peppersec.com/).
 
