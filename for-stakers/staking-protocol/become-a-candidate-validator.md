@@ -11,7 +11,7 @@ If you do not want to become a validator, but are interested in placing stake on
 ## Instructions
 
 {% hint style="warning" %}
-If you have any questions or concerns about becoming a candidate or validator, or experience any issues during setup, please contact us in [Discord](https://discord.com/invite/mPJ9zkq) or [our forum](https://forum.poa.network/c/xdai-chain/validators-intro/42).
+If you have any questions or concerns about becoming a candidate or validator, or experience any issues during setup, please contact us in [Discord](https://discord.gg/mPJ9zkq) in the validator-candidates channel.
 
 The initial steps are also outlined in the [New Validator Process Flow](../../for-validators/new-validator-process-flow/) section. Please reference for additional details.
 {% endhint %}
@@ -61,4 +61,6 @@ If you are trying to become a candidate at the end of an epoch, you may see the 
 8\) Once you've filled the information in the modal, click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface using your staking address.
 
 9\) If successful, your pool will appear in the **Active Pools** tab of the staking Dapp. You will be eligible to join the next staking epoch as a Validator! If there are more than 19 candidates, you will be chosen based on the total Stake amount in your pool \(your Stake + any delegators Stake\) plus a random number.
+
+10\) Let the team know in the [discord channel for validator candidates](https://discord.gg/mPJ9zkq). They will check on any questions and provide you with any additional information you may need to run a successful candidate node.
 
