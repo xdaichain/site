@@ -22,11 +22,7 @@ The initial steps are also outlined in the [New Validator Process Flow](../../fo
 
 3\) In addition to your regular staking address, you will need a **separate mining address.** This ****will be configured to an OpenEthereum or Nethermind node. Generate and save the JSON keystore file \(and be sure to save the password in a safe place!\) See below to generate keystore, or use [MEW](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/) or [MyCrypto](https://support.mycrypto.com/).
 
-_**OpenEthereum Notes:**_ 
-
-* We recommend running [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) as OE may be deprecated in the future. If you decide to stay with OE
-  * Use version 3.2.5 
-  * You can generate a key with the following OpenEthereum's CLI command or use the You use the [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)  tool made by [Peppersec.com](https://peppersec.com/).
+* * You can generate a key with the following OpenEthereum's CLI command or use the You use the [`eth-keygen-json`](https://www.npmjs.com/package/eth-keygen-json)  tool made by [Peppersec.com](https://peppersec.com/).
 
 ```text
 openethereum account new --keys-path <path_to_save_json_keystore>
@@ -36,6 +32,10 @@ openethereum account new --keys-path <path_to_save_json_keystore>
 
 * [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) \(recommended\)
 * [OpenEthereum](../../for-validators/new-validator-process-flow/openethereum-node-instructions.md)
+
+{% hint style="info" %}
+**We recommend running** [**Nethermind**](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) ****as OE may be deprecated in the future. If you decide to stay with OE use version 3.2.5+ 
+{% endhint %}
 
 ### Proceed to step 5 below after mining node is configured and functional.
 
