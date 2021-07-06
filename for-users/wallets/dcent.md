@@ -16,3 +16,7 @@ D’CENT Wallet is a web3 wallet \(like MetaMask\) and also supports [WalletConn
 
 ![](../../.gitbook/assets/image%20%2817%29.png)
 
+{% hint style="info" %}
+[See this article for more information on the xDai - D'CENT integration](https://medium.com/dcentwallet/dcent-wallet-is-now-integrated-with-xdai-chain-1844c94d8986).
+{% endhint %}
+
