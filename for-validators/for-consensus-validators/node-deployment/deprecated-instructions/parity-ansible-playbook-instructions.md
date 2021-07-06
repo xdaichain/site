@@ -1,7 +1,7 @@
 # Parity/Ansible Playbook Instructions
 
 {% hint style="danger" %}
-Prior setup steps for a node. See [updated instructions](../../new-validator-process-flow/) for POSDAO Validator candidates.
+Prior setup steps for a node. See [updated instructions](../../../new-validator-process-flow/) for POSDAO Validator candidates.
 {% endhint %}
 
 {% hint style="warning" %}

@@ -1,4 +1,4 @@
-# For Bridge Validators
+# Bridge Validator Info
 
 Bridge validators are separate from chain validators, and currently composed of a subset of xDai validators. The current settings require 3 of 5 signatures to process an xDai bridge transaction. This is a dynamic set, as a governance group can vote to increase the current set as well as propose and vote on other bridge related measures. Organizations are represented by an individual within that organization who is responsible for node operation & validation duties and/or participation in governance.
 

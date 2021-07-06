@@ -1,2 +1,2 @@
-# Consensus Info
+# AuRa & POSDAO Consensus Info
 
