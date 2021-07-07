@@ -12,13 +12,15 @@ If you do not want to become a validator, but are interested in placing stake on
 
 {% hint style="warning" %}
 If you have any questions or concerns about becoming a candidate or validator, or experience any issues during setup, please contact us in [Discord](https://discord.gg/mPJ9zkq) in the validator-candidates channel.
+{% endhint %}
 
-The initial steps are also outlined in the [New Validator Process Flow](../../for-validators/new-validator-process-flow/) section. Please reference for additional details.
+{% hint style="success" %}
+**It is best to start this process at the beginning of a new staking epoch**, as it gives you a week to fund your candidate address and setup your node correctly.
 {% endhint %}
 
 1\) Create \(or use addresses you have access to\) 2 Ethereum addresses. One will be used for **mining**, and a second for **staking**. Addresses are the same on xDai & Ethereum, so can be generated in a normal manner.
 
-2\) You will need the minimum candidate stake amount of STAKE \(currently 20,000 STAKE\) on xDai and a small amount of xDAI deposited to your address on the xDai chain. Deposit these to **your staking address** \(an 0x external address\). You will use to access the protocol. 
+2\) You will need the minimum candidate stake amount of STAKE \(2,000 STAKE\) on xDai and a small amount of xDAI deposited to your address on the xDai chain. Deposit these to **your staking address** \(an 0x external address\). You will use to access the protocol. 
 
 3\) In addition to your regular staking address, you will need a **separate mining address.** This ****will be configured to an OpenEthereum or Nethermind node. Generate and save the JSON keystore file \(and be sure to save the password in a safe place!\) See below to generate keystore, or use [MEW](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/) or [MyCrypto](https://support.mycrypto.com/).
 
@@ -28,7 +30,32 @@ The initial steps are also outlined in the [New Validator Process Flow](../../fo
 openethereum account new --keys-path <path_to_save_json_keystore>
 ```
 
-4\) Setup your node following instructions from the New Validator Process Flow Section for the client you will use.
+4\) Once your staking address is funded and your mining address is created, go to BlockScout and select **Staking on xDai** from the **Apps** Dropdown menu.
+
+![](../../.gitbook/assets/staking-1%20%281%29.png)
+
+5\) Connect your web3wallet \(Metamask/Nifty\) to the xDai chain with your **Staking Address**
+
+1. Login to the Staking App in BlockScout. Once connected, you should see your address and STAKE balance in the site banner. If you are a delegator, you will also see information related to any STAKE already in use \(staked or ordered for withdrawal\).
+2. Click the **Become a Candidate** button**.**
+
+![](../../.gitbook/assets/2-login-become.png)
+
+6\)  A modal will appear where you enter the amount of you initial STAKE \(2,000 minimum - you can add more now as well or more at a later time \) and the **mining address of your node**.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
+
+![](../../.gitbook/assets/become-a-candidate.png)
+
+{% hint style="warning" %}
+If you are trying to become a candidate at the end of an epoch, you may see the Actions temporarily disallowed popup. Wait until the next epoch begins to start the process.
+{% endhint %}
+
+7\) Once you've filled the information in the modal, click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface using your staking address.
+
+8\) If successful, your pool will appear in the **Active Pools** tab of the staking Dapp. You will be eligible to join the next staking epoch.
+
+9\) Let the team know you are an active candidate in the [discord channel for validator candidates](https://discord.gg/mPJ9zkq). They will provide you with additional information to setup your mining node correctly. 
+
+10\) Setup your node following instructions from the New Validator Process Flow Section for the client you will use.
 
 * [Nethermind](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) \(recommended\)
 * [OpenEthereum](../../for-validators/new-validator-process-flow/openethereum-node-instructions.md)
@@ -37,30 +64,5 @@ openethereum account new --keys-path <path_to_save_json_keystore>
 **We recommend running** [**Nethermind**](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) ****as OE may be deprecated in the future. If you decide to stay with OE use version 3.2.5+ 
 {% endhint %}
 
-### Proceed to step 5 below after mining node is configured and functional.
 
-5\) Once your node is setup and ready, go to BlockScout and select **Staking on xDai** from the **Apps** Dropdown menu.
-
-![](../../.gitbook/assets/staking-1%20%281%29.png)
-
-6\) Connect your web3wallet \(Metamask/Nifty\) to the xDai chain with your **Staking Address**
-
-1. Login to the Staking App in BlockScout. Once connected, you should see your address and STAKE balance in the site banner. If you are a delegator, you will also see information related to any STAKE already in use \(staked or ordered for withdrawal\).
-2. Click the **Become a Candidate** button**.**
-
-![](../../.gitbook/assets/2-login-become.png)
-
-7\)  A modal will appear where you enter the amount of you initial STAKE \(20,000 minimum - you can add more now as well or more at a later time \) and the **mining address of your node**.  You will also enter the Pool Name and Short Description \(optional\) which will be displayed in the staking interface.
-
-![](../../.gitbook/assets/become-a-candidate.png)
-
-{% hint style="warning" %}
-If you are trying to become a candidate at the end of an epoch, you may see the Actions temporarily disallowed popup. Wait until the next epoch begins to start the process.
-{% endhint %}
-
-8\) Once you've filled the information in the modal, click **Become a Candidate**. Submit and complete the transaction through the web3 wallet interface using your staking address.
-
-9\) If successful, your pool will appear in the **Active Pools** tab of the staking Dapp. You will be eligible to join the next staking epoch as a Validator! If there are more than 19 candidates, you will be chosen based on the total Stake amount in your pool \(your Stake + any delegators Stake\) plus a random number.
-
-10\) Let the team know in the [discord channel for validator candidates](https://discord.gg/mPJ9zkq). They will check on any questions and provide you with any additional information you may need to run a successful candidate node.
 

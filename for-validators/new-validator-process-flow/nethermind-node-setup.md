@@ -5,7 +5,7 @@ description: Instructions for setting up a Nethermind Client Node
 # Nethermind Node Setup
 
 {% hint style="warning" %}
-If you experience any issues during installation, post questions here: [https://forum.poa.network/c/xdai-chain/validators-support-private](https://forum.poa.network/c/xdai-chain/validators-support-private).
+Before getting started as a new validator, please follow the [Become a Candidate steps](../../for-stakers/staking-protocol/become-a-candidate-validator.md) to fund and setup your staking address. You will need this as well as information from the validator-candidates [Discord channel](https://discord.gg/mPJ9zkq) to complete the setup.
 {% endhint %}
 
 {% hint style="info" %}
@@ -109,9 +109,9 @@ SEQAPIKEY=[seq_api_key]
 
 * `ETHSTATS_ID` - The displayed name of your validator in [Netstats](https://dai-netstat.poa.network/)
 * `ETHSTATS_CONTACT` - Validator's contact \(e.g., e-mail\)
-* `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- request access to the forum to view - please keep it private\)
+* `ETHSTATS_SECRET` - Secret key to connect to Netstat \(Receive from admin of validator-candidates channel in Discord\)
 * `KEY` - Your mining address private key \(64 characters long **without leading `0x`**\)
-* `SEQAPIKEY` - An API key for [Seq](https://datalust.co/seq) log collector \(should be provided by xDai team, please, request it\).
+* `SEQAPIKEY` - An API key for [Seq](https://datalust.co/seq) log collector \(Receive from admin of validator-candidates channel in Discord\)
 
 ### 5\) Start the Node
 
@@ -129,7 +129,7 @@ To check the logs and verify operations \(look for the `Sealed block` log\).
 docker-compose logs -f nethermind
 ```
 
-### 7\) Become a POSDAO Candidate
-
-Once the node is operational, proceed to [Becoming a Candidate instructions step 5](../../for-stakers/staking-protocol/become-a-candidate-validator.md#proceed-to-step-5-after-mining-node-is-configured-and-functional). Here you will access the staking DApp with your staking address to fund the mining node.
+{% hint style="success" %}
+Once your node is synced with the chain it will be ready for use. Assuming you have completed the other steps to Become a Candidate your node will be eligible to be a validator in the next staking epoch. If there are more than 19 active candidates, the validator set is chosen based on amount of STAKE \(provided by the validator and delegators\) as well as a random number.
+{% endhint %}
 

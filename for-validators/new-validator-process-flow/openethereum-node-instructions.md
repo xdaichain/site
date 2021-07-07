@@ -4,7 +4,7 @@
 Due to the upcoming deprecation of OE, we recommend running the [Nethermind Client](../../for-developers/install-xdai-client/nethermind.md). However, OE does still work. You will need to run `v3.2.5` which contains Berlin hard fork transition and the new enodes.
 {% endhint %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
 If you experience any issues during installation, post your questions in the [https://forum.poa.network/c/xdai-chain/validators-support-private](https://forum.poa.network/c/xdai-chain/validators-support-private).
 
 Additional reference: [https://github.com/xdaichain/validator-node-dockerized\#readme](https://github.com/xdaichain/validator-node-dockerized#readme)
@@ -13,7 +13,7 @@ Additional reference: [https://github.com/xdaichain/validator-node-dockerized\#r
 ## Process
 
 {% hint style="info" %}
-To become a new validator, you will run a node using a mining address and connect to it with a separate staking address. For details, see the [Become a Candidate](../../for-stakers/staking-protocol/become-a-candidate-validator.md) instructions, and proceed to these instructions following step 4.
+To become a new validator, you will run a node using a mining address and connect to it with a separate staking address. See the [Become a Candidate](../../for-stakers/staking-protocol/become-a-candidate-validator.md) instructions before setting up your node.
 {% endhint %}
 
 ## Validator Node Specs
@@ -125,7 +125,7 @@ ACCOUNT=[mining_address]
 
 * `ETHSTATS_ID` - The displayed name of your validator in [Netstat](https://dai-netstat.poa.network/)
 * `ETHSTATS_CONTACT` - Validator's contact \(e.g., e-mail\)
-* `ETHSTATS_SECRET` - Secret key to connect to Netstat \([Available here ](https://forum.poa.network/t/netstats-server-info/2781)- you will need access to the forum to view, please keep it private\)
+* `ETHSTATS_SECRET` - Secret key to connect to Netstat \(Receive from admin of validator-candidates channel in Discord\)
 * `EXT_IP` -  External IP address of the current server
 * `ACCOUNT` - Your public mining address \(40 characters **including the** **leading `0x`**\)
 
@@ -141,9 +141,11 @@ To restart, cd into the `validator-node-dockerized` directory and use `docker-co
 
 ### 6\) Check NetStats
 
-Open [https://dai-netstat.poa.network](https://dai-netstat.poa.network) and check that your node appears on the list and has &gt;0 peers. Wait until it synchronizes with the rest of the blockchain \(block number and block hash should match the rest of the network\).
+Open [https://dai-netstat.poa.network](https://dai-netstat.poa.network) and check that your node appears on the list and has &gt; 0 peers. Wait until it synchronizes with the rest of the blockchain \(block number and block hash should match the rest of the network\).
 
-### 7\) Access Staking DApp
+{% hint style="success" %}
+Once your node is synced with the chain it will be ready for use. Assuming you have completed the other steps to [Become a Candidate](../../for-stakers/staking-protocol/become-a-candidate-validator.md) your node will be eligible to be a validator in the next staking epoch. If there are more than 19 active candidates, the validator set is chosen based on amount of STAKE \(provided by the validator and delegators\) as well as a random number.
+{% endhint %}
 
-Once the node is operational, proceed to [Becoming a Candidate instructions step 5](../../for-stakers/staking-protocol/become-a-candidate-validator.md#proceed-to-step-5-after-mining-node-is-configured-and-functional). Here you will access the staking DApp using your staking address in order to fund the mining node.
+### 
 
