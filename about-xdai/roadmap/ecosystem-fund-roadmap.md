@@ -49,9 +49,12 @@ We are exploring additional measures to ensure fund transparency and funding ali
 
 * Amount TBD
 * When providing liquidity to DEXs in the ecosystem it is necessary to provide 2 different assets. To prevent the sale of STAKE to acquire these assets, we will leverage protocols such as [Unit Protocol](https://unit.xyz/) and MakerDAO to lock in STAKE and acquire additional collateral to support liquidity. Any positions we open will be with a high collateral to debt ratio to prevent unexpected liquidation and unnecessary risk. 
-* ✅ 10K STAKE for Huobi listing liquidity support. Sent in 2 transactions April 20, 2021.
+* ✅ 10,000 STAKE for Huobi listing liquidity support. Sent in 2 transactions April 20, 2021.
   * 6000 STAKE [https://etherscan.io/tx/0x98f49591b190c1b1da20d9877991e55a06aacb40b4e2dd933e50acea7c3eb8e8](https://etherscan.io/tx/0x98f49591b190c1b1da20d9877991e55a06aacb40b4e2dd933e50acea7c3eb8e8)
   * 4000 STAKE [https://etherscan.io/tx/0xf62dcc5ebaab81efd17639889c320a40f241a90e1fd700897417fdc1a0e99fbb](https://etherscan.io/tx/0xf62dcc5ebaab81efd17639889c320a40f241a90e1fd700897417fdc1a0e99fbb)
+* ✅ 125,000 STAKE for Sushiswap incentives from this[ forum proposal ](https://forum.poa.network/t/proposal-to-add-stake-incentives-matched-to-the-sushiswap-deployment-on-xdai/5821)and [snapshot vote](https://snapshot.org/#/xdaistake.eth/proposal/QmaucfLiZjTLuf39w9xfXCDoGPkYtscvgBJtbqCGYg9Peh). Sent in 2 transactions to a multisig wallet July 7, 2021
+  * 25,000 STAKE [https://etherscan.io/tx/0x2ba011ccc2f9116742ba781e2231f2799b74dc92947631042af9a178d139b87c](https://etherscan.io/tx/0x2ba011ccc2f9116742ba781e2231f2799b74dc92947631042af9a178d139b87c)
+  * 100,000 STAKE [https://etherscan.io/tx/0x13ca4e65b32c9648abc4ed7931c046ad2705635a7bcae288e70b8b15a17906a7](https://etherscan.io/tx/0x13ca4e65b32c9648abc4ed7931c046ad2705635a7bcae288e70b8b15a17906a7)
 
 ### xDai Community Initiatives and Other Use Cases
 

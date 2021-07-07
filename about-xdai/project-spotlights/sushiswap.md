@@ -106,15 +106,48 @@ It's easy to add custom tokens to MetaMask with BlockScout.
 
 Providing liquidity to some pairs will provide additional incentives for SushiSwap on xDai users. See the [Analytics Dashboard](https://analytics-xdai.sushi.com/) for more information on fees, volume and other metrics. 
 
-LP token farming, lending and other features are in the works for Sushi, **stay tuned for more details**.
+## 6\) Lend and Borrow with Kashi
 
+Anyone can create markets for lending, borrowing, and collateralizing assets on Kashi. Kashi users can leverage [Chainlink price feeds on xDai](../../for-developers/developer-resources/chainlink-price-feeds.md) to get accurate pricing info. 
 
+{% hint style="info" %}
+Learn more about Kashi in the [Sushiswap docs](https://docs.sushi.com/products/kashi-lending).
+{% endhint %}
 
+1\) Select either **Lend** from the main menu. You will be directed to [https://app.sushi.com/lend](https://app.sushi.com/lend)
 
+![](../../.gitbook/assets/lend.png)
 
+2\) Once in the Kashi interface:
 
+1. Use the submenu to switch between the lend, borrow, and create functionality. 
+2. From the lend tab, select an existing pool to add collateral.
 
+![Example uses lending pools on Ethereum as xDai pools are just starting](../../.gitbook/assets/menu2.png)
 
+3\) Click the button to sign and approve Kashi. This is a free transaction that gives Kashi full access to funds in \(and approved to\) BentoBox.
+
+![](../../.gitbook/assets/approve1.png)
+
+4\) Enter the amount you want to lend and approve the asset for transfer. Here we approve Dai.
+
+![](../../.gitbook/assets/approve-2%20%281%29.png)
+
+{% hint style="warning" %}
+Note that the default is to provide unlimited amounts for transfer. This allows you to skip this step \(and not pay for additional transactions of this type\) in the future for this asset, but can introduce security risks. If you prefer to approve only for the amount you are lending, go to **Edit Permission** and select a custom amount for approval, then click **Save**.
+{% endhint %}
+
+![](../../.gitbook/assets/edit1.png)
+
+![](../../.gitbook/assets/edit-2.png)
+
+5\) Confirm the transaction. This transaction can be expensive on Ethereum \(note the gas fees in this example\) but not on xDai!  Once you confirm your funds will be included in the protocol. 
+
+![](../../.gitbook/assets/approve-3.png)
+
+{% hint style="info" %}
+We will provide more info on lending and borrowing once the protocol is live with some funded pools on xDai.
+{% endhint %}
 
 
 
