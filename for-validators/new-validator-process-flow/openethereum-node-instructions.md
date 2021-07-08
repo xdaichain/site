@@ -143,6 +143,10 @@ To restart, cd into the `validator-node-dockerized` directory and use `docker-co
 
 Open [https://dai-netstat.poa.network](https://dai-netstat.poa.network) and check that your node appears on the list and has &gt; 0 peers. Wait until it synchronizes with the rest of the blockchain \(block number and block hash should match the rest of the network\).
 
+### 7\) Setup Monitoring
+
+[This simple script](https://01node.com/quick-and-dirty-way-to-monitor-your-xdai-validator/) can help you monitor your node and alert you if your node is down.
+
 {% hint style="success" %}
 Once your node is synced with the chain it will be ready for use. Assuming you have completed the other steps to [Become a Candidate](../../for-stakers/staking-protocol/become-a-candidate-validator.md) your node will be eligible to be a validator in the next staking epoch. If there are more than 19 active candidates, the validator set is chosen based on amount of STAKE \(provided by the validator and delegators\) as well as a random number.
 {% endhint %}

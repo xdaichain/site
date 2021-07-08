@@ -64,5 +64,3 @@ If you are trying to become a candidate at the end of an epoch, you may see the 
 **We recommend running** [**Nethermind**](../../for-validators/new-validator-process-flow/nethermind-node-setup.md) ****as OE may be deprecated in the future. If you decide to stay with OE use version 3.2.5+ 
 {% endhint %}
 
-
-

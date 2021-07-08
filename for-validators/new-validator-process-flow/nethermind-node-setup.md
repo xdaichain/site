@@ -129,6 +129,10 @@ To check the logs and verify operations \(look for the `Sealed block` log\).
 docker-compose logs -f nethermind
 ```
 
+### 7\) Setup Monitoring
+
+[This simple script](https://01node.com/quick-and-dirty-way-to-monitor-your-xdai-validator-nethermind/) can help you monitor your node and alert you if your node is down.
+
 {% hint style="success" %}
 Once your node is synced with the chain it will be ready for use. Assuming you have completed the other steps to Become a Candidate your node will be eligible to be a validator in the next staking epoch. If there are more than 19 active candidates, the validator set is chosen based on amount of STAKE \(provided by the validator and delegators\) as well as a random number.
 {% endhint %}
