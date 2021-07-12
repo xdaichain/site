@@ -72,6 +72,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Rubic](https://rubic.exchange/cross-chain/bridge?chain=ETH): Cross-chain swaps
 * [Unidex](https://unidex.exchange/): Limit order platform
 * [Symmetric](https://xdai-pools.symmetric.exchange/): AMM \(Balancer Fork\)
+* [Hop](https://hop.exchange/): Cross-chain exchange/liquidity portal
 * **Coin & Token Focused Projects**
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
   * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
