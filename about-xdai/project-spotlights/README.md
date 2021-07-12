@@ -70,6 +70,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [Clover Finance](https://clover.finance/): Multi-chain indexing, compatibility and payments.
 * [DxSale](https://dxsale.network): Token mint, launch and lock platform.
 * [Rubic](https://rubic.exchange/cross-chain/bridge?chain=ETH): Cross-chain swaps
+* [Unidex](https://unidex.exchange/): Limit order platform
+* [Symmetric](https://xdai-pools.symmetric.exchange/): AMM \(Balancer Fork\)
 * **Coin & Token Focused Projects**
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
   * [Fraction](https://rare.fyi/): Token supply of 1 allocated in fractions.
@@ -79,6 +81,7 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 * [Crypto stamp](https://crypto.post.at/):  Digital NFT + Physical Postage Stamps from the Austrian Post.
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
+* [XLR8R](https://xlr8r.io/xnft): Curated digital music NFT platform
 * [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
 * [Shenanigan](../../): Grassroots athletic sponsorship
 * [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
