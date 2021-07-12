@@ -207,6 +207,7 @@
   * [imToken](for-users/wallets/imtoken.md)
   * [Metamask](for-users/wallets/metamask/README.md)
     * [Metamask Setup](for-users/wallets/metamask/metamask-setup.md)
+  * [Minerva Wallet](for-users/wallets/minerva-wallet.md)
   * [MyCrypto](for-users/wallets/mycrypto.md)
   * [Mt Pelerin](for-users/wallets/mt-pelerin.md)
   * [Nifty Wallet](for-users/wallets/nifty-wallet.md)
