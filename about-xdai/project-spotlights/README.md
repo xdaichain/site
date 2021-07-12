@@ -81,10 +81,8 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 
 * [Crypto stamp](https://crypto.post.at/):  Digital NFT + Physical Postage Stamps from the Austrian Post.
 * [Nifty.Ink](https://nifty.ink/):  Create, send and bridge artistic NFTs
-* [XLR8R](https://xlr8r.io/xnft): Curated digital music NFT platform
 * [Chievmint](https://chiev.net/): The Ministry for Minting Achievements
 * [Shenanigan](../../): Grassroots athletic sponsorship
-* [GitCoin](https://gitcoin.co/): Kudos minted on xDai.
 * [BeyondNFT](https://beyondnft.io/): Generative NFTs
 * [NiftyChess](https://niftychess.com/): Preserve chess boards as NFTs
 * [Unique Bubbles](https://uniquebubbles.com/): Limited, unique and personalized NFTs created and owned by the community.
@@ -95,14 +93,16 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
   * [Unique.one](https://xdai.unique.one/): NFT Marketplace
   * [Eporio](https://epor.io/): NFT Marketplace
   * [Unifty](https://unifty.io/xdai/): NFT project hub for custom farms and collections.
+  * [XLR8R](https://xlr8r.io/xnft): Curated digital music NFT platform
   * [TokenUp](https://www.tokenup.app/): Create, buy and sell NFTs
   * [Snafu](https://www.nftsnafu.org/): Digital Artist Collective
   * [Fraction.art](https://fraction.art/): Crowdsale platform for fractionalized art, v1 built on xDai.
+  * [PolkaDoge](https://nft.polkadoge.co/nft-collection/xdai-nft-market/): Memecoin NFT Marketplace
   * [Foundation](https://foundation.app/): Emerging artist marketplace, v1 built on xDai. [More on their xDai Integration](https://foundation.app/blog/building-on-the-edge).
-  * [xlr8r+](https://xlr8r.io/nft-marketplace)**:** Art and Music NFT Marketplace
 * Projects that use xDai for NFT minting include: 
   * [POAP](https://www.poap.xyz/)
   * [Reality Cards](https://realitycards.io/)
+  * [GitCoin](https://gitcoin.co/)
 
 ### **Community Engagement**
 
