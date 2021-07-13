@@ -4,7 +4,7 @@ Delegators play an important role in securing the network. By placing stake on c
 
 Delegators can place stake on multiple candidates, move stake between active candidates, and order stake withdrawals during a staking epoch. Block rewards for delegators are based on the percentage of stake they place in the pool. 
 
-While each validator pool receives the same reward during a staking epoch, rewards within a pool are split between the validators and delegators. This split is based on how much STAKE a delegator has placed relative to the total pool stake \([delegators split up to 70% of the pool](../../about-xdai/faqs/)\). The reward percent is updated each staking epoch in the Delegators modal, which is accessed by clicking on the number of Delegators for any Pool.
+While each validator pool receives the same reward during a staking epoch, rewards within a pool are split between the validators and delegators. This split is based on how much STAKE a delegator has placed relative to the total pool stake. The reward percent is updated each staking epoch in the Delegators modal, which is accessed by clicking on the number of Delegators for any Pool.
 
 To start you will need **200 STAKE on xDai** \(video shows 1000, was previous minimum\). See below for how to get STAKE to xDai.
 

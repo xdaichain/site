@@ -45,7 +45,7 @@ Reward funds collected by validator pools are distributed amongst the validator 
 
 ![Configurable Reward Structure](../../../.gitbook/assets/block_bridge_rewards.png)
 
-STAKE is the staking token, and xDai is the Native Coin. The 70/30 Split rules are detailed in the [fees section](protocol-terms.md#fees).
+STAKE is the staking token, and xDai is the Native Coin. The 70/30 Split rules are subject to change and detailed in the [fees section](protocol-terms.md#fees).
 
 ### Bridge
 
@@ -93,9 +93,7 @@ The number of the current staking epoch. The staking epoch increments every 1209
 Fees are collected from users of the xDai chain and divided amongst validator pools. Fees are charged for bridge events and transactions.
 
 * **Bridge fees**: A transaction percentage fee may be charged whenever tokens are locked or unlocked in a bridge contract. Entrance and exit fees may be collected for both Dai &lt;-&gt; xDai transfers \(collected in xDai\) as well as STAKE \(mainnet\) &lt;-&gt; STAKE \(xDai chain\) transfers \(collected in STAKE\). Assessed bridge fees are split equally between validator pools active at the end of staking epoch. Fee percentages are determined through the [Bridge Governing Process](../../../about-xdai/faqs/bridges-xdai-bridge-and-omnibridge.md#what-is-the-bridge-governance-board).
-* **Transaction Fees \(Gas fees\)**: Transaction fees are assessed for any xDai transactions such as sending xDai to another wallet or interacting with a smart contract. These fees are currently sent to the validator who seals the block in which the transactions take place \(transaction fees are not split among pool participants, they are only received by the validator\). Currently, 
-
-  transaction fees on the xDai chain are extremely low. As chain usage grows, these fees may be redirected to support additional aspects of the protocol. 
+* **Transaction Fees \(Gas fees\)**: Transaction fees are assessed for any xDai transactions such as sending xDai to another wallet or interacting with a smart contract. These fees are currently sent to the validator who seals the block in which the transactions take place \(transaction fees are not split among pool participants, they are only received by the validator\). Currently, transaction fees on the xDai chain are extremely low. As chain usage grows, these fees may be redirected to support additional aspects of the protocol. 
 
 ### Hard Cap
 
@@ -110,8 +108,7 @@ Candidates and validators are responsible for maintaining a node capable of veri
 Block rewards are shared by all validator pools participating in consensus. Rewards are distributed to validator pools according to the following rules:
 
 1. Each pool within the validator set receives an equal share of the reward \(if all validators always produce blocks and don’t skip\) at the end of staking epoch. Skips will results in a lower reward share. If there are too many skips, [a validator pool can be banned](operational-terms.md#ban).
-2. Pool rewards are distributed proportionally, as long as the total delegator’s stake is below 70%.
-3. The validator is guaranteed to receive at least 30% of the pool reward. If the total delegator’s stake exceeds 70%, the delegators’ rewards are adjusted accordingly.
+2. Pool rewards are distributed proportionally \(can be minimums set, currently proportional based on stake\).
 
 Rewards are tallied and stored in a smart contract as each block is closed, and are distributed at the end of each staking epoch.
 

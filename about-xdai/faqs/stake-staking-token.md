@@ -49,7 +49,7 @@ Public staking is [now active on xDai](../news-and-information/project-updates/p
 
 The current projected minimum amounts needed to validate or delegate on the xDai chain.
 
-* **Validators:** 20K STAKE
+* **Validators:** 2K STAKE \(reduced from initial 20K amount\)
 * **Delegators:** 200 STAKE\* \(Initial amount was 1K, reduced to 200 [through a community proposal](../../for-users/governance/stake-weighted-voting/)\)
 
 ## What is the STAKE Marketcap?
@@ -64,7 +64,7 @@ Video: [Moving STAKE between Ethereum and xDai with the OmniBridge](https://yout
 
 ## Why is STAKE an ERC677?
 
-ERC677 is very similar to an ERC20, but includes additional functionality. We use the transferandCall functionality to enable easier bridge conversions, moving STAKE from the Ethereum Mainnet to the xDai chain and back.
+ERC677 is very similar to an ERC20, but includes additional functionality. We use the `transferandCall` functionality to enable easier bridge conversions, moving STAKE from the Ethereum Mainnet to the xDai chain and back.
 
 For more information see the EIP677 standard [https://github.com/ethereum/EIPs/issues/677](https://github.com/ethereum/EIPs/issues/677).
 
@@ -86,5 +86,7 @@ _Note: The transfer operation between xDai and STAKE can be costly,_ [_more on g
 
 It is possible to send STAKE on xDai to the AscendEx exchange. Be sure to connect to the correct chain when sending STAKE to AscendEx. [More information](https://bitmax.io/en/help-center/articles/1500003245861)
 
+{% hint style="warning" %}
 Note: if you have STAKE on xDai on AscendEx and want to transfer it to Huobi, be sure to exchange it to STAKE on Ethereum before transferring between exchanges.
+{% endhint %}
 

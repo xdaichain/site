@@ -22,7 +22,7 @@ Active pools with higher stake have a higher likelihood of selection to the next
 
 Random selection does not happen if there are 19 or fewer candidates/validators. If there are fewer than 20 candidates, every candidate becomes a validator.
 
-To be considered active, a pool must contain at least the minimum stake amount \(currently 20K STAKE\) and be in good standing \(not banned\).
+To be considered active, a pool must contain at least the minimum stake amount \(currently 2K STAKE\) and be in good standing \(not banned\).
 
 All active pools are listed in the active pools tab, arranged from highest stakes ratio to lowest stakes ratio. Delegators may add or move stake to and from active pools during a staking window. However, **if the active pool is a current validator, the change in stake amounts will not take effect until the next staking epoch**. 
 
@@ -34,7 +34,7 @@ To become a validator and produce blocks on the chain, a participant must first 
 
 To [become a candidate](../become-a-candidate-validator.md), a participant must:
 
-1. Acquire both bridged STAKE and xDai tokens. This includes at least the minimum required candidate stake in STAKE and a small amount of xDai to process transactions. Recommended amounts: 20,000 STAKE tokens \(the current minimum required candidate stake\) and 1 xDai.
+1. Acquire both bridged STAKE and xDai tokens. This includes at least the minimum required candidate stake in STAKE and a small amount of xDai to process transactions. Recommended amounts: 2,000 STAKE tokens \(the current minimum required candidate stake\) and 1 xDai.
 2. Configure and run a node that meets the technical requirements for the protocol. Once the node is functional, a participant can become a candidate by enabling a web3 wallet with their staking address, providing the mining address associated with their node, and staking the minimum required candidate stake.
 
 Once added, candidates may attract delegators to stake into their pools, increasing the chances of the candidate’s selection to the next validator set.
@@ -57,13 +57,13 @@ Delegators place stake on candidates they believe will make good validators. Onc
 
 Stake delegated to a validator accrues rewards for the delegator. While all validator pools within a validator set receive the same share of rewards, rewards within each pool are shared proportionally based on the amount of stake provided by the validator and the delegators. This may influence delegation strategies \(ie delegating to a smaller pool can increase reward amounts if that candidate is chosen as a validator\).
 
-Pool rewards are proportionally distributed between a validator and the staking delegators, as long as the total delegators’ percentage of stake is below 70%. If the total delegators’ stake exceeds 70%, the delegators’ rewards are adjusted accordingly and the validator receives 30%.
+Pool rewards are proportionally distributed between a validator and the staking delegators.
 
 If a validator is banned, any stake within the banned pool \(including delegated stake\) is frozen for a period of 90 days and can be withdrawn only when the ban is over. Delegators should perform due diligence when selecting candidates to stake on, and should think of their stake as a “vote” for that candidate to become a validator for the next staking epoch.
 
 ### Initial Validators
 
-The protocol is designed to begin with a predefined set of nominated validators. After the first staking epoch, this validator set can change depending on the presence of additional candidates. The initial validator set for the xDai Stable Chain is comprised of the same [group of validators](../../../for-validators/about-xdai-validators/) responsible for securing the chain prior to the POSDAO upgrade.
+The protocol is designed to begin with a set of nominated validators. After the first staking epoch, this validator set can change depending on the presence of additional candidates. The initial validator set for the xDai Stable Chain is comprised of the same [group of validators](../../../for-validators/about-xdai-validators/) responsible for securing the chain prior to the POSDAO upgrade.
 
 ### Inactive Pool
 
