@@ -70,6 +70,8 @@ Main RPC is a load balancer with 4 nodes, health checks, and failover.
 
 🌎 **AnyBlock Analytics** provides a JSON-RPC professional service for users. As xDai validators, they have a deep understanding of the network as well as the broader Ethereum ecosystem. [https://www.anyblockanalytics.com/json-rpc](https://www.anyblockanalytics.com/json-rpc/?utm_source=xDAI&utm_medium=Organic-Social&utm_campaign=forum)
 
+⏩ **POKT Network** decentralized infrastructure and one-click endpoints and monitoring. [https://www.portal.pokt.network](https://www.portal.pokt.network/#1). Learn more about their [multi-chain infrastructure](https://www.blog.pokt.network/the-portal-to-private-multi-chain-infrastructure/).
+
 ### JSON-RPC Method Info
 
 * Eth Wiki: [https://eth.wiki/json-rpc/API](https://eth.wiki/json-rpc/API)
