@@ -4,7 +4,7 @@
 
 We continue to add items and adjust priorities as the year unfolds. See the [2020 Roadmap](2020-roadmap-completed-items.md) for items completed in 2020, and the changelog for any adjustments and additions.
 
-_Last update: May 19, 2021 \|_ [_Changelog_](./#change-log)\_\_
+_Last update: July 13, 2021 \|_ [_Changelog_](./#change-log)\_\_
 
 {% hint style="warning" %}
 The xDai project roadmap is a high-level strategic plan designed to guide xDai research and development. **Target dates and details are reviewed regularly by the team and subject to move, adjust and change as the project evolves**. Note that only completed items \( ✅ Status: Complete\) are considered achieved project milestones.
@@ -57,6 +57,13 @@ OpenEthereum is now running `3.2.5` and it includes the latest xDai POSDAO featu
 
 Following the Berlin HF, the gas limit per block was raised from 12.5M to 17M, resulting in 30%+ additional space on the xDai chain. Theoretical TPS for simple transactions at 160+ per second, in practice at 90 per second.
 
+## **POSDAO Staking Application Improvements**
+
+🎯 **Target Date:** Q2 2021  
+ **✅Complete:** Security Audit Published June 25, 2021
+
+[POSDAO v0.2.2](https://github.com/poanetwork/posdao-contracts/releases/tag/v0.2.2) was released on March 18, 2021 and is now in queue for an additional security audit. POSDAO support is now included with the latest [OpenEthereum release](https://github.com/openethereum/openethereum/releases/tag/v3.2.5).  Additional validator pool metadata was added to the interface.
+
 ## **xDai Grant Program** 
 
 🎯 **Target Date:** Q2 2021  
@@ -64,16 +71,9 @@ Following the Berlin HF, the gas limit per block was raised from 12.5M to 17M, r
 
 Once the Ecosystem Fund unlock begins, we will finalize the program and begin accepting applications for developers and projects requiring support for wave 1 of the Grants Program.
 
-## **POSDAO Staking Application Improvements**
-
-🎯 **Target Date:** Q2 2021  
-☑ **Status:** Ongoing, security audit underway
-
-[POSDAO v0.2.2](https://github.com/poanetwork/posdao-contracts/releases/tag/v0.2.2) was released on March 18, 2021 and is now in queue for an additional security audit. POSDAO support is now included with the latest [OpenEthereum release](https://github.com/openethereum/openethereum/releases/tag/v3.2.5).  Additional validator pool metadata was added to the interface.
-
 ## **Privacy Preserving Transactions**
 
-🎯 **Target Date:** Q2-Q3 2021  
+🎯 **Target Date:** Q3 2021  
 ☑ **Status:** In process, defining requirements and exploring approaches
 
 Implementation of additional zero-knowledge protocols and private transactions into xDai.
@@ -90,14 +90,14 @@ Update: We are currently working on a [ZeroPool](https://zeropool.network/) inte
 
 ## EIP-1559 Test Implementation
 
-🎯 **Target Date**: Q2-Q3 2021  
+🎯 **Target Date**: Q3 2021  
 ☑ **Status:** Research and implementation details in progress
 
 We are planning to implement a test implementation of [EIP 1559](https://eips.ethereum.org/EIPS/eip-1559)  to explore its dynamics and benefits for the xDai chain as well as the broader Ethereum ecosystem. With successful testing, we plan to activate on xDai. _More details available soon._
 
 ## Universal NFT Bridge
 
-🎯 **Target Date**: Q2_-_ Q3 2021  
+🎯 **Target Date**: Q3 2021  
 ☑ **Status:** In process
 
 An NFT bridge to allow users easy portability between xDai and Ethereum for all ERC721 tokens. This will improve interoperability and provide options for NFT minting and cross-chain transfers.
@@ -116,7 +116,7 @@ We will research adopting other platforms such as Polkadot, Cosmos, Eth2 and [op
 
 ## POSDAO Phase 3
 
-🎯 **Target Date**: Q4 2021
+🎯 **Target Date**: Q4**-**Q2 2021-22
 
 A chain created specifically to leverage [POSDAO](../../for-validators/posdao-whitepaper.md), HoneyBadger BFT and Multi-Collateral DAI. This network will be designed from the ground up with our collaborative partners [LUKSO](https://www.lukso.network/) and [ARTIS](https://artis.eco/) to leverage [STAKE ](../../for-stakers/stake-token/)tokens and HBBFT consensus.
 
@@ -139,6 +139,17 @@ There is currently  a reference implementation where sUSD can be transferred fro
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left"><em>13.07.2021</em>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Update POSDAO improvements to complete</li>
+          <li>Update several target dates to reflect current status</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td style="text-align:left"><em>19.05.2021</em>
       </td>
