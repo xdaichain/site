@@ -123,5 +123,5 @@ In the future a governance mechanism will enable validators to vote on the inact
 
 ## What can I do if the pool I delegated to became inactive during a staking epoch?
 
-Once the current staking epoch finishes, you can claim your reward and withdraw your staked amount \(or move the stake to another validator pool\). Due to POSDAO protocol rules, it is not possible withdraw STAKE immediately if a pool becomes inactive during a staking epoch. You must wait until a new epoch starts to move or withdraw your stake.
+Once the current staking epoch finishes, you can claim your reward and withdraw your staked amount \(or move the stake to another validator pool\). Due to POSDAO protocol rules, it is not possible to withdraw STAKE immediately if a pool becomes inactive during a staking epoch. You must wait until a new epoch starts to move or withdraw your stake.
 
