@@ -303,6 +303,7 @@
   * [Chainlink Price Feeds](for-developers/developer-resources/chainlink-price-feeds.md)
   * [Chainbeat Smart Contract Dashboard](for-developers/developer-resources/smart-contract-dashboard.md)
   * [Curvegrid MultiBaas Smart Contract Interaction](for-developers/developer-resources/curvegrid-smart-contract-interaction.md)
+  * [Pocket Portal](for-developers/developer-resources/pocket-portal.md)
   * [Ankr API](for-developers/developer-resources/ankr-api.md)
   * [GetBlock Node Access](for-developers/developer-resources/getblock-node-access.md)
   * [Dune Analytics](for-developers/developer-resources/dune-analytics.md)
