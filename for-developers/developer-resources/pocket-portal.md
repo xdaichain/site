@@ -1,5 +1,5 @@
 ---
-description: Trustless API gateway
+description: Trustless API Gateway
 ---
 
 # Pocket Portal
