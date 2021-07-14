@@ -4,7 +4,7 @@ description: Trustless API Gateway
 
 # Pocket Portal
 
-[Pocket's](https://www.portal.pokt.network/#1) new privacy-focused Pocket Portal \(gateway & dashboard\) provides access to blockchains including xDAI for applications. Developers can access RPC endpoints with up to 1,000,000 requests per day through the free tier launch offer.
+[Pocket's](https://www.portal.pokt.network/#1) new privacy-focused Pocket Portal provides access to blockchains including xDAI for applications. Developers can access RPC endpoints with up to 1,000,000 requests per day through the free tier launch offer.
 
 **Deployment is simple** - see how to deploy on POKT in under 3 minutes! 
 
