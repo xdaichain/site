@@ -8,7 +8,7 @@ description: 10/07/2021 - 16/07/2021
 Newsletter in progress, updates will be completed on July 16.
 {% endhint %}
 
-![](../../../../.gitbook/assets/weekly-update%20%284%29.png)
+![](../../../../.gitbook/assets/weekly-u.png)
 
 ## Sign up for Weekly Updates via Email
 
@@ -37,7 +37,9 @@ High pool APY is currently **17.78%**, low is **2.39%** _\(stats as of 15/07/202
 
 We've moved our weekly highlights to Substack. You can sign up to receive in your email or view the newsletter anytime without signing up.
 
-Weekly News is available now at [https://xdai.substack.com/](https://xdai.substack.com/)
+{% hint style="success" %}
+📰Weekly News is available now at [https://xdai.substack.com/](https://xdai.substack.com/)
+{% endhint %}
 
 ## Tweets of the Week
 
