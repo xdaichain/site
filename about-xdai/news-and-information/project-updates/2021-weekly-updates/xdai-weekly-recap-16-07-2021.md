@@ -4,10 +4,6 @@ description: 10/07/2021 - 16/07/2021
 
 # ⚔️ xDai Weekly Recap - 16/07/2021
 
-{% hint style="warning" %}
-Newsletter in progress, updates will be completed on July 16.
-{% endhint %}
-
 ![](../../../../.gitbook/assets/weekly-u.png)
 
 ## Sign up for Weekly Updates via Email
@@ -33,6 +29,8 @@ High pool APY is currently **17.78%**, low is **2.39%** _\(stats as of 15/07/202
 * Staking Platform: [https://blockscout.com/xdai/mainnet/](https://blockscout.com/xdai/mainnet/validators)
 {% endhint %}
 
+![The amount of STAKE protecting the consensus keeps rising. ](../../../../.gitbook/assets/staked-on-xdai.png)
+
 ## Weekly Newsletter
 
 We've moved our weekly highlights to Substack. You can sign up to receive in your email or view the newsletter anytime without signing up.
@@ -48,6 +46,8 @@ We've moved our weekly highlights to Substack. You can sign up to receive in you
 {% embed url="https://twitter.com/xdaichain/status/1415556992257699840" %}
 
 {% embed url="https://twitter.com/xdaichain/status/1414906406503866373" %}
+
+{% embed url="https://twitter.com/xdaichain/status/1415706479810727937" %}
 
 
 
