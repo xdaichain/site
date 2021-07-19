@@ -6,6 +6,8 @@ description: Articles and explainers that feature or describe the xDai ecosystem
 
 ## In the News
 
+{% embed url="https://ournetwork.substack.com/p/our-network-issue-79" caption="Our Network July 2021" %}
+
 {% embed url="https://decrypt.co/63437/cheap-gas-orchid-labs-is-using-xdai-to-drive-down-the-cost-of-its-vpn" caption="Decrypt March 2021" %}
 
 {% embed url="https://chainlinktoday.com/as-blockchain-broadens-the-human-experience-xdai-offers-vital-scalability/" caption="Chainlink Today March 2021" %}
