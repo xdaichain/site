@@ -9,7 +9,7 @@ description: Ways to obtain xDai directly
 
 * xDai stable token direct purchases are now available with [Ramp](ramp-network.md).
 * You can buy xDai with zero fees at [Mt Pelerin](https://www.mtpelerin.com/buy-xdai)
-* You can purchase xDai on [AscendEX \(BitMax\) with the xDai/USDT Pair](https://bitmax.io/en/basic/cashtrade-spottrading/usdt/xdai).
+* You can purchase xDai on [AscendEX \(BitMax\) with the xDai/USDT Pair](https://ascendex.com/en/basic/cashtrade-spottrading/usdt/xdai).
 * You can also purchase Dai on Ethereum and use the [Bridge UI to get xDai](../../bridges/converting-xdai-via-bridge/).
 {% endhint %}
 
