@@ -67,11 +67,11 @@ xDai Stable Chain is an EVM-compatible Ethereum Sister Chain. This means any Sma
 * [DeBank](https://debank.com/): DeFi Dashboard
 * [MixSome](https://mixsome.cash/): DeFi Yield Flows
 * [DefiVille](https://defiville.finance): Tip with xDai in this gamified farming app
-* [Clover Finance](https://clover.finance/): Multi-chain indexing, compatibility and payments.
+* [Clover Finance](https://clover.finance/): Multi-chain indexing, compatibility and payments
 * [DxSale](https://dxsale.network): Token mint, launch and lock platform.
 * [Rubic](https://rubic.exchange/cross-chain/bridge?chain=ETH): Cross-chain swaps
 * [Unidex](https://unidex.exchange/): Limit order platform
-* [Symmetric](https://xdai-pools.symmetric.exchange/): AMM \(Balancer Fork\)
+* [Symmetric](https://xdai-pools.symmetric.exchange/): AMM \(Balancer Fork\) [Learn More](https://medium.com/cent-finance/symmetric-eb7a73b36a46)
 * [Hop](https://hop.exchange/): Cross-chain exchange/liquidity portal
 * **Coin & Token Focused Projects**
   * [Rare Coin](https://rare.fyi/): an free-to-claim and ultra-rare currency anyone can farm.
