@@ -16,12 +16,18 @@ description: Cross Chain Bridge for Ethereum <-> xDai and BSC <-> xDai
 {% hint style="success" %}
 🌉 OmniBridge is available at [https://omni.xdaichain.com](https://omni.xdaichain.com/bridge)  
   
- 🔗 Connect your wallet to the network you want to bridge from and set the chain to either Eth &lt;-&gt; xDai or BSC &lt;-&gt; xDai  from the dropdown menu. [Bridge Tutorial](https://honeyswap.org/xdai-bridges)  
+ 🔗 Connect your wallet to the network you want to bridge from and set the chain to either ETH &lt;-&gt; XDAI,   BSC &lt;-&gt; XDAI  or ETH &lt;-&gt; BSC from the dropdown menu. [Bridge Tutorial](https://honeyswap.org/xdai-bridges)  
   
  ⏱ Monitor the status of OmniBridge Transactions with the [ALM Monitor](https://alm-xdai.herokuapp.com/)
 {% endhint %}
 
-![OmniBridge UI](../../../.gitbook/assets/omni1%20%282%29.png)
+![](../../../.gitbook/assets/omni-ui.png)
+
+1. **History**: See previous transactions and find claim functions for txs in progress.
+2. **Settings**: Set custom RPCs, infinite unlocks and other settings.
+3. **Bridge Selector:** change bridges to move assets between xDai, Ethereum and BSC.
+4. **Network Switch**: Click to switch network you are bridging to and from.
+5. **Advanced Features**: Access the alternate receiver to bridge tokens to another address.
 
 ## **Features**
 
