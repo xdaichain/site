@@ -125,7 +125,3 @@ In the future a governance mechanism will enable validators to vote on the inact
 
 Once the current staking epoch finishes, you can claim your reward and withdraw your staked amount \(or move the stake to another validator pool\). Due to POSDAO protocol rules, it is not possible to withdraw STAKE immediately if a pool becomes inactive during a staking epoch. You must wait until a new epoch starts to move or withdraw your stake.
 
-## Why am I getting a revert error when trying to delegate?
-
-If you have delegated on a validator pool previously, then removed all of your tokens from the POSDAO protocol, this same address cannot be used to initiate delegation again. If this is the case, use a different address to delegate.
-
