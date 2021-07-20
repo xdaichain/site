@@ -20,6 +20,10 @@ If you have any questions or concerns about becoming a candidate or validator, o
 
 1\) Create \(or use addresses you have access to\) 2 Ethereum addresses. One will be used for **mining**, and a second for **staking**. Addresses are the same on xDai & Ethereum, so can be generated in a normal manner.
 
+{% hint style="info" %}
+Do not use addresses previously used with POSDAO. For example, you cannot create a candidate pool with a staking address previously used to delegate  on other pools. 
+{% endhint %}
+
 2\) You will need the minimum candidate stake amount of STAKE \(2,000 STAKE\) on xDai and a small amount of xDAI deposited to your address on the xDai chain. Deposit these to **your staking address** \(an 0x external address\). You will use to access the protocol. 
 
 3\) In addition to your regular staking address, you will need a **separate mining address.** This ****will be configured to an OpenEthereum or Nethermind node. Generate and save the JSON keystore file \(and be sure to save the password in a safe place!\) See below to generate keystore, or use [MEW](https://kb.myetherwallet.com/en/security-and-privacy/what-is-a-keystore-file/) or [MyCrypto](https://support.mycrypto.com/).
