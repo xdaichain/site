@@ -6,11 +6,10 @@ The TokenBridge project is responsible for the xDai Bridge, OmniBridge and many 
 
 ## Why are there Multiple Bridges?
 
-Different bridges exist to support different operations. Two bridges currently exist on the xDai chain. Additional bridges and/or extensions may be deployed in the future.
+Different bridges exist to support different operations. Two primary bridges exist on the xDai chain. Additional bridges and/or extensions may be deployed in the future.
 
 * **xDai Bridge**: Convert **Dai to xDai** and **xDai to Dai**
-* **OmniBridge**: Convert **any other ERC20 tokens** on Mainnet to equivalent ERC677 tokens on the xDai chain
-* **BSC OmniBridge \(Beta\)**: Bridge tokens between xDai and Binance Smart Chain.
+* **OmniBridge**: Convert **any other ERC20 tokens** on Mainnet to equivalent ERC677 tokens on the xDai chain. Omnibridge also has bridge modes to bridge tokens between xDai and Binance Smart Chain \(BSC\) and BSC and Ethereum.
 
 An NFT Bridge is currently in active development.
 
